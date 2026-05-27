@@ -1,0 +1,110 @@
+{
+  "chapter": "50",
+  "part": 4,
+  "title": "The Krieg Pirates Bring War to the Baratie",
+  "description": "On pages 12–15, Don Krieg’s arrival turns the Baratie crisis into a pirate siege while Nami’s departure and the looming fight split the crew’s attention.",
+  "pages": [
+    12,
+    13,
+    14,
+    15
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7"
+  ],
+  "scene": "The Baratie becomes trapped between hungry enemies, terrified cooks, Krieg’s overwhelming force, and the Straw Hats’ personal priorities.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "We're done for..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Damn it! What did we ever do to you! Why the hell do you have to follow us all the way out here!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Just to kill some time."
+    },
+    {
+      "speaker": "Nami",
+      "text": "That's bullshit!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Saw"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What!? I-it missed!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "He deflected it. It'll be the same no matter how many times you shoot."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "He changes the bullet's trajectory with the tip of his sword."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "And who're you, you bastard!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I've never seen such graceful movements."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "A sword without grace is no strong sword."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Sheathe"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Did you cut this ship as well with that sword?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Yes, indeed."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "No wonder..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You really are the strongest."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "T-Three swords...!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Hey... could this guy be....!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I set sail to meet you!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "...what do you aim for?"
+    }
+  ],
+  "summary": "This part escalates the Baratie arc from character introduction to open conflict, with Krieg threatening the restaurant and Nami pulling the story toward Arlong Park.",
+  "confidence": 0.66,
+  "needs_review": false
+}

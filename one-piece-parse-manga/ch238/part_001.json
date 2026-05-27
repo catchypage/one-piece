@@ -1,0 +1,114 @@
+{
+  "chapter": "238",
+  "part": 1,
+  "title": "Heaven’s Gate Opens",
+  "description": "The Straw Hats enter Skypiea through Heaven’s Gate and meet the strange rules and tolls of the sky world.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Nami",
+    "Gan Fall",
+    "Luffy",
+    "Usopp",
+    "Conis",
+    "Pagaya",
+    "Sanji",
+    "Zoro",
+    "Chopper",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this scene centers on Nami, Gan Fall, Luffy, Usopp, Conis. The Straw Hats enter Skypiea through Heaven’s Gate and meet the strange rules and tolls of the sky world.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "Did he leave...?"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "What's going on....!!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Who was that guy!?"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Also, you three are SO useless!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "THREE ON ONE AND YOU STILL LOST!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Thank you for saving us."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Don't mention it. It couldn't be helped."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "This is a service."
+    },
+    {
+      "speaker": "Conis",
+      "text": "TSK. That was... embarrassing."
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "...that's because"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "...the oxygen is scarce here."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ahh...to be saying those words..."
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Are you citizens of the Blue Sea?"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "? What's that?"
+    },
+    {
+      "speaker": "Pagaya",
+      "text": "...By the way, who are you?"
+    },
+    {
+      "speaker": "Conis",
+      "text": "...Yeah, that's right."
+    },
+    {
+      "speaker": "Nami",
+      "text": "No, no, no, that's impossible."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "For me to come and save you!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Transitional transportation performance performance performance performance"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What're you talking about, Mister?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You people..."
+    }
+  ],
+  "summary": "The Straw Hats enter Skypiea through Heaven’s Gate and meet the strange rules and tolls of the sky world.",
+  "confidence": 0.87,
+  "needs_review": false
+}

@@ -1,0 +1,92 @@
+{
+  "chapter": "321",
+  "part": 1,
+  "title": "Thawing After Aokiji",
+  "description": "After the encounter with Aokiji, the Straw Hats recover from ice and the crew understands how dangerous the Grand Line has become for Robin.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Chopper",
+    "Nami",
+    "Zoro",
+    "Usopp",
+    "Nico Robin",
+    "Aokiji",
+    "Luffy",
+    "Sanji"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Chopper, Nami, Zoro, Usopp, Nico Robin. After the encounter with Aokiji, the Straw Hats recover from ice and the crew understands how dangerous the Grand Line has become for Robin.",
+  "dialogue": [
+    {
+      "speaker": "Chopper",
+      "text": "She... she's not breathing!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "I think she is in stasis."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Is this... Really enough...?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "SA SA...!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "You're the ship's doctor!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "\"I'm not"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Chopper!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Aah!"
+    },
+    {
+      "speaker": "Aokiji",
+      "text": "Heh... Heh..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'll tell you later! We're going back,"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "So hurry up and thaw us!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ah... okay!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "But Nico Robin is in the bathroom already..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Is Nico Robin okay!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I'm not sure yet."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Puha...! Will this work!?"
+    }
+  ],
+  "summary": "After the encounter with Aokiji, the Straw Hats recover from ice and the crew understands how dangerous the Grand Line has become for Robin.",
+  "confidence": 0.81,
+  "needs_review": false
+}

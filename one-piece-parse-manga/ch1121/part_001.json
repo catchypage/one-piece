@@ -1,0 +1,99 @@
+{
+  "chapter": "1121",
+  "part": 1,
+  "title": "Bonney and Luffy Strike Back",
+  "description": "On pages 3–5, this part focuses on Unknown person #1, Unknown person #2, Unknown person #3, Bonney as The Straw Hats, Bonney, the giants, and the Vegapunk broadcast push Egghead toward its escape point while the world learns that the One Piece will decide the fate of the era.",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Bonney"
+  ],
+  "scene": "The Straw Hats, Bonney, the giants, and the Vegapunk broadcast push Egghead toward its escape point while the world learns that the One Piece will decide the fate of the era.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "The clash comes to a head!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Watch out for those claws!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "We can't let them get away!! Fire!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "They're poisonous!! Don't touch them!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "whoaah!! Yeah, nothing good can come from touching that!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "What an intense attack!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "You still won't stay down, you bastard!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Mumble..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Bonney!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Weez!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Weez!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "That's it, Bonney!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "You've got this!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "A day of awakening is coming, where all the pressing secrets of the void century..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "...will be uncovered!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "We know the weapons technology..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "...that sank the world's continents..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "...is still in use."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "That power is out there!!"
+    }
+  ],
+  "summary": "This part advances the Egghead Escape through 19 cleaned dialogue beats, emphasizing the core conflict, character stakes, and transition into the next movement of the story.",
+  "confidence": 0.65,
+  "needs_review": true
+}

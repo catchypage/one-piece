@@ -1,0 +1,167 @@
+{
+  "chapter": "115",
+  "part": 3,
+  "title": "A Dangerous Island Picnic",
+  "description": "On pages 9–11, a dangerous island picnic as usopp is inspired by the giants’ courage, while the crew’s separate groups are pulled deeper into Little Garden’s hazards.",
+  "pages": [
+    9,
+    10,
+    11
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Nami",
+    "Dorry",
+    "Brogy",
+    "Vivi",
+    "Sanji",
+    "Zoro"
+  ],
+  "scene": "A Dangerous Island Picnic. Usopp is inspired by the giants’ courage, while the crew’s separate groups are pulled deeper into Little Garden’s hazards. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "This is definitely not normal!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Otherwise, why would a tiger, King of the jungle, collapse covered in its own blood!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "37. What do you think of"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Alright, then it's decided. We are to not set foot on this island!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Let's just quietly wait on our ship,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "And leave the very second our log pose finishes recording!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "After all, we have to hurry on to Alabasta as soon as possible."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Sanji! Prepare a lunchbox!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "A lunchbox?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yeah, a pirate lunchbox*!"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "I smell adventure ahead!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "W-Wait just a second!"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "Where do you think you're going?"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "On an adventure!"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "Shishishi! wanna come along?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Oh no, it's too late to stop him. He's too fired up!"
+    },
+    {
+      "speaker": "Brogy",
+      "text": "Sanji! Prepare my lunch- box!"
+    },
+    {
+      "speaker": "Brogy",
+      "text": "Alright, just hang on a moment."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Could I come along with you!?"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "Sure, sure!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Even you!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Yes... just standing around here doing nothing is only going to end up making me think about my worries again."
+    },
+    {
+      "speaker": "Nami",
+      "text": "So I may as well try to clear my head until the log pose finishes recording!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "It'll be fine! Carue will be by my side, after all."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Your trusty body- guard looks too scared to even quack..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Then allow me to make a lunchbox of love for you, VIVI."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Could you also make another drink for Carue as well?"
+    },
+    {
+      "speaker": "Brogy",
+      "text": "Alright, let's go!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We'll be back!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "That Miss Wednesday's got some guts."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I guess it's expected of one who infiltrated Baroque works."
+    },
+    {
+      "speaker": "Dorry",
+      "text": "Well, since I'm not doing anything either,"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "I'll go for a walk."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "A walk!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Yo Zoro, wait!"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on a dangerous island picnic. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.78,
+  "needs_review": false
+}

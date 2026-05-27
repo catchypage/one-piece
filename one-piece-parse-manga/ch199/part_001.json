@@ -1,0 +1,110 @@
+{
+  "chapter": "199",
+  "part": 1,
+  "title": "The Bomb Plot Comes Into Focus",
+  "description": "On pages 1–4, this part focuses on the bomb plot comes into focus, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Vivi",
+    "Pell",
+    "Usopp",
+    "Chaka",
+    "Chopper",
+    "Sanji",
+    "Zoro",
+    "King Cobra",
+    "Nami",
+    "Luffy"
+  ],
+  "scene": "The Bomb Plot Comes Into Focus. Vivi and the crew continue the desperate hunt for the shooter and the bomb as the countdown shrinks. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "Whew!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "made it just in time!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Luffy...!"
+    },
+    {
+      "speaker": "Pell",
+      "text": "Pell...!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "The palace square will be blown up any moment now!"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "Chaka and the others have already been done in..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "And my voice won't reach anybody!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I can't save my c..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Don't worry."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Your voice,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Reached us just fine!"
+    },
+    {
+      "speaker": "Pell",
+      "text": "What, are you actually trying to say you're more seriously injured than me right now!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "For a man, you sure do complain a lot! Look, I've injured my leg! I can't stand up!"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "A-and, ohh I've lost so much blood I'm feeling dizzy..."
+    },
+    {
+      "speaker": "Chaka",
+      "text": "LIAR!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Be careful, Wuffy!"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "I ate a ton of meat!"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "And I'm full of surprising blood!"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "I won't..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Lose anymore!"
+    }
+  ],
+  "summary": "This part develops the bomb plot comes into focus and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.77,
+  "needs_review": false
+}

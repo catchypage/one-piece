@@ -1,0 +1,133 @@
+{
+  "chapter": "183",
+  "part": 3,
+  "title": "The Trick Is Exposed",
+  "description": "On pages 9–12, this part focuses on the trick is exposed, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Sanji",
+    "Mr. 2 Bon Clay",
+    "Nami",
+    "Usopp",
+    "Chopper",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Vivi"
+  ],
+  "scene": "The Trick Is Exposed. Sanji battles Mr. 2 Bon Clay, whose mimicry turns the fight into a test of recognition and trust. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "Gahahaha!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Run all you want, but you ain't gettin' away from me!"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "Carueeeeeeeee!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Didn't I tell you!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "It's pointless trying to run from me!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Quick! Quick!"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "WAVE HAVE!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I under stand!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Quick!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Gahaha hahaha!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "It's time you stopped getting in my way, you stupid duck!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Quick!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "OOF!"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "GAHHHHHHHHHHHHHHHHHHH!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "You saved us!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Shake"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Quick!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "You can still stop the rebellion, right Vivi?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Well done, Commander Carue. You're a real man...!"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "Qua..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Sami!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "You two can stand down now."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Quick!"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "Leave that Okama,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Squeeze!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "to me."
+    }
+  ],
+  "summary": "This part develops the trick is exposed and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.7,
+  "needs_review": false
+}

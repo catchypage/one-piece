@@ -1,0 +1,73 @@
+{
+  "chapter": "54",
+  "part": 2,
+  "title": "The Battle for the Baratie Escalates",
+  "description": "On pages 5–8, Krieg’s forces push harder against the Baratie, using numbers, weapons, and intimidation while Sanji and the cooks struggle to hold the line.",
+  "pages": [
+    5,
+    7,
+    8
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Don Krieg",
+    "Sanji",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "The restaurant becomes a battlefield where Krieg’s idea of strength clashes with the Baratie’s pride and the Straw Hats’ refusal to yield.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "W-What strength...!"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "He kicked away that weird-ass ship!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "That kicking technique...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Not bad!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Saaaaa- Anjiii!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "You trying to kill your own side!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Did your brains become boiled into stew, you retard!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "You almost lost 2 powerful fighters, you spaghetti-head!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Powerful? Ha! Even if you hold weapons, a cook's still a cook."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ugh.."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "So why don'cha SCRAM back into some other kitchen on land!"
+    }
+  ],
+  "summary": "This part keeps increasing the pressure on the Baratie and exposes the brutality of Krieg’s command structure.",
+  "confidence": 0.66,
+  "needs_review": false
+}

@@ -1,0 +1,94 @@
+{
+  "chapter": "223",
+  "part": 5,
+  "title": "Blackbeard Speaks of Dreams",
+  "description": "Luffy and Zoro refuse to fight back when Bellamy’s crew humiliates them, choosing their convictions over a pointless brawl.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Nami",
+    "Bellamy",
+    "Zoro",
+    "Sarquiss",
+    "Mock Town pirate",
+    "Luffy",
+    "Mock Town pirates",
+    "Blackbeard"
+  ],
+  "scene": "Across pages 17, 18, this scene centers on Nami, Bellamy, Zoro, Sarquiss, Mock Town pirate. Luffy and Zoro refuse to fight back when Bellamy’s crew humiliates them, choosing their convictions over a pointless brawl.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "What, you want some of this!?"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Luffy! You promised, remember!?"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "You a pirate...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Yeah, so what!?"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Bounty?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "30 mill!"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "30 mill? You...!?"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Like hell you are! Stop lying!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Cut it out!"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "I ain't lynin'! It's the truth!"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Now take this and leave."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "50 cherry pies."
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "Hmph..."
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "Step"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "Step"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Creek..."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "I-it's Bellamy!"
+    }
+  ],
+  "summary": "Luffy and Zoro refuse to fight back when Bellamy’s crew humiliates them, choosing their convictions over a pointless brawl.",
+  "confidence": 0.86,
+  "needs_review": false
+}

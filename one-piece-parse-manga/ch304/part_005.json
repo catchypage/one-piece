@@ -1,0 +1,80 @@
+{
+  "chapter": "304",
+  "part": 5,
+  "title": "Luffy Protects His Crew",
+  "description": "Foxy challenges Luffy to a pirate game where crew members can be stolen, turning the island stop into a dangerous contest.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Foxy",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Tonjit",
+    "Porche"
+  ],
+  "scene": "Across pages 17, 18, this scene focuses on Foxy, Luffy, Nami, Usopp, Zoro. Foxy challenges Luffy to a pirate game where crew members can be stolen, turning the island stop into a dangerous contest.",
+  "dialogue": [
+    {
+      "speaker": "Foxy",
+      "text": "Well, I..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "neigh"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What happened!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I split a bamboo tree in half,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "And out came a spirit.*"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Huff... huff..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Who the hell are you!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What're they planning...?"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Our ship's been..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Confined!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "We are the Foxy Pirates."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Don't get hasty. What we seek..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "is a match."
+    }
+  ],
+  "summary": "Foxy challenges Luffy to a pirate game where crew members can be stolen, turning the island stop into a dangerous contest.",
+  "confidence": 0.88,
+  "needs_review": false
+}

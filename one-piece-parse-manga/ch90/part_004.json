@@ -1,0 +1,136 @@
+{
+  "chapter": "90",
+  "part": 4,
+  "title": "The Final Fight Begins",
+  "description": "On pages 13–16, the final fight begins focuses on Luffy, Arlong, Nami, Sanji as luffy is freed and confronts Arlong directly, shifting the battle toward its final stage.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Luffy",
+    "Arlong",
+    "Nami",
+    "Sanji",
+    "Zoro",
+    "Usopp",
+    "Cocoyashi villagers",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5"
+  ],
+  "scene": "On pages 13–16, the final fight begins focuses on Luffy, Arlong, Nami, Sanji as luffy is freed and confronts Arlong directly, shifting the battle toward its final stage.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "I don't know a thing about navigation either!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I can't cook!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "And I can't lie either!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hey."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I'm confident that I wouldn't be able to survive if other people aren't there to help me!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Shahahaha... aren't you quite honest about admitting how worthless you are!?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Must be quite hard for your crewmates to deal with such an incompetent captain like you."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "It's a wonder why'd they try so desperately hard to save you..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "You call yourself fit to be captain when you don't even have an ounce of self- confidence!?"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Just what exactly GAN YOU DO!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I can beat you."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Alright, brother Luffy!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Haha..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Damn straight."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "I'll kill you if you lose..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "And I'll back you up!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Enough babbling, you pathetic human!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ahh! his teeth grew back!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I am a shark after all. My teeth will grow back every time."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "And these new ones are always stronger than the last!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "No matter..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "How many times!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "This is the gift bestowed to me by the heavens."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Whoa..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Now do you realize,"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Just how much superior fishermen are?"
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.73,
+  "needs_review": true
+}

@@ -1,0 +1,110 @@
+{
+  "chapter": "104.5",
+  "part": 5,
+  "title": "Luffy Refuses to Let Laboon Die",
+  "description": "On pages 15–18, luffy refuses to let laboon die as crocus explains Laboon’s long vigil and the tragedy behind the whale’s attacks on the Red Line.",
+  "pages": [
+    15,
+    16,
+    17,
+    18
+  ],
+  "characters": [
+    "Crocus",
+    "Luffy",
+    "Sanji",
+    "Zoro",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Laboon"
+  ],
+  "scene": "Luffy Refuses to Let Laboon Die. Crocus explains Laboon’s long vigil and the tragedy behind the whale’s attacks on the Red Line. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Crocus",
+      "text": "that..."
+    },
+    {
+      "speaker": "Crocus",
+      "text": "That kid!!"
+    },
+    {
+      "speaker": "Crocus",
+      "text": "It' s danger- Ous, mister!"
+    },
+    {
+      "speaker": "Crocus",
+      "text": "Don't worry about him. He won't die!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ha ha"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Idiot!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "(an- gry) Go!"
+    },
+    {
+      "speaker": "Crocus",
+      "text": "What is he thinking?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Here!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Oop!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Luefy, what do you think you are doing?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "We are even now!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I am very good, right?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "But we still don't know the result of this fight."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "So we have to fight again in the future."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Your friends already died,"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "But I am still alive."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We will travel around Grand Line."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "And we will come back to see you again."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Let's fight again next time."
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on luffy refuses to let laboon die. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.73,
+  "needs_review": true
+}

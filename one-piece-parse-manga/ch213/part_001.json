@@ -1,0 +1,122 @@
+{
+  "chapter": "213",
+  "part": 1,
+  "title": "The Escape from Alabasta Begins",
+  "description": "On pages 3, 4, 5, 6, this part focuses on the silent x-mark farewell. Vivi and the Straw Hats part ways without words, using their shared mark to prove their friendship while protecting her from the Navy.",
+  "pages": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Chopper",
+    "Usopp",
+    "Sanji"
+  ],
+  "scene": "This scene belongs to the The Silent X-Mark Farewell sequence. The important beat is the dialogue and action around Luffy, Vivi, Nami, Chopper, Usopp.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Oho... What a marvelous compound..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Quite an unusual formula,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "But perfectly sound... Marvelous, indeed."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Where did you learn such medicinal skills?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Fufu... Tony's a doctor from Drum."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Shut up and stop staring, you idiot!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Slide..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Go away!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You dumbass!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Yes, I believe you can."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Incredible..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Shut yer trap!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "An' x*k*n'..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "You do,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Patients are"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Hire and Liz Tz has..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "You got any more lumber!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I'm running short here too!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "This country sure is robust..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "That´s 'cause their princess is a babe!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "You bet."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I need to Concern- Trate Harder!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Wow! You have so many interesting books!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Thank you!"
+    }
+  ],
+  "summary": "Vivi and the Straw Hats part ways without words, using their shared mark to prove their friendship while protecting her from the Navy.",
+  "confidence": 0.89,
+  "needs_review": false
+}

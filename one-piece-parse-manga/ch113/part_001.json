@@ -1,0 +1,111 @@
+{
+  "chapter": "113",
+  "part": 1,
+  "title": "Dorry the Giant",
+  "description": "On pages 1–4, dorry the giant as luffy and the crew meet Dorry and Brogy, two giant warriors locked in a century-long duel on Little Garden.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Dorry",
+    "Brogy",
+    "Nami",
+    "Vivi",
+    "Unknown person #1"
+  ],
+  "scene": "Dorry the Giant. Luffy and the crew meet Dorry and Brogy, two giant warriors locked in a century-long duel on Little Garden. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "So damn annoying..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Who the hell are they, anyways?"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "it... can't be...!"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "How could there be guys as strong as them so close to Grand Line's entrance!?"
+    },
+    {
+      "speaker": "Brogy",
+      "text": "Should we continue then?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Nami",
+      "text": "URYA- AAA!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "NGH!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Stop it!"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "Just what the heck do you think you're doing!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Well... in any case, I guess I should at least be glad that the girl is safe."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "But you were about to cost me my 1 billion bell!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Do you under- stand!?"
+    },
+    {
+      "speaker": "Brogy",
+      "text": "What're you people talking about...?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "And why did you save me?"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "Ah, that's right."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You don't know anything yet..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "How would you like to make a contract with me?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "A contract?"
+    },
+    {
+      "speaker": "Brogy",
+      "text": "Settle down already!"
+    },
+    {
+      "speaker": "Brogy",
+      "text": "Quick"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on dorry the giant. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.7,
+  "needs_review": false
+}

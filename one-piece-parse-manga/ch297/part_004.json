@@ -1,0 +1,97 @@
+{
+  "chapter": "297",
+  "part": 4,
+  "title": "Rubber Defies Lightning",
+  "description": "Luffy defeats Enel and rings the golden bell, sending proof of the City of Gold down to Mont Blanc Cricket.",
+  "pages": [
+    13,
+    14,
+    15
+  ],
+  "characters": [
+    "Luffy",
+    "Enel",
+    "Nami",
+    "Narrator",
+    "Aisa",
+    "Calgara",
+    "Wyper",
+    "Conis",
+    "Gan Fall",
+    "Pagaya"
+  ],
+  "scene": "Across pages 13, 14, 15, this scene focuses on Luffy, Enel, Nami, Narrator, Aisa. Luffy defeats Enel and rings the golden bell, sending proof of the City of Gold down to Mont Blanc Cricket.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Begone with the island!"
+    },
+    {
+      "speaker": "Enel",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Capt. MeKinley..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "That doesn't matter..."
+    },
+    {
+      "speaker": "Aisa",
+      "text": "There's nothing else to do!"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "This war will end."
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Hey, Suu..."
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Sww?"
+    },
+    {
+      "speaker": "Enel",
+      "text": "...Do you think God really exists?"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "If he does..."
+    },
+    {
+      "speaker": "Aisa",
+      "text": "Will he save us...?"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Please, God.*If you really do exist."
+    },
+    {
+      "speaker": "Conis",
+      "text": "SUM"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Please deliver miracle"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "Please protect those people!"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Please protect this country, God..."
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Clear up, skies!"
+    }
+  ],
+  "summary": "Luffy defeats Enel and rings the golden bell, sending proof of the City of Gold down to Mont Blanc Cricket.",
+  "confidence": 0.88,
+  "needs_review": false
+}

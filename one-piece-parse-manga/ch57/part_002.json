@@ -1,0 +1,145 @@
+{
+  "chapter": "57",
+  "part": 2,
+  "title": "Sanji and Zeff’s Starvation Flashback",
+  "description": "On pages 5–8, Sanji’s past with Zeff is revealed through their starvation on a rock, explaining the debt that binds him to the Baratie.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Zeff",
+    "Unknown person #1",
+    "Sanji",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7"
+  ],
+  "scene": "The flashback strips away the noise of battle and focuses on hunger, sacrifice, and the dream of creating a restaurant where no one is denied food.",
+  "dialogue": [
+    {
+      "speaker": "Zeff",
+      "text": "Don't I always say not to ever lay even a finger,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Yes, sir...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "On our enemies' food...?"
+    },
+    {
+      "speaker": "Zeff",
+      "text": "Damn Idiot!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ahhh! What's with this kid!"
+    },
+    {
+      "speaker": "Zeff",
+      "text": "Hey kid. You shouldn't be swinging around those things. It's dangerous."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Look, I'm bleeding. I might be seriously wounded."
+    },
+    {
+      "speaker": "Zeff",
+      "text": "Shut up! Like I'm just going to stand still and let you kill me!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Sanji, no! Don't fight back!"
+    },
+    {
+      "speaker": "Zeff",
+      "text": "Stop it, kid! Don't provoke them any further!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Do something about him! He's one of your cooks, isn't he!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Sanji! Stop!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "If the kid wants to die so badly,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Then kill him already and be done with it!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It's not like I want to die! But you pirates are gonna kill us all anyways!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "So I'll kill you first before you can kill me!"
+    },
+    {
+      "speaker": "Zeff",
+      "text": "Sanji!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Damn, look at the captain go."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "He never holds back, does he...!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I'm gonna..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Find all blue one day...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ahaha haha!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "He said he's gonna find all blue! That's quite the dream!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "go ahead, captain! Tell him! Tell him that a place like that,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Doesn't exist even in Grand Line!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "you idiot..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Why would you go and talk about that now of all times...?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "There's no way,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "That I'm gonna be killed by stupid pirates like you in a place like this!"
+    }
+  ],
+  "summary": "This part gives emotional meaning to Sanji’s choices: Zeff’s sacrifice explains why feeding the hungry is sacred to him.",
+  "confidence": 0.7,
+  "needs_review": false
+}

@@ -1,0 +1,130 @@
+{
+  "chapter": "1106",
+  "part": 1,
+  "title": "Kuma Strikes Saturn",
+  "description": "On pages 2–4, this part focuses on Unknown person #1, Unknown person #2, Atlas, Unknown person #3, Kuma, Bonney as Kuma arrives at Egghead, Bonney confronts Saturn, Vegapunk is threatened, and the island falls into a full Buster Call-level crisis.",
+  "pages": [
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Atlas",
+    "Unknown person #3",
+    "Kuma",
+    "Bonney",
+    "Vegapunk"
+  ],
+  "scene": "Kuma arrives at Egghead, Bonney confronts Saturn, Vegapunk is threatened, and the island falls into a full Buster Call-level crisis.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "They're really goin' at it!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Is the approaching ship friend or foe?!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It's just like the newspaper said!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "AAAH..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Whoa!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "What the?!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "He already digested ALL that food?!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "He may gobble us up if we get any closer..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Is he even human?!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hey!! Look out!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "KOFF KOFF"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Not good!! We're Sur- Rounded by flames!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "We can't stay on the island much longer!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Pull it together... don't worry about him being an emperor!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Let's get him into Seastone cuffs, on the count of three!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "three... two... o-"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "ARGH!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Get on the ships!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Egghead is done for!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Keep blasting into the inferno!! Don't stop!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "KUMA!! BONNEY!!"
+    },
+    {
+      "speaker": "Atlas",
+      "text": "Atlas, come in!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Shoot Down This pathetic family!!"
+    },
+    {
+      "speaker": "Atlas",
+      "text": "Atlas, let Bonney know!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Bonney- Chan!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Understood, Vegapunk!!"
+    }
+  ],
+  "summary": "This part advances the Egghead Buster Call through 26 cleaned dialogue beats, centering the emotional stakes, battle movement, and the wider consequences of Egghead.",
+  "confidence": 0.55,
+  "needs_review": true
+}

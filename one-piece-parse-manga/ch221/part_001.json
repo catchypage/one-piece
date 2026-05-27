@@ -1,0 +1,82 @@
+{
+  "chapter": "221",
+  "part": 1,
+  "title": "Mock Town Shows Its Teeth",
+  "description": "The Straw Hats enter Jaya’s rough pirate port, where rumors, salvage crews, and violent pirates make the dream of Sky Island look foolish.",
+  "pages": [
+    0,
+    1,
+    3,
+    4
+  ],
+  "characters": [
+    "Nami",
+    "Bellamy",
+    "Sarquiss",
+    "Mock Town pirate",
+    "Luffy",
+    "Zoro",
+    "Blackbeard",
+    "Bartender",
+    "Usopp",
+    "Sanji"
+  ],
+  "scene": "Across pages 0, 1, 3, 4, this scene centers on Nami, Bellamy, Sarquiss, Mock Town pirate, Luffy. The Straw Hats enter Jaya’s rough pirate port, where rumors, salvage crews, and violent pirates make the dream of Sky Island look foolish.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "Now,"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Now,"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Boss!"
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "Booo Ooss SSS!"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "Ibunno! Ibunno! I'mnotlookin'! I'm notlookin'!"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "THISISA DREAM!This ISADREAM! ThisISA DREAM!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "A dream? Really!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Wow... Thank god it's just a dream."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Oh my..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Did those three..."
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "Don't state it so bluntly!"
+    },
+    {
+      "speaker": "Bartender",
+      "text": "CR UNCH... CRunch..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Just Staaaaa-aaaaP!"
+    }
+  ],
+  "summary": "The Straw Hats enter Jaya’s rough pirate port, where rumors, salvage crews, and violent pirates make the dream of Sky Island look foolish.",
+  "confidence": 0.84,
+  "needs_review": false
+}

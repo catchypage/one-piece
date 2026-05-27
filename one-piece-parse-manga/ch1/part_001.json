@@ -1,0 +1,48 @@
+{
+  "chapter": "1",
+  "part": 1,
+  "title": "Roger’s Final Words Open the Pirate Era",
+  "description": "On pages 3–5, this part follows the Romance Dawn flashback and focuses on how Luffy’s pirate dream is formed through Shanks, Higuma, and the straw hat promise.",
+  "pages": [
+    3,
+    5
+  ],
+  "characters": [
+    "Gol D. Roger",
+    "Makino"
+  ],
+  "scene": "The manga opens by framing Roger’s execution as the spark that sends the world chasing the legendary treasure.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "Gold Roger, the \"king of the pirates,\" had achieved it all."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Wealth, fame and power had all been his."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Not surprisingly, the final words he spoke before they lopped off his head inspired adventurers throughout the world to sail the seas."
+    },
+    {
+      "speaker": "Gol D. Roger",
+      "text": "MY TREASURE? WHY, IT'S RIGHT WHERE I LEFT IT..."
+    },
+    {
+      "speaker": "Gol D. Roger",
+      "text": "It's yours if you can find it... but you'll have to search the whole world!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "The world..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "...is about to witness a great era of PIRACY!"
+    }
+  ],
+  "summary": "Roger’s execution is used to explain why the world has entered an age of pirates. The chapter begins by tying Luffy’s personal dream to a much larger global legend.",
+  "confidence": 0.94,
+  "needs_review": false
+}

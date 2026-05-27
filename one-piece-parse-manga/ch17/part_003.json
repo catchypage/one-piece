@@ -1,0 +1,82 @@
+{
+  "chapter": "17",
+  "part": 3,
+  "title": "Buggy’s Cannon Threatens Orange Town",
+  "description": "On pages 9–12, Buggy’s crew threatens Orange Town with overwhelming force, turning the town itself into a hostage.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Nami",
+    "Zoro",
+    "Unknown person #1",
+    "Luffy",
+    "Unknown person #2",
+    "Buggy"
+  ],
+  "scene": "Buggy’s pirates rely on spectacle and destruction, while Luffy, Zoro, and Nami are forced to react under pressure.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "Low- flying chop- chop cannon!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "CABAJI!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'll hold Zolo down!! You finish him off!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "DANG....!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "With plea- sure!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Luffy!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Keep it your mitts out of Zolo's duel!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "you little..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Heh..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Don't need the captain to lend me a hand to kill YOU!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HMPH!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Huff huff..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'VE HAD ENOUGH..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm tired..."
+    }
+  ],
+  "summary": "The part shows how Buggy rules through fear, while the Straw Hats begin breaking that fear through defiance and improvisation.",
+  "confidence": 0.7,
+  "needs_review": false
+}

@@ -1,0 +1,122 @@
+{
+  "chapter": "187",
+  "part": 2,
+  "title": "A Baroque Works Pair Attacks",
+  "description": "On pages 10–13, this part focuses on a baroque works pair attacks, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "characters": [
+    "Usopp",
+    "Miss Merry Christmas",
+    "Lassoo",
+    "Vivi",
+    "Unknown person #1",
+    "Chaka",
+    "Unknown person #2",
+    "Mr. 2 Bon Clay",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Sanji",
+    "Chopper"
+  ],
+  "scene": "A Baroque Works Pair Attacks. Usopp and Chopper endure brutal attacks and keep fighting for Luffy, Vivi, and the crew’s promise. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Usopp",
+      "text": "Past here is the royal palace!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Do you realize the situation you're in!?"
+    },
+    {
+      "speaker": "Miss Merry Christmas",
+      "text": "If you're not involved in the fighting, then you better leave this city as soon as possible!"
+    },
+    {
+      "speaker": "Lassoo",
+      "text": "Did you hear what I said!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "This is no place for you to B-"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I heard you..."
+    },
+    {
+      "speaker": "Lassoo",
+      "text": "Princess VIV!!?"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "Please take me to Chaka!"
+    },
+    {
+      "speaker": "Lassoo",
+      "text": "There's something I need him to do!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Alubanna, Southern Block, Polka St."
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "Mr. 2 Bon Clay vs. Sanji"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Ughh!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "GAHA!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Some of a..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Huff huff"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "What a kick... to think he could stand up to my Okama Kenpou..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Mooovee outta my way already, Jeez Louise!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Over my dead body, freak..."
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "If that's how you wanna play it, then fine! Not a day goes by when I'm not busy honing my Okama Kenpou skills!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "And I'll be damned if some punk thinks he can make my training all for naught!"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "Dozo Okamai Knuckle!"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "(Don't mind my okama knuckle)"
+    }
+  ],
+  "summary": "This part develops a baroque works pair attacks and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.62,
+  "needs_review": true
+}

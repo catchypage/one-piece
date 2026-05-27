@@ -1,0 +1,166 @@
+{
+  "chapter": "327",
+  "part": 3,
+  "title": "Galley-La Inspects the Merry",
+  "description": "The shipwrights deliver devastating news: the Going Merry is too damaged to continue, forcing Luffy toward an impossible captain’s decision.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Iceburg",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Kaku",
+    "Chopper",
+    "Nico Robin",
+    "Galley-La shipwright"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this part follows Luffy, Iceburg, Nami, Usopp, Zoro. The shipwrights deliver devastating news: the Going Merry is too damaged to continue, forcing Luffy toward an impossible captain’s decision.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Koo koo"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Why aren't you talking now?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Huh? You want more?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "COM'ON! COM'ON!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "That's enough, Pauli"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Koo"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'm Rob Luchi's pigeon, Hattori"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Eh? Now it's talking like a person..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "No no. It's nothing& really."
+    },
+    {
+      "speaker": "Kaku",
+      "text": "Wahaha Hahaha! This guy never talks directly!"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "He's a freak!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What's Wrong With You!!?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "You are so shameless!!!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Showing your legs like that!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "taunt us?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "What the hell is he talking about?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "He's the real freak!!"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "Kaku is one, too."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": ".. weird..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Okay. Come on in."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I'll give you a tour."
+    },
+    {
+      "speaker": "Kaku",
+      "text": "Okay! Don't worry!!"
+    },
+    {
+      "speaker": "Galley-La shipwright",
+      "text": "Oooo!!"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "WOW!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Who's that big Galleon you're building for?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "OH! Iceburg -san is here!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Good morning, iceberggan!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "The President came to visit us!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "'Morning I"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "'moring a"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Thanks for coming, iceberggan!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Later"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "NMA!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Every- thing going well?"
+    }
+  ],
+  "summary": "The shipwrights deliver devastating news: the Going Merry is too damaged to continue, forcing Luffy toward an impossible captain’s decision.",
+  "confidence": 0.83,
+  "needs_review": false
+}

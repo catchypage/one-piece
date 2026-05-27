@@ -1,0 +1,80 @@
+{
+  "chapter": "6",
+  "part": 4,
+  "title": "Luffy Decides to Free Zoro",
+  "description": "On pages 13–16, this part turns Zoro’s imprisonment into open action as Luffy forces the fight against Morgan’s Marines.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Zoro",
+    "Luffy",
+    "Morgan",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5"
+  ],
+  "scene": "In Shells Town, Luffy, Coby, and Zoro are drawn into the cruelty of Morgan’s rule and Helmeppo’s privilege.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "destroy this lousy Navy!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "HMPH! YOU HAVE NEITHER RANK NOR STATUS!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I'll teach you to defy your betters!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'm Captain axe-hand Morgan!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Nice to meet you!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I'm straw hat Luffy!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "DIE!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "WOW!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "That's sharp!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Ungh!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "TH-THE CAPTAIN..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "BOY..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "sentence you to DEATH!"
+    }
+  ],
+  "summary": "The Shells Town conflict uses Zoro’s imprisonment and Morgan’s rule to test what kind of people Luffy chooses to trust. The section moves Zoro closer to becoming Luffy’s first crewmate.",
+  "confidence": 0.6,
+  "needs_review": true
+}

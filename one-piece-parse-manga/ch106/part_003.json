@@ -1,0 +1,161 @@
+{
+  "chapter": "106",
+  "part": 3,
+  "title": "A Town That Loves Pirates",
+  "description": "On pages 6–8, a town that loves pirates as after facing the Grand Line’s bizarre weather, the crew reaches Whiskey Peak and is greeted with suspicious enthusiasm.",
+  "pages": [
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Nami",
+    "Usopp",
+    "Luffy",
+    "Sanji",
+    "Zoro",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5"
+  ],
+  "scene": "A Town That Loves Pirates. After facing the Grand Line’s bizarre weather, the crew reaches Whiskey Peak and is greeted with suspicious enthusiasm. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "Hey, I see a Dolphin jumping over there! Let's go check it out!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "You just stay quiet!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "The waves are getting higher!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "And now there's fog!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Iceberg spotted at 10 o'clock!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What is wrong with this ocean!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "We just grazed the iceberg!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "There's water leaking in the lower deck!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hurry up and seal it up then!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "On it!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The clouds are moving too fast!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Raise the sails!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "The winds are too strong!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Everyone eat up and energize!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Got it!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "You're eating too much!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "OH NO! The sail's tearing!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "We've got another leak on the lower deck!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Dammit!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Nami, where's the compass pointing to now!?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "It changed again!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "WhAA- AAT!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "yaawwinn..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ah, that was a nice nap."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hey, come on now. I know the weather's nice and warm but don't you think you're being a bit too lazy?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Are you sure we're going the right away?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "You son of a...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "And why're you two on our ship?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "You noticed now!?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "We're headed towards their town right now."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "What, so we're giving them a ride? It's not like we're obligated to or anything."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "I know."
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on a town that loves pirates. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.7,
+  "needs_review": true
+}

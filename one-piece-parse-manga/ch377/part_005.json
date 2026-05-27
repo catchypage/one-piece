@@ -1,0 +1,49 @@
+{
+  "chapter": "377",
+  "part": 5,
+  "title": "Blueno Blocks the Path",
+  "description": "The Straw Hats and their allies launch their attack through Enies Lobby’s front defenses.",
+  "pages": [
+    17,
+    20,
+    21
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Chopper",
+    "Sogeking",
+    "Franky",
+    "Nico Robin",
+    "Blueno",
+    "Spandam"
+  ],
+  "scene": "Across pages 17, 20, 21, this part follows Luffy, Zoro, Nami, Sanji, Chopper. The Straw Hats and their allies launch their attack through Enies Lobby’s front defenses.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "MyQ treasure"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Ette!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Are you fine?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Yes. I'm fine! THANK YOU!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "\"I'll be 3%"
+    }
+  ],
+  "summary": "The Straw Hats and their allies launch their attack through Enies Lobby’s front defenses.",
+  "confidence": 0.83,
+  "needs_review": false
+}

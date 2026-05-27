@@ -1,0 +1,79 @@
+{
+  "chapter": "673",
+  "part": 1,
+  "title": "Joker’s Influence Spreads",
+  "description": "On pages 1–3, this part follows Unknown person #1, Unknown person #3, Unknown person #4, Marines, Unknown person #5, Unknown person #6, Vergo. The central beat is joker’s influence spreads.",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Marines",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Vergo",
+    "Doflamingo",
+    "Trafalgar Law",
+    "Caesar Clown",
+    "Monet",
+    "Smoker"
+  ],
+  "scene": "The scene focuses on joker’s influence spreads, with Unknown person #1, Unknown person #3, Unknown person #4, Marines, Unknown person #5, Unknown person #6, Vergo shaping the Punk Hazard conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "The new world"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "A certain island ..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "You have to search for the children!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Pointless! Far too pointless!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "AAA !!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Aghhhh!!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Those children died in an accident !!!"
+    },
+    {
+      "speaker": "Marines",
+      "text": "Marine from 6-5 unit 06 Compomodore 'Yariauga"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "That's way too much!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Gyahah! That's going too far, commodore!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Filthy worms!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "THEY'RE STILL ALIVE, I KNOW IT...!!"
+    }
+  ],
+  "summary": "Joker’s Influence Spreads. This part advances Punk Hazard’s rescue mission, Caesar’s experiment, and the fragile pirate–Marine alliance.",
+  "confidence": 0.76,
+  "needs_review": true
+}

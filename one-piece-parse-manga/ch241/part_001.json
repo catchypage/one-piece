@@ -1,0 +1,78 @@
+{
+  "chapter": "241",
+  "part": 1,
+  "title": "Conis Warns the Crew",
+  "description": "Conis warns the Straw Hats about Skypiea’s law, and the crew is pulled deeper into God Enel’s territory.",
+  "pages": [
+    0,
+    3,
+    4,
+    5
+  ],
+  "characters": [
+    "Sky Island soldier",
+    "Conis",
+    "McKinley",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 0, 3, 4, 5, this scene centers on Sky Island soldier, Conis, McKinley, Luffy, Nami. Conis warns the Straw Hats about Skypiea’s law, and the crew is pulled deeper into God Enel’s territory.",
+  "dialogue": [
+    {
+      "speaker": "Sky Island soldier",
+      "text": "Heaven's judgement"
+    },
+    {
+      "speaker": "Conis",
+      "text": "God is there!!?"
+    },
+    {
+      "speaker": "Conis",
+      "text": "Luffy!!?"
+    },
+    {
+      "speaker": "McKinley",
+      "text": "He's going for sure..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "...really? Oh well, it doesn't matter."
+    },
+    {
+      "speaker": "Conis",
+      "text": "Alright!! Let's go find NAM!!"
+    },
+    {
+      "speaker": "Conis",
+      "text": "OH! But first, let me finish eating..."
+    },
+    {
+      "speaker": "Conis",
+      "text": "Really!? Thank you!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What...?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I can't even see the top."
+    },
+    {
+      "speaker": "Conis",
+      "text": "Time to go back!"
+    },
+    {
+      "speaker": "Conis",
+      "text": "Uazzi"
+    }
+  ],
+  "summary": "Conis warns the Straw Hats about Skypiea’s law, and the crew is pulled deeper into God Enel’s territory.",
+  "confidence": 0.86,
+  "needs_review": false
+}

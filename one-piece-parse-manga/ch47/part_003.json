@@ -1,0 +1,77 @@
+{
+  "chapter": "47",
+  "part": 3,
+  "title": "The Krieg Pirates Bring War to the Baratie",
+  "description": "On pages 8–11, Don Krieg’s arrival turns the Baratie crisis into a pirate siege while Nami’s departure and the looming fight split the crew’s attention.",
+  "pages": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Sanji",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Zeff"
+  ],
+  "scene": "The Baratie becomes trapped between hungry enemies, terrified cooks, Krieg’s overwhelming force, and the Straw Hats’ personal priorities.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Spit:"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "We're more than prepared to handle any customer that might come!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "If you're finished with your meal,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "How about having an iron dessert!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Indige- Stion meat- Ball Cannon!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "son of a..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Don!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Agh, damn it. I ended up destroying the entrance..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The owner's gonna have my head for this..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "It's fine."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "It's just collateral damage from protecting the restaurant..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "What're you planning to do with his underlings on the ship?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Well... maybe we oughta butter his ship up and roast it with fire...?"
+    }
+  ],
+  "summary": "This part escalates the Baratie arc from character introduction to open conflict, with Krieg threatening the restaurant and Nami pulling the story toward Arlong Park.",
+  "confidence": 0.58,
+  "needs_review": true
+}

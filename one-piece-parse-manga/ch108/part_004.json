@@ -1,0 +1,78 @@
+{
+  "chapter": "108",
+  "part": 4,
+  "title": "Nami Ends the Fight",
+  "description": "On pages 13–16, nami ends the fight as zoro cuts through the Baroque Works agents at Whiskey Peak while Luffy wakes up and misunderstands the situation.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Zoro",
+    "Baroque Works agent",
+    "Luffy",
+    "Nami",
+    "Unknown person #1",
+    "Unknown person #2"
+  ],
+  "scene": "Nami Ends the Fight. Zoro cuts through the Baroque Works agents at Whiskey Peak while Luffy wakes up and misunderstands the situation. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Zoro",
+      "text": "Two swords style..."
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "Aghhh..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Taka- Nami"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "(hawk wave)"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Dahh- Hhhh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "careful now. The floor right there has been cut through."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Swing!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "That was too close!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Super- Human..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Flour- Grinder!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Making us WASD- Ahem!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "MA-MA-MAA-MAA-]"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Waste so much time..."
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on nami ends the fight. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.7,
+  "needs_review": true
+}

@@ -1,0 +1,130 @@
+{
+  "chapter": "360",
+  "part": 1,
+  "title": "Aqua Laguna Closes In",
+  "description": "The rescue force launches into the storm after the Sea Train, beginning the road to Enies Lobby.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Galley-La shipwright",
+    "Luffy",
+    "Nico Robin",
+    "Kokoro",
+    "Nami",
+    "Paulie",
+    "Zoro",
+    "Sanji",
+    "Franky",
+    "Usopp"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Galley-La shipwright, Luffy, Nico Robin, Kokoro, Nami. The rescue force launches into the storm after the Sea Train, beginning the road to Enies Lobby.",
+  "dialogue": [
+    {
+      "speaker": "Galley-La shipwright",
+      "text": "Entrance to shipwright Island's Blue Station"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "CPS will be here in person."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Nico Nico Robin..."
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "get on board the \"sea train\" first."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Aye!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's only natural that you'd surrender."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "government officials, some marines... and Nico Robin-chan..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Now... How do I get on board..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "unknown to you all,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "\"I have a \"darkness\"."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Is she aiming at something..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Forgive me for the wait, Nico Robin- chan!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Kaff"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Kougil- San!! The CPP!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Kaff"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "WHA... It's Rob Lucchi..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What strength! So that's the CPP..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "Let go, Dammit! Let go!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'll never forgive you bastards!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "...... USOPP....!!!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Your coat, Lucchi- San."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Aye, R...right away."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "This isn't a game. Brace yourselves!!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "All hands board the train!!!"
+    }
+  ],
+  "summary": "The rescue force launches into the storm after the Sea Train, beginning the road to Enies Lobby.",
+  "confidence": 0.86,
+  "needs_review": false
+}

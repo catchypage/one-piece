@@ -1,0 +1,128 @@
+{
+  "chapter": "181",
+  "part": 4,
+  "title": "The Duel Turns Desperate",
+  "description": "On pages 13–16, this part focuses on the duel turns desperate, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Vivi",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Usopp",
+    "Chopper",
+    "Baroque Works agent",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5"
+  ],
+  "scene": "The Duel Turns Desperate. The crew enters Alubarna and splits into separate fights against Baroque Works’ strongest agents. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "Whirr"
+    },
+    {
+      "speaker": "Nami",
+      "text": "thump"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "thump"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Thank you, everyone!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I have to hurry..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "The rebels are almost here already."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Quick"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Quick"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Let's go,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Carue!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Quick!"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "Too bad, so sad! Better luck next time!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Vohh..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "A camel!!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "And you! You're that pirate from before!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "P-Please go easy on us!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "glug"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Alright, zero! Go finish them off!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Just shut up back there!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "They got us good..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Heh heh. The rebellion ain't gonna start now."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "If I don't stop the rebels here, everything will have been in vain!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Quick!"
+    }
+  ],
+  "summary": "This part develops the duel turns desperate and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.66,
+  "needs_review": true
+}

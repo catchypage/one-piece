@@ -1,0 +1,82 @@
+{
+  "chapter": "17",
+  "part": 4,
+  "title": "Zoro Stands Against Cabaji",
+  "description": "On pages 13–16, Zoro faces Cabaji while Buggy’s crew tries to exploit his injuries and turn the duel into a spectacle.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Luffy",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Zoro",
+    "Nami",
+    "Buggy"
+  ],
+  "scene": "Zoro holds his ground against Cabaji’s tricks, treating the fight as a matter of pride rather than a simple brawl.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "YOU'RE TIRED? HEH... WHAT'S WRONG? ANEMIC?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "So you've finally given up! Well, I'm not surprised..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It's amazing you can still stand in your condi-tion."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "UNGH....!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "You've got it wrong. What I'm tired of..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Are your stupid circus tricks!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Very well! No more tricks! I'll finish you now..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "with my REAL swords- manship!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Onl..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "GIR!!!!*"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "CABAJIII!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "GGH...! HOW COULD THESE COMMON THIEVES HAVE BEATEN US? WE'RE THE BUGGY PIRATE GANG-THE SCOURGE OF THE SEAS!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "HOW COULD THINGS HAVE GONE THIS FAR...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "We're not common thieves..."
+    }
+  ],
+  "summary": "The part reinforces Zoro’s discipline and pride, showing that the Straw Hats will not let Buggy’s crew define the terms of the fight.",
+  "confidence": 0.7,
+  "needs_review": false
+}

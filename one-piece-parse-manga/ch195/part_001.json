@@ -1,0 +1,74 @@
+{
+  "chapter": "195",
+  "part": 1,
+  "title": "The Bomb Plot Comes Into Focus",
+  "description": "On pages 1–5, this part focuses on the bomb plot comes into focus, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    1,
+    2,
+    4,
+    5
+  ],
+  "characters": [
+    "Vivi",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Pell"
+  ],
+  "scene": "The Bomb Plot Comes Into Focus. The bomb’s location and countdown push the Alubarna battle into its final desperate stage. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "A futile struggle..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "A sword that can't cut anything,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Yet can cut through iron...!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "In any case, a true swordsman must continually walk forwards!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I can't under- stand it at all!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Atomatic bicer!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I'll keep trying until I succeed!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hnghh!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "swink!"
+    },
+    {
+      "speaker": "Pell",
+      "text": "Pite!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Gazami-"
+    },
+    {
+      "speaker": "Nami",
+      "text": "DORI! (Grab hunt)"
+    }
+  ],
+  "summary": "This part develops the bomb plot comes into focus and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.77,
+  "needs_review": false
+}

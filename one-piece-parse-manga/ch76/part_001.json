@@ -1,0 +1,153 @@
+{
+  "chapter": "76",
+  "part": 1,
+  "title": "Nami Tries to Push the Crew Away",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Arlong",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Cocoyasi villagers",
+    "Arlong Pirates"
+  ],
+  "scene": "On pages 1–4, the story moves through Arlong Park and Nami’s dangerous position among the fish-men. Nami tries to cut herself off from Luffy’s crew while Zoro and the others see that something is wrong.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "What did you come to this island for?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What're you talking about?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Aren't we crewmates?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We've come for you, of course!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Well you're nothing but a nuisance."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "and \"Crew- mates?\""
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Don't make me laugh."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "It was nothing but a stupid little cooperation."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "NA...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Nami! It's me! Do you remember me? Let's set sail together!:)"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Shut up! Can't you see you're making things more complicated by butting in!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "What was that? Don't you know love is always a hurricane!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I told you so! She's a witch!"
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "If it means she can get her hands on the treasure hidden in her village,"
+    },
+    {
+      "speaker": "Arlong Pirates",
+      "text": "She'll gladly join the Arlong Pirates and even kill!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "She's a cold- blooded witch through and through!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "You've all been deceived right from the start!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "And I swear I saw her stabbing usopp!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "...so what?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Would you like to try and avenge him?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What...!?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Let me tell you one thing. After the idiotic stunt that Zoro pulled, Arlong wants Roronoa Zoro and all his companions dead."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "No matter how monstrously strong you may all be,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "You're no match at all for the real monster."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I couldn't care less about that."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Where's usopp?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "at the bottom of the ocean."
+    },
+    {
+      "speaker": "Nami",
+      "text": "That's it, I've had enough of you!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "And I've had enough of you!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Does a swordsman harm ladies as well, Roronoa zoro?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The hell did you say? Don't butt in when you don't know the first thing about anything!"
+    }
+  ],
+  "summary": "This part builds the Arlong Park conflict by showing how Nami’s choices look contradictory from outside while Arlong’s power keeps the island trapped.",
+  "confidence": 0.74,
+  "needs_review": false
+}

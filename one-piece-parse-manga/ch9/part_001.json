@@ -1,0 +1,56 @@
+{
+  "chapter": "9",
+  "part": 1,
+  "title": "Nami’s Scheme in Orange Town",
+  "description": "On pages 4–6, this part develops the danger of Buggy’s crew and the unstable alliance between Luffy, Zoro, and Nami.",
+  "pages": [
+    4,
+    5,
+    6
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Shanks",
+    "Buggy"
+  ],
+  "scene": "Orange Town becomes the stage for Nami’s schemes, Buggy’s violence, and Luffy’s refusal to act like a normal pirate.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "It is the GoldenAge of Pinacy. Countless pirates sail the seas, searching for leg- endary pirate Gold Roger's mysterious treasure,the \"One Piece.\" Among them is Monkey D. Luffy, who grew up listen-ing to the wild tales of buccaneer \"Red- \""
+    },
+    {
+      "speaker": "Luffy",
+      "text": "\"Red-Haired\" Sharks"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Monkey D. Luffy"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "He ate the fruit of the Gum-Gum Tree, gaining stretchy powers.He wants to become King of the Pirates—and find his hero, \"Red- Haired\" Sharks."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Although he's won fame as a pirate hunter, his true dream is to become the world's greatest swordsman."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Cabaji"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Buggy"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Mohji"
+    }
+  ],
+  "summary": "The Orange Town conflict mixes Nami’s suspicious cleverness with Buggy’s theatrical cruelty. The section builds the unstable alliance that will oppose Buggy’s crew.",
+  "confidence": 0.94,
+  "needs_review": false
+}

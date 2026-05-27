@@ -1,0 +1,159 @@
+{
+  "chapter": "95",
+  "part": 5,
+  "title": "The Crew Sails On",
+  "description": "On pages 17–19, the crew sails on focuses on Nami, Luffy, Zoro, Usopp as the village celebrates after Arlong’s defeat while Nami prepares to leave her home behind.",
+  "pages": [
+    17,
+    18,
+    19
+  ],
+  "characters": [
+    "Nami",
+    "Luffy",
+    "Zoro",
+    "Usopp",
+    "Sanji",
+    "Nojiko",
+    "Genzo",
+    "Cocoyashi villagers",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "On pages 17–19, the crew sails on focuses on Nami, Luffy, Zoro, Usopp as the village celebrates after Arlong’s defeat while Nami prepares to leave her home behind.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "She sure got us good!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I should've known better from my own sister."
+    },
+    {
+      "speaker": "Nami",
+      "text": "have fun."
+    },
+    {
+      "speaker": "Genzo",
+      "text": "Hey, Genzou..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hm? What's this, doc?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "She got herself another tattoo."
+    },
+    {
+      "speaker": "Nami",
+      "text": "What is it?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "She said it's an \"Orange,\""
+    },
+    {
+      "speaker": "Nami",
+      "text": "and a \"pinwheel.\""
+    },
+    {
+      "speaker": "Nami",
+      "text": "Huh? What happened to your pinwheel, gen?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Haha... I didn't need it anymore."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "WaHahah!"
+    },
+    {
+      "speaker": "Genzo",
+      "text": "Gen! Stay away from my Nami!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "B-B-But even I want to see a baby's cute smile."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "But your face is so scary you're making her cry!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Well, it's not like I can do anything about that..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "How about this!? With this, I'm sure she'll smile!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "All I have to do is put this on my head from now on!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Well? Can you smile for me, Nami?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I don't know, Gen. Even if you put a pinwheel..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "KyaHa!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "The skies are clear and the winds mild."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Ah, she laughed...!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Perfect weather for a pinwheel to spin."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Stairs (entrance From Storage Room)"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Liquor"
+    },
+    {
+      "speaker": "Nami",
+      "text": "This bar was installed by Toru-san, a carpenter in Cocolashi:"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hammock Storage (Pulling rope oil the wall lets hammock down);"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Bookshelf"
+    },
+    {
+      "speaker": "Nami",
+      "text": ". Clean."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Treasure Chest (High quality treasure, Nam's collection)"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Emergency Exit (Conflects to Neil's Room, normally unused)"
+    }
+  ],
+  "summary": "This part releases the tension of Arlong Park through celebration, goodbye, and Nami’s choice to sail with the crew.",
+  "confidence": 0.81,
+  "needs_review": false
+}

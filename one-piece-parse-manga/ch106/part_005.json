@@ -1,0 +1,199 @@
+{
+  "chapter": "106",
+  "part": 5,
+  "title": "Zoro Stays Awake",
+  "description": "On pages 13–15, zoro stays awake as after facing the Grand Line’s bizarre weather, the crew reaches Whiskey Peak and is greeted with suspicious enthusiasm.",
+  "pages": [
+    13,
+    14,
+    15
+  ],
+  "characters": [
+    "Nami",
+    "Usopp",
+    "Luffy",
+    "Sanji",
+    "Zoro",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7"
+  ],
+  "scene": "Zoro Stays Awake. After facing the Grand Line’s bizarre weather, the crew reaches Whiskey Peak and is greeted with suspicious enthusiasm. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "They're gone..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Just what is up with those two..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Forget about'em! Prepare to land!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "There's a river right up ahead."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Looks like we can dock inland."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "t-there wouldn't be any monsters on this island now, right...?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Considering this place is Grand Line and all, I'd say there is a good possibility."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Well, we can always run away if that's the case."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Wait just a second."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Don't forget that we have to stay on this island for a certain amount of time."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Why?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "This log pose has to record this island's magnetic field,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Before we can move on to the next island!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "There're some islands that take only a few hours to record, while some take even a few days."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "and the recording time varies for each island."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "T-then even if we come to a horrible monster island that we want to run away from,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It's possible that we'll have to stay on it for several days...!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That's right."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Well, we'll worry about it when it happens."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "So let's just go already!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "It'd be weird not to go in when there's a river in front waiting for us!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "for you, maybe..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "No, what he says is right. There's no use in worrying about it so let's just go."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'll protect you, Nami!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "H-H-Hey Guys... Listen... I uh..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I think I've suddenly developed a can't-enter- islands- disease."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "...Fine, let's go in then."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I'm serious, guys. My can't- ente..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Ready?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "be prepared to fight or run at a moment's notice."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Huh, isn't that a pirate ship?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hey? You're right!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I can hear people."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "But this fog's too thick to see them."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "People!? You sure it's people!?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Go tell the others!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "pirates are here!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Welcome!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "To the town of welcoming, whiskey peak!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "pirates!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Welcome to our town!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Welcome to Grand Line!"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on zoro stays awake. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.7,
+  "needs_review": true
+}

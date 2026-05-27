@@ -1,0 +1,143 @@
+{
+  "chapter": "883",
+  "part": 1,
+  "title": "The Fight Against Katakuri Begins",
+  "description": "On pages 2–5, this part focuses on Unknown person #1, Nami, Unknown person #2, Katakuri, Unknown person #3, Unknown person #4 as Pedro’s sacrifice opens the escape route while Luffy enters the mirror world to hold Katakuri back.",
+  "pages": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Nami",
+    "Unknown person #2",
+    "Katakuri",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Luffy"
+  ],
+  "scene": "Luffy separates himself from the crew to face Katakuri in the mirror world while Sanji moves toward the cake plan.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Full power!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Muscle balloon!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Buh!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "WAAGH!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "As I fight you, I remind myself why, when faced with an obvious power-up,"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "It's Essen- Tial to just shut up and observe."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Oi, straw hat Luffy!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Fnight!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Remember I'll"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I haven't underestimated you in the slightest!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "WHATA-"
+    },
+    {
+      "speaker": "Katakuri",
+      "text": "Mochi?!"
+    },
+    {
+      "speaker": "Katakuri",
+      "text": "Mirror Mochi!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Crap! If I get crushed by that amount of Mochi, I'll be buried alive!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Indeed..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "You'll suffocate!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "UWA- AAH!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Sorry for finishing things up like this."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "I was starting to get a little peeved."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Someone is especially"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Because I was tied up dealing with you,"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "I missed my Merienda* today by 40 minutes."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "You'll be at peace soon."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "PATIS- Sier!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Yes, sir!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "We were so very worried about what was to come of your snack time today!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "We've been standing at the ready since 3, but..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "We are so very sorry that you, Lord dogtooth, being the perfectionist you are, were forced to reschedule the Merienda. You so punctilliously enjoy at the same time every day!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "And as for the black tea, what with 40 minutes passing since it was prepared, it's gone completely cold, and..."
+    }
+  ],
+  "summary": "This section advances the Luffy vs Katakuri storyline with 29 dialogue beats. Luffy commits to stopping Katakuri while the others continue the escape and Sanji turns toward the cake that may save them.",
+  "confidence": 0.55,
+  "needs_review": true
+}

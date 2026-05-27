@@ -1,0 +1,75 @@
+{
+  "chapter": "351",
+  "part": 2,
+  "title": "Young Franky and Iceburg",
+  "description": "Spandam weaponizes Franky’s battle ships to frame Tom, turning Franky’s creations into the tool that destroys his family.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Franky",
+    "Tom",
+    "Iceburg",
+    "Spandam",
+    "Kokoro",
+    "Yokozuna",
+    "World Government agent"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this part follows Franky, Tom, Iceburg, Spandam, Kokoro. Spandam weaponizes Franky’s battle ships to frame Tom, turning Franky’s creations into the tool that destroys his family.",
+  "dialogue": [
+    {
+      "speaker": "Franky",
+      "text": "You bastard!!!"
+    },
+    {
+      "speaker": "Tom",
+      "text": "Get away from the ship!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Nguh ~ >-!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "You bastard..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "If you don't under- stand...!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "OOF!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Then you'd better see it...!!!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "FOR YOUR- SELF!!!!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "SpLOosh!!!"
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "Bloop"
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "HAA"
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "HAA..."
+    }
+  ],
+  "summary": "Spandam weaponizes Franky’s battle ships to frame Tom, turning Franky’s creations into the tool that destroys his family.",
+  "confidence": 0.82,
+  "needs_review": false
+}

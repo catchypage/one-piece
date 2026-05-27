@@ -1,0 +1,67 @@
+{
+  "chapter": "641",
+  "part": 1,
+  "title": "The Noah Begins to Fall",
+  "description": "On pages 1–3, this part follows Unknown person #1, Unknown person #2, Fish-Man Island Citizens, Unknown person #3, Fukaboshi, Hody Jones, Luffy. The central beat is the noah begins to fall.",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Fish-Man Island Citizens",
+    "Unknown person #3",
+    "Fukaboshi",
+    "Hody Jones",
+    "Luffy",
+    "Unknown person #4",
+    "Shirahoshi",
+    "King Neptune",
+    "Manboshi",
+    "Ryuboshi"
+  ],
+  "scene": "The scene focuses on the noah begins to fall, with Unknown person #1, Unknown person #2, Fish-Man Island Citizens, Unknown person #3, Fukaboshi, Hody Jones, Luffy shaping the conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Finally, he croaks!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Decken's ability is no more!!!"
+    },
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "So long, straw hat crew!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "DAMN that HODY!!!"
+    },
+    {
+      "speaker": "Fukaboshi",
+      "text": "Very well, father!!"
+    },
+    {
+      "speaker": "Hody Jones",
+      "text": "Jahaha Hahaha Hahah!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Oh, I'll stop it!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I'll smash that whole ship to pieces..."
+    },
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "...Before it ever reaches the island!!!"
+    }
+  ],
+  "summary": "The Noah Begins to Fall. This part advances the end of the Fish-Man Island conflict and the island’s attempt to move beyond inherited hatred.",
+  "confidence": 0.76,
+  "needs_review": false
+}

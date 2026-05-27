@@ -1,0 +1,94 @@
+{
+  "chapter": "152",
+  "part": 5,
+  "title": "Chopper’s Future Becomes Clear",
+  "description": "On pages 17–18, this part focuses on chopper’s future becomes clear, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Chopper",
+    "Drum villager",
+    "Dr. Kureha",
+    "Dalton",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Luffy",
+    "Wapol"
+  ],
+  "scene": "Chopper’s Future Becomes Clear. Luffy defeats Wapol and destroys the symbol of his selfish rule, clearing the way for Drum’s rebirth. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Chopper",
+      "text": "but I'm... a Reindeer!"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "I have horns... hooves...!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "And my nose is even blue...!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Can you treat his heart...?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "I do..."
+    },
+    {
+      "speaker": "Dalton",
+      "text": "Want to be a pirate but...!"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "But I'm not human!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "I'm a monster!"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "So I can't become pirates with you!"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "That's why... I've come here to just say thanks!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Thank you,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "for inviting me along."
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "Though I'll be staying here,"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "Maybe one day, I'll..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Oh just shut up and come with us already!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Since when is \"Shut up\" an invite- lion?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Okay!"
+    }
+  ],
+  "summary": "This part highlights chopper’s future becomes clear and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.74,
+  "needs_review": false
+}

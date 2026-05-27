@@ -1,0 +1,44 @@
+{
+  "chapter": "194",
+  "part": 5,
+  "title": "The City Holds Its Breath",
+  "description": "On pages 18–18, this part focuses on the city holds its breath, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    18
+  ],
+  "characters": [
+    "Vivi",
+    "Nami",
+    "Zoro"
+  ],
+  "scene": "The City Holds Its Breath. Vivi and the others hunt for the hidden cannon before the final explosion can destroy both armies. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "Because the very moment I cut through iron,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Will be the same moment you die...!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I see..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hahh!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I'll cut your entire body up right down to the very last atom...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "first, a sword that can't cut through anything...!"
+    }
+  ],
+  "summary": "This part develops the city holds its breath and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.77,
+  "needs_review": false
+}

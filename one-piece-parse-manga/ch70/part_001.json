@@ -1,0 +1,47 @@
+{
+  "chapter": "70",
+  "part": 1,
+  "title": "Usopp Reaches Cocoyasi",
+  "pages": [
+    0
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Arlong",
+    "Unknown person #1"
+  ],
+  "scene": "On page 0, the story moves through Arlong Park and Nami’s dangerous position among the fish-men. Usopp arrives ahead of the others and gets pulled into the fear surrounding Arlong’s domain.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "We've finally arrived but..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "The real problem is from here. First, let's try to find where Nami docked the ship..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "SHING!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "And then cut our way in?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "As if!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Are you an idiot!? We don't have the slightest clue what's going on yet!"
+    }
+  ],
+  "summary": "This part builds the Arlong Park conflict by showing how Nami’s choices look contradictory from outside while Arlong’s power keeps the island trapped.",
+  "confidence": 0.74,
+  "needs_review": false
+}

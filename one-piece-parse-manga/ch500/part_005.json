@@ -1,0 +1,77 @@
+{
+  "chapter": "500",
+  "part": 5,
+  "title": "Sabaody’s Cruel World: Aftermath",
+  "description": "In the Sabaody Archipelago storyline, this section centers on Duval, Unknown person #1, Unknown person #3 as the scene develops across pages 17–18.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Duval",
+    "Unknown person #1",
+    "Unknown person #3"
+  ],
+  "scene": "This scene advances the Sabaody Archipelago conflict through Duval, Unknown person #1, Unknown person #3, focusing on the immediate stakes of sabaody’s cruel world: aftermath.",
+  "dialogue": [
+    {
+      "speaker": "Duval",
+      "text": "Gusu"
+    },
+    {
+      "speaker": "Duval",
+      "text": "Keh!!"
+    },
+    {
+      "speaker": "Duval",
+      "text": "Hacchin will kick your butt, too!!!"
+    },
+    {
+      "speaker": "Duval",
+      "text": "Still Cheeky..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Eh...!? Disco!?"
+    },
+    {
+      "speaker": "Duval",
+      "text": "Hey, what's wrong, Disco!?"
+    },
+    {
+      "speaker": "Duval",
+      "text": "Doctor! Doctor!!"
+    },
+    {
+      "speaker": "Duval",
+      "text": "Hey... old man... stop acting innocent."
+    },
+    {
+      "speaker": "Duval",
+      "text": "It was you!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "that \"Haki.\""
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "... just what are you....!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "... Fufu..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "And you know..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I love young girls..."
+    }
+  ],
+  "summary": "This scene advances the Sabaody Archipelago conflict through Duval, Unknown person #1, Unknown person #3, focusing on the immediate stakes of sabaody’s cruel world: aftermath.",
+  "confidence": 0.73,
+  "needs_review": false
+}

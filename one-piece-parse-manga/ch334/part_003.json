@@ -1,0 +1,102 @@
+{
+  "chapter": "334",
+  "part": 3,
+  "title": "Luffy Strikes Back",
+  "description": "Usopp formally challenges Luffy for the Going Merry, turning grief into a duel that the crew cannot stop.",
+  "pages": [
+    11,
+    12,
+    13,
+    14
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Paulie",
+    "Nami",
+    "Iceburg",
+    "Zoro",
+    "Chopper",
+    "Franky",
+    "Franky Family",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 11, 12, 13, 14, this part follows Luffy, Usopp, Paulie, Nami, Iceburg. Usopp formally challenges Luffy for the Going Merry, turning grief into a duel that the crew cannot stop.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "I'll go look."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "TAN!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Wait, Luffy! I'll go, too."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You coming?"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "...... no,"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "I'll wait and see what happens next..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Blue Station. Blue Station."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Galley-La company head- quarters, Zousenjima"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Iceburg Residence"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "How is iceberg- San!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Ice- Berg- San, Don't Die!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "How is he, Doctor?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Chu Chu"
+    },
+    {
+      "speaker": "Franky",
+      "text": "and three times in the back..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "But this is too cruel,"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "According to the police..."
+    },
+    {
+      "speaker": "Franky Family",
+      "text": "The only thing they found there..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "was a common mask."
+    }
+  ],
+  "summary": "Usopp formally challenges Luffy for the Going Merry, turning grief into a duel that the crew cannot stop.",
+  "confidence": 0.85,
+  "needs_review": false
+}

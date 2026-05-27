@@ -1,0 +1,72 @@
+{
+  "chapter": "177",
+  "part": 4,
+  "title": "Baroque Works Fans the Flames",
+  "description": "On pages 17–20, this part focuses on baroque works fans the flames, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    17,
+    18,
+    19,
+    20
+  ],
+  "characters": [
+    "Luffy",
+    "Crocodile",
+    "Vivi",
+    "Koza"
+  ],
+  "scene": "Baroque Works Fans the Flames. Alubarna becomes the battlefield where Koza, Cobra’s army, and Crocodile’s manipulation finally meet. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Pistoll"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Fwoosh!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "swilpe!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Whoa!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "NGA!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Hmm..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu-"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Stamp!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Let me tell you just one thing, Straw-Eat Luffy..."
+    },
+    {
+      "speaker": "Koza",
+      "text": "No matter how much you struggle, you won't-"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu Gatling!"
+    }
+  ],
+  "summary": "This part develops baroque works fans the flames and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

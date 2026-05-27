@@ -1,0 +1,148 @@
+{
+  "chapter": "89",
+  "part": 3,
+  "title": "Hatchan Rises Again",
+  "description": "On pages 9–12, hatchan rises again focuses on Sanji, Nojiko, Genzo, Luffy as the fight centers on freeing Luffy from underwater before Arlong’s crew can finish the Straw Hats.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Sanji",
+    "Nojiko",
+    "Genzo",
+    "Luffy",
+    "Arlong",
+    "Nami",
+    "Zoro",
+    "Hatchan",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "On pages 9–12, hatchan rises again focuses on Sanji, Nojiko, Genzo, Luffy as the fight centers on freeing Luffy from underwater before Arlong’s crew can finish the Straw Hats.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "What's with all these bandages anyways? Did you happen to fall down somewhere?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Gahhh!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "W-What's with these wounds!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Ahh...!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "How can he still be living with these injuries...!? How can he even stand!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "And that glare... is this how a dying man is supposed to look!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I have to kill him right here and now...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I can't afford to let a man like this live...!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Haha..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "If you lied down quietly..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Those wounds wouldn't have reopened...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "How true..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Laughing at your sad state now?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm not talking about myself...!"
+    },
+    {
+      "speaker": "Hatchan",
+      "text": "I'm talking about that octopus..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "didn't we already tell you...? That this game is ours for the taking..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Nyu!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "GOD- DAMN IT!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Had me scared for nothing!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "But in any case, it's all your damn fault that this had to be more complicated than it needed to be...!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Ah!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "We did it!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Now go, you idiot!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Ahhh!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Is it coming!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "It's coming!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Go and fight that shark!"
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.66,
+  "needs_review": true
+}

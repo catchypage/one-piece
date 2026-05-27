@@ -1,0 +1,27 @@
+{
+  "chapter": "210",
+  "part": 4,
+  "title": "The Farewell Speech",
+  "description": "On pages 17, this part focuses on the war finally ends. Alabasta’s people absorb the end of the fighting while the Straw Hats and their allies prepare for the painful separation ahead.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji"
+  ],
+  "scene": "This scene belongs to the The War Finally Ends sequence. The important beat is the dialogue and action around Luffy, Vivi, Zoro, Nami, Usopp.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Mr. 7"
+    }
+  ],
+  "summary": "Alabasta’s people absorb the end of the fighting while the Straw Hats and their allies prepare for the painful separation ahead.",
+  "confidence": 0.89,
+  "needs_review": false
+}

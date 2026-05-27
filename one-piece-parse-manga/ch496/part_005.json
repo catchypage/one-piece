@@ -1,0 +1,61 @@
+{
+  "chapter": "496",
+  "part": 5,
+  "title": "The Road to Sabaody: Aftermath",
+  "description": "In the Sabaody Archipelago storyline, this section centers on Unknown person #4, Duval, Unknown person #8, Unknown person #26, Unknown person #27, Unknown person #28 as the scene develops across pages 17–18.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Unknown person #4",
+    "Duval",
+    "Unknown person #8",
+    "Unknown person #26",
+    "Unknown person #27",
+    "Unknown person #28",
+    "Franky"
+  ],
+  "scene": "This scene advances the Sabaody Archipelago conflict through Unknown person #4, Duval, Unknown person #8, Unknown person #26, Unknown person #27, focusing on the immediate stakes of the road to sabaody: aftermath.",
+  "dialogue": [
+    {
+      "speaker": "Duval",
+      "text": "Ah, good octopus..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Sure, what?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Who are they?"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Hmph, what about them?"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "No matter what happens in town,"
+    },
+    {
+      "speaker": "Unknown person #26",
+      "text": "Just pretend that you didn't see anything!!!"
+    },
+    {
+      "speaker": "Unknown person #27",
+      "text": "-Daze"
+    },
+    {
+      "speaker": "Unknown person #28",
+      "text": "Luffy Sanji Usopp Chopper Brook"
+    },
+    {
+      "speaker": "Franky",
+      "text": "One piece!! Zoro Nami Franky Robin"
+    }
+  ],
+  "summary": "This scene advances the Sabaody Archipelago conflict through Unknown person #4, Duval, Unknown person #8, Unknown person #26, Unknown person #27, focusing on the immediate stakes of the road to sabaody: aftermath.",
+  "confidence": 0.67,
+  "needs_review": true
+}

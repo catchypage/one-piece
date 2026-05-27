@@ -1,0 +1,89 @@
+{
+  "chapter": "62",
+  "part": 4,
+  "title": "Krieg Unleashes Poison Gas",
+  "pages": [
+    13,
+    15,
+    16
+  ],
+  "characters": [
+    "Luffy",
+    "Sanji",
+    "Don Krieg",
+    "Gin",
+    "Zeff",
+    "Unknown person #1",
+    "Unknown person #2"
+  ],
+  "scene": "On pages 13–16, the Baratie conflict focuses on Luffy, Sanji, Don Krieg, Gin, Zeff. Don Krieg prepares poison gas, forcing enemies and allies alike to face the cruelty of his warfare.",
+  "dialogue": [
+    {
+      "speaker": "Gin",
+      "text": "What!? They all dove underwater!"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Crap, and I wanted a mask too!"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Sir! We have to head far back inside the restaurant as we can!"
+    },
+    {
+      "speaker": "Gin",
+      "text": "What do I do, What do I do, What do I do..."
+    },
+    {
+      "speaker": "Gin",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "This is might."
+    },
+    {
+      "speaker": "Gin",
+      "text": "Whew... I'm saved..."
+    },
+    {
+      "speaker": "Gin",
+      "text": "Thank God I found this mask lying on the ground in time."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "pirates using poison gas..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "This is unheard of!"
+    },
+    {
+      "speaker": "Gin",
+      "text": "He's a demon for sure!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It's already been 5 minutes..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Do you think Sanji and the errand boy are alright...?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Who knows... Hey, look! The poison gas is clearing up!"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Gin!"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Move your hand!"
+    }
+  ],
+  "summary": "This part keeps the Baratie battle centered on willpower, debt, hunger, and pride. The dialogue shows who still stands firm after Krieg’s violence and who is ready to break away from the restaurant’s old life.",
+  "confidence": 0.75,
+  "needs_review": false
+}

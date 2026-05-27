@@ -1,0 +1,200 @@
+{
+  "chapter": "99",
+  "part": 1,
+  "title": "Buggy Captures Luffy",
+  "description": "On pages 1–4, buggy captures luffy focuses on Luffy, Buggy, Alvida, Smoker as buggy captures Luffy at the place where Gold Roger died, turning Loguetown into a crisis.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Buggy",
+    "Alvida",
+    "Smoker",
+    "Zoro",
+    "Sanji",
+    "Nami",
+    "Usopp",
+    "Narrator",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "On pages 1–4, buggy captures luffy focuses on Luffy, Buggy, Alvida, Smoker as buggy captures Luffy at the place where Gold Roger died, turning Loguetown into a crisis.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "A legend passed down into the far, far future..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "A story that began long, long ago..."
+    },
+    {
+      "speaker": "Buggy",
+      "text": "For the crime of angering me, I sentence you, monkey D. Luffy,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "to a flashy execution!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Let's cause a flashy ruckus, boys!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Yahoo!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Just stand right there and watch!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "This is the first time I've seen an execution."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You're the one who's being executed here!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What!? Are you kidding me!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "No, you stop kidding around!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "your flashy execution,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "shall now be carried out for the whole public to see!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Nooo!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Why're you in such a rush for!?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Shouldn't we be trying to save Luffy back there?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What use would we be back there!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "We could back them up! I'll have you know that I took down a fishman officer all by myself!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Well, we've got something more important to worry about."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "More important?"
+    },
+    {
+      "speaker": "Dragon",
+      "text": "A storm is headed for this island."
+    },
+    {
+      "speaker": "Nami",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The air pressure and temperature's been dropping for the past while now."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Not only that, I saw cumulus clouds heading from the east."
+    },
+    {
+      "speaker": "Dragon",
+      "text": "That's a sure sign of a storm!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "With that ruckus going on in the town square, the marines are sure to come out."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "What would we do if our ship happened to wash away when we needed to run away!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Holy crap, you're right! That is more important!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "H-Hey! Wait for me!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "riding on my Richie bike~ )"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Who's that, you say?"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "It's me!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "So this is that rubber brat's ship."
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "It's much bigger than the one he had last time."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "He should be getting his flashy execution from Captain Buggy right about now."
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Grrr"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Heh heh"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "But in the one in a million chance that he escapes,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "His ship will be burned down!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Grrr Rrr...."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "By us, that is! )"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Grrr"
+    }
+  ],
+  "summary": "This part turns Loguetown into a trap, bringing old enemies and Marine pressure together around Luffy.",
+  "confidence": 0.79,
+  "needs_review": false
+}

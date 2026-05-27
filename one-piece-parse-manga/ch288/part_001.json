@@ -1,0 +1,114 @@
+{
+  "chapter": "288",
+  "part": 1,
+  "title": "The Ancient Shandia Village",
+  "description": "Noland confronts the village’s disease and superstition, challenging the sacrifices that have shaped Shandora’s fear.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Enel",
+    "Calgara",
+    "Mont Blanc Noland",
+    "Musse",
+    "Shandia villager",
+    "Shandia warrior",
+    "Wyper",
+    "Aisa",
+    "Shandia villagers",
+    "Nola"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this scene focuses on Enel, Calgara, Mont Blanc Noland, Musse, Shandia villager. Noland confronts the village’s disease and superstition, challenging the sacrifices that have shaped Shandora’s fear.",
+  "dialogue": [
+    {
+      "speaker": "Enel",
+      "text": "He killed our God!"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Forgive us, Lord Kashi!"
+    },
+    {
+      "speaker": "Mont Blanc Noland",
+      "text": "Lord Kashi!"
+    },
+    {
+      "speaker": "Mont Blanc Noland",
+      "text": "How dare that man!"
+    },
+    {
+      "speaker": "Mont Blanc Noland",
+      "text": "We need blood!"
+    },
+    {
+      "speaker": "Mont Blanc Noland",
+      "text": "The following"
+    },
+    {
+      "speaker": "Musse",
+      "text": "Admiral... Why you gotta be like that!?"
+    },
+    {
+      "speaker": "Shandia villager",
+      "text": "They're shouting decide! Just what's going on...?"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "KALGARA!"
+    },
+    {
+      "speaker": "Shandia warrior",
+      "text": "Kill him!"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Kill him to calm God's fury!"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Great Warrior Calgara! Please!"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "You must be purged!"
+    },
+    {
+      "speaker": "Musse",
+      "text": "You have no right to talk here!"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Atone your sins to the gods!"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "What's with that man...?"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "He's fighting evenly with Calgara!"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "What-"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Take that knife and end your life."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Have you no shame!?"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Don't be stu-"
+    }
+  ],
+  "summary": "Noland confronts the village’s disease and superstition, challenging the sacrifices that have shaped Shandora’s fear.",
+  "confidence": 0.87,
+  "needs_review": false
+}

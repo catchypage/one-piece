@@ -1,0 +1,109 @@
+{
+  "chapter": "55",
+  "part": 3,
+  "title": "Pearl Enters the Fight",
+  "description": "On pages 9–12, Krieg’s forces push harder against the Baratie, using numbers, weapons, and intimidation while Sanji and the cooks struggle to hold the line.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Sanji",
+    "Pearl",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7"
+  ],
+  "scene": "The restaurant becomes a battlefield where Krieg’s idea of strength clashes with the Baratie’s pride and the Straw Hats’ refusal to yield.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Talk about reckless!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Does he want to be burned alive!?"
+    },
+    {
+      "speaker": "Pearl",
+      "text": "H-How could you attack me, the fire pearl that wild beasts won't even approach...!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "idiot. How could a chef ever cook,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "If he was afraid of fire?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "D-Damn you!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Why you dandy son of a...!"
+    },
+    {
+      "speaker": "Pearl",
+      "text": "Fire Pearl Present!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Dash!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ahhh! He got him!"
+    },
+    {
+      "speaker": "Pearl",
+      "text": "He slipped past Pearl's Iron Wall!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Who is this cook!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "GRINCE - I'm not sure if you are going to"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "He's serious trouble!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "My... My face...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Danger! He's too danger- guys!"
+    },
+    {
+      "speaker": "Pearl",
+      "text": "More fire! More fire pearls!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Aghhh! He's planning to burn down the restaurant!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "This place is goners if the fire spreads to the kitchen!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Sir! Run away!"
+    }
+  ],
+  "summary": "This part keeps increasing the pressure on the Baratie and exposes the brutality of Krieg’s command structure.",
+  "confidence": 0.66,
+  "needs_review": false
+}

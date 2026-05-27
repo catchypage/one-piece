@@ -1,0 +1,79 @@
+{
+  "chapter": "108",
+  "part": 1,
+  "title": "Zoro Cuts Through Baroque Works",
+  "description": "On pages 1–4, zoro cuts through baroque works as zoro cuts through the Baroque Works agents at Whiskey Peak while Luffy wakes up and misunderstands the situation.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Zoro",
+    "Baroque Works agent",
+    "Luffy",
+    "Nami",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "Zoro Cuts Through Baroque Works. Zoro cuts through the Baroque Works agents at Whiskey Peak while Luffy wakes up and misunderstands the situation. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Zoro",
+      "text": "where did that swordsman,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "disappear off to now..."
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "Is he seriously planning to take on all of us,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "All by himself?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It doesn't seem like he truly under- stands,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The power of Baroque works."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Now then... this'll be an excellent chance to test out my new boys."
+    },
+    {
+      "speaker": "Nami",
+      "text": "no need to hold anything back, boys."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Yeehawi!"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "I found him!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hmph! He rolled into the house...!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Hmm!?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Agh!"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on zoro cuts through baroque works. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.7,
+  "needs_review": false
+}

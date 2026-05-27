@@ -1,0 +1,106 @@
+{
+  "chapter": "250",
+  "part": 3,
+  "title": "Luffy, Sanji, and Usopp Fight Back",
+  "description": "Satori uses mantra and surprise traps to overwhelm Luffy, Sanji, and Usopp inside the Ordeal of Balls.",
+  "pages": [
+    9,
+    10,
+    12,
+    13
+  ],
+  "characters": [
+    "Satori",
+    "Luffy",
+    "Sanji",
+    "Usopp",
+    "Gan Fall",
+    "Chopper",
+    "Nami",
+    "Zoro",
+    "Nico Robin",
+    "Shandia warriors"
+  ],
+  "scene": "Across pages 9, 10, 12, 13, this scene centers on Satori, Luffy, Sanji, Usopp, Gan Fall. Satori uses mantra and surprise traps to overwhelm Luffy, Sanji, and Usopp inside the Ordeal of Balls.",
+  "dialogue": [
+    {
+      "speaker": "Satori",
+      "text": "Goo Jin!!"
+    },
+    {
+      "speaker": "Satori",
+      "text": "KA Su!!"
+    },
+    {
+      "speaker": "Satori",
+      "text": "Ka Gu"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What!!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Then I'll just do this!!!"
+    },
+    {
+      "speaker": "Satori",
+      "text": "I can't control the dragon!!"
+    },
+    {
+      "speaker": "Satori",
+      "text": "That little brat!!!!"
+    },
+    {
+      "speaker": "Satori",
+      "text": "You!! Get over here!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Waaaaah!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Release the grip on the other hand........!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Aya... that was really dangerous."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You're NOT DEAD!!!!"
+    },
+    {
+      "speaker": "Satori",
+      "text": "Hah..... hah.....!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "found it...."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That must be the exit."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Why didn't I realize this earlier..."
+    },
+    {
+      "speaker": "Satori",
+      "text": "I must hurry back..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Let go of me!!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "You bastard....!!"
+    }
+  ],
+  "summary": "Satori uses mantra and surprise traps to overwhelm Luffy, Sanji, and Usopp inside the Ordeal of Balls.",
+  "confidence": 0.86,
+  "needs_review": false
+}

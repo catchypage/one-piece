@@ -1,0 +1,82 @@
+{
+  "chapter": "1",
+  "part": 16,
+  "title": "Luffy Sets Sail with Shanks’ Promise",
+  "description": "On pages 56–59, this part follows the Romance Dawn flashback and focuses on how Luffy’s pirate dream is formed through Shanks, Higuma, and the straw hat promise.",
+  "pages": [
+    56,
+    57,
+    59
+  ],
+  "characters": [
+    "Luffy",
+    "Gol D. Roger",
+    "Unknown person #1"
+  ],
+  "scene": "Shanks leaves Luffy with the straw hat, turning their farewell into a promise about the future.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "THAT'S WHAT YOU GET, YOU DARN FISH!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HMPH!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hmm..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "First things first. I've got to get a crew!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I think about 10 men should do."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "AND I'LL NEED A PIRATE FLAG!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Look out world, here I come!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm going to become..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "...The King of the Pirates!!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Luffy'S TINY BOAT FLOATS ON, HIS CREW YET TO BE FOUND..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Luffy's great voyage of Destiny has begun!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "WOW! WHAT A GREAT DAY!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "THE WEATHER'S SO NICE!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "This is no ordinary boy in a rowboat. This is a boy with a dream, challenging the vast, treacherous seas in a tiny dinghy, searching for extraordinary men for his PIRATE CREW!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "WHO'D HAVE THOUGHT THIS VOYAGE WOULD END IN DISASTER SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO SO"
+    }
+  ],
+  "summary": "Shanks entrusts Luffy with the straw hat as a promise for the future. This moment turns Luffy’s dream into the core vow that will define his journey.",
+  "confidence": 0.86,
+  "needs_review": false
+}

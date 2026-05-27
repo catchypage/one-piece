@@ -1,0 +1,217 @@
+{
+  "chapter": "625",
+  "part": 2,
+  "title": "A Letter from the Surface",
+  "description": "On pages 6–10, this part focuses on Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Unknown person #7. The core beat is a letter from the surface.",
+  "pages": [
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Royal Guards",
+    "Fish-Man Island Citizens",
+    "Queen Otohime",
+    "King Neptune"
+  ],
+  "scene": "The scene follows a letter from the surface, keeping the focus on Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Unknown person #7.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "Even if we don't do a thing, he's barely breathing!! He's dead either way!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Let him feel a little of the pain you suffered!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Kill H!!!!mm!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Make sure it's painful!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "What's going on? I'm an important person...!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Eh?"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "you, of all people... I could never forgive even if I tried....!!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "tremble"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Wait... Stooop !!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Do it!!!!!!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Stop this at once!!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Ignorant Fish!!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Eh?!!"
+    },
+    {
+      "speaker": "Royal Guards",
+      "text": "QUEEN OTOHIME !!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "ung hh..."
+    },
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "The bullet hit the queen ....!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Aaaah!!!!!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "*Pant* ...!!"
+    },
+    {
+      "speaker": "Royal Guards",
+      "text": "Your majesty !!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Throw your weapons aside, all of you....!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "There are children watching....!!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Aladin! Where is the tenryu- Ubito?!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "I only just got here myself..."
+    },
+    {
+      "speaker": "Fukaboshi",
+      "text": "Boss jimbe!! Mother just dashed out of the palace alone...!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Your highnesses ....!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "brother, who is this \"tenryubito\"?"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Shirahoahi (6)"
+    },
+    {
+      "speaker": "Fukaboshi",
+      "text": "It's a kind of human, Shirahoshii ..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "One of the... less pleasant types of human..."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "...It is merely a scratch ....!!"
+    },
+    {
+      "speaker": "Royal Guards",
+      "text": "But... your majesty ....!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Why do you protect him?!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Do you not realise what this man has done to us...?!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Remember someone"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "I can hear the cries of your hearts. They are painfully clear to me..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "I know it must be difficult... but no matter how much anger and hatred you bear towards these humans..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "You must not pass it on to the children....!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "they must meet the humans for themselves, and make their own decisions!!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "\"I beg of you!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Don't tell anything of this to the people of fish-man island!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "of the tragedy that has befallen us!!"
+    },
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "or of our rage towards the humans!!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "AHA!!"
+    },
+    {
+      "speaker": "Fukaboshi",
+      "text": "mother, watch out!!"
+    },
+    {
+      "speaker": "Royal Guards",
+      "text": "No... your majesty!!"
+    },
+    {
+      "speaker": "Fukaboshi",
+      "text": "Mothereeeee Eeeeeer!!!!"
+    }
+  ],
+  "summary": "A Letter from the Surface. This part advances Fish-Man Island’s history and present conflict, tying Otohime and Fisher Tiger’s legacy to Hody’s threat.",
+  "confidence": 0.58,
+  "needs_review": true
+}

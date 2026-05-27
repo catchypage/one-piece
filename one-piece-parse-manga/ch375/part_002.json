@@ -1,0 +1,166 @@
+{
+  "chapter": "375",
+  "part": 2,
+  "title": "Sogeking Joins the Rescue",
+  "description": "The rescue force reaches Enies Lobby, where the island’s guards and government agents prepare to stop the Straw Hats.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Kumadori",
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Chopper",
+    "Sogeking",
+    "Franky",
+    "Nico Robin",
+    "Blueno"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this part follows Kumadori, Luffy, Zoro, Nami, Sanji. The rescue force reaches Enies Lobby, where the island’s guards and government agents prepare to stop the Straw Hats.",
+  "dialogue": [
+    {
+      "speaker": "Kumadori",
+      "text": "Stupid Frog"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gero*!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Geh!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We'd almost caught up to Sanji!!!"
+    },
+    {
+      "speaker": "Kumadori",
+      "text": "Then you smacked us off the track!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Hey! What HapPened!!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Huh? You...."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm a..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "NAVIGator!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "That's marvelous!! NGaggaggaga!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hey!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Yokozuna _____!!! Come here a moment!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Gero!!?"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Gero Gero Geroro!!"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "No no!! They didn't Kidnap me!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Gero!!?"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Ah!? Granny's talking to Yokozuna!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "What's up?"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "The old lady is talking to Yokozuna!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "So Granny's a frog?"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "That's right!"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Hoping to get stronger, haven't you...?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Gero!!"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Gero!!!"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Right now, we're chasing after him!"
+    },
+    {
+      "speaker": "Oimo",
+      "text": "Do you want to come with us!?"
+    },
+    {
+      "speaker": "Oimo",
+      "text": "GEROO!!!"
+    },
+    {
+      "speaker": "Oimo",
+      "text": "NGagaga! Sure, whatever you wanna call me."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "OK! Let's charge towards it!!"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Hey! Neechan! Neechan!"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Got it!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Let's do that."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Let's go! We're almost there! Charge!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "GEROO!!!"
+    }
+  ],
+  "summary": "The rescue force reaches Enies Lobby, where the island’s guards and government agents prepare to stop the Straw Hats.",
+  "confidence": 0.82,
+  "needs_review": false
+}

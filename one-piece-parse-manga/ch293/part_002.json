@@ -1,0 +1,94 @@
+{
+  "chapter": "293",
+  "part": 2,
+  "title": "Raigo Threatens the Island",
+  "description": "Luffy returns to the final battle against Enel, refusing to let the self-proclaimed god erase Skypiea or the old promise.",
+  "pages": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "characters": [
+    "Luffy",
+    "Enel",
+    "Nami",
+    "Aisa",
+    "Conis",
+    "Gan Fall",
+    "Pagaya",
+    "Nico Robin",
+    "Calgara",
+    "Wyper"
+  ],
+  "scene": "Across pages 6, 7, 8, 9, this scene focuses on Luffy, Enel, Nami, Aisa, Conis. Luffy returns to the final battle against Enel, refusing to let the self-proclaimed god erase Skypiea or the old promise.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "enel... what gives you the right..."
+    },
+    {
+      "speaker": "Enel",
+      "text": "to steal everything...!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Oh crap!"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "This is the end of every- thing!"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Yahahaha! This is the sky, God's territory!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hmm..."
+    },
+    {
+      "speaker": "Conis",
+      "text": "Yahahaha! I am god!"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Yahaha!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Fall back down!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Aghhh! Our village!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Nasaa!"
+    },
+    {
+      "speaker": "Conis",
+      "text": "That was close..."
+    },
+    {
+      "speaker": "Pagaya",
+      "text": "To the seas!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Take to the seas!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "The seas!"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Cpt. McKimley! We've got wounded here!"
+    }
+  ],
+  "summary": "Luffy returns to the final battle against Enel, refusing to let the self-proclaimed god erase Skypiea or the old promise.",
+  "confidence": 0.88,
+  "needs_review": false
+}

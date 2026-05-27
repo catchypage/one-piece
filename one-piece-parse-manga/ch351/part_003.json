@@ -1,0 +1,135 @@
+{
+  "chapter": "351",
+  "part": 3,
+  "title": "The Sea Train Project",
+  "description": "Spandam weaponizes Franky’s battle ships to frame Tom, turning Franky’s creations into the tool that destroys his family.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Franky",
+    "Tom",
+    "Iceburg",
+    "Spandam",
+    "Kokoro",
+    "Yokozuna",
+    "World Government agent"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this part follows Franky, Tom, Iceburg, Spandam, Kokoro. Spandam weaponizes Franky’s battle ships to frame Tom, turning Franky’s creations into the tool that destroys his family.",
+  "dialogue": [
+    {
+      "speaker": "Franky",
+      "text": "Haa..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Tom",
+      "text": "HAA...."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "HAA"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Hoo!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "CREAK..."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Crunch!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Snerk!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "Kaff"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "I'm sorry, Going Merry....."
+    },
+    {
+      "speaker": "Franky",
+      "text": "HAA"
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": ".....!! Hehehe..."
+    },
+    {
+      "speaker": "World Government agent",
+      "text": "Sniff!!"
+    },
+    {
+      "speaker": "World Government agent",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "World Government agent",
+      "text": "I'll fix you....!! in a minute....!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "I'll fix you...!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Again!! And again!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Shut up already!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "What did you say!!?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "I knew... all of that."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I knew that going Going Merry...!!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Could not travel any- more!!!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "\"I actually....."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "knew all of that....!!!"
+    }
+  ],
+  "summary": "Spandam weaponizes Franky’s battle ships to frame Tom, turning Franky’s creations into the tool that destroys his family.",
+  "confidence": 0.75,
+  "needs_review": false
+}

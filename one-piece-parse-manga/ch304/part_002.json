@@ -1,0 +1,170 @@
+{
+  "chapter": "304",
+  "part": 2,
+  "title": "Foxy’s Cheating Game",
+  "description": "Foxy challenges Luffy to a pirate game where crew members can be stolen, turning the island stop into a dangerous contest.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Foxy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Tonjit",
+    "Porche"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this scene focuses on Luffy, Foxy, Nami, Usopp, Zoro. Foxy challenges Luffy to a pirate game where crew members can be stolen, turning the island stop into a dangerous contest.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "And they all look super depressed!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What's going on?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Is that ship gonna be alright!?"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Grab your helm!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hey... It's a ship..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "A pirate ship!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "But that ship's gonna get away them!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Man the cannons!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Hey, who d'ya think you're orderin' around!?"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Why don't you do it!?"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Grab the helm! The helm!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Hey, don't just do whatever you want!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What a disorganized crew."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Where's the helm!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "How should I know?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Someone give orders! Navigator!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "We don't have one!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Then the captain!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "We don't have one!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "It's too late! We're gonna be swallowed!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Dammit, you're all useless!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Well so are you!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Kee!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Whew... Things calmed down at last..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Hey Nico Robin, can you see something?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Tell us that earlier!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "IslamND nobody, scallywags!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Yahoo!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Now you try saying it."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "There's quite a thick fog."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Sure thing!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Sorry, I'll be more careful next time."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Oh you will? Well then that's good."
+    },
+    {
+      "speaker": "Nami",
+      "text": "No flag, no sails,"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "No motivation, no coordination..."
+    }
+  ],
+  "summary": "Foxy challenges Luffy to a pirate game where crew members can be stolen, turning the island stop into a dangerous contest.",
+  "confidence": 0.88,
+  "needs_review": false
+}

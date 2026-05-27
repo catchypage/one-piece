@@ -1,0 +1,82 @@
+{
+  "chapter": "190",
+  "part": 1,
+  "title": "Nami Runs Out of Room",
+  "description": "On pages 1–4, this part focuses on nami runs out of room, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Nami",
+    "Miss Doublefinger",
+    "Vivi",
+    "Alabasta rebel",
+    "Unknown person #1",
+    "Unknown person #2"
+  ],
+  "scene": "Nami Runs Out of Room. Nami is pushed into a dangerous fight where every mistake with the Clima-Tact could kill her. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "Huff huff"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's no good... I can't outrun them any longer..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I have to FI-"
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "Nope."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "How tiresome..."
+    },
+    {
+      "speaker": "Alabasta rebel",
+      "text": "Aren't you impatient..."
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "Huh!?"
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "Ahhh!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "ZORO!"
+    },
+    {
+      "speaker": "Alabasta rebel",
+      "text": "The stone pillar... split ver- Tically!?"
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "Spirit? You're mistaken..."
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "That was definitely the sound of a blade just now..."
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "You're in my way..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Bonesa, because"
+    }
+  ],
+  "summary": "This part develops nami runs out of room and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.73,
+  "needs_review": false
+}

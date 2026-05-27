@@ -1,0 +1,72 @@
+{
+  "chapter": "881",
+  "part": 4,
+  "title": "Luffy Enters the Mirror World",
+  "description": "On pages 16–18, this part focuses on Katakuri, Unknown person #13, Unknown person #14, Jinbe, Luffy as Pedro’s sacrifice opens the escape route while Luffy enters the mirror world to hold Katakuri back.",
+  "pages": [
+    16,
+    17,
+    18
+  ],
+  "characters": [
+    "Katakuri",
+    "Unknown person #13",
+    "Unknown person #14",
+    "Jinbe",
+    "Luffy"
+  ],
+  "scene": "Luffy separates himself from the crew to face Katakuri in the mirror world while Sanji moves toward the cake plan.",
+  "dialogue": [
+    {
+      "speaker": "Katakuri",
+      "text": "Willow Mochi!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Someone else I'll"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "hurry up already, guys!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Come on! I'm gonna drop dead waiting here!"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Yeah!"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Later, okay?"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Someone remember"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "\"I ain't planning on dying here,\""
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "is what you will say, but..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Are you sure you want those to be your last words?"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "I ain't planning on dying here!"
+    },
+    {
+      "speaker": "Jinbe",
+      "text": "Captain Luffy's Determi- Nation!"
+    }
+  ],
+  "summary": "This section advances the Luffy vs Katakuri storyline with 12 dialogue beats. Luffy commits to stopping Katakuri while the others continue the escape and Sanji turns toward the cake that may save them.",
+  "confidence": 0.72,
+  "needs_review": true
+}

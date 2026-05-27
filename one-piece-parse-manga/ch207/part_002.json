@@ -1,0 +1,128 @@
+{
+  "chapter": "207",
+  "part": 2,
+  "title": "The Battlefield Goes Silent",
+  "description": "On pages 5, 6, 7, 8, this part focuses on the straw hats become wanted heroes. News of Crocodile’s defeat spreads, new bounties and political consequences appear, and the crew prepares to leave Alabasta quietly.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Alabasta citizen",
+    "Vivi",
+    "King Cobra",
+    "Smoker",
+    "Tashigi",
+    "Nico Robin",
+    "Luffy",
+    "Nami"
+  ],
+  "scene": "This scene belongs to the The Straw Hats Become Wanted Heroes sequence. The important beat is the dialogue and action around Alabasta citizen, Vivi, King Cobra, Smoker, Tashigi.",
+  "dialogue": [
+    {
+      "speaker": "Alabasta citizen",
+      "text": "\"Ready\""
+    },
+    {
+      "speaker": "Vivi",
+      "text": "\"Smash!\""
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "GOOO!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "6 seconds before cannon-fire."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Hey, listen! The bullets for our guns,"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "explode when they bump into each other!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "ZORO!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Ribbit ribbit! Run as you might,"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "It's all futile! Ohohoho!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "That dumbass took a full blast..."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "\"Smash!\""
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Oho!?"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Who's He!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "A seconds left"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Agh-"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "The hell!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Here we go, VIV!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Where's Ms. Wednesday!?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Did we assess wrongly!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "From above!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "CLINK!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "tic..."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "GOO!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Peacock string..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "twirl..."
+    }
+  ],
+  "summary": "News of Crocodile’s defeat spreads, new bounties and political consequences appear, and the crew prepares to leave Alabasta quietly.",
+  "confidence": 0.87,
+  "needs_review": false
+}

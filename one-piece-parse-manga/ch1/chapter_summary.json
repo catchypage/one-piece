@@ -1,0 +1,24 @@
+{
+  "chapter": "1",
+  "title": "Romance Dawn: Luffy’s Promise to Shanks",
+  "main_description": "The opening chapter introduces the Great Pirate Era, then follows young Luffy in Foosha Village as Shanks and his crew shape his dream. Higuma’s attack, Shanks’ sacrifice, and the straw hat promise turn Luffy’s childish wish into a lifelong vow to become King of the Pirates.",
+  "main_characters": [
+    "Luffy",
+    "Shanks",
+    "Makino",
+    "Higuma",
+    "Gol D. Roger"
+  ],
+  "key_events": [
+    "Roger’s final words launch the Great Pirate Era.",
+    "Luffy tries to prove he is ready to become a pirate.",
+    "Higuma humiliates Shanks and later threatens Luffy.",
+    "Shanks saves Luffy from the sea and loses his arm.",
+    "Shanks entrusts Luffy with the straw hat before leaving."
+  ],
+  "confidence": 0.84,
+  "needs_review": true,
+  "review_reasons": [
+    "Some dialogue-heavy parts still contain many unresolved speakers."
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "chapter": "50",
+  "part": 1,
+  "title": "Nami Steals the Going Merry Away",
+  "description": "On pages 1–4, Don Krieg’s arrival turns the Baratie crisis into a pirate siege while Nami’s departure and the looming fight split the crew’s attention.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Baratie Cook",
+    "Unknown person #1",
+    "Zoro",
+    "Nami",
+    "Gin",
+    "Sanji",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "The Baratie becomes trapped between hungry enemies, terrified cooks, Krieg’s overwhelming force, and the Straw Hats’ personal priorities.",
+  "dialogue": [
+    {
+      "speaker": "Baratie Cook",
+      "text": "Aghhhhh!"
+    },
+    {
+      "speaker": "Baratie Cook",
+      "text": "W-What's going on!?"
+    },
+    {
+      "speaker": "Baratie Cook",
+      "text": "I don't know but... maybe their munitions supply exploded!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "We're sorry, bro!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "What is it, Sis? You've been doing nothing but stare at those wanted posters."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Oh Umm,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "No, it's nothing."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Oh? Eyeng the high-bounty outlaws, eh?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "But it's best not to go for that guy."
+    },
+    {
+      "speaker": "Nami",
+      "text": "For a while, he's been keeping pretty quiet,"
+    },
+    {
+      "speaker": "Gin",
+      "text": "But I heard he's recently started rampaging again."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "whisper"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "whisper"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "OK then."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Yeah... but that 20 million bell bounty sure is hard to pass up!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "But considering his strength,"
+    },
+    {
+      "speaker": "Gin",
+      "text": "There's a slim chance that even we would be killed by a slim margin."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Umm... Sis? Isn't that the treasure on our ship...?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Yup, I brought it onboard just now!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You know, we aren't planning on staying with you guys on this ship forever..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Would you two mind turning around for a sec?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I want to change my clothes!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It's a little embarrassing so if you men could just look that way for a moment..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "C-Change clothes? N-N-NOW...?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "s... sure, why not!? We'll look the other way."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "S-Sister Nami sure is bold as she looks."
+    },
+    {
+      "speaker": "Nami",
+      "text": "You uh... you don't think we'd get in too much trouble to peek just a little, do ya?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Heh, of course not. Just a little."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Right, like 2 seconds."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "WHA...!"
+    },
+    {
+      "speaker": "Baratie Cook",
+      "text": "What's going on, Sis!?"
+    }
+  ],
+  "summary": "This part escalates the Baratie arc from character introduction to open conflict, with Krieg threatening the restaurant and Nami pulling the story toward Arlong Park.",
+  "confidence": 0.74,
+  "needs_review": false
+}

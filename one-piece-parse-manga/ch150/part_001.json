@@ -1,0 +1,97 @@
+{
+  "chapter": "150",
+  "part": 1,
+  "title": "Wapol Loses His Throne",
+  "description": "On pages 0–3, this part focuses on wapol loses his throne, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Luffy",
+    "Wapol",
+    "Drum villager",
+    "Chopper",
+    "Nami"
+  ],
+  "scene": "Wapol Loses His Throne. Wapol loses control of the castle and the people’s fear as Luffy, Chopper, and the others push the tyrant back. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "He's gone!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Wapol'S..."
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Not here!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "He came up here on his wools hippo,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "So he can't have gone down the mountain without it."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Dammit..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "When did he-"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "it was when you were busy gushing over the transformations!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HmpH!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'll find and finish him off quickly!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Wait... don't tell me he went inside the castle!? If so, then Nami's in danger!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "If he lays even a finger on Nami, I'll kill him a hundred times over!"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "Hey, stop right there!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "reckless kids these days..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "What happened here...!?"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "This is my beautiful drum castle...!?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "What did they do..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "to my beautiful castle!?"
+    }
+  ],
+  "summary": "This part highlights wapol loses his throne and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.81,
+  "needs_review": false
+}

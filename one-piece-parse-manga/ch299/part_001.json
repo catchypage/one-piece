@@ -1,0 +1,66 @@
+{
+  "chapter": "299",
+  "part": 1,
+  "title": "Luffy Returns to the Final Fight",
+  "description": "After Enel’s defeat, Skypiea begins to heal as enemies, allies, and the Straw Hats gather around the miracle of the bell.",
+  "pages": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Calgara",
+    "Luffy",
+    "Noland",
+    "Nami",
+    "Aisa",
+    "Nico Robin",
+    "Gan Fall",
+    "Enel",
+    "Wyper",
+    "Conis"
+  ],
+  "scene": "Across pages 0, 1, 2, 3, this scene focuses on Calgara, Luffy, Noland, Nami, Aisa. After Enel’s defeat, Skypiea begins to heal as enemies, allies, and the Straw Hats gather around the miracle of the bell.",
+  "dialogue": [
+    {
+      "speaker": "Calgara",
+      "text": "Would you like some delicious milk?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "RING!"
+    },
+    {
+      "speaker": "Noland",
+      "text": "All the way down below!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Can you hear it!? Mister Diamond Heaaaad!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Monkeys!"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Joee!"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "Joee!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "The city of gold!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Was up Heeere!"
+    }
+  ],
+  "summary": "After Enel’s defeat, Skypiea begins to heal as enemies, allies, and the Straw Hats gather around the miracle of the bell.",
+  "confidence": 0.88,
+  "needs_review": false
+}

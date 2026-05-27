@@ -1,0 +1,160 @@
+{
+  "chapter": "350",
+  "part": 3,
+  "title": "The Sea Train Project",
+  "description": "Tom teaches Franky and Iceburg that a shipwright must stand proudly behind the ships they build.",
+  "pages": [
+    10,
+    11,
+    12,
+    14
+  ],
+  "characters": [
+    "Franky",
+    "Tom",
+    "Iceburg",
+    "Spandam",
+    "Kokoro",
+    "Yokozuna",
+    "World Government agent",
+    "Blueno"
+  ],
+  "scene": "Across pages 10, 11, 12, 14, this part follows Franky, Tom, Iceburg, Spandam, Kokoro. Tom teaches Franky and Iceburg that a shipwright must stand proudly behind the ships they build.",
+  "dialogue": [
+    {
+      "speaker": "Franky",
+      "text": "I spent all of it!!"
+    },
+    {
+      "speaker": "Tom",
+      "text": "Don't make me come over there!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "That's no good..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "You showed me your manliness!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "So now..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "I can't stay angry..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "Big bro!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Calm down!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "---- So, about that..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "Let's just call it even..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "It's \"In any case\"."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "It's \"in any case\", big bro."
+    },
+    {
+      "speaker": "Franky",
+      "text": "What do you plan to do now?"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Become my follower!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "I like you!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "No way!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Even though I'm separated from my crew..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "I'm still a pirate at heart!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Aaah!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Please listen to..... \"pirate valor\""
+    },
+    {
+      "speaker": "Franky",
+      "text": "Big Bro----!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Stop Making Fun of Me!!!!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "So, there's a high tide coming?"
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "\"Aqua Laguna\"."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "That's what people here call it."
+    },
+    {
+      "speaker": "World Government agent",
+      "text": "Don't mention it, idiot! Don't mention it!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ah... thanks a lot."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Rising sea level?"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Franky",
+      "text": "Likely, yes..."
+    },
+    {
+      "speaker": "Tom",
+      "text": "But before the sea train,"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "It's an incredible invention!"
+    }
+  ],
+  "summary": "Tom teaches Franky and Iceburg that a shipwright must stand proudly behind the ships they build.",
+  "confidence": 0.84,
+  "needs_review": false
+}

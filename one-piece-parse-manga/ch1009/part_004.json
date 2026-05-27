@@ -1,0 +1,74 @@
+{
+  "chapter": "1009",
+  "part": 4,
+  "title": "The Raid Turns Across Onigashima",
+  "description": "On pages 16–17, this part focuses on Unknown person #13, Unknown person #14, Yamato, Big Mom as Battles spread through the Skull Dome while Tama, Chopper, Marco, and the alliance shift the momentum.",
+  "pages": [
+    16,
+    17
+  ],
+  "characters": [
+    "Unknown person #13",
+    "Unknown person #14",
+    "Yamato",
+    "Big Mom"
+  ],
+  "scene": "Across the Skull Dome, the alliance fights to survive while Tama, Chopper, Marco, and the Straw Hats change the flow of battle.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #13",
+      "text": "WAYA AAH!!!!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "REPEL!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "TAKTI"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "You NUMB- Skulls!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "What's the point of hitting me with a boulder?!"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Aaaa Argh!!"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Curses!!"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "There's nothing but ocean below! Zets, held!!"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "MAMA AAAAAAAA..."
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Zets can't save you now."
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Cough"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "It's time for you to drop out!"
+    },
+    {
+      "speaker": "Yamato",
+      "text": "Big Mom hurtles towards the surface!!"
+    }
+  ],
+  "summary": "This part advances the Wano / Onigashima War storyline through 13 dialogue beats, focusing on the raid’s momentum, character resolve, and the shifting battle lines.",
+  "confidence": 0.64,
+  "needs_review": true
+}

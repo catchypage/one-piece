@@ -1,0 +1,80 @@
+{
+  "chapter": "16",
+  "part": 3,
+  "title": "Orange Town Under Buggy’s Shadow",
+  "description": "On pages 9–12, the Orange Town conflict focuses on Unknown person #1, Unknown person #2, Buggy, Mohji, with Buggy’s occupation testing Luffy, Zoro, Nami, and the townspeople.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Buggy",
+    "Mohji"
+  ],
+  "scene": "This part follows the pressure inside Orange Town as Buggy’s crew, the Straw Hats, and the people caught between them react to the escalating fight.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "OOH....!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "YeeOW!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hmm... I didn't think I kicked you that hard..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hehehehehehehehehehe!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "THAT'S DIRTY! YOU'RE AIMING FOR HIS INJURIES!!"
+    },
+    {
+      "speaker": "Buggy",
+      "text": "Call my next circus trick..."
+    },
+    {
+      "speaker": "Buggy",
+      "text": "\"Murder at the steam bath\"!!"
+    },
+    {
+      "speaker": "Mohji",
+      "text": "Read this way"
+    },
+    {
+      "speaker": "Mohji",
+      "text": "What kind of circus trick is that!?"
+    },
+    {
+      "speaker": "Mohji",
+      "text": "You're just kicking up dust!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Heh heh..."
+    },
+    {
+      "speaker": "Mohji",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "HEDID IT AGAIN!!"
+    },
+    {
+      "speaker": "Buggy",
+      "text": "WHAT KIND OF MAN SCREAMS LIKE A WOMAN?"
+    }
+  ],
+  "summary": "The scene keeps the Orange Town arc moving by tying the immediate battle to the town’s fear, Nami’s motives, and Luffy’s instinct to answer cruelty directly.",
+  "confidence": 0.7,
+  "needs_review": false
+}

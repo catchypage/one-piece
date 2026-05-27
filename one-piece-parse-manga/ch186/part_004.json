@@ -1,0 +1,96 @@
+{
+  "chapter": "186",
+  "part": 4,
+  "title": "The Duel Turns Desperate",
+  "description": "On pages 15–18, this part focuses on the duel turns desperate, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    15,
+    16,
+    17,
+    18
+  ],
+  "characters": [
+    "Vivi",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Miss Merry Christmas",
+    "Baroque Works agent",
+    "Usopp",
+    "Mr. 4"
+  ],
+  "scene": "The Duel Turns Desperate. The separate fights across Alubarna intensify while the bomb plot and the civil war continue moving forward. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "Your turn, chopper!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "POP!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "For"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "For"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "leave it to me!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Huh!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Dammit! That brat jumped out of his shoes!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Agh!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What"
+    },
+    {
+      "speaker": "Miss Merry Christmas",
+      "text": "Molehill 4th road inter- section!"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "!!? :D, wait! it's me, Mr. 4!"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "Stop you id-"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "For"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Hey, slow- poke! Look over here!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Certain kill super usopp..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Hammer COMET!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Brefz: I'm not sure if I'm a fan of the"
+    }
+  ],
+  "summary": "This part develops the duel turns desperate and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

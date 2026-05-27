@@ -1,0 +1,105 @@
+{
+  "chapter": "211",
+  "part": 1,
+  "title": "The Escape from Alabasta Begins",
+  "description": "On pages 1, 2, 3, 4, this part focuses on the crew leaves alabasta behind. The Straw Hats move toward departure while Marines, allies, and the kingdom deal with the consequences of the battle.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Zoro",
+    "Karoo",
+    "Smoker"
+  ],
+  "scene": "This scene belongs to the The Crew Leaves Alabasta Behind sequence. The important beat is the dialogue and action around Luffy, Vivi, Nami, Usopp, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "...hold it!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Throw down your arms!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Royal- ISTS!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Com- Mander Chaka!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Chaka..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "You d- Ahem! Maa Maa..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "You too, rebels!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "C... Captain!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Captain ignorant!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "IGARAM?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Igarami!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You're alive!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "may we meet again in our Homeland."
+    },
+    {
+      "speaker": "Nami",
+      "text": "He's still alive!?"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "Boy... Can you talk?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Hey, isn't that..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Gahaha! Ambiguous!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "...He's right."
+    }
+  ],
+  "summary": "The Straw Hats move toward departure while Marines, allies, and the kingdom deal with the consequences of the battle.",
+  "confidence": 0.88,
+  "needs_review": false
+}

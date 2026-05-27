@@ -1,0 +1,139 @@
+{
+  "chapter": "99",
+  "part": 5,
+  "title": "Lightning Strikes the Platform",
+  "description": "On pages 17–20, lightning strikes the platform focuses on Luffy, Buggy, Alvida, Smoker as buggy captures Luffy at the place where Gold Roger died, turning Loguetown into a crisis.",
+  "pages": [
+    17,
+    18,
+    20
+  ],
+  "characters": [
+    "Luffy",
+    "Buggy",
+    "Alvida",
+    "Smoker",
+    "Zoro",
+    "Sanji",
+    "Nami",
+    "Usopp",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Dragon",
+    "Unknown person #3"
+  ],
+  "scene": "On pages 17–20, lightning strikes the platform focuses on Luffy, Buggy, Alvida, Smoker as buggy captures Luffy at the place where Gold Roger died, turning Loguetown into a crisis.",
+  "dialogue": [
+    {
+      "speaker": "Zoro",
+      "text": "Where did they run off to?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "They're headed for the Western harbour."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "One of our squads should be there by now."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Well, that's Umm... the sudden rain has rendered their gunpowder useless,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "So they headed back to the station to resupply..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "So the Harbour is completely clear!?"
+    },
+    {
+      "speaker": "Dragon",
+      "text": "The winds are blowing west... so if they were to set sail, they'd catch the tailwind."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Is all this purely a council- dance...!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "It's as if the heavens them- selves want that boy to survive!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "On the pride of a marine headquarters captain, I, smoker the white hunter,"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Wow to not allow that boy to escape this island!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "From Workplace Setting Data"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Nami's Orange Field"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Cation"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Whipstaff"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Lounée"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Kitchen, Meeting Room and film"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Fireplace:Bricks"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Cross Section"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Cameron Deck and Storage"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Women's Room (Nami & Treasure)"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Bathroom"
+    },
+    {
+      "speaker": "Nami",
+      "text": "4. Canions Carvel Model \"Caraved\""
+    },
+    {
+      "speaker": "Nami",
+      "text": "Cannon Deck and Author Room"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Art is a battle!"
+    },
+    {
+      "speaker": "Straw Hat Pirates",
+      "text": "Let's go, USOP gallery Pirates!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "ONE piece are"
+    }
+  ],
+  "summary": "This part turns Loguetown into a trap, bringing old enemies and Marine pressure together around Luffy.",
+  "confidence": 0.82,
+  "needs_review": false
+}

@@ -1,0 +1,116 @@
+{
+  "chapter": "215",
+  "part": 2,
+  "title": "The Crew Reacts to a Former Enemy",
+  "description": "On pages 4, 5, 6, 7, this part focuses on a new crewmate and a new mystery. Robin settles into the ship while the crew argues, adapts, and begins moving toward the strange next stage of the Grand Line.",
+  "pages": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "characters": [
+    "Nico Robin",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Zoro",
+    "Vivi"
+  ],
+  "scene": "This scene belongs to the A New Crewmate and a New Mystery sequence. The important beat is the dialogue and action around Nico Robin, Luffy, Nami, Usopp, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Nico Robin",
+      "text": "That'll be more than enough."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The second morning"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Yes, yes... He's arranged it,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Igaram..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Is that so..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Fire! Open fire!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Fire Some cannon- balls, Dammit!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Then I could at least bounce'em back!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "This is Noooo JOOOKE!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Here comes more!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Dammit!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "...Hmph!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "ORAAAA!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Can't we do some- thing about this?"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Do some- thing, guys!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "They won't break their forma-tion at all!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Haha! Take that, dumb- assess!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Who's that guy on the left again...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "At last, we've crossed paths again!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I've powered up plenty!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Now look closely at this ring!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "One..."
+    }
+  ],
+  "summary": "Robin settles into the ship while the crew argues, adapts, and begins moving toward the strange next stage of the Grand Line.",
+  "confidence": 0.85,
+  "needs_review": false
+}

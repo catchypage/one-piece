@@ -1,0 +1,80 @@
+{
+  "chapter": "690",
+  "part": 2,
+  "title": "The Broadcast Falls Apart",
+  "description": "On pages 4–7, this part follows Unknown person #1, Unknown person #2, Unknown person #3, Caesar Clown, Unknown person #4, Unknown person #5, Trafalgar Law. The central beat is the broadcast falls apart.",
+  "pages": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Caesar Clown",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Trafalgar Law",
+    "Unknown person #6",
+    "Unknown person #8",
+    "Luffy",
+    "Smoker",
+    "Tashigi"
+  ],
+  "scene": "The scene focuses on the broadcast falls apart, with Unknown person #1, Unknown person #2, Unknown person #3, Caesar Clown, Unknown person #4, Unknown person #5, Trafalgar Law shaping the Punk Hazard finale and the road toward Dressrosa.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "He's gone for good... gyahhh!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "D-BILL ARRGGGGH !!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Is seeing into the labora- Tory"
+    },
+    {
+      "speaker": "Caesar Clown",
+      "text": "B-Block: Time Until Shinokuni Saturday"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "5 minutes!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "What- Ever!! shut up!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "It is I, that it is!!"
+    },
+    {
+      "speaker": "Trafalgar Law",
+      "text": "R-Block, 2nd Floor: The Secret Room"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "HAA ... HAA..."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Eh!? What's this"
+    },
+    {
+      "speaker": "Trafalgar Law",
+      "text": "D-Block: S.A.D. Pro- Auction Room"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "HAA ... HAA ..."
+    }
+  ],
+  "summary": "The Broadcast Falls Apart. This part advances the collapse of Caesar’s operation, Law’s leverage over Doflamingo, and the alliance’s next destination.",
+  "confidence": 0.76,
+  "needs_review": true
+}

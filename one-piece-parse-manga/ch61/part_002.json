@@ -1,0 +1,87 @@
+{
+  "chapter": "61",
+  "part": 2,
+  "title": "Gin’s Loyalty Breaks Under Krieg’s Cruelty",
+  "pages": [
+    4,
+    6,
+    7
+  ],
+  "characters": [
+    "Luffy",
+    "Sanji",
+    "Don Krieg",
+    "Gin",
+    "Zeff",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Krieg Pirates"
+  ],
+  "scene": "On pages 4–7, the Baratie conflict focuses on Luffy, Sanji, Don Krieg, Gin, Zeff. Gin is ordered to kill Sanji, but his debt and sympathy clash with Don Krieg’s brutal command.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "Agh!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "SINGE!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Step"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ugh!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "T-that cook landed a hit on gin!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Y... you don't think even gin'll be done in by him, do you...?"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Hmph, just what are you fools doubting gin's fighting abilities for...?"
+    },
+    {
+      "speaker": "Gin",
+      "text": "You've all seen for yourself what he's capable of."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Don!"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Gin's a calm and collected \"Demon.\""
+    },
+    {
+      "speaker": "Gin",
+      "text": "It's exactly because of that nature that I placed him as the battle commander."
+    },
+    {
+      "speaker": "Gin",
+      "text": "He'll show his true abilities in just a little while..."
+    },
+    {
+      "speaker": "Krieg Pirates",
+      "text": "T-the Don's Right..."
+    },
+    {
+      "speaker": "Gin",
+      "text": "Gin's a mercless killer who doesn't even hesitate for a second in brutally slaughtering his enemies, whether they be crying or begging..."
+    },
+    {
+      "speaker": "Gin",
+      "text": "that's why he's the cold-hearted \"demon,\" without a shred of compassion...!"
+    }
+  ],
+  "summary": "This part keeps the Baratie battle centered on willpower, debt, hunger, and pride. The dialogue shows who still stands firm after Krieg’s violence and who is ready to break away from the restaurant’s old life.",
+  "confidence": 0.78,
+  "needs_review": false
+}

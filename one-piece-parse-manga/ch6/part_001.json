@@ -1,0 +1,128 @@
+{
+  "chapter": "6",
+  "part": 1,
+  "title": "Shells Town Under Morgan’s Fear",
+  "description": "On pages 0–2, this part turns Zoro’s imprisonment into open action as Luffy forces the fight against Morgan’s Marines.",
+  "pages": [
+    0,
+    1,
+    2
+  ],
+  "characters": [
+    "Luffy",
+    "Morgan",
+    "Zoro",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6"
+  ],
+  "scene": "In Shells Town, Luffy, Coby, and Zoro are drawn into the cruelty of Morgan’s rule and Helmeppo’s privilege.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "REALLY!? YOU'LL JOIN MY CREW!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I don't have much choice! Now, until me!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What is he!?"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "3-CY Marine"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Bullets Bounce Right Off Him!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "He's no ordinary human!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "He's eaten one of the devil fruit..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "...the secret treasure from THOSE SEAS!!?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "NO WAY! SO THAT'S HIS POWER...?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "CAPTAIN! H-HE'S UNTYING ZOLO!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Well stop him, you fools!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "If bullets can't hurt him, then use your swords!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "UNH! These knots are too tight..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I CAN'T UNTIE 'EM!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "C'mon! Hurry up!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "UNH..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "OOOH... WHERE AM I?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "YIKES!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I'm trying. Just hold on..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "There's no time!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "UFFY!! Zolo!! Watch out!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "THERE! I untied one of your arms!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Give me my SNORDS, moron!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Those who defy me must die!!"
+    }
+  ],
+  "summary": "The Shells Town conflict uses Zoro’s imprisonment and Morgan’s rule to test what kind of people Luffy chooses to trust. The section moves Zoro closer to becoming Luffy’s first crewmate.",
+  "confidence": 0.66,
+  "needs_review": true
+}

@@ -1,0 +1,68 @@
+{
+  "chapter": "1",
+  "part": 13,
+  "title": "Shanks Saves Luffy from the Sea",
+  "description": "On pages 44–47, this part follows the Romance Dawn flashback and focuses on how Luffy’s pirate dream is formed through Shanks, Higuma, and the straw hat promise.",
+  "pages": [
+    44,
+    45,
+    46,
+    47
+  ],
+  "characters": [
+    "Luffy",
+    "Makino",
+    "Higuma",
+    "Shanks"
+  ],
+  "scene": "The danger reaches the water, where Shanks saves Luffy and pays a permanent price for that rescue.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "WHAT... THE-"
+    },
+    {
+      "speaker": "Makino",
+      "text": "Haha... Gug Gugg!!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "GLUG! I somebody help me!! GUG!"
+    },
+    {
+      "speaker": "Higuma",
+      "text": "Get out of here!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "luffy, I'm sorry."
+    },
+    {
+      "speaker": "Makino",
+      "text": "MAKINO TOLD ME WHAT HAPPENED."
+    },
+    {
+      "speaker": "Makino",
+      "text": "You stood up for me."
+    },
+    {
+      "speaker": "Makino",
+      "text": "HEY, STOP CRYING! YOU'RE A TOUGH GUY, REMEM-BER?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "B-BUT..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "SHANKS!!!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "What about your arm!?"
+    }
+  ],
+  "summary": "The bandit threat turns deadly, and Shanks saves Luffy from the sea. The rescue shows the seriousness behind Shanks’ carefree attitude.",
+  "confidence": 0.94,
+  "needs_review": false
+}

@@ -1,0 +1,130 @@
+{
+  "chapter": "163",
+  "part": 1,
+  "title": "The Agents Receive Their Orders",
+  "description": "On pages 1–4, this part focuses on the agents receive their orders, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Vivi",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Zoro",
+    "Chopper",
+    "Toto",
+    "Koza",
+    "Baroque Works agent"
+  ],
+  "scene": "The Agents Receive Their Orders. The journey through the desert continues, mixing exhaustion, danger, and Vivi’s memories of the country she is trying to save. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "It's a sand- storm!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yuba's being hit by a sand- storm!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Kingdom of Alabama, Yuba Oasis"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Oh my god..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What a mess...!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Frankly speaking, there ain't much a difference between here and that abandoned town Elumalu!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Where's the water!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Wasn't this supposed to be an oasis town, Vivi?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Look at all this sand..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's swallowed the oasis up!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Travellers, eh?...Well then, you must be awfully tired."
+    },
+    {
+      "speaker": "Toto",
+      "text": "Sorry to tell you folks this town's a little bit dried up right now."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "But you folks still ought to rest here for the night."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "We've got plenty of imns and rooms to spare... That's one of the things Yuba's known for."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Townsman Toto"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Grab"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Umm..."
+    },
+    {
+      "speaker": "Koza",
+      "text": "Excuse me, but I heard the rebel forces were using this town as a base. Is that tr-"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You have business with the rebels?"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "Don't tell me you're another bunch of degener-ates that want to join the rebels!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Ahhhhhh! W-what's with this old man flipping out all of a sudden?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Those fools..."
+    },
+    {
+      "speaker": "Toto",
+      "text": "Are no longer in this town...!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "What!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It can't be!"
+    }
+  ],
+  "summary": "This part develops the agents receive their orders and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

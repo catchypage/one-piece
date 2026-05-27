@@ -1,0 +1,79 @@
+{
+  "chapter": "320",
+  "part": 5,
+  "title": "Robin Faces the Navy’s Past — Part 5",
+  "description": "Aokiji’s connection to Nico Robin and Ohara turns the encounter into a threat aimed directly at the crew’s newest member.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Aokiji",
+    "Nico Robin",
+    "Luffy",
+    "Sanji",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Chopper",
+    "Tonjit"
+  ],
+  "scene": "Across pages 17, 18, this scene focuses on Aokiji, Nico Robin, Luffy, Sanji, Zoro. Aokiji’s connection to Nico Robin and Ohara turns the encounter into a threat aimed directly at the crew’s newest member.",
+  "dialogue": [
+    {
+      "speaker": "Aokiji",
+      "text": "Nami- San!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Wait, you two!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hurry up!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Luffy!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "So cold!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Don't whine! Nico Robin is colder!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Don't fight him."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I want to fight him alone!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Let's settle this..."
+    },
+    {
+      "speaker": "Aokiji",
+      "text": "You and me, MAND A MAND!"
+    },
+    {
+      "speaker": "Aokiji",
+      "text": "Pikiki..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "cool with me, but be warned..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The duel of unwanted peril"
+    }
+  ],
+  "summary": "Aokiji’s connection to Nico Robin and Ohara turns the encounter into a threat aimed directly at the crew’s newest member.",
+  "confidence": 0.88,
+  "needs_review": false
+}

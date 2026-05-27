@@ -1,0 +1,35 @@
+{
+  "chapter": "234",
+  "part": 5,
+  "title": "The Going Merry Is Prepared for the Sky — Part 5",
+  "description": "The Saruyama Alliance finishes the ship’s upgrades as the Straw Hats get ready for the impossible launch.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Bellamy",
+    "Mont Blanc Cricket",
+    "Masira",
+    "Shojo",
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper"
+  ],
+  "scene": "Across pages 17, this scene centers on Bellamy, Mont Blanc Cricket, Masira, Shojo, Luffy. The Saruyama Alliance finishes the ship’s upgrades as the Straw Hats get ready for the impossible launch.",
+  "dialogue": [
+    {
+      "speaker": "Bellamy",
+      "text": "...The world is sure chaotic these days."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Another coup d'etat in Villa, huh."
+    }
+  ],
+  "summary": "The Saruyama Alliance finishes the ship’s upgrades as the Straw Hats get ready for the impossible launch.",
+  "confidence": 0.87,
+  "needs_review": false
+}

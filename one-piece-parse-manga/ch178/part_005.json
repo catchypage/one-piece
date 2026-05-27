@@ -1,0 +1,78 @@
+{
+  "chapter": "178",
+  "part": 5,
+  "title": "The Crew Searches for the True Enemy",
+  "description": "On pages 17–18, this part focuses on the crew searches for the true enemy, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Crocodile",
+    "Luffy",
+    "Vivi",
+    "Koza"
+  ],
+  "scene": "The Crew Searches for the True Enemy. Vivi’s desperate attempts to stop the fighting are drowned out by the chaos Crocodile engineered. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "Kuhaha... Your efforts are futile."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Once this sand- storm grows, it'll become so strong that not even I'll be able to stop it."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Quit your bull- crap!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "This'll be the end for Yuba."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Stop the storm!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Right now!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I said-"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "The new season"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Slump..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Just who,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Do you think I am...?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "There're countless Rockies like you,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "who only know how to run their mouths,"
+    },
+    {
+      "speaker": "Koza",
+      "text": "out here in the grand line..."
+    }
+  ],
+  "summary": "This part develops the crew searches for the true enemy and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

@@ -1,0 +1,44 @@
+{
+  "chapter": "202",
+  "part": 5,
+  "title": "The Warlord Loses Control",
+  "description": "On pages 17, 18, this part focuses on the royal tomb and the poneglyph. Robin and Crocodile reach Alabasta’s hidden history while Luffy pushes back into the fight, refusing to let the Warlord bury Vivi’s country.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Crocodile",
+    "Nico Robin",
+    "King Cobra",
+    "Luffy",
+    "Vivi",
+    "Pell"
+  ],
+  "scene": "This scene belongs to the The Royal Tomb and the Poneglyph sequence. The important beat is the dialogue and action around Crocodile, Nico Robin, King Cobra, Luffy, Vivi.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "Is what you desire... Recorded there?"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "\"I see. A hidden staircase..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Time left until palace square explosion:"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "tic..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "4 Minutes"
+    }
+  ],
+  "summary": "Robin and Crocodile reach Alabasta’s hidden history while Luffy pushes back into the fight, refusing to let the Warlord bury Vivi’s country.",
+  "confidence": 0.89,
+  "needs_review": false
+}

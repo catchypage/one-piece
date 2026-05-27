@@ -1,0 +1,169 @@
+{
+  "chapter": "215",
+  "part": 3,
+  "title": "Robin Makes Herself Useful",
+  "description": "On pages 8, 9, 10, 11, this part focuses on a new crewmate and a new mystery. Robin settles into the ship while the crew argues, adapts, and begins moving toward the strange next stage of the Grand Line.",
+  "pages": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "characters": [
+    "Nico Robin",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Mr. 2 Bon Clay",
+    "Chopper",
+    "Zoro",
+    "Vivi"
+  ],
+  "scene": "This scene belongs to the A New Crewmate and a New Mystery sequence. The important beat is the dialogue and action around Nico Robin, Luffy, Nami, Usopp, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Nico Robin",
+      "text": "Agh!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Bro!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Agh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "That was you, usop!? You're amazing!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Whoa..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Mr. Bon Kurei, we've got trouble!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "It's the black cage!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Bubble bubble"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Gah!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What's that?"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "Yes, sir, Mr. 2 Bon Kurei!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "We've weakened them quite a bit..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "But don't get cocky now."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Crack"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Yes, ma'am!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "What're you all doing!? We've gotta eccaaaaaaaapel"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Go if you want, but we're staying."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You're WHAT!?"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "We have a promise,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "We've got no time to change directions."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "This is ridiculous!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "We're going,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "to pick up a friend."
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "\"I'm not going to be"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "I'm coming in, Vivi."
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Yes, come in."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Now the s-"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Ohhh!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "...My, what a surprise."
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Princess Vivi."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Yes, quite..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Sit down,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Papa-"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I mean,"
+    }
+  ],
+  "summary": "Robin settles into the ship while the crew argues, adapts, and begins moving toward the strange next stage of the Grand Line.",
+  "confidence": 0.8,
+  "needs_review": false
+}

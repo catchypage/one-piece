@@ -1,0 +1,76 @@
+{
+  "chapter": "55",
+  "part": 5,
+  "title": "Pearl Enters the Fight",
+  "description": "On pages 17–18, Krieg’s forces push harder against the Baratie, using numbers, weapons, and intimidation while Sanji and the cooks struggle to hold the line.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Sanji",
+    "Unknown person #1",
+    "Pearl",
+    "Gin",
+    "Unknown person #2",
+    "Don Krieg"
+  ],
+  "scene": "The restaurant becomes a battlefield where Krieg’s idea of strength clashes with the Baratie’s pride and the Straw Hats’ refusal to yield.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "Aghh!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "U... Ugh..."
+    },
+    {
+      "speaker": "Pearl",
+      "text": "pearl!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What's up with this dude."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Maybe he's mentally ill..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "USELESS IDIOTS..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "In the end, the only one I can count on is me!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Ahhh!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Please stop fighting, Sanji."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Ugh..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I don't want to end up killing you."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Gin!"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Gin, you...!"
+    }
+  ],
+  "summary": "This part keeps increasing the pressure on the Baratie and exposes the brutality of Krieg’s command structure.",
+  "confidence": 0.74,
+  "needs_review": false
+}

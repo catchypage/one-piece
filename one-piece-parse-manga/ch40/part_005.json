@@ -1,0 +1,94 @@
+{
+  "chapter": "40",
+  "part": 5,
+  "title": "Usopp Chooses to Leave the Village Peacefully",
+  "description": "On pages 16–17, the Syrup Village arc settles after Kuro’s defeat, focusing on Usopp’s decision, Kaya’s gratitude, and the end of the Usopp Pirates.",
+  "pages": [
+    16,
+    17
+  ],
+  "characters": [
+    "Kaya",
+    "Unknown person #1",
+    "Black Cat Pirate",
+    "Usopp",
+    "Unknown person #2",
+    "Usopp Pirate",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "The village chooses peace and secrecy while Usopp prepares to leave, turning his old lies into the beginning of a real journey.",
+  "dialogue": [
+    {
+      "speaker": "Kaya",
+      "text": "What are you trying to say!?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "A lot has happened..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "It's a CER- Berus, get rid of him!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It's a dragon, capture it!"
+    },
+    {
+      "speaker": "Black Cat Pirate",
+      "text": "Wow, Captain! Your aim's perfect!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Of course, I'm a brave warrior of the sea!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Stop, you Apple thieves!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Run, it's the alien store- owner guy!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What are your life ambitions?"
+    },
+    {
+      "speaker": "Usopp Pirate",
+      "text": "To own a bar!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "To become a master Carpen- Ter!"
+    },
+    {
+      "speaker": "Usopp Pirate",
+      "text": "To become a writer!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "While not losing sight of our ambitions..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "swear that you will go on the road you have chosen!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Starting today..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "The USOPPP pirate group..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "IS DIS- BANDED!!!!"
+    }
+  ],
+  "summary": "This part gives Syrup Village an emotional farewell: Usopp protects the village’s peace, says goodbye to his friends, and steps toward becoming a real pirate.",
+  "confidence": 0.81,
+  "needs_review": false
+}

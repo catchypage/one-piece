@@ -1,0 +1,113 @@
+{
+  "chapter": "333",
+  "part": 4,
+  "title": "The Captain’s Decision",
+  "description": "The argument over the Merry becomes a painful split between captain and crewmate, cutting deeper than any normal fight.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Nami",
+    "Sanji",
+    "Chopper",
+    "Franky",
+    "Franky Family",
+    "Zoro",
+    "Going Merry"
+  ],
+  "scene": "Across pages 13, 14, 15, 16, this part follows Luffy, Usopp, Nami, Sanji, Chopper. The argument over the Merry becomes a painful split between captain and crewmate, cutting deeper than any normal fight.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "STA STA..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I CAN'T...."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Take this...!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "........ do whatever you want"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "With going merry"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "to the seas ahead!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Take turns Luffy!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "No!! This is my special seat!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What're you making, USOPP?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Someday!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yeah usopp! We'll definitely go!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Party!! Party!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Good bye... USOPP."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "It's been... fun."
+    },
+    {
+      "speaker": "Nami",
+      "text": "USOPP....!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hey!! stop, Chopper!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "So what!!! I'm a doctor!!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "think about"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "2AHoo"
+    },
+    {
+      "speaker": "Franky",
+      "text": "HEAVY...!!!"
+    },
+    {
+      "speaker": "Franky Family",
+      "text": "The following"
+    }
+  ],
+  "summary": "The argument over the Merry becomes a painful split between captain and crewmate, cutting deeper than any normal fight.",
+  "confidence": 0.83,
+  "needs_review": false
+}

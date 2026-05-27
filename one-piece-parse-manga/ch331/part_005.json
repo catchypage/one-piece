@@ -1,0 +1,75 @@
+{
+  "chapter": "331",
+  "part": 5,
+  "title": "Usopp Challenges Luffy",
+  "description": "Franky becomes the central enemy in Water Seven as his gang, the stolen money, and the ship crisis converge.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Franky",
+    "Zoro",
+    "Chopper",
+    "Franky Family",
+    "Going Merry"
+  ],
+  "scene": "Across pages 17, 18, this part follows Luffy, Nami, Usopp, Sanji, Franky. Franky becomes the central enemy in Water Seven as his gang, the stolen money, and the ship crisis converge.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Let's talk about this!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hey! Come back!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "No..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Aaah!! Don't leave us,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "USOP!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I can't go with you any more..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "i won't cause you trouble anymore..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "But the ship belongs to the captain..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "So fight me."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "If I win, I'm taking going merry!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Monkey D Luffy!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I challenge you to a duel!!!!"
+    }
+  ],
+  "summary": "Franky becomes the central enemy in Water Seven as his gang, the stolen money, and the ship crisis converge.",
+  "confidence": 0.86,
+  "needs_review": false
+}

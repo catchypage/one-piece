@@ -1,0 +1,98 @@
+{
+  "chapter": "75",
+  "part": 1,
+  "title": "The Marines Challenge Arlong",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Arlong",
+    "Unknown person #1"
+  ],
+  "scene": "On pages 1–4, the story moves through Arlong Park and Nami’s dangerous position among the fish-men. A Marine force confronts Arlong, but the scene exposes how terrifying and entrenched his pirates are.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "Huh? I think I just heard something really loud over by the port!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Aghhhh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "NQA..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Yahoo! It's like we're really flying!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "That's because we were sent flying, you idiot!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "We're gonna FAAAAAA,A ALLLL!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "We're gonna crash into the trees!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Aghhhh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Whoa, we've landed!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "But we're not stopping!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The hell was that noise just now?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Did someone drop a bomb on this island or something?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Well in any case,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I have to hurry up or usopp will be k..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Aghhhhh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "OH! zoro!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Bro!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Luffyy...!...!"
+    }
+  ],
+  "summary": "This part builds the Arlong Park conflict by showing how Nami’s choices look contradictory from outside while Arlong’s power keeps the island trapped.",
+  "confidence": 0.77,
+  "needs_review": false
+}

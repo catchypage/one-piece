@@ -1,0 +1,85 @@
+{
+  "chapter": "320",
+  "part": 1,
+  "title": "Aokiji Steps Onto the Island",
+  "description": "Aokiji’s connection to Nico Robin and Ohara turns the encounter into a threat aimed directly at the crew’s newest member.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Nico Robin",
+    "Luffy",
+    "Sanji",
+    "Zoro",
+    "Aokiji",
+    "Nami",
+    "Usopp",
+    "Chopper",
+    "Tonjit"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this scene focuses on Nico Robin, Luffy, Sanji, Zoro, Aokiji. Aokiji’s connection to Nico Robin and Ohara turns the encounter into a threat aimed directly at the crew’s newest member.",
+  "dialogue": [
+    {
+      "speaker": "Nico Robin",
+      "text": "The government isn't taking you seriously, but..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "..Quite extraordinary.."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Your party is now especially dangerous.."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "..Because of you.."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Nico Robin Nico,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Betraying your part-ners..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Using them as tools..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What did Nico Robin-chan ever do to you?!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Calm down, Sanji!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "She didn't do anything to me..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "She escaped once after I arrested her..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "But that's a long story..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "One that you will learn eventually..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "The first time I"
+    }
+  ],
+  "summary": "Aokiji’s connection to Nico Robin and Ohara turns the encounter into a threat aimed directly at the crew’s newest member.",
+  "confidence": 0.88,
+  "needs_review": false
+}

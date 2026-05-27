@@ -1,0 +1,60 @@
+{
+  "chapter": "360",
+  "part": 5,
+  "title": "Allies Join the Rescue",
+  "description": "The rescue force launches into the storm after the Sea Train, beginning the road to Enies Lobby.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Usopp",
+    "Nico Robin",
+    "Franky",
+    "CP9 agent",
+    "Kokoro"
+  ],
+  "scene": "Across pages 17, 18, this part follows Luffy, Nami, Zoro, Sanji, Chopper. The rescue force launches into the storm after the Sea Train, beginning the road to Enies Lobby.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Dammit-....!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Those jerks...!! I won't forgive them!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'm stuck..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I'm stuck..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "We will be departing soon."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Straw- Hat-I"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "RORDNA _____"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Luffy >-!!!"
+    }
+  ],
+  "summary": "The rescue force launches into the storm after the Sea Train, beginning the road to Enies Lobby.",
+  "confidence": 0.8,
+  "needs_review": false
+}

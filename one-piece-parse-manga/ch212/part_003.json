@@ -1,0 +1,79 @@
+{
+  "chapter": "212",
+  "part": 3,
+  "title": "The Navy Closes In",
+  "description": "On pages 9, 10, 11, 12, this part focuses on vivi speaks to her country. Vivi stands before Alabasta and chooses her duty as princess, even as her heart remains tied to the friends who saved her.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Narrator",
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper"
+  ],
+  "scene": "This scene belongs to the Vivi Speaks to Her Country sequence. The important beat is the dialogue and action around Narrator, Luffy, Vivi, Nami, Usopp.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "The rain poured down on Alabasta,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "On and on, without end."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "ZAA..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Shut!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Princess Vivi,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You're still awake...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Igaram..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Having trouble falling asleep?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I simply wish to keep on watching,"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "This rain fall down."
+    },
+    {
+      "speaker": "Nami",
+      "text": "About Pell..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "The following"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Yes..."
+    }
+  ],
+  "summary": "Vivi stands before Alabasta and chooses her duty as princess, even as her heart remains tied to the friends who saved her.",
+  "confidence": 0.89,
+  "needs_review": false
+}

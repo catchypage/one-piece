@@ -1,0 +1,156 @@
+{
+  "chapter": "50",
+  "part": 2,
+  "title": "Nami Steals the Going Merry Away",
+  "description": "On pages 5–8, Don Krieg’s arrival turns the Baratie crisis into a pirate siege while Nami’s departure and the looming fight split the crew’s attention.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5"
+  ],
+  "scene": "The Baratie becomes trapped between hungry enemies, terrified cooks, Krieg’s overwhelming force, and the Straw Hats’ personal priorities.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "What do you mean what? It's just business! After all, I am a thief specializing in stealing from pirates!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I never recall agreeing to be one of your shipmates, I only said we were joining hands!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "This ship is no exception."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Oh, but your treasures are an exception!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "It was a short while being with Luffyy and the others,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "But it was a lot of fun...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Well, see ya then!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Huh!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Tell the others that if we're truly linked by fate, we'll meet again!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "W-Wait a minute, sis!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "We were asked to keep a watch on that ship! You're putting us in a lot of trouble here!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "And give back our treasure!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Aghh! What is it this time!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "After saying that, she ran away!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Damn that woman! Just because she was acting all nice recently, I let my guard down for one moment and then this happens!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "How dare she pull a fast one over us, especially during this crisis!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Wait! I can still see our ship!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It's the going merry!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Yosaku! Johnny! Where's your ship!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Well, we still have ours."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "ZORO! Usopp!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "just let her go. No good will come of chasing after that thief."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "B-But she took our ship!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "That ship's important!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I want her to be our Navigator,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "No matter what!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Fine."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "...why'd I have to follow such a troublesome captain..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hey, usop! We're going!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "R-Right!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "brother Zoro! We're ready to set sail!"
+    }
+  ],
+  "summary": "This part escalates the Baratie arc from character introduction to open conflict, with Krieg threatening the restaurant and Nami pulling the story toward Arlong Park.",
+  "confidence": 0.74,
+  "needs_review": false
+}

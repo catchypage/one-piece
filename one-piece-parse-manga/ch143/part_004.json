@@ -1,0 +1,128 @@
+{
+  "chapter": "143",
+  "part": 4,
+  "title": "The Cherry Blossom Dream",
+  "description": "On pages 14–17, this part focuses on the cherry blossom dream, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    14,
+    15,
+    16,
+    17
+  ],
+  "characters": [
+    "Dr. Kureha",
+    "Hiriluk",
+    "Drum villager",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Chopper"
+  ],
+  "scene": "The Cherry Blossom Dream. Chopper learns what Hiriluk believes about medicine, hope, and the cherry blossom dream that can heal a country. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Dr. Kureha",
+      "text": "With this flag, I shall fight on like a true pirate!"
+    },
+    {
+      "speaker": "Hiriluk",
+      "text": "For a man with a pirate's flag behind his back, impos- sibility is an impos- sibility!"
+    },
+    {
+      "speaker": "Hiriluk",
+      "text": "That's what I taught Chopper!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Mushroom?"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "Yes, apparently there's some rare mushroom in this kingdom that can be used to prepare some sort of panacea..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ah!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "The AmilDake mush- Room..."
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "That must be it!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "But how do I get there...?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Clare"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "One week after"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Smash"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Caugh!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Cough Caugh..."
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Knock Knock!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "C-Chopperr!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "W-What happened to you!?"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Mushroom."
+    },
+    {
+      "speaker": "Hiriluk",
+      "text": "That's... the Amjudake mushroom..."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Did you... pick it for my sake...?"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Please live, Doctor..."
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "I want to become a doctor too...!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "So please live and teach me how to become one!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "that is, if it's possible for a reindeer to learn..."
+    }
+  ],
+  "summary": "This part highlights the cherry blossom dream and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.61,
+  "needs_review": true
+}

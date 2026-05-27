@@ -1,0 +1,122 @@
+{
+  "chapter": "238",
+  "part": 2,
+  "title": "Angel Island Welcomes the Crew",
+  "description": "The Straw Hats enter Skypiea through Heaven’s Gate and meet the strange rules and tolls of the sky world.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Nami",
+    "Luffy",
+    "Usopp",
+    "Conis",
+    "Pagaya",
+    "Sanji",
+    "Gan Fall",
+    "Zoro",
+    "Chopper",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this scene centers on Nami, Luffy, Usopp, Conis, Pagaya. The Straw Hats enter Skypiea through Heaven’s Gate and meet the strange rules and tolls of the sky world.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "We're here anyway right? Right?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Did you lose one or two crew?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "nope, we're all here."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "other routes are not like this..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "*pinch*"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hey!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "One whistle."
+    },
+    {
+      "speaker": "Conis",
+      "text": "Blow this whistle once,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Wait!! We don't even know your name..."
+    },
+    {
+      "speaker": "Pagaya",
+      "text": "PieH--!!!"
+    },
+    {
+      "speaker": "Pagaya",
+      "text": "This is my partner, Pierre!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "And before I forget, Pierre..."
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Ah...bird..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "WENENT:"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "--In other words......"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "No way!!! So beautiful...!! it's a Pegasus!?"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "That's right! A Pegasus!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "PieH--!!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "A little bit off..."
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "I wish you luck, brave ones!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "I've got"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "It turned into a strange animal!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "...yeah... really... nothing at all."
+    }
+  ],
+  "summary": "The Straw Hats enter Skypiea through Heaven’s Gate and meet the strange rules and tolls of the sky world.",
+  "confidence": 0.87,
+  "needs_review": false
+}

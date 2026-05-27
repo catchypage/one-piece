@@ -1,0 +1,60 @@
+{
+  "chapter": "81",
+  "part": 4,
+  "title": "Luffy Puts the Hat on Nami",
+  "description": "On pages 13–16, luffy puts the hat on nami focuses on Nami, Arlong, Marine Captain Nezumi, Nojiko as nami’s stolen savings and Arlong’s betrayal push Cocoyashi Village into open rebellion, forcing her to ask Luffy for help.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Nami",
+    "Arlong",
+    "Marine Captain Nezumi",
+    "Nojiko",
+    "Genzo",
+    "Cocoyashi villagers",
+    "Luffy",
+    "Unknown person #1"
+  ],
+  "scene": "On pages 13–16, luffy puts the hat on nami focuses on Nami, Arlong, Marine Captain Nezumi, Nojiko as nami’s stolen savings and Arlong’s betrayal push Cocoyashi Village into open rebellion, forcing her to ask Luffy for help.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "Help me..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Course will!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Don't touch my hat!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Ah..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Luffy..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Let's go."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hey! Are you two alright!? Were you done in by Arlong!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Could you please move out of the way? We have business to settle with those fishmen!"
+    }
+  ],
+  "summary": "This part turns Nami’s private suffering into an open crisis, ending with the emotional choice to rely on Luffy.",
+  "confidence": 0.84,
+  "needs_review": false
+}

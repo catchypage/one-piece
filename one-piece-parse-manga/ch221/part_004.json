@@ -1,0 +1,52 @@
+{
+  "chapter": "221",
+  "part": 4,
+  "title": "Luffy and Zoro Refuse to Fight",
+  "description": "The Straw Hats enter Jaya’s rough pirate port, where rumors, salvage crews, and violent pirates make the dream of Sky Island look foolish.",
+  "pages": [
+    16,
+    17
+  ],
+  "characters": [
+    "Nami",
+    "Bellamy",
+    "Sarquiss",
+    "Mock Town pirate",
+    "Luffy",
+    "Zoro",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 16, 17, this scene centers on Nami, Bellamy, Sarquiss, Mock Town pirate, Luffy. The Straw Hats enter Jaya’s rough pirate port, where rumors, salvage crews, and violent pirates make the dream of Sky Island look foolish.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "I can't believe it..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Huff... huff..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "The log pose started pointing up..."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Day became night..."
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "Get the hell off!"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "Gah!"
+    }
+  ],
+  "summary": "The Straw Hats enter Jaya’s rough pirate port, where rumors, salvage crews, and violent pirates make the dream of Sky Island look foolish.",
+  "confidence": 0.85,
+  "needs_review": false
+}

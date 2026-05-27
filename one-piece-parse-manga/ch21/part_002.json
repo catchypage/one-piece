@@ -1,0 +1,154 @@
+{
+  "chapter": "21",
+  "part": 2,
+  "title": "Mayor Boodle Forgives the Straw Hats",
+  "description": "On pages 4–7, Orange Town deals with the aftermath of Buggy’s defeat, while Luffy, Zoro, and Nami decide what they will carry away from the island.",
+  "pages": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "characters": [
+    "Orange Town Villager",
+    "Unknown person #1",
+    "Mayor Boodle",
+    "Unknown person #2",
+    "Chouchou",
+    "Unknown person #3",
+    "Nami",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6"
+  ],
+  "scene": "Buggy’s threat has been broken, but the town is still tense: the villagers, Mayor Boodle, Chouchou, and the Straw Hats all react to the damage left behind.",
+  "dialogue": [
+    {
+      "speaker": "Orange Town Villager",
+      "text": "Oh... so you're the villagers"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I think some of the pirate crew are still here"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "If you want us to tell you then there isn't anything much left to tell you..."
+    },
+    {
+      "speaker": "Mayor Boodle",
+      "text": "Ah!! chief!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Good- Ness era- Claus!! Please get up!"
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "Dammit!! What the hell hap- pened here!?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "It's definitely the work of those pirates!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What?!"
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "Ah, sorry..."
+    },
+    {
+      "speaker": "Mayor Boodle",
+      "text": "I did that to the chief!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hey! Why did you tell them that kinda thing on purpose..."
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "You saw me do it, right?..."
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "I know, but still!! That was because you had a good reason..."
+    },
+    {
+      "speaker": "Mayor Boodle",
+      "text": "All of you, how dare you do this to our chief..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "It doesn't matter what sort of excuse you give us!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Who the hell are you!? Could you be pirates!?"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Ooh... if we didn't know any better, and just said \"we're thieves\" or \"we're pirates\" then it'd be instant death.\""
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We are Pirates!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "So you are!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Hahaha"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Baka!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "But it's the truth!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Let's run away!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Aah! They're running away!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Chase them!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Yipes!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "We won't let you get away!!"
+    },
+    {
+      "speaker": "Mayor Boodle",
+      "text": "We'll pay you back for what you did to the chief!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Why the hell did you make the situation more com- placated?"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "This is a good village!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Who..?"
+    }
+  ],
+  "summary": "The part closes the Orange Town conflict by shifting from combat to consequences: treasure, forgiveness, pride, and the Straw Hats’ departure.",
+  "confidence": 0.63,
+  "needs_review": false
+}

@@ -1,0 +1,35 @@
+{
+  "chapter": "99",
+  "part": 6,
+  "title": "The Escape Begins",
+  "description": "On pages 21–21, the escape begins focuses on Luffy, Buggy, Alvida, Smoker as buggy captures Luffy at the place where Gold Roger died, turning Loguetown into a crisis.",
+  "pages": [
+    21
+  ],
+  "characters": [
+    "Luffy",
+    "Buggy",
+    "Alvida",
+    "Smoker",
+    "Zoro",
+    "Sanji",
+    "Nami",
+    "Usopp",
+    "Unknown person #1",
+    "Unknown person #2"
+  ],
+  "scene": "On pages 21–21, the escape begins focuses on Luffy, Buggy, Alvida, Smoker as buggy captures Luffy at the place where Gold Roger died, turning Loguetown into a crisis.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "JWLYED $1. United"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "C.I.T."
+    }
+  ],
+  "summary": "This part turns Loguetown into a trap, bringing old enemies and Marine pressure together around Luffy.",
+  "confidence": 0.58,
+  "needs_review": true
+}

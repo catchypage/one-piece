@@ -1,0 +1,62 @@
+{
+  "chapter": "209",
+  "part": 3,
+  "title": "The Navy Closes In",
+  "description": "On pages 11, 12, 13, 14, this part focuses on the farewell plan. Vivi and the crew try to find a way to say goodbye without exposing their bond to the Navy or putting Alabasta in danger.",
+  "pages": [
+    11,
+    12,
+    13,
+    14
+  ],
+  "characters": [
+    "Vivi",
+    "Crocodile",
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Usopp"
+  ],
+  "scene": "This scene belongs to the The Farewell Plan sequence. The important beat is the dialogue and action around Vivi, Crocodile, Luffy, Zoro, Nami.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "Turn into rubble along with this temple!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Sables..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "PESADO!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "NGHH!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Desert..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Storm!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "LA Spada!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "(Desert Blade)"
+    }
+  ],
+  "summary": "Vivi and the crew try to find a way to say goodbye without exposing their bond to the Navy or putting Alabasta in danger.",
+  "confidence": 0.89,
+  "needs_review": false
+}

@@ -1,0 +1,94 @@
+{
+  "chapter": "359",
+  "part": 1,
+  "title": "Aqua Laguna Closes In",
+  "description": "The Franky Family and Galley-La shipwrights join the Straw Hats, turning Robin’s rescue into a shared mission.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Nico Nico Robin",
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Iceburg",
+    "Usopp",
+    "Nico Robin",
+    "Franky"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Nico Nico Robin, Luffy, Nami, Zoro, Sanji. The Franky Family and Galley-La shipwrights join the Straw Hats, turning Robin’s rescue into a shared mission.",
+  "dialogue": [
+    {
+      "speaker": "Nico Nico Robin",
+      "text": "Ah~...!! they've beaten him...!!"
+    },
+    {
+      "speaker": "Nico Nico Robin",
+      "text": ".....!! OWN....!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "But haven't quit being a pirate..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We'll take you with us anyhow."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Karifa."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "And this ship..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "...it hasn't been taken care of yet..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Snap!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hey!!! Are you listening to me!!?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Click"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Chnk!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Wait!!! Don't you dare!!! Hey!!!"
+    },
+    {
+      "speaker": "Nico Nico Robin",
+      "text": "Shiff"
+    },
+    {
+      "speaker": "Nico Nico Robin",
+      "text": "Stop!!!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Going Merry"
+    }
+  ],
+  "summary": "The Franky Family and Galley-La shipwrights join the Straw Hats, turning Robin’s rescue into a shared mission.",
+  "confidence": 0.82,
+  "needs_review": false
+}

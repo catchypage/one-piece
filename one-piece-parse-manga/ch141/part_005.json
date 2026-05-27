@@ -1,0 +1,88 @@
+{
+  "chapter": "141",
+  "part": 5,
+  "title": "The Lonely Reindeer Returns",
+  "description": "On pages 16–19, this part focuses on the lonely reindeer returns, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    16,
+    17,
+    18,
+    19
+  ],
+  "characters": [
+    "Chess",
+    "Kuromarimo",
+    "Dr. Kureha",
+    "Hiriluk",
+    "Nami",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Chopper"
+  ],
+  "scene": "The Lonely Reindeer Returns. The story turns inward to Chopper’s isolation, his fear of humans, and the painful memories behind his bond with Dr. Hiriluk. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Chess",
+      "text": "Kill it!"
+    },
+    {
+      "speaker": "Chess",
+      "text": "Haha! I got'im!"
+    },
+    {
+      "speaker": "Kuromarimo",
+      "text": "Not yet! We've got to make sure he's dead!"
+    },
+    {
+      "speaker": "Chess",
+      "text": "that son of a..."
+    },
+    {
+      "speaker": "Chess",
+      "text": "Just who the HELL does he think I am...!?"
+    },
+    {
+      "speaker": "Chess",
+      "text": "Hey you!"
+    },
+    {
+      "speaker": "Chess",
+      "text": "Wait!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "I would never, EVER,"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Shoot you!"
+    },
+    {
+      "speaker": "Hiriluk",
+      "text": "My name is Hiriluk!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "And I'm a goddamn doctor!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Rile,."
+    },
+    {
+      "speaker": "Chess",
+      "text": "#Choo!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Proposed by exchange"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "(v 15, p180)"
+    }
+  ],
+  "summary": "This part highlights the lonely reindeer returns and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.74,
+  "needs_review": false
+}

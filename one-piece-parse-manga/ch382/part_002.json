@@ -1,0 +1,94 @@
+{
+  "chapter": "382",
+  "part": 2,
+  "title": "The Guards Open Fire",
+  "description": "Luffy pushes ahead toward Robin and CP9, leaving the larger Enies Lobby battle to the rest of the rescue force.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Rob Lucci",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Chopper",
+    "Sogeking",
+    "Franky",
+    "Nico Robin",
+    "Spandam"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this part follows Luffy, Rob Lucci, Zoro, Nami, Sanji. Luffy pushes ahead toward Robin and CP9, leaving the larger Enies Lobby battle to the rest of the rescue force.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "What a smart guy he was!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Waha haha!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "And heading for water seven!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Why would Aokiji..."
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "What!!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Don't you dare question me!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You InsoLent woman!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Waha haha!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You should at least be thankful!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Prepare yourself..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'll beat you...!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'll use you...!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Waha haha... Oh yeah, by the way..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's not possible....!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The crew of \"Straw hat Luffy\".......!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "He'll be taken to Impel down."
+    }
+  ],
+  "summary": "Luffy pushes ahead toward Robin and CP9, leaving the larger Enies Lobby battle to the rest of the rescue force.",
+  "confidence": 0.78,
+  "needs_review": false
+}

@@ -1,0 +1,62 @@
+{
+  "chapter": "672",
+  "part": 1,
+  "title": "Vergo Arrives",
+  "description": "On pages 0–2, this part follows Unknown person #1, Unknown person #2, Unknown person #3, Vergo, Unknown person #4, Law, Smoker. The central beat is vergo arrives.",
+  "pages": [
+    0,
+    1,
+    2
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Vergo",
+    "Unknown person #4",
+    "Law",
+    "Smoker",
+    "Tashigi",
+    "Caesar Clown",
+    "Monet",
+    "Luffy"
+  ],
+  "scene": "The scene focuses on vergo arrives, with Unknown person #1, Unknown person #2, Unknown person #3, Vergo, Unknown person #4, Law, Smoker shaping the Punk Hazard conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "My Name is Kitchen!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "*PANT*... *PANT* ..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "mystery man 'Verygo'"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "How far you have risen."
+    },
+    {
+      "speaker": "Vergo",
+      "text": "How long have you been here?! Vergo....!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Oh, I only just arrived..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "\"Panty... *Pant*...!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "What's that supposed to mean...?!!"
+    }
+  ],
+  "summary": "Vergo Arrives. This part advances Punk Hazard’s rescue mission, Caesar’s experiment, and the fragile pirate–Marine alliance.",
+  "confidence": 0.76,
+  "needs_review": true
+}

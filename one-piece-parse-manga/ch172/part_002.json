@@ -1,0 +1,193 @@
+{
+  "chapter": "172",
+  "part": 2,
+  "title": "The Bananawani Threat",
+  "description": "On pages 5–8, this part focuses on the bananawani threat, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Crocodile",
+    "Vivi",
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Miss All Sunday",
+    "Smoker",
+    "Baroque Works agent",
+    "Tashigi",
+    "Unknown person #1"
+  ],
+  "scene": "The Bananawani Threat. Sanji’s hidden role as Mr. Prince disrupts Crocodile’s plan and creates the opening the crew needs to escape. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "Kid, are you alright!?"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "My God! Don't tell me..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "The Royal Guards hurt a little kid!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "N... NO..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Caugh!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Don't worry, we'll stop the bleeding soon!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Don't try to talk or you might make it worse!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Damn those bastards! How could they hurt a little kid!?"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Those weren't the real royal guards!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The hospital's on fire!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "We need a doctor over here!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "N... no..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You've got the wrong idea...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You've all been tricked!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Hang in there, kid!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Are you alright!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Kouza!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Kouza!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "http://www.youtube.com/watch?v=D=D=D=D=D=1"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "It's time..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "To put an end to this country...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Contact all determinments,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "And tell them to prepare for the final battle..."
+    },
+    {
+      "speaker": "Miss All Sunday",
+      "text": "But Kouza! We still don't have enough weapons!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Not quite! The huge ship that just crashed into the port was a trade ship stocked full of weapons and monitors!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Seriously?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It's like a sign from the heavens..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gahahaha!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What, some brat saw me!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Well, excuse me, princess!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gahahaha!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Now then,"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "As long as Mr. 4 and his partner have done their job..."
+    },
+    {
+      "speaker": "Miss All Sunday",
+      "text": "Don't worry, that fatass and cranky granny can pull through when it matters!"
+    },
+    {
+      "speaker": "Miss All Sunday",
+      "text": "Abducting the King was probably a piece of cake for them!"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Listen up! The Alabasta you knew and loved is now dead!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "And the time to sweep away its rotting carcass has come!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We will launch a full- scale attack on the Capital!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Right on!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Bring the King to Justice!"
+    }
+  ],
+  "summary": "This part develops the bananawani threat and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.78,
+  "needs_review": false
+}

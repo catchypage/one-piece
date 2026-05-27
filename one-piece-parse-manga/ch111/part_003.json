@@ -1,0 +1,115 @@
+{
+  "chapter": "111",
+  "part": 3,
+  "title": "The Shadow of Crocodile",
+  "description": "On pages 9–12, the shadow of crocodile as the crew accepts Vivi’s desperate mission, and a mysterious senior agent reminds them how dangerous Baroque Works really is.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Zoro",
+    "Vivi",
+    "Igaram",
+    "Mr. 9",
+    "Luffy",
+    "Mr. 5",
+    "Crocodile"
+  ],
+  "scene": "The Shadow of Crocodile. The crew accepts Vivi’s desperate mission, and a mysterious senior agent reminds them how dangerous Baroque Works really is. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Zoro",
+      "text": "Because of that Superhuman swordsman, we'd all be punished for failing in our mission anyways."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "So if that's the case,"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "I'd rather go down while protecting a friend...!"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "Now go!"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "Thank you!"
+    },
+    {
+      "speaker": "Mr. 9",
+      "text": "First Mr. 9 and now you too, Ms. Monday?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Kya Haha"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "What a joke."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You Disg- Race,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The name of..."
+    },
+    {
+      "speaker": "Igaram",
+      "text": "Ngh!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Baroque workki,"
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "Guh...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm a human bomb that can make any part of my body explode."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "With this ability bestowed upon me by the bomb bomb fruit,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "There's not a single mission I've failed at!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You can't run away from us."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "nose fancy..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Cannon!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Mr. Bushido!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Ahh, the road was...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Who's he?"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on the shadow of crocodile. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.78,
+  "needs_review": false
+}

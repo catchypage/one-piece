@@ -1,0 +1,54 @@
+{
+  "chapter": "208",
+  "part": 2,
+  "title": "Vivi Faces Her Choice",
+  "description": "On pages 5, 6, 7, 8, this part focuses on vivi’s choice approaches. The Straw Hats make plans to depart while Vivi faces the decision of whether to remain a princess or continue sailing with her friends.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Zoro",
+    "Usopp",
+    "Sanji"
+  ],
+  "scene": "This scene belongs to the Vivi’s Choice Approaches sequence. The important beat is the dialogue and action around Luffy, Vivi, Nami, Zoro, Usopp.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "My crew won't stop fighting either!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Some- one,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Like you..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Huff... can't beat me...!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "All bark and no bite!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I am..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "The Hazier such dreams will become!"
+    }
+  ],
+  "summary": "The Straw Hats make plans to depart while Vivi faces the decision of whether to remain a princess or continue sailing with her friends.",
+  "confidence": 0.89,
+  "needs_review": false
+}

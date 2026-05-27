@@ -1,0 +1,168 @@
+{
+  "chapter": "140",
+  "part": 2,
+  "title": "Luffy Meets Chopper",
+  "description": "On pages 6–8, luffy meets chopper as nami recovers under Dr. Kureha’s care as Luffy becomes fascinated by Chopper and immediately tries to recruit him.",
+  "pages": [
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Dr. Kureha",
+    "Nami",
+    "Luffy",
+    "Chopper",
+    "Sanji",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "Luffy Meets Chopper. Nami recovers under Dr. Kureha’s care as Luffy becomes fascinated by Chopper and immediately tries to recruit him. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Dr. Kureha",
+      "text": "You still have a fever, you know!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Jeez..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "No I don't, it's pretty much all gone now."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The AN- Swer's still a no."
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "The doctors' medicine is highly effective so it's natural for your fever to be almost gone."
+    },
+    {
+      "speaker": "Nami",
+      "text": "But even so, your body hasn't completely fought off the bacterial infection yet."
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "That's why you still need to stay put and receive another dose of antibiotics. Otherwise-"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Thanks."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "You were the one who nursed me back to health, right?"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "S-Shut up!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I don't need to hear any words of thanks from a human!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Don't mess with me, Yheari?"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "can't hide his emotions at all, huh."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Something's strange about this castle..."
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Not only is it freezing in here, but there's snow everywhere."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Oh..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Ahh! You're right, it is cold!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "You're realizing that now!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Look,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "This entire castle's covered with snow..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "The doors of all the unused rooms are frozen over too!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "DIE, you twerps!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Luffy, give up on trying to recruit her! She's clearly no doctor! She's just a deranged lunatic!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "...S-So you're pirates...?"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Yup."
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "R-Really...!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Yes, really."
+    },
+    {
+      "speaker": "Nami",
+      "text": "D-Does that mean you carry a flag with skull and crossbones...!?"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Poke"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's right on our ship's sail."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Are you interested in Pirates?"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "No, of course not!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "You Idiot!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Rillinghit, of course you're not. My bad."
+    }
+  ],
+  "summary": "This part centers on luffy meets chopper, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.73,
+  "needs_review": false
+}

@@ -1,0 +1,24 @@
+{
+  "chapter": "7",
+  "title": "Morgan Falls and the First Crew Forms",
+  "main_description": "The Shells Town conflict ends with Luffy and Zoro standing against Morgan’s rule. Coby’s future with the Marines is set apart from Luffy’s pirate path, and the first shape of the Straw Hat crew is established.",
+  "main_characters": [
+    "Luffy",
+    "Coby",
+    "Zoro",
+    "Helmeppo",
+    "Morgan",
+    "Marine"
+  ],
+  "key_events": [
+    "Luffy and Zoro defeat Morgan’s authority.",
+    "Coby chooses the Marines instead of piracy.",
+    "Zoro accepts Luffy as captain.",
+    "Luffy and Zoro leave Shells Town together."
+  ],
+  "confidence": 0.73,
+  "needs_review": true,
+  "review_reasons": [
+    "Some dialogue-heavy parts still contain many unresolved speakers."
+  ]
+}

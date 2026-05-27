@@ -1,0 +1,106 @@
+{
+  "chapter": "382",
+  "part": 1,
+  "title": "The Allies Push Forward",
+  "description": "Luffy pushes ahead toward Robin and CP9, leaving the larger Enies Lobby battle to the rest of the rescue force.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Chopper",
+    "Enies Lobby guard",
+    "Sogeking",
+    "Franky",
+    "Nico Robin",
+    "Rob Lucci"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Luffy, Zoro, Nami, Sanji, Chopper. Luffy pushes ahead toward Robin and CP9, leaving the larger Enies Lobby battle to the rest of the rescue force.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hey, what's that ruckus....!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Something's coming!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Baru Ruru Ruru RURA"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "UWA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Bahl Hihi"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Take 'em out!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Gero!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Gero!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "ORA ORAA!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Shit!! These guys!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "00- WAA AAA AAH!!!"
+    },
+    {
+      "speaker": "Enies Lobby guard",
+      "text": "enies lobby, tower of justice"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Nuh!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "GUWAH!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Franky..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "was all too easy!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "and in exchange,"
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "Your senior, iceberg, became an annoyance."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "After Tom's Death..."
+    }
+  ],
+  "summary": "Luffy pushes ahead toward Robin and CP9, leaving the larger Enies Lobby battle to the rest of the rescue force.",
+  "confidence": 0.78,
+  "needs_review": false
+}

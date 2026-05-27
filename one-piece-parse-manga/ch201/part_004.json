@@ -1,0 +1,124 @@
+{
+  "chapter": "201",
+  "part": 4,
+  "title": "Luffy Forces the Final Fight",
+  "description": "On pages 16, 18, 19, 20, this part focuses on luffy breaks crocodile’s scheme. The final struggle beneath Alabasta turns against Crocodile as Luffy keeps fighting and Robin forces Cobra toward the hidden history Crocodile wants.",
+  "pages": [
+    16,
+    18,
+    19,
+    20
+  ],
+  "characters": [
+    "Crocodile",
+    "Nico Robin",
+    "King Cobra",
+    "Luffy",
+    "Vivi",
+    "Pell",
+    "Chaka",
+    "Alabasta soldier"
+  ],
+  "scene": "This scene belongs to the Luffy Breaks Crocodile’s Scheme sequence. The important beat is the dialogue and action around Crocodile, Nico Robin, King Cobra, Luffy, Vivi.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "Quit your annoying chatter!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Your mission is to stop the bombing!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "But Sgt, Major...!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Now!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Yes, sir!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "toc. The"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Now let go of that man!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Nghh-"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "That was way too close...!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "That guy's right hand is really something..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "The entire lawn's dried up..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "It's a literal desert now!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Where'd he go...?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You've made me waste,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Too much unnecessary energy..."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "PFFT!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "You missed..."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "CRA... CA..."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Looks like,"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "You lost again,"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Straw hat Luffy..."
+    },
+    {
+      "speaker": "Pell",
+      "text": "4. Gegyayayayayayaya 8. Kuhahaha"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "2. Shahahaha 6. Mahahaha"
+    },
+    {
+      "speaker": "Alabasta soldier",
+      "text": "1. Gyahaha 5. Gabababababa, 9. Shishishi"
+    }
+  ],
+  "summary": "The final struggle beneath Alabasta turns against Crocodile as Luffy keeps fighting and Robin forces Cobra toward the hidden history Crocodile wants.",
+  "confidence": 0.89,
+  "needs_review": false
+}

@@ -1,0 +1,102 @@
+{
+  "chapter": "268",
+  "part": 1,
+  "title": "Nami Faces Enel",
+  "description": "Sanji and Usopp risk themselves against Enel’s overwhelming power, buying time even when victory seems impossible.",
+  "pages": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Enel",
+    "Nami",
+    "Nola",
+    "Sanji",
+    "Usopp",
+    "Gan Fall",
+    "Wyper",
+    "Luffy",
+    "Zoro",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 0, 1, 2, 3, this scene centers on Enel, Nami, Nola, Sanji, Usopp. Sanji and Usopp risk themselves against Enel’s overwhelming power, buying time even when victory seems impossible.",
+  "dialogue": [
+    {
+      "speaker": "Enel",
+      "text": "\"Suite\""
+    },
+    {
+      "speaker": "Nami",
+      "text": "BAH..."
+    },
+    {
+      "speaker": "Nola",
+      "text": "That stupid snake"
+    },
+    {
+      "speaker": "Nami",
+      "text": "followed me all the way here."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "TSU LALA..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Go, holy!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "No need to hold back this time!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "WOOF!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Pierre, the target is ohm!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "pileh...!!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Click!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "This stupid cave sure is weird!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "All of you..."
+    },
+    {
+      "speaker": "Wyper",
+      "text": "I'll kill you all!!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "TSU LALALA!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "TSU LALA LA!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "TSU LALA LA!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "That's a nice weapon!"
+    }
+  ],
+  "summary": "Sanji and Usopp risk themselves against Enel’s overwhelming power, buying time even when victory seems impossible.",
+  "confidence": 0.86,
+  "needs_review": false
+}

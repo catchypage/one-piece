@@ -1,0 +1,102 @@
+{
+  "chapter": "252",
+  "part": 3,
+  "title": "Gan Fall and Chopper Struggle",
+  "description": "Separated from the others, Chopper tries to protect the Going Merry while danger closes in around the sacrificial altar.",
+  "pages": [
+    11,
+    12,
+    13,
+    14
+  ],
+  "characters": [
+    "Chopper",
+    "Gedatsu",
+    "Gan Fall",
+    "Nami",
+    "Zoro",
+    "Luffy",
+    "Nico Robin",
+    "Shandia warrior",
+    "Wyper",
+    "Sanji"
+  ],
+  "scene": "Across pages 11, 12, 13, 14, this scene centers on Chopper, Gedatsu, Gan Fall, Nami, Zoro. Separated from the others, Chopper tries to protect the Going Merry while danger closes in around the sacrificial altar.",
+  "dialogue": [
+    {
+      "speaker": "Chopper",
+      "text": "Go Karasu- Maru!!"
+    },
+    {
+      "speaker": "Gedatsu",
+      "text": "SA SA SA SA SA SA SA..."
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "We've been sailing for a long time!"
+    },
+    {
+      "speaker": "Nami",
+      "text": ".. it's getting dark..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "There is sunset on Sky Island, too..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Chopper!!? Where are you??"
+    },
+    {
+      "speaker": "Shandia warrior",
+      "text": "What Happened!!? Chopper!!?"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Of course not!!! He was attacked!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Chopper!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "...Did the attacker chop him into pieces?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Don't make up scary thoughts like that!!!"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "nothing. I wasn't scared."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "\"Phew\""
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "... I understand. Be strong!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Tell us everything that happened!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Happened"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "They seem full of spirit... that's good."
+    }
+  ],
+  "summary": "Separated from the others, Chopper tries to protect the Going Merry while danger closes in around the sacrificial altar.",
+  "confidence": 0.83,
+  "needs_review": false
+}

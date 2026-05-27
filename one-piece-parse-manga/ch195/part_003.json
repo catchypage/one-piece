@@ -1,0 +1,74 @@
+{
+  "chapter": "195",
+  "part": 3,
+  "title": "The Countdown Tightens",
+  "description": "On pages 10–13, this part focuses on the countdown tightens, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "characters": [
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Chopper",
+    "Sanji",
+    "Zoro"
+  ],
+  "scene": "The Countdown Tightens. The bomb’s location and countdown push the Alubarna battle into its final desperate stage. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "slump"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I have a lot of people who are lucky, and I think it's a little"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hmm..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You still breathe..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I can't show my back to him!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Why do you struggle so, even when disarmed?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Spar break!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Crack..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Rest in peace."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Crack..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Talk about a rocky day..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Crack"
+    }
+  ],
+  "summary": "This part develops the countdown tightens and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.77,
+  "needs_review": false
+}

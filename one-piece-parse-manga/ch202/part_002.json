@@ -1,0 +1,122 @@
+{
+  "chapter": "202",
+  "part": 2,
+  "title": "Robin Leads Cobra Below",
+  "description": "On pages 5, 6, 7, 8, this part focuses on the royal tomb and the poneglyph. Robin and Crocodile reach Alabasta’s hidden history while Luffy pushes back into the fight, refusing to let the Warlord bury Vivi’s country.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Crocodile",
+    "Nico Robin",
+    "Luffy",
+    "Vivi",
+    "King Cobra",
+    "Pell"
+  ],
+  "scene": "This scene belongs to the The Royal Tomb and the Poneglyph sequence. The important beat is the dialogue and action around Crocodile, Nico Robin, Luffy, Vivi, King Cobra.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "West of the Palace: Royal Crypt"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "A hidden staircase!?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Most aren't even aware of its existence."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Can you... Read the poneglyphs?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "And why he cannot kill me..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You're not at fault, however."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Sensures: Please"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Am I wrong?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I do not know..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "That is all it means to us."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Protect...?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Don't make me laugh!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "What a grand tomb this is."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The following are the"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "...It's further back inside behind the doors."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "A good way to make sure"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Ah, yes..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Kuhahaha!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You Small- Time Pirates!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The hell are you doing!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "QAF!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I'm TRYING to get into Crocodile's shoes!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Shut up and start search- ing!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We've only got five minutes!"
+    }
+  ],
+  "summary": "Robin and Crocodile reach Alabasta’s hidden history while Luffy pushes back into the fight, refusing to let the Warlord bury Vivi’s country.",
+  "confidence": 0.89,
+  "needs_review": false
+}

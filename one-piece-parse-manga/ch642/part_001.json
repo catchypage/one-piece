@@ -1,0 +1,103 @@
+{
+  "chapter": "642",
+  "part": 1,
+  "title": "Hody Taunts Luffy",
+  "description": "On pages 2–4, this part follows Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Unknown person #7. The central beat is hody taunts luffy.",
+  "pages": [
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Unknown person #10",
+    "Fish-Man Island Citizens",
+    "Luffy"
+  ],
+  "scene": "The scene focuses on hody taunts luffy, with Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Unknown person #7 shaping the conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "A few minutes earlier..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "The whales and Fishes..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "...are swimming away from the forest ...!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "...what do you mean?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "coral Hill"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I don't understand what's going on..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "It would be a complete disaster!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "We should do as the Minister says!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "everybody get out into the open water!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I've got word direct from the Plaza..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "What ?!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Water- wheel town"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "You mean decken was behind this?!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "That's what they're saying."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Coral apartments"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Everybody evacuate!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Ahh HH..."
+    },
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "Everybody evacuate the island!!!"
+    }
+  ],
+  "summary": "Hody Taunts Luffy. This part advances the end of the Fish-Man Island conflict and the island’s attempt to move beyond inherited hatred.",
+  "confidence": 0.76,
+  "needs_review": true
+}

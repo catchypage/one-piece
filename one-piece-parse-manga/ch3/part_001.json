@@ -1,0 +1,141 @@
+{
+  "chapter": "3",
+  "part": 1,
+  "title": "Shells Town Under Morgan’s Fear",
+  "description": "On pages 0–3, this part moves through Shells Town and the first clues about Zoro, Morgan, and Helmeppo’s abuse of power.",
+  "pages": [
+    0,
+    2,
+    3
+  ],
+  "characters": [
+    "Morgan",
+    "Helmeppo",
+    "Zoro",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "In Shells Town, Luffy, Coby, and Zoro are drawn into the cruelty of Morgan’s rule and Helmeppo’s privilege.",
+  "dialogue": [
+    {
+      "speaker": "Morgan",
+      "text": "...A demonic beast, huh?"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "RORDONOA ZOLD IS HIS REAL NAME..."
+    },
+    {
+      "speaker": "Morgan",
+      "text": "BUT THEY CALL HIM \"ZOLO THE PIRATE HUNTER.\""
+    },
+    {
+      "speaker": "Morgan",
+      "text": "He's like a bloodthirty hound..."
+    },
+    {
+      "speaker": "Morgan",
+      "text": "...ROAMING THE SEAS, HUNTING MEN FOR THE BOUNTIES ON THEIR HEADS!"
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "THEY SAY HE'S A DEMON IN HUMAN FORM."
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "Hmmm..."
+    },
+    {
+      "speaker": "Morgan",
+      "text": "LIFFY, HE'S A PIRATE HUNTER! PIRATE HUNTERS DON'T MIX WELL WITH PIRATES!"
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "I haven't decided whether I'll invite him to join my crew or not."
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "IF HE'S A GOOD GUY, THEN I'LL-"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "HE'S IN PRISON BECAUSE HE'S NOT A GOOD GUY!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "WE'RE FINALLY HERE! WE MADE IT TO THE NAVAL BASE TOWN."
+    },
+    {
+      "speaker": "Morgan",
+      "text": "YEAH! WE FINALLY MADE IT!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "KOBY, YOU'RE AMAZING!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "You actually got us to our DESTI- NATION!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "OF COURSE I DID! THAT'S THE MINIMUM REQUIRE-MENT FOR PEOPLE WHO SAIL THE SEAS."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Of course I did!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Luffy, if you keep randomly floating around, you'll never become a pirate."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "You should find a navi- gator for your crew."
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "YEAH!! That's what I'll do!! Now, let's eat!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "WELL, KOBY, I GUESS THIS IS WHERE WE GO OUR SEPARATE WAYS."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hope you join the Navy and become a great sailor!"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "TH-THANK YOU, LIFFY!"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "AND I HOPE YOU BECOME A GREAT PIRATE!"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "...Even if that means we'll be enemies."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hey, I just remembered... That guy is supposed to be imprisoned here.. RORDOA Zolo..."
+    },
+    {
+      "speaker": "Morgan",
+      "text": "MAYBE YOU SHOULDN'T SAY THAT NAME OUT LOUD AROUND HERE..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hmmm..."
+    }
+  ],
+  "summary": "The Shells Town conflict uses Zoro’s imprisonment and Morgan’s rule to test what kind of people Luffy chooses to trust. The section moves Zoro closer to becoming Luffy’s first crewmate.",
+  "confidence": 0.77,
+  "needs_review": false
+}

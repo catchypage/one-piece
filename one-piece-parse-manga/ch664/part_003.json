@@ -1,0 +1,84 @@
+{
+  "chapter": "664",
+  "part": 3,
+  "title": "Chopper Investigates the Candy",
+  "description": "On pages 10–13, this part follows Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Unknown person #7. The central beat is chopper investigates the candy.",
+  "pages": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Caesar Clown",
+    "Chopper",
+    "Nami",
+    "Children"
+  ],
+  "scene": "The scene focuses on chopper investigates the candy, with Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Unknown person #7 shaping the Punk Hazard conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Greensery and life? Here?!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "That's hard to believe ..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "The place we're standing now..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "No wonder it's so messed up...!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "...and sealed off the island completely!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "...and their futures seemed bleak at best....!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Aaah H!!!!!!! MASTEE EEE!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Maste EeeeeER"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "And finally, just a few months ago..."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Our second Saviour arrived."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "...came to this island."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "What a touching story!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "What about the dragon?"
+    }
+  ],
+  "summary": "Chopper Investigates the Candy. This part advances Punk Hazard’s rescue mission, Caesar’s experiment, and the fragile pirate–Marine alliance.",
+  "confidence": 0.76,
+  "needs_review": true
+}

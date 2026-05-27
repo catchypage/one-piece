@@ -1,0 +1,63 @@
+{
+  "chapter": "802",
+  "part": 4,
+  "title": "The Giant Elephant Appears",
+  "description": "On pages 15–15, this part focuses on the giant elephant appears within the Weevil, the Barto Club, and the Road to Zou storyline.",
+  "pages": [
+    15
+  ],
+  "characters": [
+    "Trafalgar Law",
+    "Kinemon",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "The Straw Hats rely on Bartolomeo's chaotic crew while the wider world introduces Weevil and pushes the voyage toward Zou.",
+  "dialogue": [
+    {
+      "speaker": "Trafalgar Law",
+      "text": "So this is [Zou]!! I must say, the sheer number of peculiar and diverse things in foreign waters is truly a sight to behold....!!"
+    },
+    {
+      "speaker": "Kinemon",
+      "text": "I pray MOMONOSUKE IS SAFE...!!"
+    },
+    {
+      "speaker": "Trafalgar Law",
+      "text": "Oi! I've heard of tales about a tribe living on [Zou] that has utter disdain for humans or anything resembling..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "...correct... the [think]."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "I've been told this country has gone nearly 1000 years without any humans ever having come into contact with it."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "1000 years?! on that elephant's back?!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Then..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "This elephant has been alive..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "For around 1000 years?!"
+    },
+    {
+      "speaker": "Trafalgar Law",
+      "text": "As they get ready to embark onto Zou, what new adventure awaits them on the back of this giant behemoth?!"
+    }
+  ],
+  "summary": "The Giant Elephant Appears: The Straw Hats struggle aboard Bartolomeo's ship while Edward Weevil and Miss Bakkin enter the story, and the crew follows the Vivre Card toward Zou.",
+  "confidence": 0.76,
+  "needs_review": true
+}

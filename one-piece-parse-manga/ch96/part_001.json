@@ -1,0 +1,196 @@
+{
+  "chapter": "96",
+  "part": 1,
+  "title": "A New Bounty Spreads",
+  "description": "On pages 1–4, a new bounty spreads focuses on Luffy, Zoro, Nami, Usopp as news of Luffy’s bounty spreads across the East Blue as the crew sails toward their next destination.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Buggy",
+    "Alvida",
+    "Smoker",
+    "News Coo",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "On pages 1–4, a new bounty spreads focuses on Luffy, Zoro, Nami, Usopp as news of Luffy’s bounty spreads across the East Blue as the crew sails toward their next destination.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "Another price increase?"
+    },
+    {
+      "speaker": "News Coo",
+      "text": "Don't you think it's getting a bit too expensive?"
+    },
+    {
+      "speaker": "News Coo",
+      "text": "CAWW..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "raise the price again and I won't be buying your papers anymore."
+    },
+    {
+      "speaker": "News Coo",
+      "text": "What're you getting so riled up about? It's just a newspaper."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Daily expenses all add up, don't you know!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I thought you were done with saving up money?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "don't be stupid. From now on, I'm going to be saving up money for no one but me alone."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "There's no way I'm going to be a pennless pirate!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "OK, OK. I'm in the middle of developing my secret tabasco star so keep away!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "an enemy who gets this in their eye,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Will be rendered completely helpful..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Keep your hands off!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "splash!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Aghh!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gya, a.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Oh come on! Can't I just have at least one?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "ABSO- LUTELY NOT!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "These are Nami's beloved Orange trees! I won't allow anyone to lay even a single finger on them!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Oh well. I'm in a good mood so I'll drop it then."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Nami! Rest assured, my defense powered by love is infallible! »"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Shanks a lot, Sanji!:)"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "What a tool..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "gyAA AAAa!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We're finally on our way to grand line!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "The world's in such turmoil."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Another coup d'etat in Villa...?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Flap..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "It's a flyer."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ah..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Aghh..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Ah!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Oh?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ahhhhhh!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The ship now heads out for grand line."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Marine HQ"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "So in short, our branch forces,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "are unable to deal with this particular pirate crew...?"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Yes."
+    }
+  ],
+  "summary": "This part shifts the story from local East Blue battles to the wider pirate world reacting to Luffy’s new bounty.",
+  "confidence": 0.71,
+  "needs_review": true
+}

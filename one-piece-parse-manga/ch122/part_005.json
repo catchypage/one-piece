@@ -1,0 +1,75 @@
+{
+  "chapter": "122",
+  "part": 5,
+  "title": "The Trap Begins to Crack",
+  "description": "On pages 18–19, the trap begins to crack as mr. 3 tightens his plan around the captured crew, forcing Luffy and Usopp to fight through smoke, wax, and Baroque Works tricks.",
+  "pages": [
+    18,
+    19
+  ],
+  "characters": [
+    "Vivi",
+    "Usopp",
+    "Mr. 3",
+    "Luffy",
+    "Unknown person #1"
+  ],
+  "scene": "The Trap Begins to Crack. Mr. 3 tightens his plan around the captured crew, forcing Luffy and Usopp to fight through smoke, wax, and Baroque Works tricks. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You guys in trouble?"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "No,"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Not particularly."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "W-Wait a minute! Your legs are bleeding!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yeah, I was about half-done cutting them... haha."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "How is that not being in trouble!?"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Well in any case..."
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Could you destroy this pillar for us? I'll leave the rest to you."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "sure thing."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Hmph..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Oh we'll see about that, won't we?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "The first time I was in the middle of the"
+    }
+  ],
+  "summary": "This part centers on the trap begins to crack, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.78,
+  "needs_review": false
+}

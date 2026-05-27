@@ -1,0 +1,42 @@
+{
+  "chapter": "335",
+  "part": 5,
+  "title": "Usopp Challenges Luffy",
+  "description": "Luffy and Usopp fight over the ship, forcing the crew to watch friendship and authority collide.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Franky",
+    "Franky Family",
+    "Going Merry"
+  ],
+  "scene": "Across pages 17, this part follows Luffy, Usopp, Nami, Zoro, Sanji. Luffy and Usopp fight over the ship, forcing the crew to watch friendship and authority collide.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "There were two..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Those sharp eyes..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It was prob- Abby...."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Nico Nico Robin."
+    }
+  ],
+  "summary": "Luffy and Usopp fight over the ship, forcing the crew to watch friendship and authority collide.",
+  "confidence": 0.88,
+  "needs_review": false
+}

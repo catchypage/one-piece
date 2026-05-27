@@ -1,0 +1,110 @@
+{
+  "chapter": "212",
+  "part": 2,
+  "title": "Vivi Faces Her Choice",
+  "description": "On pages 5, 6, 7, 8, this part focuses on vivi speaks to her country. Vivi stands before Alabasta and chooses her duty as princess, even as her heart remains tied to the friends who saved her.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Zoro",
+    "Karoo",
+    "Smoker",
+    "Tashigi"
+  ],
+  "scene": "This scene belongs to the Vivi Speaks to Her Country sequence. The important beat is the dialogue and action around Luffy, Vivi, Nami, Usopp, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Leader..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "How are your wounds?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You won't die on us, right...?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You know... Toto said about Yuba that..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Viv1."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Leader..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Sure..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "It's raining!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The rebellion will now end!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "KUO"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Kuc"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "KUO!"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "KUO!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "How long will your stubborn-ness last, father!?"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Look, Kouza."
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "The rain is falling..."
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Only 3 years..."
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "That was all it too&..."
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Isn't that right,"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "'Rain...?"
+    }
+  ],
+  "summary": "Vivi stands before Alabasta and chooses her duty as princess, even as her heart remains tied to the friends who saved her.",
+  "confidence": 0.82,
+  "needs_review": false
+}

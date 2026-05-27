@@ -1,0 +1,81 @@
+{
+  "chapter": "365",
+  "part": 1,
+  "title": "Sanji on the Sea Train",
+  "description": "Spandam’s abuse of authority and his control over Robin and Franky make the World Government threat more personal.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Spandam",
+    "Sanji",
+    "Franky",
+    "Kokoro",
+    "CP9 agent",
+    "Wanze",
+    "Nero",
+    "Nico Robin",
+    "World Government agent"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Spandam, Sanji, Franky, Kokoro, CP9 agent. Spandam’s abuse of authority and his control over Robin and Franky make the World Government threat more personal.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "This is my biggest chance yet!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Right, Funkfreed?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I'm pretty sure you're"
+    },
+    {
+      "speaker": "Franky",
+      "text": "They say the world is vast..."
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "They're here on the sea train..."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "And coming to me!!!"
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "Waha Hahaha Hahaha Ha!!!"
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "AhChoo!!!"
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "SNF..."
+    },
+    {
+      "speaker": "Wanze",
+      "text": "7th Car (Last car)"
+    },
+    {
+      "speaker": "Nero",
+      "text": "6th car (frelght)"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "ColLier..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "FRITE!!!!"
+    }
+  ],
+  "summary": "Spandam’s abuse of authority and his control over Robin and Franky make the World Government threat more personal.",
+  "confidence": 0.77,
+  "needs_review": false
+}

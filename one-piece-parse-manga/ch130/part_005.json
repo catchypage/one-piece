@@ -1,0 +1,128 @@
+{
+  "chapter": "130",
+  "part": 5,
+  "title": "The Search Turns Toward Drum",
+  "description": "On pages 16–18, the search turns toward drum as the crew searches desperately for medical help as Nami’s fever worsens and the Grand Line’s dangers keep testing them.",
+  "pages": [
+    16,
+    17,
+    18
+  ],
+  "characters": [
+    "Vivi",
+    "Luffy",
+    "Nami",
+    "Sanji",
+    "Usopp",
+    "Zoro",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Karoo"
+  ],
+  "scene": "The Search Turns Toward Drum. The crew searches desperately for medical help as Nami’s fever worsens and the Grand Line’s dangers keep testing them. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "It's... it's a cyclone!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ah!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Nami, hang in there!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "It's Huuge!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Wait a minute... that direction is..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "That's exactly where we were headed just until a moment ago..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "If we had sailed straight, we'd have crashed right into it by now!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Talk about a close call!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Incredible... a cyclone on the grand line's said to be impossible to predict...!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "This girl isn't just predicting the weather,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Based on weather forecast theories..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "It's almost as if she's directly feeling the minute happenings of the climate itself...!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I've never seen such a Navigator..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Alright, let's hurry it up, guys!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "We'll keep heading south to find a doctor!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Right!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Ignoring the needle pointing to Alabasta, the ship is now on the lookout for a doctor..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "After 1 day..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Vivi, what do we do!? Nami's fever isn't going down!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Sanji! Karoo! You have to be quiet!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Hey!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Can you see a doctor from up there?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Of course not, you idiot!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "UHhh, guys... do you think a person could..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Stand on top of an ocean...?"
+    }
+  ],
+  "summary": "This part centers on the search turns toward drum, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.62,
+  "needs_review": true
+}

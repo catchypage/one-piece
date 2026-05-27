@@ -1,0 +1,82 @@
+{
+  "chapter": "249",
+  "part": 1,
+  "title": "Satori’s Ordeal Begins",
+  "description": "Luffy, Sanji, and Usopp enter Satori’s bizarre ordeal, where harmless-looking balls become deadly traps.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Satori",
+    "Narrator",
+    "Gan Fall",
+    "Luffy",
+    "Sanji",
+    "Usopp",
+    "Chopper",
+    "Nami",
+    "Zoro",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this scene centers on Satori, Narrator, Gan Fall, Luffy, Sanji. Luffy, Sanji, and Usopp enter Satori’s bizarre ordeal, where harmless-looking balls become deadly traps.",
+  "dialogue": [
+    {
+      "speaker": "Satori",
+      "text": "COO..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Pleh -..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "We need to finish this..."
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Pierre!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "GO!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Representments and maintenance of"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "\"You bastard"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Trial of String!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "COO~"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "HUAA, HUAH!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "POoh!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Yosh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "SOH"
+    }
+  ],
+  "summary": "Luffy, Sanji, and Usopp enter Satori’s bizarre ordeal, where harmless-looking balls become deadly traps.",
+  "confidence": 0.84,
+  "needs_review": false
+}

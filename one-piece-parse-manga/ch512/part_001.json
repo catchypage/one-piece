@@ -1,0 +1,120 @@
+{
+  "chapter": "512",
+  "part": 1,
+  "title": "The Crew Is Scattered",
+  "description": "In the Sabaody Archipelago storyline, this section centers on Unknown person #4, Pacifista, Unknown person #2, Unknown person #5, Unknown person #7, Unknown person #8 as the scene develops across pages 1–4.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Unknown person #4",
+    "Pacifista",
+    "Unknown person #2",
+    "Unknown person #5",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Unknown person #1",
+    "Unknown person #3",
+    "Unknown person #6",
+    "Franky",
+    "Unknown person #10"
+  ],
+  "scene": "This scene advances the Sabaody Archipelago conflict through Unknown person #4, Pacifista, Unknown person #2, Unknown person #5, Unknown person #7, focusing on the immediate stakes of the crew is scattered.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "But to think, you're really here~."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "TH... THANK GOD, ZORO...!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "That old man is really something!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "He stopped him... how!?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Now, is there any way..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "that you could let them go... Kizaru?"
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "Won't you stay out of my way....!!?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "USOP, BROOK!!! GRAB ZORD AND RUN!!!"
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "Let's go, Brook !!!"
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "Right !!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Everyone!!! Think only of getting away!!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Right now,"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "We can't beat these guys!!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Ignoring us...!! That makes me mad-."
+    },
+    {
+      "speaker": "Franky",
+      "text": "Franky !!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "I'll use all the Cola I have....!!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "This is my last attack!!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "\"Coup De\"..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "\"Vent\" !!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Run!!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Thanks, old man!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Sure!! I'm praying for your safety!!"
+    }
+  ],
+  "summary": "This scene advances the Sabaody Archipelago conflict through Unknown person #4, Pacifista, Unknown person #2, Unknown person #5, Unknown person #7, focusing on the immediate stakes of the crew is scattered.",
+  "confidence": 0.65,
+  "needs_review": true
+}

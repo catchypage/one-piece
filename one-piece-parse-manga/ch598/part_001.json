@@ -1,0 +1,103 @@
+{
+  "chapter": "598",
+  "part": 1,
+  "title": "Return to Sabaody",
+  "description": "In the Return to Sabaody storyline, this section centers on Usopp, Unknown person #4, Unknown person #5, Unknown person #1, Unknown person #2, Unknown person #3 as the scene develops across pages 0–5.",
+  "pages": [
+    0,
+    1,
+    4,
+    5
+  ],
+  "characters": [
+    "Usopp",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Sanji",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9"
+  ],
+  "scene": "This scene advances the Return to Sabaody conflict through Usopp, Unknown person #4, Unknown person #5, Unknown person #1, Unknown person #2, focusing on the immediate stakes of return to sabaody.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Luffy!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Yeah, I'm coming!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "That sure was quick..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "It's been two years already, huh...?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "All right! Thanks!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Hey!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Look harder. These are my friends."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "ahah... wow"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "They look pretty tasty, too..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Right!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Let's get going!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Grand Line: The Shabondy archipelago"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "...Gathering on this island once again."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "-Dluffy"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Isn't there anything you can do?!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "The most awesome show ever!!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "The whole place is packed to bursting!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "And what might that be?"
+    }
+  ],
+  "summary": "This scene advances the Return to Sabaody conflict through Usopp, Unknown person #4, Unknown person #5, Unknown person #1, Unknown person #2, focusing on the immediate stakes of return to sabaody.",
+  "confidence": 0.69,
+  "needs_review": false
+}

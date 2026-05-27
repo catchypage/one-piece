@@ -1,0 +1,134 @@
+{
+  "chapter": "1",
+  "part": 5,
+  "title": "Higuma Humiliates Shanks in the Bar",
+  "description": "On pages 17–20, this part follows the Romance Dawn flashback and focuses on how Luffy’s pirate dream is formed through Shanks, Higuma, and the straw hat promise.",
+  "pages": [
+    17,
+    18,
+    19,
+    20
+  ],
+  "characters": [
+    "Higuma",
+    "Luffy",
+    "Makino",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "Higuma and his bandits enter the bar, testing Shanks’ patience while Luffy watches the insult with anger.",
+  "dialogue": [
+    {
+      "speaker": "Higuma",
+      "text": "WE'RE MOUNTAIN BANDITS."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Oh, don't wet yourselves. We're not here to bust up the place. Just sell us 10 barrels of Grog, and we'll injure only the bare minimum."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I'm sorry..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "We just ran out of liquor."
+    },
+    {
+      "speaker": "Higuma",
+      "text": "Hmmm..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "THAT'S STRANGE. WHAT'RE ALL THESE PIRATES DRINKING?"
+    },
+    {
+      "speaker": "Higuma",
+      "text": "Fruit juice?"
+    },
+    {
+      "speaker": "Makino",
+      "text": "It's true..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I just served the last of it."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Feel kinda guilty..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Guess we drank up all the liquor."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Sorry about that."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "WHY DON'T YOU HAVE THIS?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It's still un- opened,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "WHAT DO YOU TAKE ME FOR?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "YOU CAN'T MAKE A FOOL OF ME!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "WHAT GOOD IS ONE BOTTLE OF GROG?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "OH MY..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "what a mess."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Look at this."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "My head's worth 8,000,000 berries."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'M A WANTED MAN."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I've killed 56 people..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Mostly fools like you!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "WATCH YOURSELF... IF YOU'RE FOND OF BREATH- ING!"
+    },
+    {
+      "speaker": "Higuma",
+      "text": "IF YOU'RE SMART YOU'LL SAIL AWAY FROM HERE SO I NEVER SEE YOU AGAIN."
+    },
+    {
+      "speaker": "Makino",
+      "text": "Kunk"
+    }
+  ],
+  "summary": "Higuma humiliates Shanks in front of the bar, but Shanks refuses to escalate. Luffy sees this as cowardice, creating the emotional setup for what comes later.",
+  "confidence": 0.86,
+  "needs_review": false
+}

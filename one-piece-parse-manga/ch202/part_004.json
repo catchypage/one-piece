@@ -1,0 +1,94 @@
+{
+  "chapter": "202",
+  "part": 4,
+  "title": "Luffy Forces the Final Fight",
+  "description": "On pages 13, 14, 15, 16, this part focuses on the royal tomb and the poneglyph. Robin and Crocodile reach Alabasta’s hidden history while Luffy pushes back into the fight, refusing to let the Warlord bury Vivi’s country.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Crocodile",
+    "Nico Robin",
+    "Luffy",
+    "King Cobra",
+    "Vivi",
+    "Pell"
+  ],
+  "scene": "This scene belongs to the The Royal Tomb and the Poneglyph sequence. The important beat is the dialogue and action around Crocodile, Nico Robin, Luffy, King Cobra, Vivi.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "Kuhaha..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "LOSERS CAN'T UPHOLD JUSTICE..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Kuhahaha!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Tell me!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "towards the royal crypt that way....!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "This way!?"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Thanks!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Marine HQ..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "What a joke..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "through"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "The first thing I"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Agh-"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "I CAN'T MOVE..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "C'mon, these scratches aren't even..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "...Huh,"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Maybe I'm just a bit tired..."
+    }
+  ],
+  "summary": "Robin and Crocodile reach Alabasta’s hidden history while Luffy pushes back into the fight, refusing to let the Warlord bury Vivi’s country.",
+  "confidence": 0.88,
+  "needs_review": false
+}

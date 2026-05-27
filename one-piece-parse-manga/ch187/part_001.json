@@ -1,0 +1,108 @@
+{
+  "chapter": "187",
+  "part": 1,
+  "title": "The Crew Splits Up",
+  "description": "On pages 1–9, this part focuses on the crew splits up, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    1,
+    7,
+    8,
+    9
+  ],
+  "characters": [
+    "Usopp",
+    "Chopper",
+    "Mr. 4",
+    "Miss Merry Christmas",
+    "Lassoo",
+    "Chaka",
+    "Vivi",
+    "Unknown person #1"
+  ],
+  "scene": "The Crew Splits Up. Usopp and Chopper endure brutal attacks and keep fighting for Luffy, Vivi, and the crew’s promise. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Usopp",
+      "text": "I saw the oddest panda on TV the other day. You know how normal Panda have black spots? Well this one didn't. It was quite a sight to see. Apparently, it lived somewhere up near the Arctic too. Haha, guess that Panda just couldn't help it. In any case,"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "* Z*C-C is"
+    },
+    {
+      "speaker": "Mr. 4",
+      "text": "Ughh!"
+    },
+    {
+      "speaker": "Mr. 4",
+      "text": "Huff... huff..."
+    },
+    {
+      "speaker": "Miss Merry Christmas",
+      "text": "Kouza!"
+    },
+    {
+      "speaker": "Miss Merry Christmas",
+      "text": "CLICK!"
+    },
+    {
+      "speaker": "Mr. 4",
+      "text": "This is a battlefield! Stop worrying about such trivialities!"
+    },
+    {
+      "speaker": "Miss Merry Christmas",
+      "text": "Is the bullet wound from Nanohana still hurting Y-"
+    },
+    {
+      "speaker": "Mr. 4",
+      "text": "In any case, I need to get myself a horse! If I can just make it out of the town center, I can then head to the Northern Block where the palace is!"
+    },
+    {
+      "speaker": "Lassoo",
+      "text": "The PALACE? What're you planning' to do!?"
+    },
+    {
+      "speaker": "Mr. 4",
+      "text": "I'm going to demand a surrender from the king."
+    },
+    {
+      "speaker": "Chaka",
+      "text": "That's crazy! The Northern Block is guarded by the bulk of the Royal Army, not to mention Poll and Chaka!"
+    },
+    {
+      "speaker": "Miss Merry Christmas",
+      "text": "Most of us rebels haven't even arrived yet! We still have reinforcements coming in from the other towns!"
+    },
+    {
+      "speaker": "Mr. 4",
+      "text": "There's no need for you to risk going in deep alone!"
+    },
+    {
+      "speaker": "Mr. 4",
+      "text": "...It's already too late."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Lend me a hand!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "LEAP!"
+    },
+    {
+      "speaker": "Miss Merry Christmas",
+      "text": "Kouza!"
+    },
+    {
+      "speaker": "Mr. 4",
+      "text": "Halt!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Are you one of the rebels!?"
+    }
+  ],
+  "summary": "This part develops the crew splits up and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.78,
+  "needs_review": false
+}

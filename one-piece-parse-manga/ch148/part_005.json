@@ -1,0 +1,84 @@
+{
+  "chapter": "148",
+  "part": 5,
+  "title": "The Flag Must Not Fall",
+  "description": "On pages 17–18, this part focuses on the flag must not fall, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Chopper",
+    "Wapol",
+    "Dr. Kureha",
+    "Nami",
+    "Unknown person #1"
+  ],
+  "scene": "The Flag Must Not Fall. Luffy understands the meaning of Hiriluk’s flag and refuses to let Wapol treat it like a decoration. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "I'll take on the big-mouthed hippo then!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "ROWdy little punk...!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "I won't hesitate anymore!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "You think you can beat me!? Ha! Get a load of this stupid animal!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Damn you, Hag... let me... fight...!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Stay put and enjoy the show. Push yourself anymore and you won't be able to walk again, y'hear!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Don't worry..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "My lil' Reindeer can handle himself when the time comes."
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "My name is Tony Tony Chopperr!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "The world's greatest doctor gave me that name!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Even if Doc would forgive you brute,"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "I'll NEVER forgive you for mocking him!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "The one begging for forgiveness will be you, you dumb monster!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Get ready to die!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Rumble Ball!"
+    }
+  ],
+  "summary": "This part highlights the flag must not fall and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.77,
+  "needs_review": false
+}

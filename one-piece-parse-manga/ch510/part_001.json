@@ -1,0 +1,98 @@
+{
+  "chapter": "510",
+  "part": 1,
+  "title": "The Crew Is Scattered",
+  "description": "In the Sabaody Archipelago storyline, this section centers on Unknown person #3, Franky, Unknown person #1, Unknown person #2, Sanji, Unknown person #4 as the scene develops across pages 1–7.",
+  "pages": [
+    1,
+    3,
+    4,
+    7
+  ],
+  "characters": [
+    "Unknown person #3",
+    "Franky",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Sanji",
+    "Unknown person #4"
+  ],
+  "scene": "This scene advances the Sabaody Archipelago conflict through Unknown person #3, Franky, Unknown person #1, Unknown person #2, Sanji, focusing on the immediate stakes of the crew is scattered.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "AppAppAppAppAppAppAppAppAppAPAPAPAPAP- PAPPAPA!!! Check it out!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "That surprised me\"..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "\"Yata no Kagami.\""
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hmm!!?"
+    },
+    {
+      "speaker": "Franky",
+      "text": "What? It's so Bright!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Hah?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "hellooo... huh?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "hellooooo~..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Ah... ahhh-!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "... Ahh... is this it?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Gacha!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "This is borsalino in"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "... Oh! Ahh! Sentoumaru!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "... EH?"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Whatever, please just get to work!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "that hurt....!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Who will you start with?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "OHH, is that the case...? then...?"
+    }
+  ],
+  "summary": "This scene advances the Sabaody Archipelago conflict through Unknown person #3, Franky, Unknown person #1, Unknown person #2, Sanji, focusing on the immediate stakes of the crew is scattered.",
+  "confidence": 0.67,
+  "needs_review": true
+}

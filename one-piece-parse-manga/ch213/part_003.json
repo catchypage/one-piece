@@ -1,0 +1,166 @@
+{
+  "chapter": "213",
+  "part": 3,
+  "title": "The Navy Closes In",
+  "description": "On pages 11, 12, 13, 14, this part focuses on the silent x-mark farewell. Vivi and the Straw Hats part ways without words, using their shared mark to prove their friendship while protecting her from the Navy.",
+  "pages": [
+    11,
+    12,
+    13,
+    14
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Zoro",
+    "Karoo",
+    "Smoker",
+    "Tashigi"
+  ],
+  "scene": "This scene belongs to the The Silent X-Mark Farewell sequence. The important beat is the dialogue and action around Luffy, Vivi, Nami, Usopp, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "WHA-"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "It's the Chikuwa-dude! You're still alive!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "You're all mistaken. This is Terracotta."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "\"You've gotta be kiddin' me"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "What're you, a magician!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Minnf!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "MINN!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Minn MIN MANNNNF!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "MNN!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Not even a shred of dignity...!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Whoa-"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Aghh!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Snap!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "MMnIF!"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "We've got more Serv-ings here!!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Quick!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Don't stretch!"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Don't worry, there's still plenty left!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Ohh!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "BWA!!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "That's playin' dirty!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Whoa, since when were you here!?"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "...What's this dish called?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Delicious!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "chew"
+    },
+    {
+      "speaker": "Nami",
+      "text": "RMMF? (Right?)"
+    },
+    {
+      "speaker": "Nami",
+      "text": "MMNF! (Sure!)"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Can I get some more booze!?"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Some water over here!"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "What a noisy meal..."
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "I can barely watch."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "It's beyond vulgar."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm surprised the princess,"
+    }
+  ],
+  "summary": "Vivi and the Straw Hats part ways without words, using their shared mark to prove their friendship while protecting her from the Navy.",
+  "confidence": 0.86,
+  "needs_review": false
+}

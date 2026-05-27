@@ -1,0 +1,169 @@
+{
+  "chapter": "164",
+  "part": 3,
+  "title": "A Princess and a Rebel Leader",
+  "description": "On pages 9–12, this part focuses on a princess and a rebel leader, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Vivi",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Chaka",
+    "Pell",
+    "King Cobra",
+    "Zoro",
+    "Chopper",
+    "Toto",
+    "Koza",
+    "Baroque Works agent",
+    "Unknown person #1"
+  ],
+  "scene": "A Princess and a Rebel Leader. Vivi’s childhood bond with Koza and the roots of the rebel movement give the civil war a personal face. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "You filthy low- lives!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Father... Igaram..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Are you hurt anywhere, Princess Vivi?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "How dare you try to lay a hand on my precious daughter!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You WRE- TCHED SCUM BAGS!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "It appears this fellow was another member of their gang."
+    },
+    {
+      "speaker": "Chaka",
+      "text": "Chaka,"
+    },
+    {
+      "speaker": "Pell",
+      "text": "Pell."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "What're you two doing here?"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "We should be asking your majesty the same question."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "What brings the king of a country so far away from his palace?"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "We beg your majesty to refrain from personally taking these matters into your hands when we're around."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Igaram! Kouza is...!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Yes, I'll bring a doctor immediately to treat Kouza,"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "As well as the other members of the Sand- Sand gang."
+    },
+    {
+      "speaker": "Pell",
+      "text": "Chaka! Pell! Go call a doctor!"
+    },
+    {
+      "speaker": "Toto",
+      "text": "Yes, sir!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What brave little children, they are..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "What's wrong, Vivi? How long are you gonna keep on crying?"
+    },
+    {
+      "speaker": "Koza",
+      "text": "B-but... It was... So scary...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Well yeah, it was scary for me too since they had knives but-"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "No, that's not it!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Back then, you said, \"We'll die protecting Vivi if we have to...\""
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "We'll die protect- ing vivi if we have to!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Please don't ever say,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Some- thing as scary as dying, leader...!"
+    },
+    {
+      "speaker": "Koza",
+      "text": "So she was scared most by the idea of losing her friends..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "For that, I must give you a proper thank-you."
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "...Vivi's our friend so it's only natural I did what I did."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It appears the next generation of Alabama led by children like you will be quite dependable..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I see..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "...Do you love this country, Kouza?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Yup! It's the country I was born in, after all!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Same here!"
+    }
+  ],
+  "summary": "This part develops a princess and a rebel leader and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.78,
+  "needs_review": false
+}

@@ -1,0 +1,102 @@
+{
+  "chapter": "338",
+  "part": 3,
+  "title": "The Night Attack on Iceburg",
+  "description": "Robin’s secret movements and the World Government’s presence begin to pull Water Seven away from a simple ship-repair story.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Nico Robin",
+    "Nami",
+    "Zoro",
+    "Franky",
+    "Paulie",
+    "Galley-La shipwright",
+    "Sanji",
+    "Chopper",
+    "Iceburg"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this part follows Luffy, Nico Robin, Nami, Zoro, Franky. Robin’s secret movements and the World Government’s presence begin to pull Water Seven away from a simple ship-repair story.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "HAA"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Damn, I can't move!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Luffy!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "They got him!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "YiaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "AHA Haha Ha!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "GALLEY- LA!!!!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Paulie, Watch out!!!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Run away, gal- Ley- La!!!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Connector set..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "The crane...?"
+    },
+    {
+      "speaker": "Galley-La shipwright",
+      "text": "GALLEY- LA, RUN AWAY!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "A cannon?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "do it, bro....."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Air?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "It's danger- OUS! RUN!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "AAAAHAHAHAHA!!!!!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Coup de vent!!!!"
+    }
+  ],
+  "summary": "Robin’s secret movements and the World Government’s presence begin to pull Water Seven away from a simple ship-repair story.",
+  "confidence": 0.78,
+  "needs_review": false
+}

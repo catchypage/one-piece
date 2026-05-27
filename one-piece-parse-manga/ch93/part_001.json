@@ -1,0 +1,132 @@
+{
+  "chapter": "93",
+  "part": 1,
+  "title": "Nami’s Room Is Revealed",
+  "description": "On pages 1–4, nami’s room is revealed focuses on Luffy, Arlong, Nami, Nojiko as luffy discovers the room where Nami was forced to draw maps and turns his anger on Arlong Park itself.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Arlong",
+    "Nami",
+    "Nojiko",
+    "Cocoyashi villagers",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "On pages 1–4, nami’s room is revealed focuses on Luffy, Arlong, Nami, Nojiko as luffy discovers the room where Nami was forced to draw maps and turns his anger on Arlong Park itself.",
+  "dialogue": [
+    {
+      "speaker": "Arlong",
+      "text": "My Kiribachi...!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Just what exactly,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Do you think she is...?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "She's a brilliant cartographer. Of course, she is still a member of your inferior race,"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "But she's got a good head on her shoulders. If I were to liker you humans to filthy rats,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Then she'd be a cheeky little cat..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "In any case, she's a cute lil' thing."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I'll have her continue drawing maps for me in this room. For forever, that is."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I'll feed her,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "And even buy her any clothes she wants! That girl will never be in want for as long as she lives."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "In return, all she has to do is draw maps for me."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Because you see,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "We're crew- mates."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Damn it...! Just what exactly happened to brother Luffy!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We've got no way of knowing what's going on up there!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "WAHA...!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Ahhh!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "A desk..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Whew..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "It's just a desk..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "that scared me good. For a second, I almost thought it was brother Lu..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hey! Are you saying you don't believe in Brother Luffy's strength!?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Hey, you were scared too, Johnny!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Wha... no, umm... I uhh, thought it might be along..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Ah..."
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.77,
+  "needs_review": false
+}

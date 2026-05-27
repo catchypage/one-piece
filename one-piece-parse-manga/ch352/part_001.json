@@ -1,0 +1,107 @@
+{
+  "chapter": "352",
+  "part": 1,
+  "title": "Tom’s Dream",
+  "description": "Tom takes responsibility for the attack and protects Iceburg and Franky, even as the World Government tightens its trap.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Franky",
+    "Tom",
+    "Iceburg",
+    "Spandam",
+    "Kokoro",
+    "Yokozuna",
+    "World Government agent"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Franky, Tom, Iceburg, Spandam, Kokoro. Tom takes responsibility for the attack and protects Iceburg and Franky, even as the World Government tightens its trap.",
+  "dialogue": [
+    {
+      "speaker": "Franky",
+      "text": "Someone's here... Probably Zanbal and the others."
+    },
+    {
+      "speaker": "Franky",
+      "text": "Ding"
+    },
+    {
+      "speaker": "Tom",
+      "text": "OH YEAH!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "They won't come, we're not friends anymore."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "I already told you that."
+    },
+    {
+      "speaker": "Franky",
+      "text": "---? Why isn't he coming in?"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Alright, alright, we're coming!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Hey kid..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "you..."
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "---- should go back to your friends."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Ding Ding!!"
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "Alright! shut up will ya!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "I can't do that now."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "I fought with the captain....!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "It's been resolved......!!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "You're changing the subject!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "I'm not!! This is the subject!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Mozu!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Bro..."
+    },
+    {
+      "speaker": "Tom",
+      "text": "Kiwi!!!"
+    }
+  ],
+  "summary": "Tom takes responsibility for the attack and protects Iceburg and Franky, even as the World Government tightens its trap.",
+  "confidence": 0.84,
+  "needs_review": false
+}

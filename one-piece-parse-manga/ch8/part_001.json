@@ -1,0 +1,146 @@
+{
+  "chapter": "8",
+  "part": 1,
+  "title": "Nami’s Scheme in Orange Town",
+  "description": "On pages 1–4, this part begins the Orange Town storyline, where Nami’s schemes and Buggy’s crew pull Luffy and Zoro into a new conflict.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro"
+  ],
+  "scene": "Luffy and Zoro drift at sea after leaving Shells Town, exposing how unprepared they are without a navigator.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm STARVING!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "DON'T YOU THINK IT'S STRANGE THAT YOU CAN'T NAVIGATE?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "No, drifting has worked pretty well for me."
+    },
+    {
+      "speaker": "Nami",
+      "text": "WHAT ABOUT YOU? YOU'RE SUPPOSED TO BE THE HOLYTEROR OF THE SEAS!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "DON'T RECALL EVER CALLING MYSEELF THAT."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I followed a pirate I was after out to sea."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "But I couldn't find my way back to my village."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "So I made the best of things. I went after pirates that were in the area."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I HAD TO EARN MONEY SOMEHOW..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Hmph! So you got lost?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "YOU DON'T HAVE TO PUT IT LIKE THAT!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Anyway, what kind of a pirate doesn't know how to navigate a ship? It's ridiculous!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "At this rate, we'll NEVER MAKE IT to the GRAND LINE."
+    },
+    {
+      "speaker": "Nami",
+      "text": "WE'VE GOT TO RECRUT A NAVIGATORAS SOON AS POSSIBLE."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "AND WE NEED A COOK, AND A MUSICIAN, AND--"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Those can wait!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I'm STARVING!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "HEY..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It's A BIRD..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It looks pretty big..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Let's eat it!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Huh? How?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "LEAVE IT TO ME! I'LL CATCH IT!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "GUM- Gun..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "OKAY..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "GASP!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "WHAT!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Help!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "You idiot!!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "WHAT ARE YOU DOING!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "DARN YOU!"
+    }
+  ],
+  "summary": "This opening beat shows the new crew’s biggest practical problem: Luffy has ambition but no navigation skills, while Zoro is stranded with him. Their hunger and reckless attempt to catch a bird push them toward Orange Town.",
+  "confidence": 0.86,
+  "needs_review": false
+}

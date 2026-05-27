@@ -1,0 +1,54 @@
+{
+  "chapter": "205",
+  "part": 3,
+  "title": "The Kingdom Counts the Cost",
+  "description": "On pages 9, 10, 11, 13, this part focuses on a kingdom wakes from war. Alabasta starts facing the aftermath of Crocodile’s deception while Vivi, Cobra, the rebels, and the Straw Hats recover from the civil war.",
+  "pages": [
+    9,
+    10,
+    11,
+    13
+  ],
+  "characters": [
+    "Alabasta citizen",
+    "Luffy",
+    "Vivi",
+    "King Cobra",
+    "Nico Robin",
+    "Smoker"
+  ],
+  "scene": "This scene belongs to the A Kingdom Wakes from War sequence. The important beat is the dialogue and action around Alabasta citizen, Luffy, Vivi, King Cobra, Nico Robin.",
+  "dialogue": [
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Swoosh!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Whoa!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "JUMP!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Huff... Huff..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Splurt!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "bleed..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Grab!"
+    }
+  ],
+  "summary": "Alabasta starts facing the aftermath of Crocodile’s deception while Vivi, Cobra, the rebels, and the Straw Hats recover from the civil war.",
+  "confidence": 0.89,
+  "needs_review": false
+}

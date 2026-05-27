@@ -1,0 +1,24 @@
+{
+  "chapter": "6",
+  "title": "Zoro Takes Up His Swords",
+  "main_description": "Luffy’s attempt to free Zoro reaches the breaking point. The Marines close in, Zoro chooses survival and loyalty over execution, and the foundation of the first Straw Hat partnership begins to form.",
+  "main_characters": [
+    "Luffy",
+    "Coby",
+    "Zoro",
+    "Helmeppo",
+    "Morgan",
+    "Marine"
+  ],
+  "key_events": [
+    "Luffy brings Zoro back into the fight.",
+    "Zoro’s swords become the key to his freedom.",
+    "Morgan’s Marines turn the yard into a battlefield.",
+    "Zoro and Luffy begin fighting on the same side."
+  ],
+  "confidence": 0.63,
+  "needs_review": true,
+  "review_reasons": [
+    "Some dialogue-heavy parts still contain many unresolved speakers."
+  ]
+}

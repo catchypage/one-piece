@@ -1,0 +1,157 @@
+{
+  "chapter": "1",
+  "part": 6,
+  "title": "Higuma Humiliates Shanks in the Bar",
+  "description": "On pages 21–24, this part follows the Romance Dawn flashback and focuses on how Luffy’s pirate dream is formed through Shanks, Higuma, and the straw hat promise.",
+  "pages": [
+    21,
+    22,
+    23,
+    24
+  ],
+  "characters": [
+    "Luffy",
+    "Higuma",
+    "Makino",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6"
+  ],
+  "scene": "Higuma and his bandits enter the bar, testing Shanks’ patience while Luffy watches the insult with anger.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Sorry about this mess, makino."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "GIVE ME A RAG AND I'LL CLEAN UP."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Uh..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Don't worry about it."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "So, you like to clean?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "THAT OUGHT TO KEEP YOU BUSY FOR A WHILE."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HMPH!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "FAREWELL..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "...Cowards."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "NO GROG! THAT'S AN OUTRAGE!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Let's go to another village."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "CAPTAIN, ARE YOU OKAY?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Are you hurt?"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "I'm fine. No harm done."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Phew!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "HAR HAR HAR HAR HAR! CAP'N!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HE GOT YOU GOOD!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ha haha ha!"
+    },
+    {
+      "speaker": "Higuma",
+      "text": "You think it's funny?!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Higuma",
+      "text": "He made you look like a weaking!!! Why didn't you fight him?!"
+    },
+    {
+      "speaker": "Higuma",
+      "text": "Sure, they outnumbered you, and maybe they looked pretty tough, but what kind of man lets himself be treated like that then laughs about it? You're a disgrace to all pirates!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "WHEN YOU GROW UP MAYBE YOU'LL UNDER- STAND,KID."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HE JUST GOT SOME GROG ON ME, THAT'S ALL. NEEDLESS KILLING DOESN'T MAKE YOU A MAN."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hey, where you going?"
+    },
+    {
+      "speaker": "Higuma",
+      "text": "HMPH! to go find a real role model!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HEY!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "WHAT!!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "His arm's stretching!!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "He couldn't have!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "DOES THIS MEAN... DID HE--"
+    },
+    {
+      "speaker": "Makino",
+      "text": "What's Wrong With Me?!!!"
+    }
+  ],
+  "summary": "Higuma humiliates Shanks in front of the bar, but Shanks refuses to escalate. Luffy sees this as cowardice, creating the emotional setup for what comes later.",
+  "confidence": 0.8,
+  "needs_review": false
+}

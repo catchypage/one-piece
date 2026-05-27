@@ -1,0 +1,166 @@
+{
+  "chapter": "300",
+  "part": 1,
+  "title": "Luffy Returns to the Final Fight",
+  "description": "The crew prepares to leave Skypiea with new memories, treasure, and the fulfilled promise of the golden bell.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Aisa",
+    "Enel",
+    "Nami",
+    "Wyper",
+    "Gan Fall",
+    "Conis",
+    "Pagaya",
+    "Calgara",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this scene focuses on Luffy, Aisa, Enel, Nami, Wyper. The crew prepares to leave Skypiea with new memories, treasure, and the fulfilled promise of the golden bell.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Step"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "Aisa..."
+    },
+    {
+      "speaker": "Enel",
+      "text": "Did you worry...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "About your treasure...?"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "Who'd care about somethin' like that!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "RAK!!"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "You can treat me later."
+    },
+    {
+      "speaker": "Wyper",
+      "text": "More importantly..."
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "You should do something,"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "About him first."
+    },
+    {
+      "speaker": "Conis",
+      "text": "Ah! Even his bones are a mess!"
+    },
+    {
+      "speaker": "Conis",
+      "text": "This is terrible!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hey, isn't that one of the guerillas?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We're not obligated to treat him."
+    },
+    {
+      "speaker": "Aisa",
+      "text": "Right..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "But he put up,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "A desperate stand."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Huh? What's that supposed to be?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Pity?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Pummo..."
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "The management"
+    },
+    {
+      "speaker": "Conis",
+      "text": "Can you heal him,"
+    },
+    {
+      "speaker": "Pagaya",
+      "text": "Tamuki?"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "I'm a Reindeer!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Look! I've got antlers!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "And don't worry! I can save him!"
+    },
+    {
+      "speaker": "Conis",
+      "text": "I wonder,"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "If Nami's alright..."
+    },
+    {
+      "speaker": "Conis",
+      "text": "I'm worried about Conis too..."
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Where could she be...?"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "So what happened?"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Did the golden bell-"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I think it fell into the sea."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Guess we'll continue to being broke-ass pirates."
+    }
+  ],
+  "summary": "The crew prepares to leave Skypiea with new memories, treasure, and the fulfilled promise of the golden bell.",
+  "confidence": 0.88,
+  "needs_review": false
+}

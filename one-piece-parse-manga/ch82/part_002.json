@@ -1,0 +1,82 @@
+{
+  "chapter": "82",
+  "part": 2,
+  "title": "Arlong Confronts Luffy",
+  "description": "On pages 6–9, arlong confronts luffy focuses on Luffy, Zoro, Nami, Usopp as luffy, Zoro, Sanji, and Usopp answer Nami’s plea and march toward Arlong Park together.",
+  "pages": [
+    6,
+    8,
+    9
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Arlong",
+    "Cocoyashi villagers",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "On pages 6–9, arlong confronts luffy focuses on Luffy, Zoro, Nami, Usopp as luffy, Zoro, Sanji, and Usopp answer Nami’s plea and march toward Arlong Park together.",
+  "dialogue": [
+    {
+      "speaker": "Arlong",
+      "text": "Arlong?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "that would be my name..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm Luffy."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "luffy? I see... and just what the hell are you?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "A pirate."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Hey you. Stop.."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Heh heh, where D'ya think you're going?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "We can't have you go through without talkin' to us first."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hey..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "If you don't hold it right there..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Move it!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "What"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "What does a pirate want with me?"
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.72,
+  "needs_review": true
+}

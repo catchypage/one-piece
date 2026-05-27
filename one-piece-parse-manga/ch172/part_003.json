@@ -1,0 +1,137 @@
+{
+  "chapter": "172",
+  "part": 3,
+  "title": "The Cage Begins to Open",
+  "description": "On pages 9–12, this part focuses on the cage begins to open, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Crocodile",
+    "Vivi",
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Usopp",
+    "King Cobra",
+    "Sanji",
+    "Chopper"
+  ],
+  "scene": "The Cage Begins to Open. Sanji’s hidden role as Mr. Prince disrupts Crocodile’s plan and creates the opening the crew needs to escape. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "That's Ridicu- Louis!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Alabastan Capital Alubarma"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "There's not a chance the king would do such a thing!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That report must be a mistake!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "But the king's been reported missing for exactly the same amount of time,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "As it would take for one to get from allubanna to Nanohana!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "There isn't any valid excuse we can give at the moment!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Not only that, news of the incident at Nanohana has already spread throughout the kingdom,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "And the rebels have grown even more out of control as they voice their outrage!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Even many citizens who've believed in the king until now,"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Have turned their backs on King cobra and raised arms!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The flames of rebellion show no signs of stopping!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We don't have the numbers to suppress all the Revolts!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The whole populace is ready to strike at Alubanna!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It's too late to stop them from attacking!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Please, sir! You must give the order to mobilize the army!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "We shall gladly follow your every last order!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "This is an absurd turn of events... the King's words I heard only the day before are already turning hazy in my mind..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What am I supposed to do...?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Who am I supposed to believe in...?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Fine, if it's come to this, then so be it!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "We are Alabama's Royal Guards!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We cannot allow the kingdom to fall just because the King is absent!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We shall defend the truth we see with our own eyes! We shall defend this kingdom!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "All troops will hereby move out,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "And engage the Rebel Army!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Ohhh!"
+    }
+  ],
+  "summary": "This part develops the cage begins to open and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

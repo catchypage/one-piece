@@ -1,0 +1,75 @@
+{
+  "chapter": "149",
+  "part": 1,
+  "title": "Chopper Uses the Rumble Ball",
+  "description": "On pages 0–3, this part focuses on chopper uses the rumble ball, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Chopper",
+    "Chessmarimo",
+    "Luffy"
+  ],
+  "scene": "Chopper Uses the Rumble Ball. Chopper fights Chessmarimo with the power of the Rumble Ball while the struggle for Drum Castle intensifies. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Chopper",
+      "text": "My rumble ball lasts for 3 minutes!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "And I'll beat you within that time!"
+    },
+    {
+      "speaker": "Chessmarimo",
+      "text": "3 minutes!? Muhahaha! You won't be able to beat me, much less within only 3 minutes!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "3 minutes!? I'd love to see that!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "3 minutes!? Ha, I'd love to see that!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Hee hee hee... looks like we've got quite a show today."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "DAMMIT! Let me fight too!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Just what do you think,"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Smoulder..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Smoulder..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "You can do!?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Marlmo's snow. Melting arrows!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "\"Walk point.\""
+    }
+  ],
+  "summary": "This part highlights chopper uses the rumble ball and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.84,
+  "needs_review": false
+}

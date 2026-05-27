@@ -1,0 +1,154 @@
+{
+  "chapter": "324",
+  "part": 1,
+  "title": "First Steps in Water Seven",
+  "description": "The crew splits up in Water Seven, exchanging treasure and discovering the city’s craftsmen, money, and hidden dangers.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Iceburg",
+    "Kaku",
+    "Galley-La shipwright"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Luffy, Nami, Usopp, Zoro, Sanji. The crew splits up in Water Seven, exchanging treasure and discovering the city’s craftsmen, money, and hidden dangers.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "First,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "What awaits them in water seven"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Let's go to the exchange."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What if we run into robbers!?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "We are robbers."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What are you implying?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Correct, because you'll loose it."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Yup, that's Luffy for ya!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Is that how you think of me!!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Yup"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Bull Rental?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "What's that?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "What is that for?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "What's a bull?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Don't know. Is it a bulldog?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "woof"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Pro- Baby not."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Wait! Find out what it is first!!!"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "Welcome. Renting a bull?"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "How many people?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Three!"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "What kind do you want?"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "GARARA..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Okay. Please make it extra crispy."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "What the hell are you talking about!?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "What!? You came here following the log!?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "wow.... that's amazing. Though that probably means..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "that you don't know what bulls are."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "They are everywhere the city."
+    }
+  ],
+  "summary": "The crew splits up in Water Seven, exchanging treasure and discovering the city’s craftsmen, money, and hidden dangers.",
+  "confidence": 0.81,
+  "needs_review": false
+}

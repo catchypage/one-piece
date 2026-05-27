@@ -1,0 +1,34 @@
+{
+  "chapter": "94",
+  "part": 5,
+  "title": "Nami Can Finally Smile",
+  "description": "On pages 18–18, nami can finally smile focuses on Luffy, Nami, Arlong, Nojiko as luffy destroys Arlong Park and declares Nami his crewmate, ending Arlong’s rule over Cocoyashi.",
+  "pages": [
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Arlong",
+    "Nojiko",
+    "Genzo",
+    "Cocoyashi villagers",
+    "Straw Hat Pirates",
+    "Unknown person #1",
+    "Unknown person #2"
+  ],
+  "scene": "On pages 18–18, nami can finally smile focuses on Luffy, Nami, Arlong, Nojiko as luffy destroys Arlong Park and declares Nami his crewmate, ending Arlong’s rule over Cocoyashi.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "- towels"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "» Bathroom"
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.58,
+  "needs_review": true
+}

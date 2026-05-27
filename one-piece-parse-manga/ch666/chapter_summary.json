@@ -1,0 +1,25 @@
+{
+  "chapter": "666",
+  "title": "The Yeti Cool Brothers Strike",
+  "main_description": "The Yeti Cool Brothers hunt the Straw Hats and Marines through Punk Hazard, showing that Caesar still has dangerous agents hidden on the island.",
+  "main_characters": [
+    "Yeti Cool Brothers",
+    "Luffy",
+    "Law",
+    "Nami",
+    "Chopper",
+    "Sanji",
+    "Franky",
+    "Marines",
+    "Caesar Clown"
+  ],
+  "key_events": [
+    "The Yeti Cool Brothers Attack",
+    "The Crew Is Hunted in the Snow",
+    "Law Steps Into the Fight",
+    "The Alliance Becomes Possible"
+  ],
+  "confidence": 0.84,
+  "needs_review": false,
+  "review_reasons": []
+}

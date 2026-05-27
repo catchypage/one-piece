@@ -1,0 +1,39 @@
+{
+  "chapter": "369",
+  "part": 5,
+  "title": "The Gate of Justice Looms",
+  "description": "The battle shifts when train cars are disconnected, forcing Sanji, Franky, and the others to react quickly.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Chopper",
+    "Sogeking",
+    "Franky",
+    "Nico Robin",
+    "Kokoro",
+    "Franky Family"
+  ],
+  "scene": "Across pages 17, this part follows Luffy, Zoro, Nami, Sanji, Chopper. The battle shifts when train cars are disconnected, forcing Sanji, Franky, and the others to react quickly.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "RAP rap"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "RapraprAP!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Long noseRun!!"
+    }
+  ],
+  "summary": "The battle shifts when train cars are disconnected, forcing Sanji, Franky, and the others to react quickly.",
+  "confidence": 0.76,
+  "needs_review": false
+}

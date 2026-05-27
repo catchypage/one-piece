@@ -1,0 +1,204 @@
+{
+  "chapter": "95",
+  "part": 1,
+  "title": "A Night of Celebration",
+  "description": "On pages 1–4, a night of celebration focuses on Nami, Luffy, Zoro, Usopp as the village celebrates after Arlong’s defeat while Nami prepares to leave her home behind.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Nami",
+    "Luffy",
+    "Zoro",
+    "Usopp",
+    "Sanji",
+    "Nojiko",
+    "Genzo",
+    "Cocoyashi villagers",
+    "Narrator",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "On pages 1–4, a night of celebration focuses on Nami, Luffy, Zoro, Usopp as the village celebrates after Arlong’s defeat while Nami prepares to leave her home behind.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "night fell upon the island once more,"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "And the waves were as quiet as always."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "However, the thunderous festivities,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "did not subside this night nor the next,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "for the people had all endured for this moment."
+    },
+    {
+      "speaker": "Nami",
+      "text": "They had endured everything in order to laugh again."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Ahhh!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Ahh... I sure ate a lot. Feels nice to stuff yourself every now and then."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hey, Sanji! Was there something on that last Melon you ate just now...?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "What's with all that meat you're holding onto?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Yeah, it was a melon with raw ham called \"Raw Ham Melon.\""
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Raw Ham Melon!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Where'd you get it!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Not sure since there's food put out everywhere for all the villagers."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Must've picked it up from some- where..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Then I'll go find it!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Now that I've finished eating..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "He's been eating non-stop."
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's time to flirt with the ladies!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "It is I, Captain USOP!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Alright!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "the warrior who defeated one of the fishmen!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Can I get your auto- graph!?"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Allow me to sing you a song!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Bellie- mere..."
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Your daughters have grown up to be fine, strong women..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "It almost feels like I'm seeing you again,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "When I look at your daughters..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hm..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "from now on,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "All of us will do our best,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "to live life to the fullest."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "because our freedom came at the cost of so many lives,"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "We have to live our lives to the fullest for their sake."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "We have to laugh and smile until our very cheeks hurt...!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Raw Ham Melon!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "There's no food here... Darn it."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Oh well, I'll head back."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Just wait right there!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "A grave? Did some- body die?"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Yes..."
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "But it was long ago."
+    }
+  ],
+  "summary": "This part releases the tension of Arlong Park through celebration, goodbye, and Nami’s choice to sail with the crew.",
+  "confidence": 0.73,
+  "needs_review": false
+}

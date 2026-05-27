@@ -1,0 +1,121 @@
+{
+  "chapter": "50",
+  "part": 5,
+  "title": "The Krieg Pirates Bring War to the Baratie",
+  "description": "On pages 16–18, Don Krieg’s arrival turns the Baratie crisis into a pirate siege while Nami’s departure and the looming fight split the crew’s attention.",
+  "pages": [
+    16,
+    17,
+    18
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7"
+  ],
+  "scene": "The Baratie becomes trapped between hungry enemies, terrified cooks, Krieg’s overwhelming force, and the Straw Hats’ personal priorities.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "to be the strongest."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "You said you're free, right?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "So let's have a duel."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "It's him! Zoro! RORONOA ZORD OF THE THREE SWORD STYLE...!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "The pirate Hunter...?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "him...!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hey! We're gonna lose sight of the ship!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Bro..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "pitiful,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Wealing."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "If you're a competent swordsman by any means, then I can demonstrate the clear difference in strength between you and I,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "without needing to cross blades at all."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "But still, you dare to challenge me. Does your bravery come from your conviction...?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Or from ignorance...?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "It comes from my ambition,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "and a promise to a friend."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "They were good people..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I wonder if they'll count me as their friend,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "The next time we meet..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I wonder if we can even meet again...?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "...I want to hurry up and become free,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "bellemere...!"
+    }
+  ],
+  "summary": "This part escalates the Baratie arc from character introduction to open conflict, with Krieg threatening the restaurant and Nami pulling the story toward Arlong Park.",
+  "confidence": 0.58,
+  "needs_review": true
+}

@@ -1,0 +1,43 @@
+{
+  "chapter": "342",
+  "part": 5,
+  "title": "Franky Is Targeted",
+  "description": "The truth behind the attack on Iceburg begins to emerge as the masked intruders and CP9 agents move in the shadows.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Iceburg",
+    "Paulie",
+    "Nico Robin",
+    "Franky",
+    "Rob Lucci",
+    "Kaku",
+    "Kalifa",
+    "Blueno",
+    "Luffy",
+    "Chopper"
+  ],
+  "scene": "Across pages 17, this part follows Iceburg, Paulie, Nico Robin, Franky, Rob Lucci. The truth behind the attack on Iceburg begins to emerge as the masked intruders and CP9 agents move in the shadows.",
+  "dialogue": [
+    {
+      "speaker": "Iceburg",
+      "text": "This must be it,"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Hoho."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "better hand it over..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "You wouldn't understand its value!!!"
+    }
+  ],
+  "summary": "The truth behind the attack on Iceburg begins to emerge as the masked intruders and CP9 agents move in the shadows.",
+  "confidence": 0.85,
+  "needs_review": false
+}

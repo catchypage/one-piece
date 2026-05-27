@@ -1,0 +1,105 @@
+{
+  "chapter": "6",
+  "part": 3,
+  "title": "Zoro’s Promise Is Revealed",
+  "description": "On pages 9–12, this part turns Zoro’s imprisonment into open action as Luffy forces the fight against Morgan’s Marines.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Zoro",
+    "Luffy",
+    "Morgan",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6"
+  ],
+  "scene": "In Shells Town, Luffy, Coby, and Zoro are drawn into the cruelty of Morgan’s rule and Helmeppo’s privilege.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Wow!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "He's incurred- 18LE!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What the Devil ARE you!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'm a..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "...Rubber Man!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "A RUBBER- MAN!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "CAPTAIN!! THEY'RE TOO MUCH FOR US!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "IT'S HOPELESS! We can't fight a rubber man..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "...AND THAT DEMON RORDONOA ZOLO AT THE SAME TIME!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "All you cowards who were whining just now..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Hear me!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Will shoot yourselves in the head!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "I won't tolerate Defeatists..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "...In my outfit!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "ON MY ORDER... FIRE!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "3-4: Marin"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "SOMETHING'S WRONG WITH THOSE NAVAL MARINES!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Hey! I'm your enemy..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Try putting Meto death!!!"
+    }
+  ],
+  "summary": "The Shells Town conflict uses Zoro’s imprisonment and Morgan’s rule to test what kind of people Luffy chooses to trust. The section moves Zoro closer to becoming Luffy’s first crewmate.",
+  "confidence": 0.62,
+  "needs_review": true
+}

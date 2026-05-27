@@ -1,0 +1,22 @@
+{
+  "chapter": "7",
+  "part": 6,
+  "title": "Zoro Takes Up His Swords",
+  "description": "On pages 19–19, this part resolves the Shells Town conflict and separates Coby’s Marine dream from Luffy and Zoro’s pirate path.",
+  "pages": [
+    19
+  ],
+  "characters": [
+    "Luffy"
+  ],
+  "scene": "In Shells Town, Luffy, Coby, and Zoro are drawn into the cruelty of Morgan’s rule and Helmeppo’s privilege.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "...Neither of them realizing that they've made one serious mistake..."
+    }
+  ],
+  "summary": "The Shells Town conflict uses Zoro’s imprisonment and Morgan’s rule to test what kind of people Luffy chooses to trust. The section moves Zoro closer to becoming Luffy’s first crewmate.",
+  "confidence": 0.94,
+  "needs_review": false
+}

@@ -1,0 +1,90 @@
+{
+  "chapter": "264",
+  "part": 4,
+  "title": "Robin Follows the Ruins",
+  "description": "Robin follows the historical trail through Upper Yard while the war around her threatens to bury the island’s forgotten truth.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Luffy",
+    "Wyper",
+    "Enel",
+    "Zoro",
+    "Narrator",
+    "Nami",
+    "Chopper",
+    "Nico Robin",
+    "Gan Fall",
+    "Shandia warriors"
+  ],
+  "scene": "Across pages 13, 14, 15, 16, this scene centers on Luffy, Wyper, Enel, Zoro, Narrator. Robin follows the historical trail through Upper Yard while the war around her threatens to bury the island’s forgotten truth.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Oooooh...!!!"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Burning Blade!!!"
+    },
+    {
+      "speaker": "Enel",
+      "text": "I'm going to start attacking...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It's too late to run."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Yaha- Ha!!"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "WaIPA, RUN!!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "1 million Volts!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "discharge!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Meh..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Wahh...!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Dzmm"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "DzAM"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Dza --"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "... oh well."
+    }
+  ],
+  "summary": "Robin follows the historical trail through Upper Yard while the war around her threatens to bury the island’s forgotten truth.",
+  "confidence": 0.84,
+  "needs_review": false
+}

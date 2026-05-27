@@ -1,0 +1,126 @@
+{
+  "chapter": "85",
+  "part": 2,
+  "title": "Three Swords Against Six",
+  "description": "On pages 4–7, three swords against six focuses on Zoro, Hatchan, Usopp, Nami as zoro’s injuries worsen during the fight, but he continues battling Hatchan while the others struggle around him.",
+  "pages": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "characters": [
+    "Zoro",
+    "Hatchan",
+    "Usopp",
+    "Nami",
+    "Sanji",
+    "Arlong",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "On pages 4–7, three swords against six focuses on Zoro, Hatchan, Usopp, Nami as zoro’s injuries worsen during the fight, but he continues battling Hatchan while the others struggle around him.",
+  "dialogue": [
+    {
+      "speaker": "Zoro",
+      "text": "I'd like to see you try to take on my barrage with only 3 swords!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Toru nagashi!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Nyudo!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "He got by!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "to be able to block all 6 blades coming from every direction...! He's amazing!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "You've reeeaaally made me mad now!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I swear I'll kill you!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Just think about it, logically!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "There's no way you could beat my 6 swords when you only have 3!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Logically...?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Seems like you've made a big error in your Calc-ulation."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "What are you burdened with?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "What do you desire at the limits of your strength?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I may only have 3 swords,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "But the weight of our swords are completely different!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "He's swallowed a lot of water! If we don't get him out soon, it'll be too late!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Damn it... it's too hard to swing down here...!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "There's too much water resistance...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Gen,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You have to hurry up!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "It's no good, I can't break the rock!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "And it's not like we can carry the rock either..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I wish I had an oxygen tank but there's no time to get one now...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That's it!"
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.79,
+  "needs_review": false
+}

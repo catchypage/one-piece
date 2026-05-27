@@ -1,0 +1,106 @@
+{
+  "chapter": "218",
+  "part": 2,
+  "title": "The Salvage Monkeys Arrive",
+  "description": "On pages 5, 6, 7, 8, this part focuses on the salvage monkeys appear. Masira and the Salvage King crew enter the story as the Straw Hats encounter the rough culture around shipwrecks and treasure hunting.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Narrator",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Zoro"
+  ],
+  "scene": "This scene belongs to the The Salvage Monkeys Appear sequence. The important beat is the dialogue and action around Narrator, Luffy, Nami, Usopp, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "But my dream had too many enemies."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Wait, let me ask you....!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Then why have we..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Alright."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I can't believe it..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Let's head up."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Just leave me behind!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "That is your crime..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "So let me stay on this ship."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Fine by me."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Luffy!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Don't worry!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "She's not a bad guy!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Since 8, I was an archaeologist,"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Archaeologist?"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Sort of my family trade."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hm, you sound confident..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "What would you say is your specialty?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "OEssassi- nation."
+    }
+  ],
+  "summary": "Masira and the Salvage King crew enter the story as the Straw Hats encounter the rough culture around shipwrecks and treasure hunting.",
+  "confidence": 0.86,
+  "needs_review": false
+}

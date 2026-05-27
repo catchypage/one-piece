@@ -1,0 +1,114 @@
+{
+  "chapter": "345",
+  "part": 1,
+  "title": "Robin’s Warning",
+  "description": "The Pluton blueprints and Tom’s legacy become central as CP9 hunts the secret that Iceburg and Franky have protected.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Kalifa",
+    "Iceburg",
+    "Nico Robin",
+    "Chopper",
+    "Rob Lucci",
+    "Kaku",
+    "Blueno",
+    "Franky",
+    "Luffy",
+    "Nami"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Kalifa, Iceburg, Nico Robin, Chopper, Rob Lucci. The Pluton blueprints and Tom’s legacy become central as CP9 hunts the secret that Iceburg and Franky have protected.",
+  "dialogue": [
+    {
+      "speaker": "Kalifa",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "A FAKE...!!?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Stop this non- sense..."
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "... your plan failed."
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "What a scene..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Now that you're involved..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "... We can't let you live."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "I'm stuck...!!!"
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "Tinkle Tinkle"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "Damn!! I'm stuck!!"
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "NNG!"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "Straw Hat....!!!"
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "What Happened? Are you okay!?"
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "You're bleeding!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "... this is the third floor..."
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "Straw hat Luffy..."
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "You're telling Nico Robin to do something....!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Give Nico Robin back, you bastards!!!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "ran- Kyaku."
+    }
+  ],
+  "summary": "The Pluton blueprints and Tom’s legacy become central as CP9 hunts the secret that Iceburg and Franky have protected.",
+  "confidence": 0.83,
+  "needs_review": false
+}

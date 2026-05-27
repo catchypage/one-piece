@@ -1,0 +1,65 @@
+{
+  "chapter": "111",
+  "part": 5,
+  "title": "The Course Toward Alabasta",
+  "description": "On pages 17–18, the course toward alabasta as the crew accepts Vivi’s desperate mission, and a mysterious senior agent reminds them how dangerous Baroque Works really is.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Vivi",
+    "Igaram",
+    "Luffy",
+    "Zoro",
+    "Mr. 5",
+    "Miss Valentine",
+    "Unknown person #1"
+  ],
+  "scene": "The Course Toward Alabasta. The crew accepts Vivi’s desperate mission, and a mysterious senior agent reminds them how dangerous Baroque Works really is. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "ZORO- 000- 000!"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "What is it this time?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Luffy?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "What is it? If it's about help, then I don't need it."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Or do you owe that woman something as well?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'll never for- give you!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Fight me!"
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Miss Valentine",
+      "text": "Q: A cat... That's a cat...? So, why did I create it? When I read the manga graphic novels years ago, a lot of authors used to put this sort of thing in their books. Because I enjoyed them so much, I decided that if I was a manga artist, I would put"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "(cat)"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on the course toward alabasta. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.7,
+  "needs_review": false
+}

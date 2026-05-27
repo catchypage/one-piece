@@ -1,0 +1,24 @@
+{
+  "chapter": "4",
+  "title": "Luffy Challenges Morgan’s Tyranny",
+  "main_description": "The conflict in Shells Town escalates as Luffy pushes back against the Marines’ fear of Morgan and Helmeppo. Zoro’s situation becomes urgent, and Luffy’s directness begins to break the town’s silence.",
+  "main_characters": [
+    "Luffy",
+    "Coby",
+    "Zoro",
+    "Helmeppo",
+    "Morgan",
+    "Marine"
+  ],
+  "key_events": [
+    "Luffy confronts the abuse of power in Shells Town.",
+    "Helmeppo tries to use Zoro as leverage.",
+    "Morgan’s authority becomes the central obstacle.",
+    "Luffy moves closer to freeing Zoro."
+  ],
+  "confidence": 0.82,
+  "needs_review": true,
+  "review_reasons": [
+    "Some dialogue-heavy parts still contain many unresolved speakers."
+  ]
+}

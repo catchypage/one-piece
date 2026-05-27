@@ -1,0 +1,134 @@
+{
+  "chapter": "305",
+  "part": 2,
+  "title": "Foxy’s Cheating Game",
+  "description": "Nami, Usopp, and Robin face Foxy’s tricks in the first Davy Back Fight event while Luffy learns how serious the stakes are.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Foxy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Luffy",
+    "Tonjit",
+    "Porche"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this scene focuses on Foxy, Nami, Usopp, Zoro, Sanji. Nami, Usopp, and Robin face Foxy’s tricks in the first Davy Back Fight event while Luffy learns how serious the stakes are.",
+  "dialogue": [
+    {
+      "speaker": "Foxy",
+      "text": "Woo- HOO!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Village? Where?"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "I don't see any livestock?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Aghhh! The village is gone!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "And my livestock too!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You just noticed?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Home has humans"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I hope,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "This cheese is to your liking..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Alright, well take a seat anyways."
+    },
+    {
+      "speaker": "Nami",
+      "text": "So as I was saying..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Don't Eat It!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "So I've developed a strong stomach."
+    },
+    {
+      "speaker": "Nami",
+      "text": "You youngsters and your fragile constitution..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "CALL A DACTOR..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "See, what'd I say, you retard!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Doctor!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Wait, that's me!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's food poisoning."
+    },
+    {
+      "speaker": "Nami",
+      "text": "No duh!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Nowads?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Whoaaaa, you´re so cool!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Welcome, travellers."
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Hoorrsssee?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Then how about travelling by boat?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Won't it be lonely...?"
+    }
+  ],
+  "summary": "Nami, Usopp, and Robin face Foxy’s tricks in the first Davy Back Fight event while Luffy learns how serious the stakes are.",
+  "confidence": 0.88,
+  "needs_review": false
+}

@@ -1,0 +1,125 @@
+{
+  "chapter": "224",
+  "part": 1,
+  "title": "Mock Town Shows Its Teeth",
+  "description": "A strange pirate with a huge appetite and an opposite taste from Luffy crosses paths with the crew, hinting at a major future rival.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Bellamy",
+    "Zoro",
+    "Nami",
+    "Sarquiss",
+    "Mock Town pirate",
+    "Luffy",
+    "Blackbeard",
+    "Doc Q",
+    "Burgess"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this scene centers on Bellamy, Zoro, Nami, Sarquiss, Mock Town pirate. A strange pirate with a huge appetite and an opposite taste from Luffy crosses paths with the crew, hinting at a major future rival.",
+  "dialogue": [
+    {
+      "speaker": "Bellamy",
+      "text": "W... What happened here...?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "The executioner Roshio,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Was killed here..."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "This looks more like a warzone..."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Beats me..."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "So who the hell really knows...?"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "It's that Roshio,"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Was fighting Bellamy..."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "And that \"Bellamy the Hyena,\""
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Definitely has,"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Some sort of devil fruit ability..."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Heh..."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "The one called Straw-Eat Luffy?"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Seems like he's got business with you."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Bellamy?"
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "Who, him?"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Seriously...?"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "Alright..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Look, it's the same guys from earlier."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Seriously? No empty seats...?"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "What's with that knife...?"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Drip...."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "...That must be him. \"Big Knife Sarquiss.\""
+    }
+  ],
+  "summary": "A strange pirate with a huge appetite and an opposite taste from Luffy crosses paths with the crew, hinting at a major future rival.",
+  "confidence": 0.87,
+  "needs_review": false
+}

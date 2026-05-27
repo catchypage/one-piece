@@ -1,0 +1,70 @@
+{
+  "chapter": "280",
+  "part": 3,
+  "title": "Luffy Breaks Free",
+  "description": "Enel’s plan threatens all of Skypiea while Luffy and the crew race toward the decisive confrontation.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Enel",
+    "Gan Fall",
+    "Nami",
+    "Luffy",
+    "Aisa",
+    "Wyper",
+    "Nico Robin",
+    "Zoro",
+    "Sanji",
+    "Usopp"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this scene centers on Enel, Gan Fall, Nami, Luffy, Aisa. Enel’s plan threatens all of Skypiea while Luffy and the crew race toward the decisive confrontation.",
+  "dialogue": [
+    {
+      "speaker": "Enel",
+      "text": "He's gone!"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Luffy! Behind you!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Pierre!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "He's moving through the gold!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Haaatt!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HXEE!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You little brat!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu..."
+    },
+    {
+      "speaker": "Aisa",
+      "text": "GATLING!"
+    }
+  ],
+  "summary": "Enel’s plan threatens all of Skypiea while Luffy and the crew race toward the decisive confrontation.",
+  "confidence": 0.86,
+  "needs_review": false
+}

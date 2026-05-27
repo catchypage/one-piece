@@ -1,0 +1,118 @@
+{
+  "chapter": "214",
+  "part": 1,
+  "title": "Robin Appears on the Merry",
+  "description": "On pages 1, 2, 3, 4, this part focuses on robin boards the merry. Nico Robin appears aboard the Going Merry and forces the crew to confront the fact that a former enemy now wants to travel with them.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Nico Robin",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Narrator",
+    "Sanji"
+  ],
+  "scene": "This scene belongs to the Robin Boards the Merry sequence. The important beat is the dialogue and action around Nico Robin, Luffy, Nami, Usopp, Narrator.",
+  "dialogue": [
+    {
+      "speaker": "Nico Robin",
+      "text": "Huffering the"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It's an Emer-gency!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "prin- cess!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "where did..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "luffy and the others go...!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What's wrong? You look panicked, Igaram."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "They left for the sea."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "They're pirates, after all."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "You pirates are..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Scums of the worst kind."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Hey, now..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You used to be a pirate yourself..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Gahhh! You're right!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Marine HO Seaman Recruit \"Jango the Double-Crosser\""
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "shall we dance?"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Marine HO Seaman Recruit \"Iron First Fullbody\""
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Oh yeah! Dance! Dance! Funce! Funky style!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Ms. Hina."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Alabasta, Port Town Nanohana"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Disappointed. Hina is disappointed."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Are the ships all in place yet?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Yes, all preparations are complete, ma'am!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Every port in Alabasta,"
+    }
+  ],
+  "summary": "Nico Robin appears aboard the Going Merry and forces the crew to confront the fact that a former enemy now wants to travel with them.",
+  "confidence": 0.86,
+  "needs_review": false
+}

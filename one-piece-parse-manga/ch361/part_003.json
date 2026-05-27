@@ -1,0 +1,105 @@
+{
+  "chapter": "361",
+  "part": 3,
+  "title": "Robin Is Carried Away",
+  "description": "The rescue force follows the Sea Train through the storm, with the Straw Hats and their new allies fully committed to saving Robin.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Sanji",
+    "Franky",
+    "Iceburg",
+    "Nico Robin",
+    "Spandam",
+    "CP9 agent",
+    "Wanze",
+    "Nero",
+    "World Government agent"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this part follows Sanji, Franky, Iceburg, Nico Robin, Spandam. The rescue force follows the Sea Train through the storm, with the Straw Hats and their new allies fully committed to saving Robin.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "I wasn't in time......!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "...... I'm so sorry....."
+    },
+    {
+      "speaker": "Franky",
+      "text": "What is that man's intentions......?!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "He'll be arrested at the other end."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Hey, you're... Paulie-san of the galley-La company....!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "That was a really early departure, huh?"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "This sea storm is amazing."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "..... I see.... hey, you...."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Are you crying...? Geez.... those feelings are...."
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "I'm"
+    },
+    {
+      "speaker": "Wanze",
+      "text": "She's angry!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "What's with you all of a sudden?!"
+    },
+    {
+      "speaker": "Nero",
+      "text": "I will cross it!!"
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "You'll be going to your death!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "BUT!! Nico Robin is throwing her life away..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "For our sake..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hey!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Gah!"
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "Look out!!!"
+    }
+  ],
+  "summary": "The rescue force follows the Sea Train through the storm, with the Straw Hats and their new allies fully committed to saving Robin.",
+  "confidence": 0.85,
+  "needs_review": false
+}

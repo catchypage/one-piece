@@ -1,0 +1,126 @@
+{
+  "chapter": "375",
+  "part": 1,
+  "title": "The Front Gate Falls",
+  "description": "The rescue force reaches Enies Lobby, where the island’s guards and government agents prepare to stop the Straw Hats.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Kumadori",
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Chopper",
+    "Sogeking",
+    "Franky",
+    "Nico Robin",
+    "Blueno"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Kumadori, Luffy, Zoro, Nami, Sanji. The rescue force reaches Enies Lobby, where the island’s guards and government agents prepare to stop the Straw Hats.",
+  "dialogue": [
+    {
+      "speaker": "Kumadori",
+      "text": "He's still alive?"
+    },
+    {
+      "speaker": "Kumadori",
+      "text": "For real!!?"
+    },
+    {
+      "speaker": "Kumadori",
+      "text": "Sea Train: First car"
+    },
+    {
+      "speaker": "Kumadori",
+      "text": "That's what he said."
+    },
+    {
+      "speaker": "Kumadori",
+      "text": "So, iceburg's still hanging in there..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You're pretty smart..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "My master sacrificed his own life..."
+    },
+    {
+      "speaker": "Kumadori",
+      "text": "It's not enough for me to escape,"
+    },
+    {
+      "speaker": "Kumadori",
+      "text": "That's imposBible!"
+    },
+    {
+      "speaker": "Kumadori",
+      "text": "You're the only one who's in danger."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That, alone, is never a crime!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I don't see them!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "This's bad!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Where'd they go!!!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "BRII"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What was that giant frog about!!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It smacked the rocket man away!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Regardless, we have to keep going!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "BRII"
+    },
+    {
+      "speaker": "Kumadori",
+      "text": "We gotta rescue our bro, frankly!!!"
+    },
+    {
+      "speaker": "Kumadori",
+      "text": "Look!! Ahead of us!!"
+    },
+    {
+      "speaker": "Kumadori",
+      "text": "What's that!!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "There's another pair of disconnected cars!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Slow down _____!!"
+    }
+  ],
+  "summary": "The rescue force reaches Enies Lobby, where the island’s guards and government agents prepare to stop the Straw Hats.",
+  "confidence": 0.85,
+  "needs_review": false
+}

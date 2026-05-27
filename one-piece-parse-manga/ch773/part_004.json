@@ -1,0 +1,61 @@
+{
+  "chapter": "773",
+  "part": 4,
+  "title": "The Tontatta Fight Back",
+  "description": "Pages 18–18 focus on the tontatta fight back, keeping the Dressrosa conflict and character roles clear for display.",
+  "pages": [
+    18
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Robin",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Kyros",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6"
+  ],
+  "scene": "This part follows Unknown person #1, Robin, Unknown person #2, Unknown person #3, Kyros, Unknown person #4, Unknown person #5 as mansherry's healing power becomes crucial as Leo and the allies fight to save her from the palace.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "North Orchid!"
+    },
+    {
+      "speaker": "Robin",
+      "text": "Robin- San!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What the...!?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Robi- Land!"
+    },
+    {
+      "speaker": "Kyros",
+      "text": "Your mission is over, Rebecca."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Thank you for delivering the key."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "I shall..."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "HANDLE THE REST!"
+    },
+    {
+      "speaker": "Robin",
+      "text": "Robin joins the Fray!"
+    }
+  ],
+  "summary": "The Tontatta Fight Back advances the Dressrosa story through Unknown person #1, Robin, Unknown person #2, Unknown person #3, Kyros, with unclear voices kept readable rather than forced into unsafe speaker assignments.",
+  "confidence": 0.58,
+  "needs_review": false
+}

@@ -1,0 +1,114 @@
+{
+  "chapter": "267",
+  "part": 1,
+  "title": "Nami Faces Enel",
+  "description": "Enel’s game keeps removing fighters from the board, leaving only a few survivors scattered across Upper Yard.",
+  "pages": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Enel",
+    "Eneru",
+    "Nami",
+    "Sanji",
+    "Usopp",
+    "Luffy",
+    "Nico Robin",
+    "Aisa",
+    "Gan Fall",
+    "Wyper"
+  ],
+  "scene": "Across pages 0, 1, 2, 3, this scene centers on Enel, Eneru, Nami, Sanji, Usopp. Enel’s game keeps removing fighters from the board, leaving only a few survivors scattered across Upper Yard.",
+  "dialogue": [
+    {
+      "speaker": "Enel",
+      "text": "\"March\""
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Wait....!! stop!!!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "I told you to stop!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Okay, Warrior kid."
+    },
+    {
+      "speaker": "Eneru",
+      "text": "You two alright!?"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Gul"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Yeah, we're fine."
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Hey, stop struggling,"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Guess what you"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Gul"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "C'mon up!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "You want a spanking!!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "BUMA..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Burpy"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Aaaah!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Ah... what the heck was that...?"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "sapul..."
+    },
+    {
+      "speaker": "Eneru",
+      "text": "*cough*"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Dammit!! GIMME AN OPENING!!!"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "KyaA AAAAH _____!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's Humongous!!!"
+    }
+  ],
+  "summary": "Enel’s game keeps removing fighters from the board, leaving only a few survivors scattered across Upper Yard.",
+  "confidence": 0.85,
+  "needs_review": false
+}

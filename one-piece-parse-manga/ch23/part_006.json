@@ -1,0 +1,106 @@
+{
+  "chapter": "23",
+  "part": 6,
+  "title": "Kaya’s Mansion Draws the Crew In",
+  "description": "On pages 17–19, the Syrup Village story develops through Usopp, Kaya, Kuro, Jango, and the Straw Hats as the danger behind the village’s peaceful surface becomes clearer.",
+  "pages": [
+    17,
+    18,
+    19
+  ],
+  "characters": [
+    "Kaya",
+    "Usopp",
+    "Zoro"
+  ],
+  "scene": "This scene follows the tension around Usopp’s village: lies, loyalty, hidden plans, and the growing clash with the Black Cat Pirates.",
+  "dialogue": [
+    {
+      "speaker": "Kaya",
+      "text": "never- mind..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "BAN..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Let's forget about searching for a ship in this village"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "We'll go and search somewhere else..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Okay! But we're not in a hurry anyways,"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "I still want some more meat!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Let's buy some more meat for our supply!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Oh yeah, you..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "...said earlier that you're looking for com- panions?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Is there somebody who wants to be our companion?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Let me be the captain,"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "And I'll join you!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Never- mind!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "What kind of attitude is that?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Uhm... claha- DOR..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "What is it, Kaya Ojou- Sama?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "I want to see usopp- San..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Mohji the beast trainer"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "HACH! The messenger"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "ZORO THE SWORDSMAN"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "CABAJI THE ACROBAT"
+    }
+  ],
+  "summary": "The part advances the Syrup Village arc by tying Usopp’s reputation and Kaya’s safety to the threat posed by Kuro and his crew.",
+  "confidence": 0.9,
+  "needs_review": false
+}

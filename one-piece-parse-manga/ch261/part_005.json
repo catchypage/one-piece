@@ -1,0 +1,84 @@
+{
+  "chapter": "261",
+  "part": 5,
+  "title": "Zoro Cuts Through the War",
+  "description": "The survival battle tightens as Luffy and Wyper collide while Enel’s forces continue cutting down everyone left in Upper Yard.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Wyper",
+    "Enel",
+    "Zoro",
+    "Nami",
+    "Chopper",
+    "Nico Robin",
+    "Gan Fall",
+    "Sanji",
+    "Usopp"
+  ],
+  "scene": "Across pages 17, 18, this scene centers on Luffy, Wyper, Enel, Zoro, Nami. The survival battle tightens as Luffy and Wyper collide while Enel’s forces continue cutting down everyone left in Upper Yard.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Over there!!!"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "... where?"
+    },
+    {
+      "speaker": "Enel",
+      "text": "You can't see anything like that!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Over there!! That small animal!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What!!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It is not just a wild critter."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Luffy!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "ZORO —!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Robin!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Are you here ________??"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Hoooy"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Everyone, it's me, chopper."
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Where did he go?"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "What is that!!!?"
+    }
+  ],
+  "summary": "The survival battle tightens as Luffy and Wyper collide while Enel’s forces continue cutting down everyone left in Upper Yard.",
+  "confidence": 0.86,
+  "needs_review": false
+}

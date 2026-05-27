@@ -1,0 +1,155 @@
+{
+  "chapter": "1",
+  "part": 2,
+  "title": "Luffy Tries to Join Shanks’ Crew",
+  "description": "On pages 8–11, this part follows the Romance Dawn flashback and focuses on how Luffy’s pirate dream is formed through Shanks, Higuma, and the straw hat promise.",
+  "pages": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "characters": [
+    "Makino",
+    "Luffy",
+    "Higuma",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "Young Luffy tries to prove he belongs with Shanks’ pirates, but the adults around him treat his dream as reckless.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "A small harbor village"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "ONE YEAR AGO..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "...A pirate ship made the village its base."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "THE WIND BLOWS FROM THE EAST."
+    },
+    {
+      "speaker": "Makino",
+      "text": "Hey, Luffy! WHAT'RE YOU UP TO NOW?!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "HMPH!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "And the village is at peace."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I've had it with you guys!! Now you'll have to take me seriously!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "This is how tough I am!!!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "HAHA HA! GET IT OVER WITH!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "WHAT- EVER IT IS..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What's that pup up to now?"
+    },
+    {
+      "speaker": "Makino",
+      "text": "Huh!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "AARGH!!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "YOU IDIOT! WHAT'D YOU DO THAT FOR!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "YEOM!!!"
+    },
+    {
+      "speaker": "Higuma",
+      "text": "A TOAST!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "to Luffy's... Courage..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Courage..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "AND TO OUR GREAT VOYAGE!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "HAR HAR HAR HAR HAR! DRINK UP!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "GROG! Grog! Grog! MORE GROG!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "hey that's MY meat!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "NOT ANY MORE! I'm gonna eat it!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Hey, stop fighting! You'll spoil our fun!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "IT DIDN'T HURT A BIT!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "LIAR! that was a foolish thing to do!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm not the least bit afraid of getting hurt!!! Take me with you on your next voyage!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I wanna be a pirate too!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "you?! a pirate?! impossible!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Luffy, do you know why we call you \"Anchor\"? Because you can't swim--you just sink!! What good is a pirate who can't swim?"
+    },
+    {
+      "speaker": "Makino",
+      "text": "BUT IF I DON'T FALL OVERBOARD, THEN IT DOESN'T MATTER IF I'M AN ANACHOR!!"
+    }
+  ],
+  "summary": "Luffy tries to prove he is ready for the sea, but Shanks and the others treat him like a child. The scene establishes both Luffy’s stubbornness and Shanks’ protective distance.",
+  "confidence": 0.86,
+  "needs_review": false
+}

@@ -1,0 +1,40 @@
+{
+  "chapter": "100",
+  "part": 8,
+  "title": "Toward the Grand Line",
+  "description": "On pages 30–30, toward the grand line focuses on Luffy, Zoro, Nami, Usopp as a storm, Smoker, and a mysterious intervention push the Straw Hats out of Loguetown and toward the Grand Line.",
+  "pages": [
+    30
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Smoker",
+    "Tashigi",
+    "Dragon",
+    "Buggy",
+    "Alvida",
+    "Unknown person #1"
+  ],
+  "scene": "On pages 30–30, toward the grand line focuses on Luffy, Zoro, Nami, Usopp as a storm, Smoker, and a mysterious intervention push the Straw Hats out of Loguetown and toward the Grand Line.",
+  "dialogue": [
+    {
+      "speaker": "Smoker",
+      "text": "to draw a map of the world!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "t... t-to become a brave warrior of the seas!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Off to grand line we go!"
+    }
+  ],
+  "summary": "This part closes East Blue with a storm-driven escape and the crew’s first real step toward the Grand Line.",
+  "confidence": 0.76,
+  "needs_review": false
+}

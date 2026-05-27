@@ -1,0 +1,164 @@
+{
+  "chapter": "1071",
+  "part": 1,
+  "title": "Egghead Falls Under Siege",
+  "description": "On pages 1–3, this part focuses on Unknown person #1, Bonney, Unknown person #2, Unknown person #3, Marines, York as CP0 attacks Egghead, Seraphim enter the conflict, Stussy betrays CP0, Kuma moves toward the Red Line, and Vegapunk’s escape plan collapses.",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Bonney",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Marines",
+    "York",
+    "Kid",
+    "Vegapunk",
+    "Kuma"
+  ],
+  "scene": "CP0 attacks Egghead, Seraphim enter the conflict, Stussy betrays CP0, Kuma moves toward the Red Line, and Vegapunk’s escape plan collapses.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "woosh!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Red Port -- The Base of the Red Line"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "KyaH!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "UWAH!!"
+    },
+    {
+      "speaker": "Bonney",
+      "text": "It's Kuma!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What?!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Where did he come from?!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I heard he fled the holy land....!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What's he doing here?"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "He's meant to be the celestial dragons' invincible slave..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Right?!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Section off the North East District....!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "UWAAH! It moved!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Kyah!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "It's a former warlord of the sea..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Huff."
+    },
+    {
+      "speaker": "Bonney",
+      "text": "Bartholo- New Kuma..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Just appeared by the Bondola gate!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Huff."
+    },
+    {
+      "speaker": "Marines",
+      "text": "Deploy all available marines to his location!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Huff."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Civilians, please be advised....!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Huff:"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "He's extremely dangerous!! Evacuate immediately!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "He's a man with no shred of humanity..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Huff."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Huff."
+    },
+    {
+      "speaker": "York",
+      "text": "He may serve the celestial dragons..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "But his current purpose and programming are unknown!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Do not approach!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Egghead, the island of the future - New World"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Lockdown any and all possible..."
+    },
+    {
+      "speaker": "Kid",
+      "text": "...Escape routes for Vegapunk!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Yes, sir!!"
+    }
+  ],
+  "summary": "This part advances the Egghead Under Siege through 34 cleaned dialogue beats, focusing on character decisions, battlefield momentum, and the story’s larger consequences.",
+  "confidence": 0.45,
+  "needs_review": true
+}

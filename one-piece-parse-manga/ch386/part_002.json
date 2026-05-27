@@ -1,0 +1,102 @@
+{
+  "chapter": "386",
+  "part": 2,
+  "title": "Gear Second Changes the Fight",
+  "description": "Luffy catches up to Blueno and begins a decisive clash that reveals how far he is willing to go to save Robin.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Spandam",
+    "Luffy",
+    "Blueno",
+    "Enies Lobby guard",
+    "CP9 agent",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this part follows Spandam, Luffy, Blueno, Enies Lobby guard, CP9 agent. Luffy catches up to Blueno and begins a decisive clash that reveals how far he is willing to go to save Robin.",
+  "dialogue": [
+    {
+      "speaker": "Spandam",
+      "text": "Hurry to the courtHouse!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Well done, GOMORRAH!!!!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Woo _____!!"
+    },
+    {
+      "speaker": "Enies Lobby guard",
+      "text": "All guards, report there immediately!!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "You see him?"
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "Luffy?"
+    },
+    {
+      "speaker": "Enies Lobby guard",
+      "text": "Nope."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "....... If he's on that roof,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "There's no way to climb up there."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Unless you're made of rubber."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "How many CPP members did you see?"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Just the huge horned Guy."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "He's only one person, but..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "We've gotta hurry and save Nico Robin!!!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "GEROO!!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Whoa!!! That frog's amazing!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "What a guy!!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Loom...!!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Gero!!!"
+    }
+  ],
+  "summary": "Luffy catches up to Blueno and begins a decisive clash that reveals how far he is willing to go to save Robin.",
+  "confidence": 0.74,
+  "needs_review": false
+}

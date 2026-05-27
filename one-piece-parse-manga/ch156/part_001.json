@@ -1,0 +1,117 @@
+{
+  "chapter": "156",
+  "part": 1,
+  "title": "The Ship Approaches the Desert",
+  "description": "On pages 0–9, this part focuses on the ship approaches the desert, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    0,
+    1,
+    6,
+    9
+  ],
+  "characters": [
+    "Narrator",
+    "Luffy",
+    "Sanji",
+    "Smoker",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Nami"
+  ],
+  "scene": "The Ship Approaches the Desert. After leaving Drum, the crew heads deeper into Alabasta’s conflict while the desert kingdom’s danger comes into view. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "How the hell am I supposed to sleep like this?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Luffy! It's because you keep eating our bait!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "How do you expect us to catch anything with no bait!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It has been 5 days since the crew left Drum Island."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "But you ate some too."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "That was only the itty bitty bits stuck to the bottom of the lid!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The ship sails onward to Alabasta, albeit with some slight troubles."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Luffy, Usop! Have you caught anything Y-"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Carueee!!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "QUACK!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Gonna catch me a sea king,"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "What're you two doing to Carue!?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Aghhh!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Quack!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "What's that?"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Smoke!?"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "The heck?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Maybe it's cotton candy?"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Nami, come quick! There's some- thing ahead!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Oh, don't worry."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "It's nothing but steam."
+    }
+  ],
+  "summary": "This part highlights the ship approaches the desert and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.58,
+  "needs_review": true
+}

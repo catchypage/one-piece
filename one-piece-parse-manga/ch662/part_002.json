@@ -1,0 +1,71 @@
+{
+  "chapter": "662",
+  "part": 2,
+  "title": "The Marines Lose Control",
+  "description": "On pages 4–7, this part follows Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Trafalgar Law. The central beat is the marines lose control.",
+  "pages": [
+    4,
+    6,
+    7
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Trafalgar Law",
+    "Smoker",
+    "Tashigi",
+    "Nami",
+    "Sanji",
+    "Chopper"
+  ],
+  "scene": "The scene focuses on the marines lose control, with Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Trafalgar Law shaping the Punk Hazard conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "What is this guy, invincible ?!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "There's no stopping that guy's sword attacks!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Run for it, Captain- Chan!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Oh yeahhhhh!!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Smokey Yvy!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "That must be Kairou- Seki."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "On the end of your jitte....!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Whoa a hhhhhh!!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "We Oughita get outta here!!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "We're only getting in the way!!"
+    }
+  ],
+  "summary": "The Marines Lose Control. This part advances Punk Hazard’s rescue mission, Caesar’s experiment, and the fragile pirate–Marine alliance.",
+  "confidence": 0.76,
+  "needs_review": true
+}

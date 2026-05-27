@@ -1,0 +1,52 @@
+{
+  "chapter": "1090",
+  "part": 5,
+  "title": "Kizaru Lands on Egghead",
+  "description": "On pages 14–14, this part focuses on Unknown person #13, Kizaru, Sentomaru as The Egghead Incident accelerates as the Marines surround the island, York’s betrayal surfaces, the Straw Hats regroup, Kizaru arrives, and Saturn approaches.",
+  "pages": [
+    14
+  ],
+  "characters": [
+    "Unknown person #13",
+    "Kizaru",
+    "Sentomaru"
+  ],
+  "scene": "The Egghead Incident accelerates as the Marines surround the island, York’s betrayal surfaces, the Straw Hats regroup, Kizaru arrives, and Saturn approaches.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #13",
+      "text": "Prepare yourself"
+    },
+    {
+      "speaker": "Kizaru",
+      "text": "sentomaru!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "My defense..."
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Is the toughest in the world!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "What's that?!"
+    },
+    {
+      "speaker": "Kizaru",
+      "text": "There's Light Coming from below!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Hey, someone very strong..."
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Is coming!!!"
+    }
+  ],
+  "summary": "This part advances the Egghead Siege Begins through 8 cleaned dialogue beats, focusing on character decisions, battlefield momentum, and the story’s larger consequences.",
+  "confidence": 0.78,
+  "needs_review": true
+}

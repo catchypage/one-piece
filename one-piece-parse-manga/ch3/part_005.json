@@ -1,0 +1,153 @@
+{
+  "chapter": "3",
+  "part": 5,
+  "title": "Morgan’s Rule Turns Violent",
+  "description": "On pages 13–16, this part moves through Shells Town and the first clues about Zoro, Morgan, and Helmeppo’s abuse of power.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Helmeppo",
+    "Morgan",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "In Shells Town, Luffy, Coby, and Zoro are drawn into the cruelty of Morgan’s rule and Helmeppo’s privilege.",
+  "dialogue": [
+    {
+      "speaker": "Helmeppo",
+      "text": "I'm sure you've heard how scary my father can be!"
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "IF YOU WERE AN ADULT, YOU WOULD BE PUT TO DEATH!"
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "YOU THERE! THROW THAT BRAT OVER THE FENCE!!"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "B-BUT..."
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "I'm ordering you to throw that little brat over the fence!"
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "Are you going to disobey a direct order!?"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "I'll tell Daddy on you!"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "Y-YES SIR... RIGHT AWAY!!"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "Yah!"
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "ARE YOU OKAY!?"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "WHAT A BAD MAN...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "My, aren't you a stubborn one!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "THAT'S RIGHT, I'M GONNA LAST OUT THE ENTIRE MONTH!"
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "YOU JUST KEEP YOUR END OF THE BAR- GAIN!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "HA HA HA HA! I WON'T DREAM OF BREAKING MY WORD."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "If you survive out here for a month, then I'll let you go!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "IT'S MY PLEA- SURE, I'M SURE!!"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "You still here?"
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "Better not let Helmepo's father catch you."
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "Look..."
+    },
+    {
+      "speaker": "Morgan",
+      "text": "I'm looking for good men to join my pirate crew."
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "pirate crew?"
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "You think I'd lower myself to that level? No thanks!"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "BUT BECOMING A PIRATE'S MY DREAM!"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "What's WRONG WITH IT!?"
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "YOU THINK IF YOU UNTIE ME..."
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "I'm gonna join your pirate crew?"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "I HAVEN'T DECIDED IF I'LL ASK YOU YET..."
+    },
+    {
+      "speaker": "Morgan",
+      "text": "YOU'VE GOT A PRETTY BAD REPU- TATION, YOU KNOW?"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "BAD REPUTA- TION, HUH?"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "Well, anyway, I don't go for that kind of deal."
+    },
+    {
+      "speaker": "Morgan",
+      "text": "I'VE GOT MY OWN PLANS FOR THE FUTURE."
+    }
+  ],
+  "summary": "The Shells Town conflict uses Zoro’s imprisonment and Morgan’s rule to test what kind of people Luffy chooses to trust. The section moves Zoro closer to becoming Luffy’s first crewmate.",
+  "confidence": 0.89,
+  "needs_review": false
+}

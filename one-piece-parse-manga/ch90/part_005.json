@@ -1,0 +1,100 @@
+{
+  "chapter": "90",
+  "part": 5,
+  "title": "Arlong Park Starts to Shake",
+  "description": "On pages 17–20, arlong park starts to shake focuses on Luffy, Arlong, Nami, Sanji as luffy is freed and confronts Arlong directly, shifting the battle toward its final stage.",
+  "pages": [
+    17,
+    18,
+    19,
+    20
+  ],
+  "characters": [
+    "Luffy",
+    "Arlong",
+    "Nami",
+    "Sanji",
+    "Zoro",
+    "Usopp",
+    "Cocoyashi villagers",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5"
+  ],
+  "scene": "On pages 17–20, arlong park starts to shake focuses on Luffy, Arlong, Nami, Sanji as luffy is freed and confronts Arlong directly, shifting the battle toward its final stage.",
+  "dialogue": [
+    {
+      "speaker": "Arlong",
+      "text": "Tooth gum!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Ahh!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Stop!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Shaha haha!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "gyAA AAA!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Brother Luffyyyyy!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "My fellow fishman!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "A-arlong... it hurts..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Whew."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Why you...!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hmm... that gives me a good idea."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "about time we get going,"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "USOPP GALLERY PIRATES!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "One piece Sanji"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "I SO O orpice presented at richiro OO"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "One pick Sani"
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.72,
+  "needs_review": true
+}

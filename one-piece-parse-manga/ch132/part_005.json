@@ -1,0 +1,70 @@
+{
+  "chapter": "132",
+  "part": 5,
+  "title": "The Search for Kureha Begins",
+  "description": "On pages 17–18, the search for kureha begins as the Straw Hats reach Drum Island, but the armed villagers fear pirates and refuse to welcome them until Vivi pleads for Nami’s life.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Drum villager",
+    "Vivi",
+    "Luffy",
+    "Dalton",
+    "Usopp",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Nami"
+  ],
+  "scene": "The Search for Kureha Begins. The Straw Hats reach Drum Island, but the armed villagers fear pirates and refuse to welcome them until Vivi pleads for Nami’s life. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Drum villager",
+      "text": "We only ask for a doctor."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Please save our friend."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "...we'll lead you to our town."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Follow me."
+    },
+    {
+      "speaker": "Dalton",
+      "text": "See?"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "They under- stood us."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Yeah,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You're amazing."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Let me give you one warning before- hand..."
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "There is only one doctor in our country... and she happens to be a witch."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What"
+    }
+  ],
+  "summary": "This part centers on the search for kureha begins, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.75,
+  "needs_review": false
+}

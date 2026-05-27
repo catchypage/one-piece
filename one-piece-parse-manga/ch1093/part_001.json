@@ -1,0 +1,156 @@
+{
+  "chapter": "1093",
+  "part": 1,
+  "title": "The Egghead Siege Begins",
+  "description": "On pages 2–4, this part focuses on Unknown person #1, Unknown person #2, Luffy, Unknown person #3, Sanji, Franky as The Egghead Incident accelerates as the Marines surround the island, York’s betrayal surfaces, the Straw Hats regroup, Kizaru arrives, and Saturn approaches.",
+  "pages": [
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Luffy",
+    "Unknown person #3",
+    "Sanji",
+    "Franky",
+    "Bonney",
+    "Vegapunk",
+    "Kizaru"
+  ],
+  "scene": "The Egghead Incident accelerates as the Marines surround the island, York’s betrayal surfaces, the Straw Hats regroup, Kizaru arrives, and Saturn approaches.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Shi- Shish!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Luffy!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Free as can be!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Well, this is a pickle..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Heeey now..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Whoo-hoo!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "BE GENTLE..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Ah hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya Hya"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "He went flying!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "We should use this chance to get outta here!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yeah, leave Kizaru to Luffy!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Where are you going, Atlas?!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "To the lower stream, I'm going to override the PacificTA's current objectives!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "If I don't, we'll be fried by their lasers the second we drop the barrier."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Good thinking!! Whoever controls the PacificTA will win this fight..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "And no one on the island has a higher command authority status than us vegapunks."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Just a second, Atlas! I'm coming with you!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "You think we're gonna let you go too, old-timer?!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "The whole point is to keep you alive!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I know... it's just—!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Franky-Kun, come in!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "It seems Bonney was knocked down to the lower stratum, can you confirm?!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "She's survived?! That's great!! Kizaru kicked her face first into the barrier, and--"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "How could a strapping young lad like you let that happen to her?!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "My bad! I'll go help her right away!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Ah... but the barrier's still up..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hey, this is Sanji!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "I want in on this Bonney Rescue Mission!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "2nd floor, building a"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Veganpunk, I've got everything you asked me to bring aboard."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I'll head to the back exit!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Let's all rendezous there!"
+    }
+  ],
+  "summary": "This part advances the Egghead Siege Begins through 32 cleaned dialogue beats, focusing on character decisions, battlefield momentum, and the story’s larger consequences.",
+  "confidence": 0.61,
+  "needs_review": true
+}

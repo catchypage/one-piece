@@ -1,0 +1,89 @@
+{
+  "chapter": "183",
+  "part": 5,
+  "title": "Bon Clay Meets Sanji’s Resolve",
+  "description": "On pages 17–18, this part focuses on bon clay meets sanji’s resolve, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Sanji",
+    "Mr. 2 Bon Clay",
+    "Miss Merry Christmas",
+    "Mr. 4",
+    "Nami",
+    "Usopp",
+    "Chopper"
+  ],
+  "scene": "Bon Clay Meets Sanji’s Resolve. Sanji battles Mr. 2 Bon Clay, whose mimicry turns the fight into a test of recognition and trust. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What was that?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I didn't see anyone..."
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "They're below the ground...!"
+    },
+    {
+      "speaker": "Miss Merry Christmas",
+      "text": "Ms. Miss Merry Christmas ate the Mogu Mogu Fruit to become a human-male."
+    },
+    {
+      "speaker": "Mr. 4",
+      "text": "As for Mr. 4, he's batter No. 4! The clean- up hitter!"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "He fights with his dog!"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "WOOF!"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "I have no idea what you're talkin' about!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Duck!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "POP!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Whoa!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "tic too..."
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "tic..."
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "Huh?"
+    }
+  ],
+  "summary": "This part develops bon clay meets sanji’s resolve and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

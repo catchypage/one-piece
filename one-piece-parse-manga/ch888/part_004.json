@@ -1,0 +1,47 @@
+{
+  "chapter": "888",
+  "part": 4,
+  "title": "The Escape Narrows Around the Sunny",
+  "description": "On pages 13–13, this part focuses on Unknown person #13, Chopper as The escape from Totto Land tightens while Luffy’s duel with Katakuri becomes a test of endurance and will.",
+  "pages": [
+    13
+  ],
+  "characters": [
+    "Unknown person #13",
+    "Chopper"
+  ],
+  "scene": "The Sunny escape, Sanji’s cake plan, and Luffy’s mirror-world duel all converge under Big Mom’s pursuit.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #13",
+      "text": "What's going on over there, chopper?!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Little girl! Do you really to intend to fight with a whole fleet of soldiers and stop us all by your- self?"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "In the meantime, we'll send your ship to the depths! cease this useless strugglinggin-"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "The ship's wheel!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "She's broken our helm!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Crap! Where the hell is this ship going to drift off to now?!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "That girl!"
+    }
+  ],
+  "summary": "This section advances the Whole Cake Island Escape storyline with 7 dialogue beats. Big Mom’s pursuit, the cake delivery, and Luffy’s duel place every escape route under pressure.",
+  "confidence": 0.8,
+  "needs_review": true
+}

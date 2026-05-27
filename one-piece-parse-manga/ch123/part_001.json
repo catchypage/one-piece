@@ -1,0 +1,159 @@
+{
+  "chapter": "123",
+  "part": 1,
+  "title": "Luffy Smashes the Candle Set",
+  "description": "On pages 1–3, luffy smashes the candle set as usopp, Karoo, and Luffy counterattack against Mr. 5, Miss Valentine, and Mr. 3 as the wax trap begins to fall apart.",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Mr. 3",
+    "Karoo",
+    "Vivi",
+    "Nami",
+    "Mr. 5",
+    "Miss Valentine"
+  ],
+  "scene": "Luffy Smashes the Candle Set. Usopp, Karoo, and Luffy counterattack against Mr. 5, Miss Valentine, and Mr. 3 as the wax trap begins to fall apart. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "I haven't got a clue what that thing is,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "But I'll destroy it!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Roger that! Get ready to see a whole different Usopp today!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Quick!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Just hurry it up or we'll harden up into wax!"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "What're you doing?"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "If I'm going to harden up into a wax figure, I'd like to go with this pose."
+    },
+    {
+      "speaker": "Karoo",
+      "text": "What... Now's not the time for such jokes...!"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "Instead of worrying about poses, could you do something about your bleeding legs? It's painful just looking at it."
+    },
+    {
+      "speaker": "Karoo",
+      "text": "Then don't look at it."
+    },
+    {
+      "speaker": "Karoo",
+      "text": "In the first place, I can't believe you were stupid enough to actually think that you could cut off your feet and run away."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "That's not what I was going to do. I was going to fight after cutting off my feet."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "That's even more idiotic."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Shut up,"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Mr. 3, those people are awfully relaxed."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "This is"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I dare say the same applies to you, doesn't it, Miss Golden- Week?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I also"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "Even though we're still far from escaping from our current dilemma..."
+    },
+    {
+      "speaker": "Karoo",
+      "text": "These two act as if they can't feel even an ounce of the danger we're in..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It seems we're not being taken seriously, doesn't it now...?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "This is most unple- Asant,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "If you ask me,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Alright!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "That boy doesn't look dependable at all."
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Mr. 3! Please let us take care of H-"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "Hmph."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Take care of him? I won't tolerate further such nonsense, you know?"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "Just look! It's precisely because your attacks didn't phase him the least bit,"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "That he's now back here for more."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "At the very least, that man is too much for the likes of you to handle."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "just clean up the two other pieces of trash instead."
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "I'll add strawhat Luffy to my wax-figure collection."
+    }
+  ],
+  "summary": "This part centers on luffy smashes the candle set, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

@@ -1,0 +1,26 @@
+{
+  "chapter": "610",
+  "title": "Madam Shyarly’s Prophecy",
+  "main_description": "A prophecy that Luffy will destroy Fish-Man Island turns suspicion toward the Straw Hats as royal and pirate forces move around them.",
+  "main_characters": [
+    "Luffy",
+    "Nami",
+    "Chopper",
+    "Brook",
+    "Pappag",
+    "Madam Shyarly",
+    "King Neptune",
+    "Hody Jones",
+    "Vander Decken",
+    "Fish-Man Island Citizens"
+  ],
+  "key_events": [
+    "Shyarly Sees Disaster",
+    "The Straw Hats Become Suspect",
+    "Hody’s Shadow Grows",
+    "The Palace Summons the Crew"
+  ],
+  "confidence": 0.84,
+  "needs_review": false,
+  "review_reasons": []
+}

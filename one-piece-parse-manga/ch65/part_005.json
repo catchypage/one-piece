@@ -1,0 +1,30 @@
+{
+  "chapter": "65",
+  "part": 5,
+  "title": "Luffy Strikes Back at Krieg",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Luffy",
+    "Sanji",
+    "Don Krieg",
+    "Gin",
+    "Zeff",
+    "Unknown person #1"
+  ],
+  "scene": "On page 17, the Baratie conflict focuses on Luffy, Sanji, Don Krieg, Gin, Zeff. Don Krieg relies on armor and hidden weapons while Luffy answers with reckless determination.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "What!?"
+    }
+  ],
+  "summary": "This part keeps the Baratie battle centered on willpower, debt, hunger, and pride. The dialogue shows who still stands firm after Krieg’s violence and who is ready to break away from the restaurant’s old life.",
+  "confidence": 0.71,
+  "needs_review": true
+}

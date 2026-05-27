@@ -1,0 +1,103 @@
+{
+  "chapter": "136",
+  "part": 5,
+  "title": "The Mountain Route Narrows",
+  "description": "On pages 17–19, the mountain route narrows as wapol learns that the Straw Hats are heading for Drum Castle, while Dalton and the villagers face the threat of the old tyrant’s return.",
+  "pages": [
+    17,
+    18,
+    19
+  ],
+  "characters": [
+    "Wapol",
+    "Chess",
+    "Kuromarimo",
+    "Drum villager",
+    "Dalton",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Luffy",
+    "Sanji"
+  ],
+  "scene": "The Mountain Route Narrows. Wapol learns that the Straw Hats are heading for Drum Castle, while Dalton and the villagers face the threat of the old tyrant’s return. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Wapol",
+      "text": "We've come to a stop because the snow's too thick..."
+    },
+    {
+      "speaker": "Wapol",
+      "text": "And it looks like we headed up the mountain...!"
+    },
+    {
+      "speaker": "Chess",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Kuromarimo",
+      "text": "What's this trembling...?"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "those damn rabbits really did it...!"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "Please tell me I'm Drea- Ming."
+    },
+    {
+      "speaker": "Dalton",
+      "text": "What is it, Sanji?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Luffy! Start running!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Run? Run where?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Any- where's fine!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Just as long as it's far away from here!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Because there's an avalanche headed right for us!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Last is the Daddy monster!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "H-Here we go! F-Follow me, USOPP gallery Pirates!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "My digital"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "#3JN-5.1"
+    },
+    {
+      "speaker": "Kuromarimo",
+      "text": "This piece of 2"
+    }
+  ],
+  "summary": "This part centers on the mountain route narrows, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.62,
+  "needs_review": true
+}

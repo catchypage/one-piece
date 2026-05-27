@@ -1,0 +1,22 @@
+{
+  "chapter": "2",
+  "title": "Luffy Meets Coby and Breaks Alvida’s Control",
+  "main_description": "Luffy begins his voyage and meets Coby, a timid boy trapped under Alvida’s rule. Their conversation reveals Luffy’s reckless confidence and Coby’s hidden dream. By standing up to Alvida, Luffy pushes Coby to choose the Marines and begins searching for Zoro.",
+  "main_characters": [
+    "Luffy",
+    "Coby",
+    "Alvida"
+  ],
+  "key_events": [
+    "Luffy appears aboard Alvida’s ship.",
+    "Coby explains how Alvida controls him.",
+    "Luffy declares his dream without hesitation.",
+    "Coby finally speaks against Alvida.",
+    "Luffy defeats Alvida and sets a course toward Zoro."
+  ],
+  "confidence": 0.78,
+  "needs_review": true,
+  "review_reasons": [
+    "Some dialogue-heavy parts still contain many unresolved speakers."
+  ]
+}

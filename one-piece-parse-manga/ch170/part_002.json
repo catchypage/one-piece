@@ -1,0 +1,153 @@
+{
+  "chapter": "170",
+  "part": 2,
+  "title": "The Officer Agents Are Judged",
+  "description": "On pages 5–8, this part focuses on the officer agents are judged, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Crocodile",
+    "Pell",
+    "Vivi",
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Usopp",
+    "Sanji",
+    "Chopper"
+  ],
+  "scene": "The Officer Agents Are Judged. Crocodile toys with Vivi and the Straw Hats while his agents move the plan toward full civil war. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "Bloom!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Zoom"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Bloom!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "What?"
+    },
+    {
+      "speaker": "Pell",
+      "text": "Pell!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Caugh!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Princess VIVI?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Are you hurt!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Fufufu... Did it look like I really killed her? Hahaha..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What did you do!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Oh, don't get so mad. It was just a little joke."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Are you a devil fruit user!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That's right, I ate the \"Hana Hana Fruit.\""
+    },
+    {
+      "speaker": "Nami",
+      "text": "I can sprout any part of my body like a flower like so."
+    },
+    {
+      "speaker": "Nami",
+      "text": "This is my power."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "As long as I can sprout any part of my body anywhere I choose,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You can't run away from me."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Me? Run away!? That's absurd!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I'll avenge Igaram's death right here and now!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I see... Well, I'm sorry to hear that."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "For you see, as much as I'd love to play with you,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I'm afraid I don't have any spare time."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Don't worry, I'll end this (quickly!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "What a fool..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "SEIS FLEUP! (Six flowers)"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Grip!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Grab!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "A submis- Lion Hold!?"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "\"Power,\""
+    },
+    {
+      "speaker": "Vivi",
+      "text": "\"Speed\"..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Such things are irrelevant against me."
+    }
+  ],
+  "summary": "This part develops the officer agents are judged and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.83,
+  "needs_review": false
+}

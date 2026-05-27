@@ -1,0 +1,40 @@
+{
+  "chapter": "268",
+  "part": 5,
+  "title": "Nami Is Taken Onto the Ark",
+  "description": "Sanji and Usopp risk themselves against Enel’s overwhelming power, buying time even when victory seems impossible.",
+  "pages": [
+    16,
+    17
+  ],
+  "characters": [
+    "Enel",
+    "Nami",
+    "Nico Robin",
+    "Sanji",
+    "Usopp",
+    "Gan Fall",
+    "Wyper",
+    "Luffy",
+    "Zoro",
+    "Chopper"
+  ],
+  "scene": "Across pages 16, 17, this scene centers on Enel, Nami, Nico Robin, Sanji, Usopp. Sanji and Usopp risk themselves against Enel’s overwhelming power, buying time even when victory seems impossible.",
+  "dialogue": [
+    {
+      "speaker": "Enel",
+      "text": "And so imposing..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "So this is"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "The Golden City, Shadow."
+    }
+  ],
+  "summary": "Sanji and Usopp risk themselves against Enel’s overwhelming power, buying time even when victory seems impossible.",
+  "confidence": 0.86,
+  "needs_review": false
+}

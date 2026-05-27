@@ -1,0 +1,48 @@
+{
+  "chapter": "207",
+  "part": 5,
+  "title": "The Straw Hats Recover in Secret",
+  "description": "On pages 17, 18, this part focuses on the straw hats become wanted heroes. News of Crocodile’s defeat spreads, new bounties and political consequences appear, and the crew prepares to leave Alabasta quietly.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Alabasta citizen",
+    "Vivi",
+    "King Cobra",
+    "Tashigi",
+    "Luffy",
+    "Nico Robin"
+  ],
+  "scene": "This scene belongs to the The Straw Hats Become Wanted Heroes sequence. The important beat is the dialogue and action around Alabasta citizen, Vivi, King Cobra, Tashigi, Luffy.",
+  "dialogue": [
+    {
+      "speaker": "Alabasta citizen",
+      "text": "you foul, heinous..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Kuhaha Haha!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "We're in trouble!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Viv!!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "The bomb is on a timer!"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "What?"
+    }
+  ],
+  "summary": "News of Crocodile’s defeat spreads, new bounties and political consequences appear, and the crew prepares to leave Alabasta quietly.",
+  "confidence": 0.89,
+  "needs_review": false
+}

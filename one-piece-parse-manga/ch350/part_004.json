@@ -1,0 +1,84 @@
+{
+  "chapter": "350",
+  "part": 4,
+  "title": "Tom’s Pride",
+  "description": "Tom teaches Franky and Iceburg that a shipwright must stand proudly behind the ships they build.",
+  "pages": [
+    15,
+    16,
+    17,
+    18
+  ],
+  "characters": [
+    "Blueno",
+    "Iceburg",
+    "Franky",
+    "Tom",
+    "Spandam",
+    "Kokoro",
+    "Yokozuna",
+    "World Government agent"
+  ],
+  "scene": "Across pages 15, 16, 17, 18, this part follows Blueno, Iceburg, Franky, Tom, Spandam. Tom teaches Franky and Iceburg that a shipwright must stand proudly behind the ships they build.",
+  "dialogue": [
+    {
+      "speaker": "Blueno",
+      "text": "Noo ooo!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Big bro >!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Help us...!!!"
+    },
+    {
+      "speaker": "Tom",
+      "text": "Don't worry..."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "location acquired."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Let's move."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "So... bro..."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Let's get to the big question with"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "I've been in the grand line!!"
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "No... you wouldn't make it!!!"
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "It's too far....."
+    },
+    {
+      "speaker": "Tom",
+      "text": "Big bro...!?"
+    },
+    {
+      "speaker": "Tom",
+      "text": "What are you talking about!?"
+    },
+    {
+      "speaker": "Tom",
+      "text": "Let me take it apart for you."
+    }
+  ],
+  "summary": "Tom teaches Franky and Iceburg that a shipwright must stand proudly behind the ships they build.",
+  "confidence": 0.83,
+  "needs_review": false
+}

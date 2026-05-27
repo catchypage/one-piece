@@ -1,0 +1,110 @@
+{
+  "chapter": "345",
+  "part": 4,
+  "title": "Iceburg Reveals the Blueprints",
+  "description": "The Pluton blueprints and Tom’s legacy become central as CP9 hunts the secret that Iceburg and Franky have protected.",
+  "pages": [
+    14,
+    15,
+    16,
+    17
+  ],
+  "characters": [
+    "Iceburg",
+    "Nico Robin",
+    "Chopper",
+    "Rob Lucci",
+    "Kaku",
+    "Kalifa",
+    "Franky",
+    "Blueno",
+    "Luffy",
+    "Nami"
+  ],
+  "scene": "Across pages 14, 15, 16, 17, this part follows Iceburg, Nico Robin, Chopper, Rob Lucci, Kaku. The Pluton blueprints and Tom’s legacy become central as CP9 hunts the secret that Iceburg and Franky have protected.",
+  "dialogue": [
+    {
+      "speaker": "Iceburg",
+      "text": "Go home!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "I have nothing to give you!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "..... that's the problem"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "What..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "...shall we discuss first..."
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "...with you?"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "WHA-...!!!"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "I'm disappointed in you."
+    },
+    {
+      "speaker": "Kaku",
+      "text": "Lucchi!!!"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "It's all your fault..."
+    },
+    {
+      "speaker": "Kaku",
+      "text": "Kaku!!!"
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "We really wished..."
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "without having to harm you."
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "KALIFA...!!"
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "You have your master's resolve."
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "BLUENO...!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "You were all... with the government!!!"
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "... Please tell us..."
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "... its where- abouts."
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "Before there are any more victims."
+    }
+  ],
+  "summary": "The Pluton blueprints and Tom’s legacy become central as CP9 hunts the secret that Iceburg and Franky have protected.",
+  "confidence": 0.84,
+  "needs_review": false
+}

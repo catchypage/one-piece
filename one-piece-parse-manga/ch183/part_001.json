@@ -1,0 +1,140 @@
+{
+  "chapter": "183",
+  "part": 1,
+  "title": "Bon Clay Mimics the Crew",
+  "description": "On pages 1–4, this part focuses on bon clay mimics the crew, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Mr. 2 Bon Clay",
+    "Sanji",
+    "Nami",
+    "Usopp",
+    "Chopper",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Vivi"
+  ],
+  "scene": "Bon Clay Mimics the Crew. Sanji battles Mr. 2 Bon Clay, whose mimicry turns the fight into a test of recognition and trust. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "So to summarize, that okama's a master of disputes."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "He can pose as any one of us at any time and threaten Vivi's life."
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "So if you ever doubt another crew member's real identity..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Have them show the mark concealed under these bandages."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Unwrapp"
+    },
+    {
+      "speaker": "Nami",
+      "text": "If they can't do that, then we'll know they're an impostor."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Huh, a 2-step identification system... That's almost too clever for someone like you to come up with..."
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "Does that mean the Okama's already posing as you...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I'll turn you into minced meat, you little punk!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Oh, it's Zero alright."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Whew, that's our Zero."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Carue!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You don't need to push your- self!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You're already too injured to run!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You won't escape from Meeeeeeeeeeeeeeee!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "@uarck!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hold on WUUP!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I'm gonna eat you dead meats right up!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Carue, Noooo! We'll be cornered if we try to head up the stairs!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Just let me off!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'll fight him!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Quick!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What-"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "No, you're gonna crash into the walls!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "this can't be...!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Quamaack!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "How could a mere duck run up the walls of allu- barna..!?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Qua..."
+    }
+  ],
+  "summary": "This part develops bon clay mimics the crew and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.68,
+  "needs_review": true
+}

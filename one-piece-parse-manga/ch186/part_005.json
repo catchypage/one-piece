@@ -1,0 +1,90 @@
+{
+  "chapter": "186",
+  "part": 5,
+  "title": "The Enemy’s Trick Is Exposed",
+  "description": "On pages 19–23, this part focuses on the enemy’s trick is exposed, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    19,
+    20,
+    21,
+    23
+  ],
+  "characters": [
+    "Vivi",
+    "Nami",
+    "Mr. 4",
+    "Zoro",
+    "Chopper",
+    "Sanji",
+    "Usopp",
+    "Baroque Works agent",
+    "Unknown person #1",
+    "Unknown person #2"
+  ],
+  "scene": "The Enemy’s Trick Is Exposed. The separate fights across Alubarna intensify while the bomb plot and the civil war continue moving forward. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "Roll..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "achoo!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Tic too tic..."
+    },
+    {
+      "speaker": "Mr. 4",
+      "text": "Battle at Alubanna Southeast Gates"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "usop! Are you alright!? Don't die on me!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Winner: Usop & Chopper"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "W-We need a doctor here!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That'd be YOU!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "As energetic as always, aren't you all?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Have a seat, Usopp Gallery Pirates!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Find 3: Travel"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "topper.!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "One piece!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "one piece itbi..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Eddie,"
+    }
+  ],
+  "summary": "This part develops the enemy’s trick is exposed and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.74,
+  "needs_review": false
+}

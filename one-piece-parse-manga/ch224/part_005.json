@@ -1,0 +1,54 @@
+{
+  "chapter": "224",
+  "part": 5,
+  "title": "Blackbeard Speaks of Dreams",
+  "description": "A strange pirate with a huge appetite and an opposite taste from Luffy crosses paths with the crew, hinting at a major future rival.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Bellamy",
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Blackbeard",
+    "Sarquiss",
+    "Doc Q",
+    "Burgess"
+  ],
+  "scene": "Across pages 17, 18, this scene centers on Bellamy, Luffy, Zoro, Nami, Blackbeard. A strange pirate with a huge appetite and an opposite taste from Luffy crosses paths with the crew, hinting at a major future rival.",
+  "dialogue": [
+    {
+      "speaker": "Bellamy",
+      "text": "Hahaha... Hey, Bellamy!"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Haha... Sure, one show coming brilliant up!"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Hahaha!"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Zoro."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Don't respond at all,"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "to their jers...!"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Completely unnecessary."
+    }
+  ],
+  "summary": "A strange pirate with a huge appetite and an opposite taste from Luffy crosses paths with the crew, hinting at a major future rival.",
+  "confidence": 0.87,
+  "needs_review": false
+}

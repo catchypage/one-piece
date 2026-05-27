@@ -1,0 +1,23 @@
+{
+  "chapter": "400",
+  "title": "The Key Hunt Begins",
+  "main_description": "Each Straw Hat faces a CP9 opponent while the rescue depends on finding the correct key before Robin reaches the Gate of Justice.",
+  "main_characters": [
+    "Luffy",
+    "Fukurou",
+    "Zoro",
+    "Franky",
+    "Nami",
+    "Rob Lucci",
+    "Sanji",
+    "Chopper",
+    "Sogeking",
+    "Nico Robin"
+  ],
+  "key_events": [
+    "The Key Hunt Begins",
+    "Each Straw Hat faces a CP9 opponent while the rescue depends on finding the correct key before Robin reaches the Gate of Justice."
+  ],
+  "confidence": 0.83,
+  "needs_review": false
+}

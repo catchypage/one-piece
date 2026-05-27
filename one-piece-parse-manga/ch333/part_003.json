@@ -1,0 +1,85 @@
+{
+  "chapter": "333",
+  "part": 3,
+  "title": "Luffy Strikes Back",
+  "description": "The argument over the Merry becomes a painful split between captain and crewmate, cutting deeper than any normal fight.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Franky",
+    "Franky Family",
+    "Going Merry"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this part follows Luffy, Usopp, Nami, Zoro, Sanji. The argument over the Merry becomes a painful split between captain and crewmate, cutting deeper than any normal fight.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Basa..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "How's this?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "bullet!!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "USOPP ****!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "HAA"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Bata..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "It's decided then"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Stupid Asshole...!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "There's no way!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That you'll win!!!"
+    }
+  ],
+  "summary": "The argument over the Merry becomes a painful split between captain and crewmate, cutting deeper than any normal fight.",
+  "confidence": 0.8,
+  "needs_review": false
+}

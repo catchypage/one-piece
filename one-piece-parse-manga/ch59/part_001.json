@@ -1,0 +1,137 @@
+{
+  "chapter": "59",
+  "part": 1,
+  "title": "Gin Is Torn Between Krieg and Sanji",
+  "description": "On pages 1–4, the fight against Krieg reaches a moral breaking point as Gin, Sanji, Zeff, and Luffy clash over debt, survival, and strength.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Baratie Cook",
+    "Zeff",
+    "Don Krieg",
+    "Sanji",
+    "Unknown person #1",
+    "Gin",
+    "Pearl",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "Krieg’s weapons and cruelty force everyone at the Baratie to reveal what they truly value: victory, loyalty, survival, or protecting someone else’s dream.",
+  "dialogue": [
+    {
+      "speaker": "Baratie Cook",
+      "text": "Repay his debt...!?"
+    },
+    {
+      "speaker": "Baratie Cook",
+      "text": "Sanji! Don't do any more unnecessary things."
+    },
+    {
+      "speaker": "Zeff",
+      "text": "I'm not so old and feeble enough yet that I need to be rescued by a little eggplant!"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "Hmph, you're one to talk."
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "If you hadn't given up your leg for my sake, then these guys wouldn't be able to push you around!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Sanji's barely standing...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "So owner Zeff gave up his leg,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "to save Sanji...?"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "Then the reason why he's stayed here all along,"
+    },
+    {
+      "speaker": "Baratie Cook",
+      "text": "must've been to repay his debt to owner Zeff...!"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Never would've imagined that two people who argue with each other all the time would share such a deep relationship..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "WHY..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Why do you still stand up, Sanji...!?"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Haaaaha haha!"
+    },
+    {
+      "speaker": "Pearl",
+      "text": "Still haven't had enough of my Pearl presents!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "You ain't got a chance of winning!"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "The final result is all that matters in this world! If you lose, then you're a loser! No other way about it!"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "It doesn't matter if you take Hostages! The last man standing is the victor!"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "Isn't that right, Don Krieg!?"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "Exactly."
+    },
+    {
+      "speaker": "Gin",
+      "text": "Right, gin!?"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Guess it's not even necessary to ask..."
+    },
+    {
+      "speaker": "Gin",
+      "text": "you are the one holding him at hostage, after all..."
+    },
+    {
+      "speaker": "Gin",
+      "text": "In any case, you'll lose without laying even a finger on us in the end."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "So why do you still stand!? You'll only be beaten to a bloody pulp if you do!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I want to preserve this restaurant,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "If even just one second longer."
+    }
+  ],
+  "summary": "This part pushes the Baratie battle toward its climax by contrasting Krieg’s ruthless power with Luffy and Sanji’s stubborn ideals.",
+  "confidence": 0.74,
+  "needs_review": false
+}

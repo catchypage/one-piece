@@ -1,0 +1,101 @@
+{
+  "chapter": "364",
+  "part": 1,
+  "title": "Sanji on the Sea Train",
+  "description": "Franky and Sanji push deeper into the Sea Train while Robin and CP9 remain the true targets of the chase.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Sanji",
+    "Franky",
+    "Paulie",
+    "Nico Robin",
+    "CP9 agent",
+    "Wanze",
+    "Nero",
+    "World Government agent",
+    "Spandam"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Sanji, Franky, Paulie, Nico Robin, CP9 agent. Franky and Sanji push deeper into the Sea Train while Robin and CP9 remain the true targets of the chase.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "The straw hats....!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "It's okay! Look!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "PaulieSan!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Nguh...!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Shh!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "WAA AAH...!!!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "PUH WAA AAH!!!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "AYAH!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Kya!!"
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "We've been saved..."
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "Waah! A!!"
+    },
+    {
+      "speaker": "Wanze",
+      "text": "Hurry!! Head for ZousenJima!!!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Hurry—!!!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Hurry-"
+    },
+    {
+      "speaker": "Nero",
+      "text": "The Bridge Collapsed!!!"
+    },
+    {
+      "speaker": "World Government agent",
+      "text": "Run!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Run >!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "KGH..."
+    }
+  ],
+  "summary": "Franky and Sanji push deeper into the Sea Train while Robin and CP9 remain the true targets of the chase.",
+  "confidence": 0.77,
+  "needs_review": false
+}

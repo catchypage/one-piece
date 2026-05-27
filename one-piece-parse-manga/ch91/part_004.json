@@ -1,0 +1,100 @@
+{
+  "chapter": "91",
+  "part": 4,
+  "title": "The Village Watches Luffy Fight",
+  "description": "On pages 13–16, the village watches luffy fight focuses on Luffy, Arlong, Nami, Cocoyashi villagers as arlong attacks with overwhelming fish-man strength while Luffy fights for Nami and the village.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Luffy",
+    "Arlong",
+    "Nami",
+    "Cocoyashi villagers",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8"
+  ],
+  "scene": "On pages 13–16, the village watches luffy fight focuses on Luffy, Arlong, Nami, Cocoyashi villagers as arlong attacks with overwhelming fish-man strength while Luffy fights for Nami and the village.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Aghh!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "He got him!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "guah haha!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "UGAHH!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ha! How does being bitten by your own teeth feel!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "They may be my teeth... but with your feeble little jaws...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Glutch"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Listen up... what defines a shark's teeth is its ability..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "To rip flesh to tears!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Ack!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Aghhh! his arm's going to be torn!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Arggh haha!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Arghh hah!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "On"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "I... is his arm okay...?"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "...those teeth would've torn his arm right off if he tried to take even one step back just now."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Well in his case, it's not as if he has the brains to actually understand how those teeth work..."
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.69,
+  "needs_review": true
+}

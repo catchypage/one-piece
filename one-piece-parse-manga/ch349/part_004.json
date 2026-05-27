@@ -1,0 +1,84 @@
+{
+  "chapter": "349",
+  "part": 4,
+  "title": "Tom’s Pride",
+  "description": "Tom’s work, the judicial pressure against him, and the Sea Train project connect Water Seven’s past to the present crisis.",
+  "pages": [
+    13,
+    14,
+    15
+  ],
+  "characters": [
+    "Franky",
+    "Tom",
+    "Iceburg",
+    "Spandam",
+    "Kokoro",
+    "Paulie",
+    "Yokozuna",
+    "Blueno",
+    "World Government agent"
+  ],
+  "scene": "Across pages 13, 14, 15, this part follows Franky, Tom, Iceburg, Spandam, Kokoro. Tom’s work, the judicial pressure against him, and the Sea Train project connect Water Seven’s past to the present crisis.",
+  "dialogue": [
+    {
+      "speaker": "Franky",
+      "text": "Damn... this is awful."
+    },
+    {
+      "speaker": "Tom",
+      "text": "Is everyone out!!?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "We can't go back in!!"
+    },
+    {
+      "speaker": "Tom",
+      "text": "It's completely surrounded by flames!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "He must have!!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "... but..."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "She is!!!"
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "CHUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "\"The Pirates' testimony won't mean a thing..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Iceburg- San... Though you may be..."
+    },
+    {
+      "speaker": "World Government agent",
+      "text": "\"A very talented shipwright..."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "An ordinary citizen..."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Shouldn't Defy a large government....!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Franky... No, Kati Fram!!!"
+    }
+  ],
+  "summary": "Tom’s work, the judicial pressure against him, and the Sea Train project connect Water Seven’s past to the present crisis.",
+  "confidence": 0.86,
+  "needs_review": false
+}

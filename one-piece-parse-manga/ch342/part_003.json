@@ -1,0 +1,114 @@
+{
+  "chapter": "342",
+  "part": 3,
+  "title": "CP9 Drops the Disguise",
+  "description": "The truth behind the attack on Iceburg begins to emerge as the masked intruders and CP9 agents move in the shadows.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Iceburg",
+    "Nico Robin",
+    "Chopper",
+    "Rob Lucci",
+    "Paulie",
+    "Franky",
+    "Kaku",
+    "Kalifa",
+    "Blueno",
+    "Luffy"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this part follows Iceburg, Nico Robin, Chopper, Rob Lucci, Paulie. The truth behind the attack on Iceburg begins to emerge as the masked intruders and CP9 agents move in the shadows.",
+  "dialogue": [
+    {
+      "speaker": "Iceburg",
+      "text": "Will you accept this task?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "You don't need to be so polite."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Just leave it to me!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Please, be careful."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "I'll take care of it right now."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "COO- finished talking?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Yeah, have to do some stuff,"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Chuu Chuu"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Kachya..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "The Presi- Dent's room..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "There's a safe hidden there..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "There it is..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Turn right.... to... six..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Kata"
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "Buru Ruru Ru..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Katsa"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Is everyone ready?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Nico Robin... Are you ready?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Yes..."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "The four of you..."
+    }
+  ],
+  "summary": "The truth behind the attack on Iceburg begins to emerge as the masked intruders and CP9 agents move in the shadows.",
+  "confidence": 0.85,
+  "needs_review": false
+}

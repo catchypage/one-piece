@@ -1,0 +1,162 @@
+{
+  "chapter": "213",
+  "part": 4,
+  "title": "The Farewell Speech",
+  "description": "On pages 16, 17, 18, 19, this part focuses on the silent x-mark farewell. Vivi and the Straw Hats part ways without words, using their shared mark to prove their friendship while protecting her from the Navy.",
+  "pages": [
+    16,
+    17,
+    18,
+    19
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Zoro",
+    "Karoo",
+    "Smoker",
+    "Tashigi"
+  ],
+  "scene": "This scene belongs to the The Silent X-Mark Farewell sequence. The important beat is the dialogue and action around Luffy, Vivi, Nami, Usopp, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Whoaaaa!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Amazing! This is also- Lutely gorgeous!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Incredible."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I'm gonna be the first one in!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "No, me!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "OOF!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Having fun there, you two?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "The feast was most enjoyable."
+    },
+    {
+      "speaker": "Karoo",
+      "text": "Train- ing!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "For what?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "So? Where're the women's baths?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Well?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Your rotten Highness!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Ohh! I like your style, old man!"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "This feels great!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "I'm sure there is."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Stare"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Ah- Umm..."
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Let's switch!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "O-oh, thanks."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "W-What're you all doing!?"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Oh, those idiots..."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Happiness punch!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "GAH!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Fuksh!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "That'll be 10,000 from each person!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Nami!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "...You're hesitating, aren't you?"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "We're thinking of leaving."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "If possible, tonight, even."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Really?"
+    }
+  ],
+  "summary": "Vivi and the Straw Hats part ways without words, using their shared mark to prove their friendship while protecting her from the Navy.",
+  "confidence": 0.86,
+  "needs_review": false
+}

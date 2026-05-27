@@ -1,0 +1,64 @@
+{
+  "chapter": "645",
+  "part": 1,
+  "title": "The Officers Collapse",
+  "description": "On pages 0–4, this part follows Unknown person #1, Unknown person #2, Unknown person #5, Unknown person #7, Unknown person #8, Fish-Man Island Citizens, Luffy. The central beat is the officers collapse.",
+  "pages": [
+    0,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #5",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Fish-Man Island Citizens",
+    "Luffy",
+    "Shirahoshi",
+    "Hody Jones",
+    "New Fish-Man Pirates",
+    "Sea Kings",
+    "Jinbe"
+  ],
+  "scene": "The scene focuses on the officers collapse, with Unknown person #1, Unknown person #2, Unknown person #5, Unknown person #7, Unknown person #8, Fish-Man Island Citizens, Luffy shaping the conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "WAGO...mu dendoushi USO P"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Full Speed Ahead, Cry- Hosh!!!!!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "\"Cough\" ... RRILLG Hhhhh..."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "\"PANTY...!! #PANT*...!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Swillshh"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "WHEW!!! OPEN AIR!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Gear Third!!"
+    },
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "Go for it, Luffy- San!!"
+    }
+  ],
+  "summary": "The Officers Collapse. This part advances the end of the Fish-Man Island conflict and the island’s attempt to move beyond inherited hatred.",
+  "confidence": 0.76,
+  "needs_review": true
+}

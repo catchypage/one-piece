@@ -1,0 +1,101 @@
+{
+  "chapter": "425",
+  "part": 1,
+  "title": "Escape from Enies Lobby",
+  "description": "In the Enies Lobby Climax storyline, this section centers on CP9, Franky, Spandam, Unknown person #1, Unknown person #2, Unknown person #3 as the scene develops across pages 1–4.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "CP9",
+    "Franky",
+    "Spandam",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Unknown person #10"
+  ],
+  "scene": "This scene advances the Enies Lobby Climax conflict through CP9, Franky, Spandam, Unknown person #1, Unknown person #2, focusing on the immediate stakes of escape from enies lobby.",
+  "dialogue": [
+    {
+      "speaker": "Franky",
+      "text": "Fluuu"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Luffy... Hurry up and come back!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Shuuu...!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Even if we do sail out,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Marines and govern-ment officials"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "In Enies Lobby have been accommodation- dated."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Also, we've confirmed that"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Approxi- Mately 50 Pirates"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Including some giants"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "are at the main gate."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "That's ..."
+    },
+    {
+      "speaker": "CP9",
+      "text": "I'm not worried about them."
+    },
+    {
+      "speaker": "CP9",
+      "text": "Bastards!! Gahahaha."
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "We have completed the Oblit- Eration mission"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "The other day, too...!!"
+    },
+    {
+      "speaker": "CP9",
+      "text": "As it stands, it is impos- sible"
+    }
+  ],
+  "summary": "This scene advances the Enies Lobby Climax conflict through CP9, Franky, Spandam, Unknown person #1, Unknown person #2, focusing on the immediate stakes of escape from enies lobby.",
+  "confidence": 0.69,
+  "needs_review": false
+}

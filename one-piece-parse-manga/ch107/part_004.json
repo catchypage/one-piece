@@ -1,0 +1,133 @@
+{
+  "chapter": "107",
+  "part": 4,
+  "title": "A Duel Against the Town",
+  "description": "On pages 13–16, a duel against the town as while the crew sleeps after the feast, Zoro stays awake and discovers the town’s real identity as a nest of bounty hunters.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Zoro",
+    "Baroque Works agent",
+    "Nami",
+    "Luffy",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5"
+  ],
+  "scene": "A Duel Against the Town. While the crew sleeps after the feast, Zoro stays awake and discovers the town’s real identity as a nest of bounty hunters. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Zoro",
+      "text": "What!? How do you know the name of our organization!?"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "Back when I was in the same line of business as you,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "A certain organ- zation tried to scout me but I refused, of course."
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "...an organization whose members don't know a thing about each other's real identities,"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "and must refer each other by their code- names."
+    },
+    {
+      "speaker": "Nami",
+      "text": "and of course, the boss' location and identity are a mystery as well."
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "A criminal organization that asks for complete obedience from its members: Baroque works."
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "Heh... was that supp- used to be a secret?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "This is quite a shock... but if he knows our secret, then we have no choice but to eliminate him..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Another tomb- stone,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Must be added to cactus rock tonight...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Kill him!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "He's gone!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Where'd he go!?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Now then..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "shall we get things started?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "You bastard!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Shoot!"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "You fools!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "He disappeared again! He's too fast!"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "Hurry up and kill him already! He's only one swordsm..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Are you sure,"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "that you want to add only one tombstone tonight?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "There He is!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "S-Stop you fools! Are you planning to shoot me too!?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "I said stop!"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on a duel against the town. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.7,
+  "needs_review": true
+}

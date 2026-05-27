@@ -1,0 +1,50 @@
+{
+  "chapter": "1165",
+  "part": 1,
+  "title": "The Curse of a Bloodline",
+  "description": "On pages 1–3, this part follows Unknown person #1, Unknown person #2, Unknown person #3 as The story examines the bloodline hatred and political violence surrounding Elbaf while the danger around Loki and the God’s Knights grows.",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "The story examines the bloodline hatred and political violence surrounding Elbaf while the danger around Loki and the God’s Knights grows.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Please!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "You hear that too, right?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Please kill me!!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "his words, the way he's acting, and that look on his face..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "None of it adds up!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "JWAAH!!!"
+    }
+  ],
+  "summary": "This part advances The Weight of Elbaf’s Bloodline through 7 cleaned dialogue beats, focusing on the immediate conflict, character reactions, and the larger Elbaf mystery.",
+  "confidence": 0.74,
+  "needs_review": true
+}

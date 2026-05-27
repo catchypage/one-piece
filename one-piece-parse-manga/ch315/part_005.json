@@ -1,0 +1,88 @@
+{
+  "chapter": "315",
+  "part": 5,
+  "title": "Luffy Protects His Crew",
+  "description": "Foxy uses his Noro Noro Beam and the arena itself to trap Luffy, but Luffy keeps pushing forward.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Foxy",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Tonjit",
+    "Porche"
+  ],
+  "scene": "Across pages 17, 18, this scene focuses on Foxy, Luffy, Nami, Usopp, Zoro. Foxy uses his Noro Noro Beam and the arena itself to trap Luffy, but Luffy keeps pushing forward.",
+  "dialogue": [
+    {
+      "speaker": "Foxy",
+      "text": "That's so rude..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It's you!!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Eh!? Really!?"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "NORO NORO BEAM!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Oh... crap..."
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Nine-Tail rush!!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Zee..."
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Fueh flueh fuel..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "You will soon fly in there..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Fueh..."
+    },
+    {
+      "speaker": "Foxy",
+      "text": "On the other side of this door..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Something horrible awaits you.."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Ethanana, Emppoge"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "NOW he's following the rules?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "It would be against the rules."
+    }
+  ],
+  "summary": "Foxy uses his Noro Noro Beam and the arena itself to trap Luffy, but Luffy keeps pushing forward.",
+  "confidence": 0.88,
+  "needs_review": false
+}

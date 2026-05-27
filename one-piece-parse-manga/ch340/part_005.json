@@ -1,0 +1,96 @@
+{
+  "chapter": "340",
+  "part": 5,
+  "title": "Water Seven Turns Hostile",
+  "description": "Water Seven turns against the Straw Hats as Robin’s disappearance and Iceburg’s attack make the crew appear guilty.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Nico Robin",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Iceburg",
+    "Franky",
+    "Galley-La shipwright",
+    "Water Seven citizen",
+    "Chopper"
+  ],
+  "scene": "Across pages 17, 18, this part follows Luffy, Nico Robin, Nami, Zoro, Sanji. Water Seven turns against the Straw Hats as Robin’s disappearance and Iceburg’s attack make the crew appear guilty.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Sniff..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "WAA AH!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Bua!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "How did you find us, chopper?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "smell,"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "I think it's clear now."
+    },
+    {
+      "speaker": "Franky",
+      "text": "And then you got us spotted, too!"
+    },
+    {
+      "speaker": "Galley-La shipwright",
+      "text": "Ah! Where's Sanji?"
+    },
+    {
+      "speaker": "Galley-La shipwright",
+      "text": "It's impossible to stay out of sight..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Is that for real!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Nico Robin really said that!?"
+    },
+    {
+      "speaker": "Water Seven citizen",
+      "text": "It's time for everyone to wake up..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Nico Robin started out as our enemy,"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Then we let her on our ship."
+    },
+    {
+      "speaker": "Water Seven citizen",
+      "text": "Is that woman"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "friend..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "Or foe...?"
+    }
+  ],
+  "summary": "Water Seven turns against the Straw Hats as Robin’s disappearance and Iceburg’s attack make the crew appear guilty.",
+  "confidence": 0.84,
+  "needs_review": false
+}

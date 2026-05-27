@@ -1,0 +1,70 @@
+{
+  "chapter": "277",
+  "part": 2,
+  "title": "Nami Chooses Her Crew",
+  "description": "Nami must decide whether to follow Enel for safety or trust Luffy and the crew against impossible odds.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Nami",
+    "Nico Robin",
+    "Enel",
+    "Luffy",
+    "Narrator",
+    "Aisa",
+    "Wyper",
+    "Gan Fall",
+    "Sanji",
+    "Usopp"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this scene centers on Nami, Nico Robin, Enel, Luffy, Narrator. Nami must decide whether to follow Enel for safety or trust Luffy and the crew against impossible odds.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "The ARK, \"Maximi!\""
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Ancient City, Shadow"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Open"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Twitch"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "open"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Open"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Knock, Knock"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Squish"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "CRAISH!"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "Aghhh!"
+    }
+  ],
+  "summary": "Nami must decide whether to follow Enel for safety or trust Luffy and the crew against impossible odds.",
+  "confidence": 0.83,
+  "needs_review": false
+}

@@ -1,0 +1,100 @@
+{
+  "chapter": "655",
+  "part": 4,
+  "title": "Luffy Answers the Call",
+  "description": "On pages 11–14, this part follows Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Unknown person #7, Unknown person #8. The central beat is luffy answers the call.",
+  "pages": [
+    11,
+    12,
+    13,
+    14
+  ],
+  "characters": [
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Unknown person #10",
+    "Unknown person #11",
+    "Luffy",
+    "Nami"
+  ],
+  "scene": "The scene focuses on luffy answers the call, with Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Unknown person #7, Unknown person #8 shaping the conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #2",
+      "text": "But nobody could possibly live here now!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Aren't you gonna eat yours?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I don't feel like eating right now!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "We know."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Well, there's no mistaking it..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Certaine matches"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Ah! Look at this, Luffy!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "*c Marine"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "...and the Marine Emblem!!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "No point helping them!! Let's go back!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "This whole place really is Ablaze ...!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Oh, right ... we're pirates..."
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Oh, wait... We already did that..."
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "\"Man, it's hot...!! Let's see..."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "It certainly is suspicious."
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Hey!!! Den-den mushi guy, are you here?!!!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "We've come to save you!!"
+    }
+  ],
+  "summary": "Luffy Answers the Call. This part moves the Straw Hats from Fish-Man Island into the New World and begins the mystery of Punk Hazard.",
+  "confidence": 0.76,
+  "needs_review": true
+}

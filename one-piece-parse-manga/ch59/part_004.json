@@ -1,0 +1,116 @@
+{
+  "chapter": "59",
+  "part": 4,
+  "title": "Gin Is Torn Between Krieg and Sanji",
+  "description": "On pages 14–17, the fight against Krieg reaches a moral breaking point as Gin, Sanji, Zeff, and Luffy clash over debt, survival, and strength.",
+  "pages": [
+    14,
+    15,
+    16,
+    17
+  ],
+  "characters": [
+    "Luffy",
+    "Gin",
+    "Unknown person #1",
+    "Don Krieg",
+    "Pearl",
+    "Sanji",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "Krieg’s weapons and cruelty force everyone at the Baratie to reveal what they truly value: victory, loyalty, survival, or protecting someone else’s dream.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "You won't be repaying any debt by dying!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That's not what he saved you for!"
+    },
+    {
+      "speaker": "Gin",
+      "text": "to throw away your life and die like this after being saved..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "That's what a weakling does!"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Well, it's not like you know of a better way out of this mess!"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "Now, now. Stop the fighting, you two."
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "It's just your bad fortune to have gone up against the Krieg Pirates."
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "You picked the wrong enemies."
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "There's nothin' you can do against us!"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "As long as we have a hostage, that is!"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "I'll burn you to death,"
+    },
+    {
+      "speaker": "Pearl",
+      "text": "with my fire pearls!"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Gin!?"
+    },
+    {
+      "speaker": "Pearl",
+      "text": "Sorry Pearl, but I need you to get out of my way for a little while."
+    },
+    {
+      "speaker": "Gin",
+      "text": "W...why... gin...?"
+    },
+    {
+      "speaker": "Gin",
+      "text": "G-Gin!"
+    },
+    {
+      "speaker": "Pearl",
+      "text": "Why did you attack Pearl!?"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Gin!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "You dare betray me!?"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "My apologies, Don Krieg."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "But please allow me..."
+    }
+  ],
+  "summary": "This part pushes the Baratie battle toward its climax by contrasting Krieg’s ruthless power with Luffy and Sanji’s stubborn ideals.",
+  "confidence": 0.8,
+  "needs_review": false
+}

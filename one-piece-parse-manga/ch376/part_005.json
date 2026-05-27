@@ -1,0 +1,51 @@
+{
+  "chapter": "376",
+  "part": 5,
+  "title": "Blueno Blocks the Path",
+  "description": "Usopp returns in the persona of Sogeking, joining the mission to save Robin while hiding his own pain from the crew.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Nico Robin",
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Chopper",
+    "Sogeking",
+    "Franky",
+    "Blueno",
+    "Spandam"
+  ],
+  "scene": "Across pages 17, this part follows Nico Robin, Luffy, Zoro, Nami, Sanji. Usopp returns in the persona of Sogeking, joining the mission to save Robin while hiding his own pain from the crew.",
+  "dialogue": [
+    {
+      "speaker": "Nico Robin",
+      "text": "What's Wrong, Rico Nico Robin?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Keep moving."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Is everyone ready?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "How're your wounds?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "It's not a problem, because I'm sogging."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "charge in!"
+    }
+  ],
+  "summary": "Usopp returns in the persona of Sogeking, joining the mission to save Robin while hiding his own pain from the crew.",
+  "confidence": 0.84,
+  "needs_review": false
+}

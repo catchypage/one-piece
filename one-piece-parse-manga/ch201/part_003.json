@@ -1,0 +1,108 @@
+{
+  "chapter": "201",
+  "part": 3,
+  "title": "The Secret of the Tomb",
+  "description": "On pages 12, 13, 14, 15, this part focuses on luffy breaks crocodile’s scheme. The final struggle beneath Alabasta turns against Crocodile as Luffy keeps fighting and Robin forces Cobra toward the hidden history Crocodile wants.",
+  "pages": [
+    12,
+    13,
+    14,
+    15
+  ],
+  "characters": [
+    "Crocodile",
+    "Nico Robin",
+    "King Cobra",
+    "Luffy",
+    "Vivi",
+    "Pell",
+    "Chaka",
+    "Alabasta soldier"
+  ],
+  "scene": "This scene belongs to the Luffy Breaks Crocodile’s Scheme sequence. The important beat is the dialogue and action around Crocodile, Nico Robin, King Cobra, Luffy, Vivi.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "Clear the way, I'm in a hurry."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Absolutely not!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Like I care who I'm holding hostage..."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "I really do despise you government dogs."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "If you won't clear the way..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "So be it."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I'll just have to kill you!"
+    },
+    {
+      "speaker": "Pell",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Pell",
+      "text": "That's only 7 minutes from now..."
+    },
+    {
+      "speaker": "Chaka",
+      "text": "But...!"
+    },
+    {
+      "speaker": "Alabasta soldier",
+      "text": "The following"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "WAIT! This woman is-"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "AIM!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "TREINTA FLEUR! (Thirty flowers)"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "(Thirty Flowers)"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Wha-"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "UGA!"
+    },
+    {
+      "speaker": "Alabasta soldier",
+      "text": "Gahh!"
+    },
+    {
+      "speaker": "Alabasta soldier",
+      "text": "Strange!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "A devil fruit user!?"
+    }
+  ],
+  "summary": "The final struggle beneath Alabasta turns against Crocodile as Luffy keeps fighting and Robin forces Cobra toward the hidden history Crocodile wants.",
+  "confidence": 0.85,
+  "needs_review": false
+}

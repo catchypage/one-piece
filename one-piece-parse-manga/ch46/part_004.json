@@ -1,0 +1,156 @@
+{
+  "chapter": "46",
+  "part": 4,
+  "title": "Sanji Feeds a Starving Enemy",
+  "description": "On pages 11–14, Sanji feeds Gin despite the danger, revealing that his compassion for the hungry matters more to him than restaurant rules or pirate labels.",
+  "pages": [
+    11,
+    12,
+    13,
+    14
+  ],
+  "characters": [
+    "Sanji",
+    "Don Krieg",
+    "Unknown person #1",
+    "Gin",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9"
+  ],
+  "scene": "Gin arrives broken and starving, while the Baratie cooks judge him as an enemy; Sanji alone treats hunger as something that must be answered.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "Sorry for intruding... but could I have some water... and food...?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "If it's money you want, I've got plenty..."
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "pirate fleet admiral \"DON KRIEG\""
+    },
+    {
+      "speaker": "Sanji",
+      "text": "WHA..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "The heck?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "That weak, worn-out looking guy is krieg?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "He looks like he's starving."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "wonder what happened..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ugh..."
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "Don KrieG!"
+    },
+    {
+      "speaker": "Gin",
+      "text": "I'm begging you! Please give him some food and water!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Please save my captain!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "He'll die at this rate!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ahahaha! Perfect, just perfect!"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "So this is what the infamous Outlaw Don KrieG looks like!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "We have money this time! We're paying customers!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hey! Contact the Marines immediately!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "This is the perfect chance for the government to arrest him!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Don't let him have a single morsel of food!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "That's right! Who knows what he'll do once he gets back on his feet!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "This is retribution for all the crimes he's committed!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It's only right that he should die after all he's done!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "If we give him food and he receivers, it's only obvious that he'll attack our restaurant!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I ain't giving him a single drop of water!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I won't do anything. If you give me food, I promise I'll quietly withdraw from here...!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "So please... Please help me...!"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "D-Don KrieG! Please stop!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "A great man like you shouldn't be lowering his head!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It's too shameful!...!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I'm begging you...!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I don't mind if it's leftovers or whatever! Please, just give me anything!"
+    }
+  ],
+  "summary": "This part reveals the core of Sanji’s morality: no matter who a person is, he cannot ignore someone starving in front of him.",
+  "confidence": 0.66,
+  "needs_review": false
+}

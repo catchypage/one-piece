@@ -1,0 +1,162 @@
+{
+  "chapter": "2",
+  "part": 1,
+  "title": "Luffy Lands on Alvida’s Ship",
+  "description": "On pages 1–4, this part follows Luffy and Coby aboard Alvida’s ship, where Coby’s fear begins turning into a dream of his own.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Alvida",
+    "Luffy",
+    "Coby",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "Luffy’s arrival disrupts Alvida’s ship and gives Coby the first real chance to say what he wants.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "AN UN- CHARTERED ISLAND..."
+    },
+    {
+      "speaker": "Alvida",
+      "text": "Shwick"
+    },
+    {
+      "speaker": "Alvida",
+      "text": "WHY IS THERE DUST ON MY BULWARK?"
+    },
+    {
+      "speaker": "Alvida",
+      "text": "A thousand pardons, Lady Alvida!!"
+    },
+    {
+      "speaker": "Alvida",
+      "text": "I-I thought I'd cleaned every inch of this ship...!!"
+    },
+    {
+      "speaker": "Alvida",
+      "text": "I'll clean every- thing all over again! Please--!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "\"PLEASE\" WHAT...?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Please, not the IRON MACE!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I-I DON'T WANNA DIE!!!"
+    },
+    {
+      "speaker": "Alvida",
+      "text": "Kobby! WhoIs the FAIREST throughout ALL the seas?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Ahem... heh heh... why YOU are... lady alvida!!"
+    },
+    {
+      "speaker": "Alvida",
+      "text": "NO ONE COMPARES TO YOU!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "correct!! which is why i will not tolerate ANYTHING dirty!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "THE SHIP I SAIL IN MUST BE AS CLEAN AND BEAUTIFUL AS I AM. UNDERSTAND?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Remember, Koby, were it not for your vast KNOWLEDGE of the seas, I would feed you to the sharks! But don't push your luck!"
+    },
+    {
+      "speaker": "Alvida",
+      "text": "y-yes... that's very KIND of you."
+    },
+    {
+      "speaker": "Alvida",
+      "text": "other than that, you're WORTHLESS! here, shine my shoes!!"
+    },
+    {
+      "speaker": "Alvida",
+      "text": "Y-YES, LADY ALVIDA! Right AWAY!"
+    },
+    {
+      "speaker": "Alvida",
+      "text": "DON'T WANT TO SEE EVEN ONE SPECK OF DUST ON THIS SHIP!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Aye Aye!"
+    },
+    {
+      "speaker": "Alvida",
+      "text": "THE LADY PIRATE"
+    },
+    {
+      "speaker": "Alvida",
+      "text": "Iron Mace alvida"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "THAT'S ENOUGH!! YOU'RE PATHETIC!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "OOF!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Heh heh heh heh... sorry..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "If you've got time to grovel, then you've got time to scrub the toilet!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Heh heh..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Yes, Milady! Right away..."
+    },
+    {
+      "speaker": "Alvida",
+      "text": "...RIGHT AWAY..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "WHAT'S THAT, KOBY? DID A BARREL OF RUN WASH UP ON THE BEACH?"
+    },
+    {
+      "speaker": "Alvida",
+      "text": "Y-Yeah. And it's not empty! I wasn't sure what to do with it..."
+    },
+    {
+      "speaker": "Alvida",
+      "text": "Roll"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Well I know what to do with it! Let's drink it all up!"
+    },
+    {
+      "speaker": "Alvida",
+      "text": "BUT IF THE CAPTAIN FINDS OUT, SHE'LL HAVE OUR HEADS!"
+    }
+  ],
+  "summary": "Luffy’s confidence contrasts with Coby’s fear. The section is about Coby slowly realizing that his dream is possible once someone refuses to treat Alvida as unbeatable.",
+  "confidence": 0.75,
+  "needs_review": false
+}

@@ -1,0 +1,94 @@
+{
+  "chapter": "11",
+  "part": 1,
+  "title": "Orange Town Under Buggy’s Shadow",
+  "description": "On pages 0–3, the Orange Town conflict focuses on Buggy, Unknown person #1, Unknown person #2, Unknown person #3, with Buggy’s occupation testing Luffy, Zoro, Nami, and the townspeople.",
+  "pages": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Buggy",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5"
+  ],
+  "scene": "This part follows the pressure inside Orange Town as Buggy’s crew, the Straw Hats, and the people caught between them react to the escalating fight.",
+  "dialogue": [
+    {
+      "speaker": "Buggy",
+      "text": "HMPH!"
+    },
+    {
+      "speaker": "Buggy",
+      "text": "THAT WAS ALMOST DISAPPOINTING..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Heh..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "HEY ZOLO! GET ME OUTTA HERE!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Right..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What's with those pirates?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "THEIR CAPTAIN: GETS KILLED AND THEY JUST LAUGH ABOUT IT?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "WE CAN'T OPEN THIS WITHOUT A KEY."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "These bars are too thick for me to cut through."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Oh..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Heh he"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Har Har hair her hair her hair her! I"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "VERY FUNNY..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Now hand over the keys to this cage before I get cranky."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "THOSE GUYS ARE KINDA CREEPY."
+    },
+    {
+      "speaker": "Buggy",
+      "text": "Zolo!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What the--!? That Hand--!"
+    }
+  ],
+  "summary": "The scene keeps the Orange Town arc moving by tying the immediate battle to the town’s fear, Nami’s motives, and Luffy’s instinct to answer cruelty directly.",
+  "confidence": 0.6,
+  "needs_review": true
+}

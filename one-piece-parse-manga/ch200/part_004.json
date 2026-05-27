@@ -1,0 +1,138 @@
+{
+  "chapter": "200",
+  "part": 4,
+  "title": "Vivi’s Last Chance Shrinks",
+  "description": "On pages 13–16, this part focuses on vivi’s last chance shrinks, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Chopper",
+    "Sanji",
+    "Luffy"
+  ],
+  "scene": "Vivi’s Last Chance Shrinks. The crew and Alabasta’s defenders race against time to stop the cannon before the city is destroyed. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "This is..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Exactly what I've been aiming for!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Get soaked!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "As if that wasn't obvious enough..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "SABLES! (Sandstorm)"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Aghh!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Ack!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "My barrel!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Whew!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Kuhahaha! Aren't you looking quite desperate, strawhat!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "If it weren't for that barrel, you wouldn't be able to do a thing..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "It seems things haven't really changed at all since our last fight! Kuhahaha!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "The following"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "...You're right."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "It's the same as last time if I keep holding onto this!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "But what about now!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Now I'm not the same Luffy you've fought!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "A... Are you serious..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Water Luffy!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "URP!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Bur?!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Oh crap! I'm leaking!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Leak!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Is this brat... serious!?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Ugh, I'm so full..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "I don't think you're 'sposed to drink so much water."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Ahahaha!"
+    }
+  ],
+  "summary": "This part develops vivi’s last chance shrinks and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

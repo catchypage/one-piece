@@ -1,0 +1,156 @@
+{
+  "chapter": "42",
+  "part": 1,
+  "title": "The Straw Hats Raise Their First Pirate Flag",
+  "description": "On pages 1–4, the Straw Hats settle into life aboard their new ship, raise their pirate flag, and meet Johnny and Yosaku on the way toward a cook.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Nami",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9"
+  ],
+  "scene": "The crew’s mood is lighter after Syrup Village, but practical problems quickly appear: they need roles, supplies, medical help, and eventually a cook.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Alright!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Our pirate flag is done!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Hahaha! I put a lot of thought in to making our symbol!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "O-OUR.... symbol..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Calling him artistically challenged would be an understatement..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "No... this could be some sort of abstract art..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "A pirate's flag should be a symbol of death, but this flag is..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Well... I guess it's quite terrifying in a sense."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Whaddya think?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hee Hee!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "You're Beyond Terrible!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Leave the drawing to me!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "You completely changed the symbol!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Wow, that's perfect!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "There we go."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It doesn't look even remotely like the other one."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "That's great! Draw one on our sail too later!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Yeah well, I've honed my artistic talents by drawing on the walls of people's homes for years."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm quite the master artist, you know."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Alright, it's done!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "With this, our pirate ship \"going merry\" is ready for action!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ahh, I'm tired!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hmm!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hey, what're you doing all of a sudden!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm testing out our cannon! It'd be a waste not to make good use of it."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "But I can't get it to fire well...."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Stand aside, my amateur friend!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Try aiming for that rock!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "OK!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Judging the distance between here and the target..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "This should about do it..."
+    }
+  ],
+  "summary": "This part acts as a bridge from Syrup Village to Baratie, giving Usopp a place on the crew and steering the story toward Sanji’s introduction.",
+  "confidence": 0.62,
+  "needs_review": false
+}

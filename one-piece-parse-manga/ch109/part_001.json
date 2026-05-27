@@ -1,0 +1,54 @@
+{
+  "chapter": "109",
+  "part": 1,
+  "title": "The Princess Is Revealed",
+  "description": "On pages 0–7, the princess is revealed as baroque Works agents reveal that Miss Wednesday is Princess Vivi of Alabasta, turning Whiskey Peak into a deadly chase.",
+  "pages": [
+    0,
+    1,
+    5,
+    7
+  ],
+  "characters": [
+    "Vivi",
+    "Igaram",
+    "Luffy",
+    "Zoro",
+    "Mr. 5",
+    "Miss Valentine"
+  ],
+  "scene": "The Princess Is Revealed. Baroque Works agents reveal that Miss Wednesday is Princess Vivi of Alabasta, turning Whiskey Peak into a deadly chase. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "192979003906 IsBN4-08-872863-7 C9979 x390E"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "A dragon lives at enoshima. the mythical beast closest to being a god. that is a dragon. I WONDER HOW A DRAGON WOULD TASTE LIKE?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "7.27 As 5858585858585 as US 10543 12.5 per"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "How dis- graceful..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "to be beaten to this extent by a single pirate swordsman..."
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "As proud members of Baroque works entrusted specially by the boss to watch over this town,"
+    },
+    {
+      "speaker": "Miss Valentine",
+      "text": "We have a matter of responsibility to worry about."
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on the princess is revealed. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.78,
+  "needs_review": false
+}

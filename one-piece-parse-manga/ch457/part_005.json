@@ -1,0 +1,50 @@
+{
+  "chapter": "457",
+  "part": 5,
+  "title": "Thriller Bark’s Zombies Awaken: Aftermath",
+  "description": "In the Thriller Bark storyline, this section centers on Unknown person #23, Moria, Unknown person #20, Unknown person #24 as the scene develops across pages 18–19.",
+  "pages": [
+    18,
+    19
+  ],
+  "characters": [
+    "Unknown person #23",
+    "Moria",
+    "Unknown person #20",
+    "Unknown person #24"
+  ],
+  "scene": "This scene advances the Thriller Bark conflict through Unknown person #23, Moria, Unknown person #20, Unknown person #24, focusing on the immediate stakes of thriller bark’s zombies awaken: aftermath.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #20",
+      "text": "Hey!! There's someone there!!!"
+    },
+    {
+      "speaker": "Moria",
+      "text": "VIG VLOOOOO!!! (Big Brooooooo)"
+    },
+    {
+      "speaker": "Unknown person #23",
+      "text": "Robin!!!!!"
+    },
+    {
+      "speaker": "Moria",
+      "text": "usop."
+    },
+    {
+      "speaker": "Unknown person #23",
+      "text": "Chopper."
+    },
+    {
+      "speaker": "Unknown person #23",
+      "text": "Are you injured?"
+    },
+    {
+      "speaker": "Unknown person #24",
+      "text": "Chipyon"
+    }
+  ],
+  "summary": "This scene advances the Thriller Bark conflict through Unknown person #23, Moria, Unknown person #20, Unknown person #24, focusing on the immediate stakes of thriller bark’s zombies awaken: aftermath.",
+  "confidence": 0.66,
+  "needs_review": true
+}

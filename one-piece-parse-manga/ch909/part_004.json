@@ -1,0 +1,39 @@
+{
+  "chapter": "909",
+  "part": 4,
+  "title": "Luffy Lands in Wano and Meets Tama",
+  "description": "On pages 15–15, this part focuses on Unknown person #13, Kinemon as Luffy lands in Wano, meets Tama, and immediately collides with the poverty and cruelty of Kaido’s rule.",
+  "pages": [
+    15
+  ],
+  "characters": [
+    "Unknown person #13",
+    "Kinemon"
+  ],
+  "scene": "Luffy washes up in Wano, meets Tama, and discovers a country suffering under Kaido’s rule.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "I smell blood... you... you're the actual killer, aren't ya?"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Whaaaaa-?!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "With that tiny knife?!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "The Wano Arc begins in chaos!"
+    },
+    {
+      "speaker": "Kinemon",
+      "text": "Forgive me, Kinemon!"
+    }
+  ],
+  "summary": "This section advances the Wano Country Arrival storyline with 5 dialogue beats. Luffy’s first steps in Wano establish Tama’s kindness, the country’s hunger, and the brutality of Kaido’s forces.",
+  "confidence": 0.82,
+  "needs_review": true
+}

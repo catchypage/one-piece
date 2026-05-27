@@ -1,0 +1,44 @@
+{
+  "chapter": "61",
+  "part": 1,
+  "title": "Gin Turns on Sanji",
+  "pages": [
+    0
+  ],
+  "characters": [
+    "Luffy",
+    "Sanji",
+    "Don Krieg",
+    "Gin",
+    "Zeff",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "On page 0, the Baratie conflict focuses on Luffy, Sanji, Don Krieg, Gin, Zeff. Gin is ordered to kill Sanji, but his debt and sympathy clash with Don Krieg’s brutal command.",
+  "dialogue": [
+    {
+      "speaker": "Gin",
+      "text": "At the very least, I'll kill you without leaving behind a disfigured corpse!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "\"Demon\""
+    },
+    {
+      "speaker": "Gin",
+      "text": "Hahaha! That's the battle commander we all know and love!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Pulverize him until he ain't nothin' but powder!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Sanji!"
+    }
+  ],
+  "summary": "This part keeps the Baratie battle centered on willpower, debt, hunger, and pride. The dialogue shows who still stands firm after Krieg’s violence and who is ready to break away from the restaurant’s old life.",
+  "confidence": 0.73,
+  "needs_review": false
+}

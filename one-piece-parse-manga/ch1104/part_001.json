@@ -1,0 +1,99 @@
+{
+  "chapter": "1104",
+  "part": 1,
+  "title": "Kuma Strikes Saturn",
+  "description": "On pages 2–5, this part focuses on Atlas, Unknown person #1, Unknown person #2, Kizaru, Bonney, Unknown person #3 as Kuma arrives at Egghead, Bonney confronts Saturn, Vegapunk is threatened, and the island falls into a full Buster Call-level crisis.",
+  "pages": [
+    2,
+    3,
+    5
+  ],
+  "characters": [
+    "Atlas",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Kizaru",
+    "Bonney",
+    "Unknown person #3",
+    "Kuma",
+    "Vegapunk"
+  ],
+  "scene": "Kuma arrives at Egghead, Bonney confronts Saturn, Vegapunk is threatened, and the island falls into a full Buster Call-level crisis.",
+  "dialogue": [
+    {
+      "speaker": "Atlas",
+      "text": "A punch full of feelings?!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "You're the bugganeer brat..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "You can either live as a slave or die."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Nothing else can be tolerated for someone of your illk."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Mommy has passed away..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "She's in a better place now!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm just so happy!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Kumachi... sorry, but..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm at death's door."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Waaaaahhh!"
+    },
+    {
+      "speaker": "Kizaru",
+      "text": "Vegapunk!! What is the meaning of this?!"
+    },
+    {
+      "speaker": "Bonney",
+      "text": "How can Kuma still be alive?!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I made use of our contingency plan..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "...a few days after the revolutionary army took him!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "triggered..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "...his self- district mechanism!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What?!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Saint Saturday!!"
+    }
+  ],
+  "summary": "This part advances the Egghead Buster Call through 18 cleaned dialogue beats, centering the emotional stakes, battle movement, and the wider consequences of Egghead.",
+  "confidence": 0.68,
+  "needs_review": true
+}

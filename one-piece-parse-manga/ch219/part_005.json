@@ -1,0 +1,93 @@
+{
+  "chapter": "219",
+  "part": 5,
+  "title": "Cricket’s Legend Comes Into View",
+  "description": "On pages 17, 18, this part focuses on toward the knock up stream. The search for sky island becomes more concrete as the crew learns about unusual currents, salvage rivals, and the legends around Jaya.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Zoro",
+    "Chopper",
+    "Nico Robin"
+  ],
+  "scene": "This scene belongs to the Toward the Knock Up Stream sequence. The important beat is the dialogue and action around Luffy, Nami, Usopp, Sanji, Zoro.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "If so... May we observe your work?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ack!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "N-No, we....!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Sure, sure! Watch all you want!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Alright! Let's just watch for now..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Boss! We've got trouble!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "What is it!?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "The above approaches"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Did the sea monsters get em!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "WHAT!? So there's someone down there...!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Then that must mean...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hey, you!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "There's someone down there! So be careful!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "UMM..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Thank God he's an idiot..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Sure!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Aye, Aye, sir!"
+    }
+  ],
+  "summary": "The search for sky island becomes more concrete as the crew learns about unusual currents, salvage rivals, and the legends around Jaya.",
+  "confidence": 0.85,
+  "needs_review": false
+}

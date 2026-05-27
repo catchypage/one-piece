@@ -1,0 +1,44 @@
+{
+  "chapter": "494",
+  "part": 5,
+  "title": "The Road to Sabaody: Aftermath",
+  "description": "In the Sabaody Archipelago storyline, this section centers on Duval, Nami, Robin as the scene develops across pages 17–17.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Duval",
+    "Nami",
+    "Robin"
+  ],
+  "scene": "This scene advances the Sabaody Archipelago conflict through Duval, Nami, Robin, focusing on the immediate stakes of the road to sabaody: aftermath.",
+  "dialogue": [
+    {
+      "speaker": "Duval",
+      "text": "You're WRONG!!!"
+    },
+    {
+      "speaker": "Duval",
+      "text": "I don't know that guy!!!"
+    },
+    {
+      "speaker": "Duval",
+      "text": "I'm not even a pirate!!!"
+    },
+    {
+      "speaker": "Duval",
+      "text": "Just what did I do!!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Give me my life back!!!"
+    },
+    {
+      "speaker": "Robin",
+      "text": "How should I know!!?"
+    }
+  ],
+  "summary": "This scene advances the Sabaody Archipelago conflict through Duval, Nami, Robin, focusing on the immediate stakes of the road to sabaody: aftermath.",
+  "confidence": 0.84,
+  "needs_review": false
+}

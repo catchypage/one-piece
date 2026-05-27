@@ -1,0 +1,99 @@
+{
+  "chapter": "73",
+  "part": 3,
+  "title": "The Straw Hats Enter Arlong’s Shadow — Part 3",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Arlong",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Cocoyasi villagers"
+  ],
+  "scene": "On pages 9–12, the story moves through Arlong Park and Nami’s dangerous position among the fish-men. Luffy’s crew moves closer to Nami’s truth while Arlong’s crew treats the island as their possession.",
+  "dialogue": [
+    {
+      "speaker": "Zoro",
+      "text": "DIE!!!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "What was that!?"
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "that thing was about to take a bite out of me too"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Mooooooo!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ahhh, it's coming to sink the ship!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Then I'll..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "move over. I'll deal with him myself."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "(Quier..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Shoot!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Damn hippo..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Whoa!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Alright, let's eat!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That was a nice little exercise."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "These people are insane..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Yosaku, GIMME some tea!"
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "Me too!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "comin' right up..."
+    }
+  ],
+  "summary": "This part builds the Arlong Park conflict by showing how Nami’s choices look contradictory from outside while Arlong’s power keeps the island trapped.",
+  "confidence": 0.73,
+  "needs_review": false
+}

@@ -1,0 +1,141 @@
+{
+  "chapter": "240",
+  "part": 2,
+  "title": "Angel Island Welcomes the Crew",
+  "description": "Conis and Pagaya introduce the crew to dials and wavers while Skypiea’s peaceful surface hides danger ahead.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Nami",
+    "Luffy",
+    "Usopp",
+    "Conis",
+    "Zoro",
+    "Pagaya",
+    "Sanji",
+    "Chopper",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this scene centers on Nami, Luffy, Usopp, Conis, Zoro. Conis and Pagaya introduce the crew to dials and wavers while Skypiea’s peaceful surface hides danger ahead.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "...how can she navigate it so easily"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "When it shakes so badly? A"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Luffy, what're you doing? We're"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "But it looks so..... fun.....!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Sink!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Are you a kid!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Ouch!! I bit my tongue, Sanji--!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Oh? What, what?"
+    },
+    {
+      "speaker": "Conis",
+      "text": "Bite Harder!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "\"Cloud cutting factory\"?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "They aren't cutting rocks?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Clouds can be cut into blocks...?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Everything is so illogical."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Milky....!!?"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "That is an artificial cloud canal."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Island Cloud"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Sea Cloud"
+    },
+    {
+      "speaker": "Pagaya",
+      "text": "Kairousek!!? It's because of that?"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Sea clouds and island clouds are created."
+    },
+    {
+      "speaker": "Nami",
+      "text": "OH......... I get it!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Hahahaha!"
+    },
+    {
+      "speaker": "Conis",
+      "text": "You can't play with that!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "--Nonetheless, the milky road I mentioned before..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Those are also milky roads."
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "And then after some density manipulations,"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "These artificial cloud products were created."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "This is my home! Please come in."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I can see Nami's waiver!"
+    }
+  ],
+  "summary": "Conis and Pagaya introduce the crew to dials and wavers while Skypiea’s peaceful surface hides danger ahead.",
+  "confidence": 0.77,
+  "needs_review": false
+}

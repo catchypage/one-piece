@@ -1,0 +1,108 @@
+{
+  "chapter": "321",
+  "part": 3,
+  "title": "Choosing the Next Island",
+  "description": "After the encounter with Aokiji, the Straw Hats recover from ice and the crew understands how dangerous the Grand Line has become for Robin.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Chopper",
+    "Luffy",
+    "Nami",
+    "Nico Robin",
+    "Zoro",
+    "Aokiji",
+    "Sanji",
+    "Usopp"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this part follows Chopper, Luffy, Nami, Nico Robin, Zoro. After the encounter with Aokiji, the Straw Hats recover from ice and the crew understands how dangerous the Grand Line has become for Robin.",
+  "dialogue": [
+    {
+      "speaker": "Chopper",
+      "text": "[Get Time"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "PHUF..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Let's settle this..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Just you and me"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Mano a mano"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I got tricked."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I agreed to settle this, one- on-one..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "And I won..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "But..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Right, Captain?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "--- or was it..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "that you actually thought you could win."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Pat...Pat..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "I'll remind you again..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "In the near future, you will suffer..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "The troubles that follow Nico Robin Nico."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That woman brings nothing but misfortune,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You will break apart soon enough."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Is this!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Luffy D. Monkey!!!"
+    }
+  ],
+  "summary": "After the encounter with Aokiji, the Straw Hats recover from ice and the crew understands how dangerous the Grand Line has become for Robin.",
+  "confidence": 0.78,
+  "needs_review": false
+}

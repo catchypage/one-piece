@@ -1,0 +1,116 @@
+{
+  "chapter": "188",
+  "part": 1,
+  "title": "The Crew Splits Up",
+  "description": "On pages 1–4, this part focuses on the crew splits up, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Sanji",
+    "Mr. 2 Bon Clay",
+    "Nami",
+    "Usopp",
+    "Chopper",
+    "Unknown person #1",
+    "Chaka",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6"
+  ],
+  "scene": "The Crew Splits Up. Sanji’s fight with Bon Clay reaches its decisive point as loyalty, deception, and raw strength collide. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "Bestroy..."
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What're you saying, Prince- SS!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "This has been the palace for the Royal Family for over 4000 years!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Please abandon such foolish ideas!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Princess: VIVI!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Please!"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "Com- Mander Chaka, do not make the wrong decision!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The King might be away, but you cannot approve of such a ridiculous plan!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Ahhh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "...Prim- cess."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "The country is its people."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "We shall do as you say."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Gahahaha! You turned out to be all talk, didn't you!?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Has the first- rate cook got any strength to even stand up now?"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "Don't think I'll continue to take your abuse lying down...! No matter how much you resemble nami, you're still the same Okama inside!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Don't get cocky with me, you God- damned..."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Olamaaaa!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Dammit Nami, you're just too cute!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Oh, this country's just soooo hoot..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "It just makes me wanna strip off all my clothes... 🙂"
+    }
+  ],
+  "summary": "This part develops the crew splits up and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.58,
+  "needs_review": true
+}

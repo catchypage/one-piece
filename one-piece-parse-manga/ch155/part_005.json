@@ -1,0 +1,31 @@
+{
+  "chapter": "155",
+  "part": 5,
+  "title": "The Desert Mission Begins",
+  "description": "On pages 17–17, this part focuses on the desert mission begins, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Alabasta citizen",
+    "Crocodile"
+  ],
+  "scene": "The Desert Mission Begins. The Straw Hats reach Alabasta and immediately see the public admiration for Crocodile, the Warlord behind the kingdom’s crisis. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Alabasta citizen",
+      "text": "should all..."
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Yes..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "be gathering in one place."
+    }
+  ],
+  "summary": "This part highlights the desert mission begins and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.73,
+  "needs_review": false
+}

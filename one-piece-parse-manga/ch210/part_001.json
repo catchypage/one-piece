@@ -1,0 +1,54 @@
+{
+  "chapter": "210",
+  "part": 1,
+  "title": "The Escape from Alabasta Begins",
+  "description": "On pages 2, 3, 4, 5, this part focuses on the war finally ends. Alabasta’s people absorb the end of the fighting while the Straw Hats and their allies prepare for the painful separation ahead.",
+  "pages": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji"
+  ],
+  "scene": "This scene belongs to the The War Finally Ends sequence. The important beat is the dialogue and action around Luffy, Vivi, Nami, Usopp, Zoro.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Hey, guys! Up there! Isn't that..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Crocodile?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Ohhhh! I get it!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "So all I gotta do,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Is kick crocodile's ass, right!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "luffy..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "T-that must mean...!"
+    }
+  ],
+  "summary": "Alabasta’s people absorb the end of the fighting while the Straw Hats and their allies prepare for the painful separation ahead.",
+  "confidence": 0.89,
+  "needs_review": false
+}

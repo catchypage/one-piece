@@ -1,0 +1,41 @@
+{
+  "chapter": "57",
+  "part": 5,
+  "title": "Sanji and Zeff’s Starvation Flashback",
+  "description": "On pages 17–18, Sanji’s past with Zeff is revealed through their starvation on a rock, explaining the debt that binds him to the Baratie.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Zeff",
+    "Sanji",
+    "Unknown person #1"
+  ],
+  "scene": "The flashback strips away the noise of battle and focuses on hunger, sacrifice, and the dream of creating a restaurant where no one is denied food.",
+  "dialogue": [
+    {
+      "speaker": "Zeff",
+      "text": "Eating normally, it should last you 5 days,"
+    },
+    {
+      "speaker": "Zeff",
+      "text": "But use your head and save as much as you can."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I don't wanna die!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "So this is where..."
+    },
+    {
+      "speaker": "Zeff",
+      "text": "even my red-leg will meet its end..."
+    }
+  ],
+  "summary": "This part gives emotional meaning to Sanji’s choices: Zeff’s sacrifice explains why feeding the hungry is sacred to him.",
+  "confidence": 0.88,
+  "needs_review": false
+}

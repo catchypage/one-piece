@@ -1,0 +1,77 @@
+{
+  "chapter": "137",
+  "part": 1,
+  "title": "The Avalanche Begins",
+  "description": "On pages 1–10, the avalanche begins as luffy, Sanji, and Nami are caught in Drum Island’s mountain danger as the snow itself becomes an enemy.",
+  "pages": [
+    1,
+    8,
+    9,
+    10
+  ],
+  "characters": [
+    "Usopp",
+    "Vivi",
+    "Nami",
+    "Sanji",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Luffy"
+  ],
+  "scene": "The Avalanche Begins. Luffy, Sanji, and Nami are caught in Drum Island’s mountain danger as the snow itself becomes an enemy. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Usopp",
+      "text": "Usopp! This sound... could it be..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Oh crap..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Everyone get away from here!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "It sounds like a big one!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "This village is gonna be hit..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "By an avail- Anche!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Those freakin' rabbits! Damn them all to hell!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Sanji!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What do we do now!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "How the hell should I know!? Just be sure to keep an eye on 5 things: Nami, Nami, Nami, Nami, Nami, Nami, Nami, Nami, Nami, Nami, Nami, Nami, Nami, Nami, Nami,"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Keep her safe no matter what!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I know but how!?"
+    }
+  ],
+  "summary": "This part centers on the avalanche begins, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.7,
+  "needs_review": false
+}

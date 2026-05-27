@@ -1,0 +1,119 @@
+{
+  "chapter": "386",
+  "part": 3,
+  "title": "Blueno Falls",
+  "description": "Luffy catches up to Blueno and begins a decisive clash that reveals how far he is willing to go to save Robin.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Blueno",
+    "Nico Robin",
+    "Spandam",
+    "CP9 agent",
+    "Franky",
+    "Enies Lobby guard"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this part follows Luffy, Blueno, Nico Robin, Spandam, CP9 agent. Luffy catches up to Blueno and begins a decisive clash that reveals how far he is willing to go to save Robin.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "There are three people escaping!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Garan Garan"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Why are they running"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "They're the ones who challenged us..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Is a waste of time!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Shut up already!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Here's our \"confirnation.\""
+    },
+    {
+      "speaker": "Spandam",
+      "text": "40--!! You stopped him!!"
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "What is this guy?"
+    },
+    {
+      "speaker": "Franky",
+      "text": "He's SuperStrong!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Be careful!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Stop them at this plaza _____!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "You guys are lagging behind again!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "We're going ahead!!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Uooo!! You cut through that thick stone!!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Got it! I'm counting on you!!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "We'll split into three teams!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Only a few of you will do!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Okay, wish us luck!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Scatter!!!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Uooooo!!!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "It's not five..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "the captain, \"straw hat luffy,\""
+    }
+  ],
+  "summary": "Luffy catches up to Blueno and begins a decisive clash that reveals how far he is willing to go to save Robin.",
+  "confidence": 0.71,
+  "needs_review": true
+}

@@ -1,0 +1,124 @@
+{
+  "chapter": "215",
+  "part": 1,
+  "title": "Robin Appears on the Merry",
+  "description": "On pages 0, 1, 2, 3, this part focuses on a new crewmate and a new mystery. Robin settles into the ship while the crew argues, adapts, and begins moving toward the strange next stage of the Grand Line.",
+  "pages": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Mr. 2 Bon Clay",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Zoro",
+    "Vivi"
+  ],
+  "scene": "This scene belongs to the A New Crewmate and a New Mystery sequence. The important beat is the dialogue and action around Mr. 2 Bon Clay, Luffy, Nami, Usopp, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "IGARAM!"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "I'm going to become a pirate queen!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Aghhh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Chirp"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Cherp"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Princess Vivi!!!!!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "...Oh, good morning, Igaram."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What's wrong? You're covered in sweat."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "farten"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Umm... wha...?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Ah- G... good morning."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Do you need something?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "No...."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Oww..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Guess I'm worrying too much..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Ah, your highness was here as well?"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "Good morning."
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Morning."
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Tercotta's a scary woman, Igaram."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What did you try to do!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The square is already packed with people."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "It is?"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "They're all an impatient bunch..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "But it's perfectly understandable."
+    }
+  ],
+  "summary": "Robin settles into the ship while the crew argues, adapts, and begins moving toward the strange next stage of the Grand Line.",
+  "confidence": 0.83,
+  "needs_review": false
+}

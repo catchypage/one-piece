@@ -1,0 +1,158 @@
+{
+  "chapter": "46",
+  "part": 2,
+  "title": "Sanji Feeds a Starving Enemy",
+  "description": "On pages 4–6, Sanji feeds Gin despite the danger, revealing that his compassion for the hungry matters more to him than restaurant rules or pirate labels.",
+  "pages": [
+    4,
+    5,
+    6
+  ],
+  "characters": [
+    "Sanji",
+    "Unknown person #1",
+    "Gin",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5"
+  ],
+  "scene": "Gin arrives broken and starving, while the Baratie cooks judge him as an enemy; Sanji alone treats hunger as something that must be answered.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "This is gender discrimination! I'll sue, you love-crazy cook!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I already gave you some tea! You could at least say a word of thanks for that, punk!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What!? You wanna start something, is that it!? I ain't gonna go easy on you! Geti'm, Zoro!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Get him your- self..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "MMM, DELICIOUS!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "You haven't even cleared away my plates."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "But you still have mushrooms left! Finish it!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I left them on purpose because I hate mushrooms. I was poisoned by one when I was a kid."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Well this one ain't poisoned so eat up, long-nose!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Please don't fight just because of me."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "anything for you, miss!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Just who the hell's fighting for you!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "By the way, Mr. Cook."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Yes?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The food here's just a tad too expensive for me."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Then it shall be free of charge to you, Miss!"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Thank you so much!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ahhh!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "You're paying though!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "You're a real witch, aren't ya..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ah, this tea's great."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "You fellas better watch out too."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Ah, Sanji! It's been awhile."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Ah, good to see you again, Roxanne!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Gimme my fruit cup, you bastard!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Damn letch."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hey, errand-boy! The hell are you sitting around and drinking tea for!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "PFT!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Bring out the hot towels when the customers come in."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Yessir."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Z days later"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "A surprising incident takes place"
+    }
+  ],
+  "summary": "This part reveals the core of Sanji’s morality: no matter who a person is, he cannot ignore someone starving in front of him.",
+  "confidence": 0.66,
+  "needs_review": false
+}

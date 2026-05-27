@@ -1,0 +1,120 @@
+{
+  "chapter": "205",
+  "part": 4,
+  "title": "The Government Rewrites the Story",
+  "description": "On pages 14, 15, 16, 17, this part focuses on a kingdom wakes from war. Alabasta starts facing the aftermath of Crocodile’s deception while Vivi, Cobra, the rebels, and the Straw Hats recover from the civil war.",
+  "pages": [
+    14,
+    15,
+    16,
+    17
+  ],
+  "characters": [
+    "Luffy",
+    "Alabasta citizen",
+    "Vivi",
+    "King Cobra",
+    "Smoker",
+    "Tashigi",
+    "Nico Robin",
+    "Nami"
+  ],
+  "scene": "This scene belongs to the A Kingdom Wakes from War sequence. The important beat is the dialogue and action around Luffy, Alabasta citizen, Vivi, King Cobra, Smoker.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "You don't understand,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "A single thing...!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "...where's yell? I can't see him anywhere."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Huh!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Hey!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "ONami!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "9Viviiiii!! @"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "What are you doing up there!?"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Hey!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "I've been looking for you guys!"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "You're up there too, Zoro!?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "What're you guys doing down there?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "That's what I wanna ask!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It's no good..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What!?"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Wait, WIVI!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "I have a plan!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Rriibit ribbit ribbit!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Ohohoho!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "What"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "The hell?"
+    }
+  ],
+  "summary": "Alabasta starts facing the aftermath of Crocodile’s deception while Vivi, Cobra, the rebels, and the Straw Hats recover from the civil war.",
+  "confidence": 0.85,
+  "needs_review": false
+}

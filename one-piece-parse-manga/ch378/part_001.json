@@ -1,0 +1,86 @@
+{
+  "chapter": "378",
+  "part": 1,
+  "title": "The Front Gate Falls",
+  "description": "Luffy charges ahead through Enies Lobby, aiming straight for Robin while the rest of the group fights to keep up.",
+  "pages": [
+    2,
+    4,
+    6,
+    7
+  ],
+  "characters": [
+    "Nami",
+    "Kashii",
+    "Sanji",
+    "Chopper",
+    "Sogeking",
+    "Franky",
+    "Nico Robin",
+    "Luffy",
+    "Zoro",
+    "Blueno"
+  ],
+  "scene": "Across pages 2, 4, 6, 7, this part follows Nami, Kashii, Sanji, Chopper, Sogeking. Luffy charges ahead through Enies Lobby, aiming straight for Robin while the rest of the group fights to keep up.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "I don't know what you're doing here..."
+    },
+    {
+      "speaker": "Kashii",
+      "text": "Yeah Kashii, I think so too."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "G... Giants for gatekeepERS...!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "That's not fair!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "They're coming!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "FOR BRO!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "00:... Oowah _____!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Hey!! You know what to do?"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "44- Huh!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "MonsTrous Strength Death trio!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "GO!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "UryAAA!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "DARAA!!!"
+    }
+  ],
+  "summary": "Luffy charges ahead through Enies Lobby, aiming straight for Robin while the rest of the group fights to keep up.",
+  "confidence": 0.82,
+  "needs_review": false
+}

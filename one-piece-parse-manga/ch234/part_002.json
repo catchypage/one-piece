@@ -1,0 +1,98 @@
+{
+  "chapter": "234",
+  "part": 2,
+  "title": "Luffy Heads Back to Mock Town",
+  "description": "The Saruyama Alliance finishes the ship’s upgrades as the Straw Hats get ready for the impossible launch.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Bellamy",
+    "Blackbeard",
+    "Sarquiss",
+    "Mont Blanc Cricket",
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Shojo",
+    "Mock Town pirate",
+    "Masira"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this scene centers on Bellamy, Blackbeard, Sarquiss, Mont Blanc Cricket, Luffy. The Saruyama Alliance finishes the ship’s upgrades as the Straw Hats get ready for the impossible launch.",
+  "dialogue": [
+    {
+      "speaker": "Bellamy",
+      "text": "I doubt any more will show."
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "I came here out of boredom."
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "I see, that's quite troubling to hear."
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "Fleet Admiral Sengoku!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Perhaps I should not have come here...?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hawk- eyes!"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "I never imagined you would show...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hmph... I'm merely an interested observer."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Who are you!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Where did you come from!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Nevertheless..."
+    },
+    {
+      "speaker": "Shojo",
+      "text": "In the hopes..."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "That I may be allowed to participate."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You must be Lafitte, right?"
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "Ah, you are aware of my name?"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "I am most honoured."
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "Who is he?"
+    }
+  ],
+  "summary": "The Saruyama Alliance finishes the ship’s upgrades as the Straw Hats get ready for the impossible launch.",
+  "confidence": 0.87,
+  "needs_review": false
+}

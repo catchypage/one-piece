@@ -1,0 +1,86 @@
+{
+  "chapter": "63",
+  "part": 2,
+  "title": "Krieg Unleashes Poison Gas",
+  "pages": [
+    5,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Sanji",
+    "Don Krieg",
+    "Gin",
+    "Zeff",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Krieg Pirates"
+  ],
+  "scene": "On pages 5–8, the Baratie conflict focuses on Luffy, Sanji, Don Krieg, Gin, Zeff. The Baratie battle turns into a test of will as Luffy keeps challenging Krieg despite poison, weapons, and exhaustion.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ahaha- Hahahaha!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Feeling sorry for that useless sack of crap!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "UG... H... Kah!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Use- less... sack of crap!?"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "Of course. What else would you call an useless idiot,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Who loses sight of his objectives and disobeys my orders?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Seeing as how he may repeat his failures again in the future,"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Gah!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Cough!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Killing him right now on the spot is how I show my love."
+    },
+    {
+      "speaker": "Krieg Pirates",
+      "text": "I can't believe it! The Don is actually gonna kill our battle commander!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Hey look! Our guys are fine!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Sanji!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ahh! That Krieg's Battle Commander or whatever must've must've gotten a full blast of that poison gas!"
+    }
+  ],
+  "summary": "This part keeps the Baratie battle centered on willpower, debt, hunger, and pride. The dialogue shows who still stands firm after Krieg’s violence and who is ready to break away from the restaurant’s old life.",
+  "confidence": 0.68,
+  "needs_review": true
+}

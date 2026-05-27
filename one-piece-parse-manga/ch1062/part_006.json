@@ -1,0 +1,51 @@
+{
+  "chapter": "1062",
+  "part": 6,
+  "title": "Blackbeard Ambushes Law",
+  "description": "On pages 16–16, this part focuses on Unknown person #16, Luffy as The Straw Hats reach Egghead, meet Bonney, and discover Vegapunk’s impossible future island while Law is drawn into Blackbeard’s ambush.",
+  "pages": [
+    16
+  ],
+  "characters": [
+    "Unknown person #16",
+    "Luffy"
+  ],
+  "scene": "The Straw Hats reach Egghead, meet Bonney, and discover Vegapunk’s impossible future island while Law is drawn into Blackbeard’s ambush.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "In short, our assignment is to return this problem child back to egghead..."
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "Then, while taking care not to damage..."
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "...any of the lab's precious assets,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We're to eliminate every last vegapunk."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "So we're meant to kill the single most useful man in the world."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "I wonder if this has something to do with the recent Lulusia incident..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Someone with instincts like yours should know better than to question these things."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Agreed! Don't get us in any hot water, Lucci!!"
+    }
+  ],
+  "summary": "This part advances the Egghead Opening through 8 cleaned dialogue beats, focusing on character decisions, battlefield momentum, and the story’s larger consequences.",
+  "confidence": 0.83,
+  "needs_review": false
+}

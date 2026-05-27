@@ -1,0 +1,104 @@
+{
+  "chapter": "47",
+  "part": 5,
+  "title": "Don Krieg Sets His Sights on the Baratie",
+  "description": "On pages 16–17, Don Krieg’s arrival turns the Baratie crisis into a pirate siege while Nami’s departure and the looming fight split the crew’s attention.",
+  "pages": [
+    16,
+    17
+  ],
+  "characters": [
+    "Zeff",
+    "Sanji",
+    "Unknown person #1",
+    "Don Krieg",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "The Baratie becomes trapped between hungry enemies, terrified cooks, Krieg’s overwhelming force, and the Straw Hats’ personal priorities.",
+  "dialogue": [
+    {
+      "speaker": "Zeff",
+      "text": "Owner ZefF!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "There's enough food here for a hundred people."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "So hurry up and bring it to your men."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Did..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Did they just say, \"Zeff!?\""
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Sir! How could you give them the food!? Just what's the meaning of this!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Once those pirates on that ship recover,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "They'll take over our restaurant!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "That's only if,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "They still have any fighting spirit left at all..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Isn't that right,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "defeated Warriors of Grand Line?"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "W-WHAT!? (Don KRIEG, defeated!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "The strongest man of East Blue...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "The pirate Fleet Admiral of 50 ships...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Even he was utterly defeated by Grand Line!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Grand Line!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "you're..."
+    },
+    {
+      "speaker": "Zeff",
+      "text": "\"Red-leg Zeff!\""
+    }
+  ],
+  "summary": "This part escalates the Baratie arc from character introduction to open conflict, with Krieg threatening the restaurant and Nami pulling the story toward Arlong Park.",
+  "confidence": 0.66,
+  "needs_review": false
+}

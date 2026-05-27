@@ -1,0 +1,43 @@
+{
+  "chapter": "126",
+  "part": 5,
+  "title": "The Crew Escapes the Wax Execution",
+  "description": "On pages 19–21, the crew escapes the wax execution as luffy, Usopp, and Karoo break Baroque Works’ formation, exposing Mr. 3’s wax armor and freeing the crew from the execution trap.",
+  "pages": [
+    19,
+    20,
+    21
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Mr. 3",
+    "Karoo"
+  ],
+  "scene": "The Crew Escapes the Wax Execution. Luffy, Usopp, and Karoo break Baroque Works’ formation, exposing Mr. 3’s wax armor and freeing the crew from the execution trap. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Right! Way to come together for the USOPP gallery Pirates of Volume 14!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Forecast is stormy, but we don't care!!! We're Settin' sail!!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "One piece"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "(67) A professional"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "The first trip-by-step is $1.99 per year. Just one piece of $7.99.99.99.99."
+    }
+  ],
+  "summary": "This part centers on the crew escapes the wax execution, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

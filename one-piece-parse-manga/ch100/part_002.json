@@ -1,0 +1,61 @@
+{
+  "chapter": "100",
+  "part": 2,
+  "title": "Smoker Blocks the Escape",
+  "description": "On pages 6–6, smoker blocks the escape focuses on Luffy, Zoro, Nami, Usopp as a storm, Smoker, and a mysterious intervention push the Straw Hats out of Loguetown and toward the Grand Line.",
+  "pages": [
+    6
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Smoker",
+    "Tashigi",
+    "Dragon",
+    "Buggy",
+    "Alvida",
+    "Narrator",
+    "Unknown person #1"
+  ],
+  "scene": "On pages 6–6, smoker blocks the escape focuses on Luffy, Zoro, Nami, Usopp as a storm, Smoker, and a mysterious intervention push the Straw Hats out of Loguetown and toward the Grand Line.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "That which cannot be stopped:"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Inherited will,"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "A man's dream,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "And the flow of time."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "As long as man continues to seek out the answer to freedom,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "A pirate?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "These things shall never be stopped. -Pirate King G. Roger-"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That's fine, too..."
+    }
+  ],
+  "summary": "This part closes East Blue with a storm-driven escape and the crew’s first real step toward the Grand Line.",
+  "confidence": 0.84,
+  "needs_review": false
+}

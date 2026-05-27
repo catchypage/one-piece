@@ -1,0 +1,91 @@
+{
+  "chapter": "196",
+  "part": 1,
+  "title": "The Bomb Is Lifted",
+  "description": "On pages 1–8, this part focuses on the bomb is lifted, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    1,
+    3,
+    7,
+    8
+  ],
+  "characters": [
+    "Vivi",
+    "Chaka",
+    "Nami",
+    "Usopp",
+    "Chopper",
+    "Sanji",
+    "Zoro",
+    "Pell",
+    "King Cobra",
+    "Crocodile",
+    "Miss All Sunday"
+  ],
+  "scene": "The Bomb Is Lifted. Pell carries Alabasta’s hope into the air as the bomb plot reaches its most sacrificial moment. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "Did you know that a recent study has shown that Japanese youths have high reading skills compared to those of other countries? Isn't that incredible? Incredible, right? And do you know why? The Japanese youths who have particularly great reading skills are those who often read manga. Isn't that incredible? Well?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "**&apos;s the"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "Com- Mander Chaka!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Please wait!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Who is it this time?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You men are..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Kicking claw guards!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "bleed"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "No, stop!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Do not attack this man!"
+    },
+    {
+      "speaker": "Pell",
+      "text": "The gate's been broken down by the Kicking Claw!"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "That's the elite guard for you!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Save the princess and king!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Your highness... To protect you with our very lives is our highest duty..."
+    },
+    {
+      "speaker": "Miss All Sunday",
+      "text": "I'm afraid we cannot just let this man be."
+    }
+  ],
+  "summary": "This part develops the bomb is lifted and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

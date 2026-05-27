@@ -1,0 +1,129 @@
+{
+  "chapter": "220",
+  "part": 2,
+  "title": "The Salvage Monkeys Arrive",
+  "description": "On pages 6, 7, 8, 9, this part focuses on cricket and the dream of the sky. The Straw Hats meet people connected to Mont Blanc Noland’s legend and begin chasing the impossible route to the sky.",
+  "pages": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Zoro",
+    "Masira",
+    "Chopper",
+    "Nico Robin",
+    "Shojo"
+  ],
+  "scene": "This scene belongs to the Cricket and the Dream of the Sky sequence. The important beat is the dialogue and action around Luffy, Nami, Usopp, Sanji, Zoro.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Please change"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The \"cradles\" are set!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What the hell is th-"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Oh, this?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hmmm, I guess"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Launch the \"Barco Hunter!\""
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Whirr."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Kachunk!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "MonKey! monkey! MonKey!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Aye, Aye, Sir!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Ohhh!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Whoa, awesome!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Totally!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "...What is?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "40m until target!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Whirr."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Clunk"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "30m!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "20w!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "10m!"
+    },
+    {
+      "speaker": "Shojo",
+      "text": "BARCO Hunter,"
+    },
+    {
+      "speaker": "Shojo",
+      "text": "Attachment complete!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Alright! Time to blow some air!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Aye, Aye, sir!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That's insane!"
+    }
+  ],
+  "summary": "The Straw Hats meet people connected to Mont Blanc Noland’s legend and begin chasing the impossible route to the sky.",
+  "confidence": 0.85,
+  "needs_review": false
+}

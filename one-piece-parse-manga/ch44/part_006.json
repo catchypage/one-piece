@@ -1,0 +1,86 @@
+{
+  "chapter": "44",
+  "part": 6,
+  "title": "The Baratie’s Code Comes Into Focus",
+  "description": "On pages 20–21, the crew reaches the floating restaurant Baratie, where Luffy’s impulsiveness, Fullbody’s arrogance, and Sanji’s sharp code collide.",
+  "pages": [
+    20,
+    21
+  ],
+  "characters": [
+    "Sanji",
+    "Unknown person #1",
+    "Zeff",
+    "Unknown person #2"
+  ],
+  "scene": "The Baratie is loud, violent, and rule-bound: cooks fight like pirates, customers cause trouble, and Sanji’s character begins to emerge through conflict.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "Please enjoy the rest of your meals!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "GURGLEEE..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "RUMBLE..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Clunk"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Eat."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Gulp!"
+    },
+    {
+      "speaker": "Zeff",
+      "text": "I don't know what to say..."
+    },
+    {
+      "speaker": "Zeff",
+      "text": "I've never had such delicious food..."
+    },
+    {
+      "speaker": "Zeff",
+      "text": "In my entire life!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm so grateful...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I thought I was going to die...! I thought it was all over for me...!"
+    },
+    {
+      "speaker": "Zeff",
+      "text": "It's damn good, right?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Haha..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Looks like I found,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "A good cook!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hee hee!"
+    }
+  ],
+  "summary": "This part introduces the Baratie as more than a restaurant; it is a battlefield of pride, hunger, and harsh principles that will define Sanji’s arc.",
+  "confidence": 0.8,
+  "needs_review": false
+}

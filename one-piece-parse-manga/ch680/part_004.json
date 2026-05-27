@@ -1,0 +1,91 @@
+{
+  "chapter": "680",
+  "part": 4,
+  "title": "The Children Near Safety",
+  "description": "On pages 11–13, this part follows Marines, Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6. The central beat is the children near safety.",
+  "pages": [
+    11,
+    12,
+    13
+  ],
+  "characters": [
+    "Marines",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Vergo",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Smoker"
+  ],
+  "scene": "The scene focuses on the children near safety, with Marines, Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6 shaping the Punk Hazard conflict.",
+  "dialogue": [
+    {
+      "speaker": "Marines",
+      "text": "Can you really call yourselves Marines!!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "...is that so"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Everyone get away!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "for a long time now..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "He has been..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Captain- Chan!!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Captain- Chan!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "This guy's an impostor !!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "It's gotta be an imita- tion!!"
+    },
+    {
+      "speaker": "Vergo",
+      "text": "Vice Admiral Vergo is...!!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "I can't speak"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Please stop ...!!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Help us, smoker- San!!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Who's this"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "A lady is..."
+    }
+  ],
+  "summary": "The Children Near Safety. This part advances Punk Hazard’s rescue mission, Caesar’s experiment, and the fragile pirate–Marine alliance.",
+  "confidence": 0.76,
+  "needs_review": true
+}

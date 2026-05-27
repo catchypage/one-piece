@@ -1,0 +1,139 @@
+{
+  "chapter": "43",
+  "part": 1,
+  "title": "The Crew Reaches the Floating Restaurant Baratie",
+  "description": "On pages 1–4, the crew reaches the floating restaurant Baratie, where Luffy’s impulsiveness, Fullbody’s arrogance, and Sanji’s sharp code collide.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Yosaku",
+    "Unknown person #1",
+    "Sanji",
+    "Luffy",
+    "Narrator",
+    "Fullbody",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Nami"
+  ],
+  "scene": "The Baratie is loud, violent, and rule-bound: cooks fight like pirates, customers cause trouble, and Sanji’s character begins to emerge through conflict.",
+  "dialogue": [
+    {
+      "speaker": "Yosaku",
+      "text": "We're here at the restaurant!"
+    },
+    {
+      "speaker": "Yosaku",
+      "text": "Brother Zoro! Brother Luffyy! Brother Usopp! Brother Nami!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Why am I \"brother\"..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Oh!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ahhh!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "restaurant on the seas, BARATIE"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "What do you think, every- one!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "What a huge fish!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Wow!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "That's so funky!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It's..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The Marines!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "When did it....!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "They're not going to attack us now, are they?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hey! We ain't pirates over here!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Ah, someone's coming out!"
+    },
+    {
+      "speaker": "Fullbody",
+      "text": "Marine headquarters Lieutenant \"Ironfist Fullbody\""
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hmm, never seen that pirate flag before..."
+    },
+    {
+      "speaker": "Fullbody",
+      "text": "I'm the Lieutenant of the Marine Headquarters known as \"ironfist fullbody.\""
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Who's your captain? Name yourself."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm luffy."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I just finished making my pirate flag the day before yesterday!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "H-He said... the day before yesterday! haha!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ahaha! Good one!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "And I'm Usopp!"
+    }
+  ],
+  "summary": "This part introduces the Baratie as more than a restaurant; it is a battlefield of pride, hunger, and harsh principles that will define Sanji’s arc.",
+  "confidence": 0.74,
+  "needs_review": false
+}

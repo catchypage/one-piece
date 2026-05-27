@@ -1,0 +1,80 @@
+{
+  "chapter": "912.5",
+  "part": 5,
+  "title": "Luffy Lands in Wano and Meets Tama",
+  "description": "On pages 19–22, this part focuses on Unknown person #16, Unknown person #17, Unknown person #18, Unknown person #19 as Luffy lands in Wano, meets Tama, and immediately collides with the poverty and cruelty of Kaido’s rule.",
+  "pages": [
+    19,
+    20,
+    21,
+    22
+  ],
+  "characters": [
+    "Unknown person #16",
+    "Unknown person #17",
+    "Unknown person #18",
+    "Unknown person #19"
+  ],
+  "scene": "Luffy washes up in Wano, meets Tama, and discovers a country suffering under Kaido’s rule.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #16",
+      "text": "Grrr... I can't stand the bastard, but..."
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "His skills are definitely top-notch!"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "Seems pretty lively today, eh?"
+    },
+    {
+      "speaker": "Unknown person #17",
+      "text": "0- Owner Zeff! Back 50 soon?!"
+    },
+    {
+      "speaker": "Unknown person #17",
+      "text": "S- So the thing is,"
+    },
+    {
+      "speaker": "Unknown person #17",
+      "text": "That stupid Sanji decided that he'd-"
+    },
+    {
+      "speaker": "Unknown person #17",
+      "text": "doesn't matter."
+    },
+    {
+      "speaker": "Unknown person #17",
+      "text": "Let him continue."
+    },
+    {
+      "speaker": "Unknown person #18",
+      "text": "Thank you for waiting."
+    },
+    {
+      "speaker": "Unknown person #19",
+      "text": "Eat it while it's hot!"
+    },
+    {
+      "speaker": "Unknown person #19",
+      "text": "Uwah! What a Bounteous, gigantic lobster!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Look at the gleaming radiance of that supple meat! That alone speaks vol- umes of the skill of the chef that prepared this dish!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "The rich aromas of garlic and sea- food stock float through the air... I can't stop drooling!"
+    },
+    {
+      "speaker": "Unknown person #19",
+      "text": "Guh?"
+    }
+  ],
+  "summary": "This section advances the Wano Country Arrival storyline with 14 dialogue beats. Luffy’s first steps in Wano establish Tama’s kindness, the country’s hunger, and the brutality of Kaido’s forces.",
+  "confidence": 0.64,
+  "needs_review": true
+}

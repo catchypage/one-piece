@@ -1,0 +1,158 @@
+{
+  "chapter": "301",
+  "part": 1,
+  "title": "Treasure After the Bell",
+  "description": "The crew enjoys the peaceful aftermath of Enel’s defeat while Skypiea begins turning war into celebration.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Conis",
+    "Pagaya",
+    "Gan Fall",
+    "Wyper"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this scene focuses on Luffy, Nami, Usopp, Zoro, Sanji. The crew enjoys the peaceful aftermath of Enel’s defeat while Skypiea begins turning war into celebration.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Sneak"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hey, Nami! Wake up the guys!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Let's make off with the gold!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gold!? Where!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Be quiet! You're talking too loud!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You're talking way louder!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Shut up! I can't sleep!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "GAHH!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Huh? Is it morning already?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Your voice is waaayy louder than mine!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "of lovely morning to you, cNami!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "USOP hit me!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "...Alright, so that'll be our plan."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Chief! We found the Golden Bell!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Really!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The Bellfry?"
+    },
+    {
+      "speaker": "Conis",
+      "text": "One more time!"
+    },
+    {
+      "speaker": "Pagaya",
+      "text": "Ome... Two..."
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Three!"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Puull!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Nghhh!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Pull!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Damn it! We still need more people!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "It's the pride of our ancesral city!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "That's right!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Put your backs into it!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "One more time, everyone! One... two... three!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Step"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Pull!"
+    }
+  ],
+  "summary": "The crew enjoys the peaceful aftermath of Enel’s defeat while Skypiea begins turning war into celebration.",
+  "confidence": 0.83,
+  "needs_review": false
+}

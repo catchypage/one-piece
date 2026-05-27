@@ -1,0 +1,92 @@
+{
+  "chapter": "400",
+  "part": 5,
+  "title": "The Rescue Race Starts",
+  "description": "Each Straw Hat faces a CP9 opponent while the rescue depends on finding the correct key before Robin reaches the Gate of Justice.",
+  "pages": [
+    22,
+    23
+  ],
+  "characters": [
+    "Fukurou",
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Chopper",
+    "Sogeking",
+    "Franky",
+    "Nico Robin",
+    "Spandam"
+  ],
+  "scene": "Across pages 22, 23, this part follows Fukurou, Luffy, Zoro, Nami, Sanji. Each Straw Hat faces a CP9 opponent while the rescue depends on finding the correct key before Robin reaches the Gate of Justice.",
+  "dialogue": [
+    {
+      "speaker": "Fukurou",
+      "text": "Yoyo!!! Yoiyou!!!"
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "Alya, hold it!"
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "Ho--ld it for a second!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yoy01!!!"
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "He's so noisy....!!"
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "How about here!!?"
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "Shit..."
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "Nobody's in here, either!!"
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "Please make yourself at home."
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "Would you like to have some tea...?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "yesh, pureeezezezezezezezezezezezezezezezezezezezezezezezezeze. (I"
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "I see you've already"
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "Drawn your sword..."
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "It's been growling;"
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "It craves blood."
+    }
+  ],
+  "summary": "Each Straw Hat faces a CP9 opponent while the rescue depends on finding the correct key before Robin reaches the Gate of Justice.",
+  "confidence": 0.85,
+  "needs_review": false
+}

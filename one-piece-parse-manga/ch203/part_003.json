@@ -1,0 +1,78 @@
+{
+  "chapter": "203",
+  "part": 3,
+  "title": "The Secret of the Tomb",
+  "description": "On pages 10, 11, 12, 13, this part focuses on crocodile’s plan begins to collapse. The fight around the royal tomb and the capital reaches its breaking point as Crocodile loses control of both the battlefield and his secrets.",
+  "pages": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "characters": [
+    "Nico Robin",
+    "Crocodile",
+    "King Cobra",
+    "Luffy",
+    "Vivi",
+    "Pell"
+  ],
+  "scene": "This scene belongs to the Crocodile’s Plan Begins to Collapse sequence. The important beat is the dialogue and action around Nico Robin, Crocodile, King Cobra, Luffy, Vivi.",
+  "dialogue": [
+    {
+      "speaker": "Nico Robin",
+      "text": "I never trusted anyone,"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "From the very beginning..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Ah, it must be you..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "What did you do....!?"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Nothing much, really..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "You and I... will both die here..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "But you cannot kill me..."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "And make my escape!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Just 3 minutes left now..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "tic..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Aghh!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Oww!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "min-"
+    }
+  ],
+  "summary": "The fight around the royal tomb and the capital reaches its breaking point as Crocodile loses control of both the battlefield and his secrets.",
+  "confidence": 0.87,
+  "needs_review": false
+}

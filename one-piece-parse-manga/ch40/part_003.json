@@ -1,0 +1,169 @@
+{
+  "chapter": "40",
+  "part": 3,
+  "title": "Syrup Village Returns to Peace",
+  "description": "On pages 10–13, the Syrup Village arc settles after Kuro’s defeat, focusing on Usopp’s decision, Kaya’s gratitude, and the end of the Usopp Pirates.",
+  "pages": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "characters": [
+    "Luffy",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Kaya",
+    "Unknown person #3",
+    "Nami",
+    "Unknown person #4",
+    "Merry",
+    "Usopp Pirate"
+  ],
+  "scene": "The village chooses peace and secrecy while Usopp prepares to leave, turning his old lies into the beginning of a real journey.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Really? Usopp hasn't come running through yet"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Mommy, is the big liar not coming today?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Is that lying brat not here yet!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "were we a little too harsh on him yes- tenday...?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Oh, I'm sure he'll come tomorrow"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Pliman! How could you get your clothes dirty so early in the morning?! Go wash up!!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Ye... Yes, Mom!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ninji, have you seen the Frying Pan? I can't make scrambled eggs without it..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Uh... I, I'll have them uncooked! I like them uncooked!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Did you break your glasses again, Tamanegi?!?!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm so sorry, Mom!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Thank you!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "It's all thanks to you!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "IF IT WEREN'T FOR YOU GUYS..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "The village couldn't have been protected"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "What are you saying?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "If you hadn't done anything, I wouldn't have either"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Same here"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That doesn't matter,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I was able to get the treasure"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "In light of this..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "There's a deci- sion I've made..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "What... Did you just say?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "After such a distaster,"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "We are to act as though nothing has had- pened?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Would you rather not?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "How good- natural this young man is..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "He says it's best for the village- ERS?"
+    },
+    {
+      "speaker": "Merry",
+      "text": "Are you alright with that, Ojousama?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "If usopp- San says it is the best, then I will do so"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "...I see, yes, I will go along with your story"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "And Meri,"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "There's a favor I'd like to ask of you"
+    },
+    {
+      "speaker": "Usopp Pirate",
+      "text": "Captain usopp, what is it that you wanted to talk to us about?"
+    }
+  ],
+  "summary": "This part gives Syrup Village an emotional farewell: Usopp protects the village’s peace, says goodbye to his friends, and steps toward becoming a real pirate.",
+  "confidence": 0.84,
+  "needs_review": false
+}

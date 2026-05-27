@@ -1,0 +1,162 @@
+{
+  "chapter": "360",
+  "part": 3,
+  "title": "The Chase Begins",
+  "description": "The rescue force launches into the storm after the Sea Train, beginning the road to Enies Lobby.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Franky",
+    "Paulie",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Usopp",
+    "Nico Robin",
+    "Kokoro"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this part follows Luffy, Franky, Paulie, Nami, Zoro. The rescue force launches into the storm after the Sea Train, beginning the road to Enies Lobby.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "The Assassins aren't the \"Strawhat\" group!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We've been deceived!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The Strawhats fought for us!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Is all thanks to them....!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "..... they're visiting home."
+    },
+    {
+      "speaker": "Franky",
+      "text": "Alright already, look for the Strawhats!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Hey, shameless woman....!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hey....!! Don't call me that!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Puff"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Okay....!! Thank you!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Paulie, wait..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "think of the name of galley- LA!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Y... Yes Sir!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "We're sorry!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "We'll follow orders and help out!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Release the YAGARA!! Open their PENS!!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Visiting Home, Huh....."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "It's enough that..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "you and i... already have these feelings..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Hey....-!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Hey ~"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Luffy >-?!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "Zoro >-!!"
+    },
+    {
+      "speaker": "Franky Family",
+      "text": "Sanji >!!"
+    },
+    {
+      "speaker": "Galley-La shipwright",
+      "text": "Come back, USOP!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Everyone else say it, too, please!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hey >"
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "Luffy >???"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Zoro > >-~!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Sanji >!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Come back, USOPP!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Turn down that canal..."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "It's a shortcut to the Station!!"
+    }
+  ],
+  "summary": "The rescue force launches into the storm after the Sea Train, beginning the road to Enies Lobby.",
+  "confidence": 0.79,
+  "needs_review": false
+}

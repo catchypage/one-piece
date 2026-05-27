@@ -1,0 +1,118 @@
+{
+  "chapter": "208",
+  "part": 1,
+  "title": "The Escape from Alabasta Begins",
+  "description": "On pages 1, 2, 3, 4, this part focuses on vivi’s choice approaches. The Straw Hats make plans to depart while Vivi faces the decision of whether to remain a princess or continue sailing with her friends.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Zoro",
+    "Karoo",
+    "Smoker",
+    "Tashigi"
+  ],
+  "scene": "This scene belongs to the Vivi’s Choice Approaches sequence. The important beat is the dialogue and action around Luffy, Vivi, Nami, Usopp, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "tic..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "toc..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Kuhaha!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Squeeze"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "tic..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Your unbearable idealism is sickening!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "tic..."
+    },
+    {
+      "speaker": "Karoo",
+      "text": "Let me make this clear to you..."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "toc..."
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "You cannot save,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "This country!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "tic..."
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "toc..."
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Crap! You've gotta be kiddin' me!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "We stopped the cannon,"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "But the bomb is..."
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "On a timer!?"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "What the hell!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "does that mean stopping the explosion;"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Was impossible from the very beginning?"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Kuhahaha!"
+    },
+    {
+      "speaker": "Unknown person #15",
+      "text": "Grapodille!"
+    }
+  ],
+  "summary": "The Straw Hats make plans to depart while Vivi faces the decision of whether to remain a princess or continue sailing with her friends.",
+  "confidence": 0.82,
+  "needs_review": false
+}

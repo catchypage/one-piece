@@ -1,0 +1,162 @@
+{
+  "chapter": "303",
+  "part": 4,
+  "title": "Zoro and Sanji Enter the Match",
+  "description": "The crew lands on a strange island of stretched animals and meets Tonjit before the Foxy Pirates interrupt the calm.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Luffy",
+    "Foxy",
+    "Nami",
+    "Usopp",
+    "Chopper",
+    "Sanji",
+    "Nico Robin",
+    "Tonjit",
+    "Porche",
+    "Hamburg"
+  ],
+  "scene": "Across pages 13, 14, 15, 16, this scene focuses on Luffy, Foxy, Nami, Usopp, Chopper. The crew lands on a strange island of stretched animals and meets Tonjit before the Foxy Pirates interrupt the calm.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "The seas calmed down."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "But we can't let our guard down..."
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Slump"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Haha."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "See, I told you it was impossible."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Jeez..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Doctor!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "That's me!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "oVaaaamiiii!! Be careful!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Thank goodness!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Chopper, raise the waiver up."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You were amazing!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "PSHA!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Munch munch"
+    },
+    {
+      "speaker": "Tonjit",
+      "text": "Now then,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Obviously, pirates should split their loot equally!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Look at all this gold! We're rich!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Finally!"
+    },
+    {
+      "speaker": "Porche",
+      "text": "Woohoo! I'm gonna buy a huge statue!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Can I buy books!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Unlimited booze!,"
+    },
+    {
+      "speaker": "Hamburg",
+      "text": "It's just a joke."
+    },
+    {
+      "speaker": "Foxy Pirate",
+      "text": "It better be!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "The ship?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "You mean the Going Merry?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That's right."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "That sounds good!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Let's repair the going merry!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "100% agreed!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yeah, Usopp's shoddy repairs,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Weren't quite cutting it."
+    },
+    {
+      "speaker": "Aokiji",
+      "text": "Now that I think about it,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Then how about..."
+    }
+  ],
+  "summary": "The crew lands on a strange island of stretched animals and meets Tonjit before the Foxy Pirates interrupt the calm.",
+  "confidence": 0.85,
+  "needs_review": false
+}

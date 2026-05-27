@@ -1,0 +1,65 @@
+{
+  "chapter": "912",
+  "part": 5,
+  "title": "Luffy Lands in Wano and Meets Tama",
+  "description": "On pages 18–18, this part focuses on Unknown person #17, Garp, Luffy, Kinemon as Luffy lands in Wano, meets Tama, and immediately collides with the poverty and cruelty of Kaido’s rule.",
+  "pages": [
+    18
+  ],
+  "characters": [
+    "Unknown person #17",
+    "Garp",
+    "Luffy",
+    "Kinemon"
+  ],
+  "scene": "Luffy washes up in Wano, meets Tama, and discovers a country suffering under Kaido’s rule.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "two of my underlings and one H1Hi have vanished."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "There's a 98% chance you all did this."
+    },
+    {
+      "speaker": "Unknown person #17",
+      "text": "But none of that matters."
+    },
+    {
+      "speaker": "Garp",
+      "text": "Here's what Kinemon said, Luffy!"
+    },
+    {
+      "speaker": "Unknown person #17",
+      "text": "Here, in Wano, one joins the strong,"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "or one spends their life running from them. Choose."
+    },
+    {
+      "speaker": "Unknown person #17",
+      "text": "\"Don't start any trouble!\""
+    },
+    {
+      "speaker": "Unknown person #17",
+      "text": "Alright! Looks like we'll hafta"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "On break next issue. Publication resumes in the double issue."
+    },
+    {
+      "speaker": "Unknown person #17",
+      "text": "After too long, a fight side-by-side"
+    },
+    {
+      "speaker": "Unknown person #17",
+      "text": "APO- LOGIZE TO HIM LATER!"
+    }
+  ],
+  "summary": "This section advances the Wano Country Arrival storyline with 11 dialogue beats. Luffy’s first steps in Wano establish Tama’s kindness, the country’s hunger, and the brutality of Kaido’s forces.",
+  "confidence": 0.76,
+  "needs_review": true
+}

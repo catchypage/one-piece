@@ -1,0 +1,68 @@
+{
+  "chapter": "276",
+  "part": 5,
+  "title": "Skypiea Faces Final Judgment",
+  "description": "Enel’s ark becomes an active threat, turning the conflict from a survival game into a race to save Skypiea.",
+  "pages": [
+    22,
+    23
+  ],
+  "characters": [
+    "Narrator",
+    "Enel",
+    "Nami",
+    "Luffy",
+    "Aisa",
+    "Ark Maxim",
+    "Wyper",
+    "Gan Fall",
+    "Sanji",
+    "Usopp"
+  ],
+  "scene": "Across pages 22, 23, this scene centers on Narrator, Enel, Nami, Luffy, Aisa. Enel’s ark becomes an active threat, turning the conflict from a survival game into a race to save Skypiea.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "Coast of Angel Island"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "There it is!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Angel Island!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Angel Island, Lovely Street"
+    },
+    {
+      "speaker": "Enel",
+      "text": "The unforgivable blasphemers,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Pagaya and his daughter!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Angel Island, Dock"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "If you spot the criminals,"
+    },
+    {
+      "speaker": "Enel",
+      "text": "In the name of our god, Enel,"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "HESO!"
+    }
+  ],
+  "summary": "Enel’s ark becomes an active threat, turning the conflict from a survival game into a race to save Skypiea.",
+  "confidence": 0.86,
+  "needs_review": false
+}

@@ -1,0 +1,67 @@
+{
+  "chapter": "68",
+  "part": 5,
+  "title": "Sanji Leaves the Baratie Behind",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Sanji",
+    "Don Krieg",
+    "Gin",
+    "Zeff",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Baratie cooks"
+  ],
+  "scene": "On pages 17–18, the Baratie conflict focuses on Luffy, Sanji, Don Krieg, Gin, Zeff. Sanji leaves the restaurant behind, joining Luffy’s crew while the cooks hide their emotions behind insults.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "You Bas- Tard!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Goddamn it! We're gonna be lonely without ya!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "REAL LONELY, YOU HEAR!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'll miss you!"
+    },
+    {
+      "speaker": "Baratie cooks",
+      "text": "You're making us cry, Dammit!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Damn idiots..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Men should say their good-byes silently."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Let's meet again one day!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You good for nothing best-"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Alright! Let's set sail!"
+    }
+  ],
+  "summary": "This part keeps the Baratie battle centered on willpower, debt, hunger, and pride. The dialogue shows who still stands firm after Krieg’s violence and who is ready to break away from the restaurant’s old life.",
+  "confidence": 0.75,
+  "needs_review": false
+}

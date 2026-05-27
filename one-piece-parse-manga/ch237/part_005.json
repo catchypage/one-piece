@@ -1,0 +1,40 @@
+{
+  "chapter": "237",
+  "part": 5,
+  "title": "The Crew Reaches the White Sea — Part 5",
+  "description": "The Merry breaks into the sky, leaving Blackbeard and the world below behind as the crew enters a completely new sea.",
+  "pages": [
+    22,
+    23
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Blackbeard",
+    "Doc Q",
+    "Burgess"
+  ],
+  "scene": "Across pages 22, 23, this scene centers on Luffy, Nami, Zoro, Usopp, Sanji. The Merry breaks into the sky, leaving Blackbeard and the world below behind as the crew enters a completely new sea.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "What! Who is it this time!!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "oooh--I am..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "The Knight of the Sky!!"
+    }
+  ],
+  "summary": "The Merry breaks into the sky, leaving Blackbeard and the world below behind as the crew enters a completely new sea.",
+  "confidence": 0.87,
+  "needs_review": false
+}

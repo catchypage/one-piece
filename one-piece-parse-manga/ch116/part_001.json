@@ -1,0 +1,77 @@
+{
+  "chapter": "116",
+  "part": 1,
+  "title": "Mr. 3 Watches Little Garden",
+  "description": "On pages 1–4, mr. 3 watches little garden as mr. 3 and his partners move into position as the giants’ duel and the Straw Hats’ journey become part of a trap.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Dorry",
+    "Brogy",
+    "Vivi",
+    "Usopp",
+    "Miss Goldenweek",
+    "Mr. 5",
+    "Nami",
+    "Mr. 3"
+  ],
+  "scene": "Mr. 3 Watches Little Garden. Mr. 3 and his partners move into position as the giants’ duel and the Straw Hats’ journey become part of a trap. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Hmm...?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Feels like Nami just called out my name..."
+    },
+    {
+      "speaker": "Dorry",
+      "text": "The hell is this... Can you even eat this thing?"
+    },
+    {
+      "speaker": "Brogy",
+      "text": "I'm asking you if you have any rum."
+    },
+    {
+      "speaker": "Brogy",
+      "text": "Giant Brogy"
+    },
+    {
+      "speaker": "Brogy",
+      "text": "W-We have a little..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Oh,"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "So you do have some?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "NUA!!!! I had"
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "Gya AAAA AAAA!"
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "A D..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Dino- Saur...?"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on mr. 3 watches little garden. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.78,
+  "needs_review": false
+}

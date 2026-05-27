@@ -1,0 +1,104 @@
+{
+  "chapter": "128",
+  "part": 5,
+  "title": "Nami’s Illness Becomes Urgent",
+  "description": "On pages 17–19, nami’s illness becomes urgent as the Straw Hats escape Little Garden with help from Dorry and Brogy, but Nami’s worsening illness makes the next destination urgent.",
+  "pages": [
+    17,
+    18,
+    19
+  ],
+  "characters": [
+    "Brogy",
+    "Dorry",
+    "Luffy",
+    "Usopp",
+    "Nami",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "Nami’s Illness Becomes Urgent. The Straw Hats escape Little Garden with help from Dorry and Brogy, but Nami’s worsening illness makes the next destination urgent. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Brogy",
+      "text": "The most important reason why all the little ones who come to this island,"
+    },
+    {
+      "speaker": "Brogy",
+      "text": "Flap"
+    },
+    {
+      "speaker": "Brogy",
+      "text": "Do not reach the next island lies straight ahead."
+    },
+    {
+      "speaker": "Dorry",
+      "text": "What?"
+    },
+    {
+      "speaker": "Brogy",
+      "text": "You all risked your lives so that our pride can remain untarnished."
+    },
+    {
+      "speaker": "Brogy",
+      "text": "Thus, in turn, no matter the foe..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We must not let your flag of pride be furnished either...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Trust in us and sail straight ahead! No matter what happens, sail only straight ahead!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Got it!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What're they..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Sail straight ahead!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Farewell."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Let us meet again,"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "One day in the future."
+    },
+    {
+      "speaker": "Brogy",
+      "text": "Look! Up ahead!"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "So you've come,"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "\"Island- devourer.\""
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "In the name of Elbaf,"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "We vow to clear a path!"
+    }
+  ],
+  "summary": "This part centers on nami’s illness becomes urgent, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.65,
+  "needs_review": true
+}

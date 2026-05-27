@@ -1,0 +1,134 @@
+{
+  "chapter": "289",
+  "part": 1,
+  "title": "The Ancient Shandia Village",
+  "description": "Noland and Calgara’s bond grows as the people of Shandora begin to see a path beyond fear and sacrifice.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Mont Blanc Noland",
+    "Calgara",
+    "Musse",
+    "Shandia villager",
+    "Shandia warrior",
+    "Nola",
+    "Enel",
+    "Aisa",
+    "Wyper",
+    "Shandia villagers"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this scene focuses on Mont Blanc Noland, Calgara, Musse, Shandia villager, Shandia warrior. Noland and Calgara’s bond grows as the people of Shandora begin to see a path beyond fear and sacrifice.",
+  "dialogue": [
+    {
+      "speaker": "Mont Blanc Noland",
+      "text": "Nghhh!"
+    },
+    {
+      "speaker": "Mont Blanc Noland",
+      "text": "Aghh!"
+    },
+    {
+      "speaker": "Mont Blanc Noland",
+      "text": "Huff... huff..."
+    },
+    {
+      "speaker": "Mont Blanc Noland",
+      "text": "Cough! I"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Damn it!"
+    },
+    {
+      "speaker": "Musse",
+      "text": "Ahahaha!"
+    },
+    {
+      "speaker": "Shandia villager",
+      "text": "The following: The"
+    },
+    {
+      "speaker": "Shandia warrior",
+      "text": "The sun is already setting..."
+    },
+    {
+      "speaker": "Nola",
+      "text": "You and your men,"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Will be offered up to the gods."
+    },
+    {
+      "speaker": "Enel",
+      "text": "That you've unleashed god's wrath upon us!"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Calgara headed into the forest."
+    },
+    {
+      "speaker": "Enel",
+      "text": "If the god-slayer is killed,"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "Papa! Papa!"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Another warrior passed away."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "fall"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Curses..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What?"
+    },
+    {
+      "speaker": "Mont Blanc Noland",
+      "text": "Wait! Wait! Don't rush into things!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Aghhh!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Hey, wait! This isn't what you promised!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "W-W-Wait!"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "We still have some time left! Stop!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Why you-"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Were much,"
+    },
+    {
+      "speaker": "Shandia villager",
+      "text": "It's that kid..."
+    }
+  ],
+  "summary": "Noland and Calgara’s bond grows as the people of Shandora begin to see a path beyond fear and sacrifice.",
+  "confidence": 0.81,
+  "needs_review": false
+}

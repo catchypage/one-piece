@@ -1,0 +1,142 @@
+{
+  "chapter": "304",
+  "part": 1,
+  "title": "The Davy Back Fight Challenge",
+  "description": "Foxy challenges Luffy to a pirate game where crew members can be stolen, turning the island stop into a dangerous contest.",
+  "pages": [
+    0,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Foxy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Tonjit",
+    "Porche"
+  ],
+  "scene": "Across pages 0, 2, 3, 4, this scene focuses on Luffy, Foxy, Nami, Usopp, Zoro. Foxy challenges Luffy to a pirate game where crew members can be stolen, turning the island stop into a dangerous contest.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Why?"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Wait- hey!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I doubt it."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "W-H-A-L-E! Tuuunaaaa!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Whoa!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ohhhh!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The legendary... Rainbow Eel Brothers."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "...That was one hell of a sight."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Yeah..."
+    },
+    {
+      "speaker": "Tonjit",
+      "text": "Stunning... They were so friendly too."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Alright! Let's call them one more time!"
+    },
+    {
+      "speaker": "Porche",
+      "text": "Are they tasty?"
+    },
+    {
+      "speaker": "Porche",
+      "text": "Yes, I'm sure."
+    },
+    {
+      "speaker": "Hamburg",
+      "text": "Oh no you don't!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "GIMME A BREAK!"
+    },
+    {
+      "speaker": "Foxy Pirate",
+      "text": "Run for it! Sea monkeys!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Did they follow us!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Oh no! There's no wind!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Raise the sails!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Row! Row RoomW!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Emer-gency Report! Emer-gency Report!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "ship spotted straight at 12 o'clock!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "What? Are they enemies!?"
+    },
+    {
+      "speaker": "Porche",
+      "text": "Now of all times!?"
+    },
+    {
+      "speaker": "Porche",
+      "text": "No, there's..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "There's no flag nor sail!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "I don't know! But more importantly..."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "For some strange reason..."
+    }
+  ],
+  "summary": "Foxy challenges Luffy to a pirate game where crew members can be stolen, turning the island stop into a dangerous contest.",
+  "confidence": 0.82,
+  "needs_review": false
+}

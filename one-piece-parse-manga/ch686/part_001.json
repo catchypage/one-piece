@@ -1,0 +1,87 @@
+{
+  "chapter": "686",
+  "part": 1,
+  "title": "The Snow Woman’s Threat",
+  "description": "On pages 1–3, this part follows Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Children, Unknown person #6. The central beat is the snow woman’s threat.",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Children",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Unknown person #10",
+    "Monet"
+  ],
+  "scene": "The scene focuses on the snow woman’s threat, with Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Children, Unknown person #6 shaping the Punk Hazard finale and the road toward Dressrosa.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Do you have any"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Robin!! Are you alright !?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "NNN... It's just a scratch ....!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Let's hurry and stop those children ....!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Nami!! Please hurry!!"
+    },
+    {
+      "speaker": "Trafalgar Law",
+      "text": "The children are leaving the room!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "And now Mochya's in trouble!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Wait, Mochya!!"
+    },
+    {
+      "speaker": "Children",
+      "text": "Hand over that candy!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "I can't do that...!! xxx x^"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "I asked chopper- chan"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "We mustn't eat it!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "wahhh... Wahhh..."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Hand it over, Mochya!!"
+    }
+  ],
+  "summary": "The Snow Woman’s Threat. This part advances the collapse of Caesar’s operation, Law’s leverage over Doflamingo, and the alliance’s next destination.",
+  "confidence": 0.76,
+  "needs_review": true
+}

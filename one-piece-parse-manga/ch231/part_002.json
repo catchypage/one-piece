@@ -1,0 +1,126 @@
+{
+  "chapter": "231",
+  "part": 2,
+  "title": "Luffy Heads Back to Mock Town",
+  "description": "Bellamy steals Cricket’s gold and attacks the dreamers, forcing Luffy to answer the insult directly.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Sanji",
+    "Sarquiss",
+    "Mont Blanc Cricket",
+    "Bellamy",
+    "Luffy",
+    "Nami",
+    "Masira",
+    "Shojo",
+    "Mock Town pirate",
+    "Zoro"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this scene centers on Sanji, Sarquiss, Mont Blanc Cricket, Bellamy, Luffy. Bellamy steals Cricket’s gold and attacks the dreamers, forcing Luffy to answer the insult directly.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "LadyBugs!"
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "Holy crap, they're HU-"
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "Gww!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "It's the bird-cry again..."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "A SLUG! Sprinkle salt on it!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Samji! Give it a somersault kick!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Ahh, fireflies!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "So pretty."
+    },
+    {
+      "speaker": "Shojo",
+      "text": "Ahh, Roaches!"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "PIIIG4S!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "The next day I"
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "Look at this beauty..."
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Now this is a fine gold statute."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Huff.. None of you..."
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Have the right to touch that gold...!"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "The right...?"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Is this not enough for ya!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "nigh4-"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Big chop!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "UKEE!"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "You IdIat..."
+    },
+    {
+      "speaker": "Masira",
+      "text": "Masira!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hahaha! Ain't none of you,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "As strong as us!"
+    }
+  ],
+  "summary": "Bellamy steals Cricket’s gold and attacks the dreamers, forcing Luffy to answer the insult directly.",
+  "confidence": 0.83,
+  "needs_review": false
+}

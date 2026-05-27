@@ -1,0 +1,186 @@
+{
+  "chapter": "324",
+  "part": 4,
+  "title": "The Repair Verdict",
+  "description": "The crew splits up in Water Seven, exchanging treasure and discovering the city’s craftsmen, money, and hidden dangers.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Kaku",
+    "Chopper",
+    "Nico Robin",
+    "Galley-La shipwright",
+    "Iceburg"
+  ],
+  "scene": "Across pages 13, 14, 15, 16, this part follows Luffy, Nami, Usopp, Zoro, Sanji. The crew splits up in Water Seven, exchanging treasure and discovering the city’s craftsmen, money, and hidden dangers.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Please enter quickly."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "The gate will close in one minute."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "What do we do here?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Oh I see."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That's how the aquatic elevator works!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Ah! The door closed."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Oh! we're going up!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Going up!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Hahaha! Water seven is so fun!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "They do everything with water."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hey!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hey, zero!"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "Where's Nico Robin? Is she on the ship!?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Hm... no... she went out with chopper."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "They went to buy some stuff."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Same to you."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Fine. I'm going to go shopping, too."
+    },
+    {
+      "speaker": "Kaku",
+      "text": "Watch the ship!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "2222..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "fell asleep already..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Oh well... you're it."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "We're here!!"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "The best shipyard of the world!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Water Seven City Center!!"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "There are lots of dry area here."
+    },
+    {
+      "speaker": "Galley-La shipwright",
+      "text": "So big!! Everything is so big!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "What's that crowd about?"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "Are they looking at ships being made?"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Let's go and see!! Go, yagara!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Look! Lue-chan is so strong!! So handsome!!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Where's Paul!!?"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "No. Tirestone is the man!!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "What's going on here?"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "They never learn."
+    },
+    {
+      "speaker": "Kaku",
+      "text": "Ehh? The ship mechanics beat the pirates?"
+    },
+    {
+      "speaker": "Unknown person #15",
+      "text": "Yeah. You must be a sailor. Yes?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Really?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "That sounds interesting."
+    }
+  ],
+  "summary": "The crew splits up in Water Seven, exchanging treasure and discovering the city’s craftsmen, money, and hidden dangers.",
+  "confidence": 0.75,
+  "needs_review": false
+}

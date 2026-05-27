@@ -1,0 +1,71 @@
+{
+  "chapter": "734",
+  "part": 2,
+  "title": "Scarlet Chooses Kyros",
+  "description": "Pages 6–10 focus on scarlet chooses kyros, keeping the Dressrosa conflict centered on the characters active in this scene.",
+  "pages": [
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Unknown person #10"
+  ],
+  "scene": "This part follows Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Unknown person #7 as kyros's past, King Riku's rule, and Rebecca's family history reveal what Doflamingo stole from Dressrosa.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "WaH!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "HAAA.."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "You can't run forever, little girl!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Uhh..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "I am not sure if this is"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "eh..."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "That guy..."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "His stance is odd!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "He's asleep!?"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Third"
+    }
+  ],
+  "summary": "Scarlet Chooses Kyros focuses on Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6 as kyros's past, King Riku's rule, and Rebecca's family history reveal what Doflamingo stole from Dressrosa.",
+  "confidence": 0.59,
+  "needs_review": true
+}

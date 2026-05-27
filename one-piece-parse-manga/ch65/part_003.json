@@ -1,0 +1,95 @@
+{
+  "chapter": "65",
+  "part": 3,
+  "title": "Luffy Strikes Back at Krieg",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Sanji",
+    "Don Krieg",
+    "Gin",
+    "Zeff",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7"
+  ],
+  "scene": "On pages 9–12, the Baratie conflict focuses on Luffy, Sanji, Don Krieg, Gin, Zeff. Don Krieg relies on armor and hidden weapons while Luffy answers with reckless determination.",
+  "dialogue": [
+    {
+      "speaker": "Don Krieg",
+      "text": "A flame- thrower!? How many weapons does this guy have on him!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gatling Gun!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Kuhaha haha!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "futile!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "All attacks are futile before my Wootz Steel Armour!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "And..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "bullet!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "SSSN..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Don!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Splatter!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "You Inso- Lent brat!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Agh!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "ABSO- Lutely, comp- lately, utterly futile!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "As if the greatest armour would break from hundreds of punches from a mere monkey!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "I'd say I'm just about there..."
+    }
+  ],
+  "summary": "This part keeps the Baratie battle centered on willpower, debt, hunger, and pride. The dialogue shows who still stands firm after Krieg’s violence and who is ready to break away from the restaurant’s old life.",
+  "confidence": 0.64,
+  "needs_review": true
+}

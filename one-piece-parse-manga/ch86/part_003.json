@@ -1,0 +1,81 @@
+{
+  "chapter": "86",
+  "part": 3,
+  "title": "Kuroobi Blocks the Rescue",
+  "description": "On pages 10–13, kuroobi blocks the rescue focuses on Luffy, Sanji, Kuroobi, Nojiko as luffy becomes trapped in the sea, forcing Sanji and the others to split their attention between saving him and winning the fight.",
+  "pages": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "characters": [
+    "Luffy",
+    "Sanji",
+    "Kuroobi",
+    "Nojiko",
+    "Genzo",
+    "Zoro",
+    "Arlong",
+    "Unknown person #1",
+    "Unknown person #2"
+  ],
+  "scene": "On pages 10–13, kuroobi blocks the rescue focuses on Luffy, Sanji, Kuroobi, Nojiko as luffy becomes trapped in the sea, forcing Sanji and the others to split their attention between saving him and winning the fight.",
+  "dialogue": [
+    {
+      "speaker": "Arlong",
+      "text": "Hmph, how weak. Compared to your kicks on land, your power has been reduced by half."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "However, the same doesn't apply for fishman karate..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "In fact, depending on the technique, its power is doubled!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Seh- speed"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Stomach Drop Kick!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Fire flower heel drop kick!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Rising thrust kick!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "high- level expio- ding palm!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Guh! It hurts too much! I need air! air!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "BFFF!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Where do you think you're going..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Damn it! Just let me get by! I need to breathe...!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "to think you could survive my attacks... it's hard to believe you're merely human."
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.77,
+  "needs_review": false
+}

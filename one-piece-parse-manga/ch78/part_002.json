@@ -1,0 +1,143 @@
+{
+  "chapter": "78",
+  "part": 2,
+  "title": "Nojiko Reveals Nami’s Past",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Nami",
+    "Nojiko",
+    "Bellemere",
+    "Genzo",
+    "Arlong",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7"
+  ],
+  "scene": "On pages 5–8, Nojiko’s account of the past reveals how Nami, Bellemere, and Cocoyasi Village were damaged by Arlong’s arrival. The flashback reaches Arlong’s arrival, his money demands, and Bellemere’s impossible choice.",
+  "dialogue": [
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "This is bad! The pirates are headed to Belliemere's home!"
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "even we barely managed to pay them off,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "So how could she ever come up with enough money!? What do we do!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Doc, we've got trouble!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What is it Genzo!? And where are the children...?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "They should be hiding in the forests but they're not there!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "They must've took the back route to their home!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Oh no, we've gotta stop them!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Oh?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Are they back?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Nojiko, hurry up!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I know!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "It should be open."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "come in."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Excuse me then."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "unfor- tunnely for you, I used to be a marine."
+    },
+    {
+      "speaker": "Nami",
+      "text": "What's a pirate from the Grand Line,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Doing all the way out here,"
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "In this little village,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "of Cocoyashi...?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Shaha haha!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Haha haha!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Damn it! Why did things have to turn out this way!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What's so funny!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "WHATA..!?"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "The income- fence,"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "of your inferior race."
+    }
+  ],
+  "summary": "This part deepens Nami’s backstory, showing how family, money, and survival became tied to Arlong’s control over the village.",
+  "confidence": 0.65,
+  "needs_review": true
+}

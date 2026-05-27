@@ -1,0 +1,86 @@
+{
+  "chapter": "236",
+  "part": 3,
+  "title": "Blackbeard Watches the Crew Escape",
+  "description": "The Straw Hats ride the violent Knock Up Stream and commit fully to the impossible path toward Sky Island.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Mont Blanc Cricket",
+    "Blackbeard",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Masira"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this scene centers on Luffy, Nami, Usopp, Mont Blanc Cricket, Blackbeard. The Straw Hats ride the violent Knock Up Stream and commit fully to the impossible path toward Sky Island.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Ahead 6th birthday 4th birthday"
+    },
+    {
+      "speaker": "Nami",
+      "text": "AAAGGH Hhhhh!!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Inhale..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Aaaa Aaaagh HH!!!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Oh no! Our ship's gonna capsize"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hold steady!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Fly up to Sky Island!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Don't be tossed off!"
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "Aaaa AaaA AaaAGG GGGHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "W-what's going on!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Woohoo! This is awesome!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "How's this even possible!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Wind...!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Go, Merry, Go!"
+    }
+  ],
+  "summary": "The Straw Hats ride the violent Knock Up Stream and commit fully to the impossible path toward Sky Island.",
+  "confidence": 0.87,
+  "needs_review": false
+}

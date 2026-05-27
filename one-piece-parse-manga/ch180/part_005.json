@@ -1,0 +1,119 @@
+{
+  "chapter": "180",
+  "part": 5,
+  "title": "The Fight Is Not Over",
+  "description": "On pages 17–18, this part focuses on the fight is not over, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Crocodile",
+    "Luffy",
+    "Vivi",
+    "Koza",
+    "King Cobra",
+    "Chaka",
+    "Pell",
+    "Royal Army soldier",
+    "Alabasta rebel",
+    "Baroque Works agent",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "The Fight Is Not Over. Luffy survives his first loss to Crocodile and begins the long road back into the fight for Alabasta. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "1 hour remaining,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Before the battle begins at the Eastern gates."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Mean- while at the Western Gates..."
+    },
+    {
+      "speaker": "Koza",
+      "text": "The problem is,"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Where to lie in wait for them..."
+    },
+    {
+      "speaker": "Chaka",
+      "text": "We can't take them lightly,"
+    },
+    {
+      "speaker": "Pell",
+      "text": "They've already beaten 6 of our numbered officer agents..."
+    },
+    {
+      "speaker": "Pell",
+      "text": "Yes, indeedio! And princess Vivi Aersee!! was a former Baroque Works, agent too!"
+    },
+    {
+      "speaker": "Royal Army soldier",
+      "text": "Stop Spinning, you little fruit!"
+    },
+    {
+      "speaker": "Royal Army soldier",
+      "text": "Fo... Fo..."
+    },
+    {
+      "speaker": "Alabasta rebel",
+      "text": "Bwatt!"
+    },
+    {
+      "speaker": "Alabasta rebel",
+      "text": "In the art of deception, J cannot be beaten!"
+    },
+    {
+      "speaker": "Alabasta rebel",
+      "text": "...Well, we can always crush them in one stroke if we felt like it."
+    },
+    {
+      "speaker": "Alabasta rebel",
+      "text": "What should we do?"
+    },
+    {
+      "speaker": "Royal Army soldier",
+      "text": "Hmm..."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Holdrightthere, enoughnessin' around!"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "Ain'titobvious thatwe'lltake careofthisjob!? Right,Mr. 4!?"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "FWICK! I"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "God, yer slow! Aghmyhip!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "We'llbethe onestotake themout!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "All we have to do..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Is eliminate Vivi, right?"
+    }
+  ],
+  "summary": "This part develops the fight is not over and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.75,
+  "needs_review": false
+}

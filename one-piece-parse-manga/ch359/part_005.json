@@ -1,0 +1,80 @@
+{
+  "chapter": "359",
+  "part": 5,
+  "title": "Allies Join the Rescue",
+  "description": "The Franky Family and Galley-La shipwrights join the Straw Hats, turning Robin’s rescue into a shared mission.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Iceburg",
+    "Nico Robin",
+    "Nico Nico Robin",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Chopper",
+    "Franky",
+    "CP9 agent"
+  ],
+  "scene": "Across pages 17, 18, this part follows Luffy, Iceburg, Nico Robin, Nico Nico Robin, Zoro. The Franky Family and Galley-La shipwrights join the Straw Hats, turning Robin’s rescue into a shared mission.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "...tell them what happened..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "When you meet up with Luffy!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "What about you, Sanji?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Does Nico Robin... Hate us now..."
+    },
+    {
+      "speaker": "Nico Nico Robin",
+      "text": "Chopper... Remem- her one thing..."
+    },
+    {
+      "speaker": "Nico Nico Robin",
+      "text": "A man..."
+    },
+    {
+      "speaker": "Nico Nico Robin",
+      "text": "forgives..."
+    },
+    {
+      "speaker": "Nico Nico Robin",
+      "text": "A woman's lies."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Water seven Blue Station"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Last train for Enies Lobby"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "will depart at 11:00 PM."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "pshht"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Bingo..."
+    }
+  ],
+  "summary": "The Franky Family and Galley-La shipwrights join the Straw Hats, turning Robin’s rescue into a shared mission.",
+  "confidence": 0.83,
+  "needs_review": false
+}

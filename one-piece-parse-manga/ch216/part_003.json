@@ -1,0 +1,184 @@
+{
+  "chapter": "216",
+  "part": 3,
+  "title": "Robin Makes Herself Useful",
+  "description": "On pages 9, 10, 11, 12, this part focuses on the sky island rumor begins. The crew hears clues that point beyond normal seas, setting up the mystery of an island in the sky and the search for proof.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Nico Robin",
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Zoro"
+  ],
+  "scene": "This scene belongs to the The Sky Island Rumor Begins sequence. The important beat is the dialogue and action around Nico Robin, Luffy, Vivi, Nami, Usopp.",
+  "dialogue": [
+    {
+      "speaker": "Nico Robin",
+      "text": "Eastern Port of Tamarisque"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You heard the speech, didn't you?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That was definitely Vini's voice."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "It means she decided not to come...!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "No, it only sounded like her voice!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Let's go."
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's past moon..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "There's no way she won't come!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "How many ships do they have!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Let's go!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Give it up, Luffy."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Turn starboard!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hey, what's going on!?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "The following"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Show your face, you phone!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Or should we rather say, Capt. IGARAM!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Where's the real princess!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I have been using a"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Where's Princess VIVI giving her speech from!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "She should be there by now..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Everyone!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Viv!!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Carue!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Quick!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "See! She DID come!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Vivil"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Turn the ship around! Quick!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "viv!!:)"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "The Marines are already almost here!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "I've come,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "To say good-bye!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "What...!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Carue, give me the receiver."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Quick!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I... can't come with you!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Who's she talking to?"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Nestrepreneurship, performance"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "I'd love to go on another adventure,"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "But I can't...! Because you see,"
+    }
+  ],
+  "summary": "The crew hears clues that point beyond normal seas, setting up the mystery of an island in the sky and the search for proof.",
+  "confidence": 0.81,
+  "needs_review": false
+}

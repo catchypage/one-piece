@@ -1,0 +1,47 @@
+{
+  "chapter": "196",
+  "part": 6,
+  "title": "A Last Chance Remains",
+  "description": "On pages 24–24, this part focuses on a last chance remains, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    24
+  ],
+  "characters": [
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Chopper",
+    "Sanji",
+    "Pell"
+  ],
+  "scene": "A Last Chance Remains. Pell carries Alabasta’s hope into the air as the bomb plot reaches its most sacrificial moment. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "to be weak..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Is a sin..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Viv!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Time left until Palace Square Explosion:"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "25 Minutes"
+    }
+  ],
+  "summary": "This part develops a last chance remains and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

@@ -1,0 +1,48 @@
+{
+  "chapter": "216",
+  "part": 5,
+  "title": "The Log Points Forward",
+  "description": "On pages 17, 18, this part focuses on the sky island rumor begins. The crew hears clues that point beyond normal seas, setting up the mystery of an island in the sky and the search for proof.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Nico Robin",
+    "Usopp",
+    "Luffy",
+    "Nami",
+    "Sanji",
+    "Zoro"
+  ],
+  "scene": "This scene belongs to the The Sky Island Rumor Begins sequence. The important beat is the dialogue and action around Nico Robin, Usopp, Luffy, Nami, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Nico Robin",
+      "text": "Hey, hey! Are you hyped!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Let's go, Usopp Gallery Pirates!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "In this case, it seems that we"
+    },
+    {
+      "speaker": "Nami",
+      "text": "We love"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "\"It's a different"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "# (trem!!"
+    }
+  ],
+  "summary": "The crew hears clues that point beyond normal seas, setting up the mystery of an island in the sky and the search for proof.",
+  "confidence": 0.86,
+  "needs_review": false
+}

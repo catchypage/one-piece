@@ -1,0 +1,79 @@
+{
+  "chapter": "693",
+  "part": 1,
+  "title": "The Price of Betrayal",
+  "description": "On pages 1–4, this part follows Unknown person #1, Unknown person #2, Buffalo, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6. The central beat is the price of betrayal.",
+  "pages": [
+    1,
+    2,
+    4
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Buffalo",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Doflamingo",
+    "Baby 5",
+    "Caesar Clown",
+    "Trafalgar Law",
+    "Franky"
+  ],
+  "scene": "The scene focuses on the price of betrayal, with Unknown person #1, Unknown person #2, Buffalo, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6 shaping the Punk Hazard finale and the road toward Dressrosa.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "\"General Left\"!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "DOWA AAAH !!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "KYAH !!!!!!!"
+    },
+    {
+      "speaker": "Buffalo",
+      "text": "Buffalo !!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "That guy ... what is he!!?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "\"General's alright\"!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Not a scratch on him !!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Now... take this!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "ka-chink!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "General Shield, !!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "A bit late for that!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "And it's tiny !!!"
+    }
+  ],
+  "summary": "The Price of Betrayal. This part advances the collapse of Caesar’s operation, Law’s leverage over Doflamingo, and the alliance’s next destination.",
+  "confidence": 0.76,
+  "needs_review": true
+}

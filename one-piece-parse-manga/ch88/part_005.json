@@ -1,0 +1,102 @@
+{
+  "chapter": "88",
+  "part": 5,
+  "title": "The Straw Hats Turn the Tide",
+  "description": "On pages 17–18, the straw hats turn the tide focuses on Sanji, Kuroobi, Zoro, Hatchan as sanji, Zoro, and Usopp begin turning the battle around while Luffy’s rescue becomes the key to victory.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Sanji",
+    "Kuroobi",
+    "Zoro",
+    "Hatchan",
+    "Usopp",
+    "Chew",
+    "Nami",
+    "Luffy",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Arlong"
+  ],
+  "scene": "On pages 17–18, the straw hats turn the tide focuses on Sanji, Kuroobi, Zoro, Hatchan as sanji, Zoro, and Usopp begin turning the battle around while Luffy’s rescue becomes the key to victory.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "don't pay any heed to that."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It's nothing at all, you half-fish mutant!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "didn't I already tell you to never call me that again,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "RARONAA ZORO...?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Eggi start"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I'll back you up, Zoro!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "brother usopp, is that you!? You're so brave!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Are you alright!? Where are you!? What a bold entrance you're making!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "So fight without any worries!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "That's where you are!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "USOP!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Nami! I, all alone, took down one of their officers! All by myself!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Hey! Can you try to pull yourself out on your own?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "No, I can't feel any strength in my body."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I'm coun- Ting on you!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "You're our only hope!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "NYU..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I won't let you do as you please...!"
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.71,
+  "needs_review": true
+}

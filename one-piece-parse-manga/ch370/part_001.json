@@ -1,0 +1,102 @@
+{
+  "chapter": "370",
+  "part": 1,
+  "title": "Rocketman Closes In",
+  "description": "Robin’s decision and the crew’s determination collide as the Sea Train carries everyone closer to Enies Lobby.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Kokoro",
+    "Sanji",
+    "Chopper",
+    "Rob Lucci",
+    "Nico Robin",
+    "Sogeking",
+    "Franky"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Luffy, Zoro, Nami, Kokoro, Sanji. Robin’s decision and the crew’s determination collide as the Sea Train carries everyone closer to Enies Lobby.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "What Happened!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Why are you here...!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "How did you get here!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "As for why I'm here..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "longnose....!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'm not alone, though."
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "On another sea train."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "And it's carrying quite a few people..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "SHF..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "and then climb out through the window."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "... wait!!"
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "Why are you doing this..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "They all know of your reasons!!"
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "..... WHA... He's safe....!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "What are you babbling about...?"
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "Before you made this stupid deal,"
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "What...?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "What're you yelling about, nice Nico Robin?"
+    }
+  ],
+  "summary": "Robin’s decision and the crew’s determination collide as the Sea Train carries everyone closer to Enies Lobby.",
+  "confidence": 0.85,
+  "needs_review": false
+}

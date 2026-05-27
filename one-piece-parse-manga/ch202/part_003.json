@@ -1,0 +1,82 @@
+{
+  "chapter": "202",
+  "part": 3,
+  "title": "The Secret of the Tomb",
+  "description": "On pages 9, 10, 11, 12, this part focuses on the royal tomb and the poneglyph. Robin and Crocodile reach Alabasta’s hidden history while Luffy pushes back into the fight, refusing to let the Warlord bury Vivi’s country.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Crocodile",
+    "Nico Robin",
+    "King Cobra",
+    "Luffy",
+    "Vivi",
+    "Pell"
+  ],
+  "scene": "This scene belongs to the The Royal Tomb and the Poneglyph sequence. The important beat is the dialogue and action around Crocodile, Nico Robin, King Cobra, Luffy, Vivi.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "What kind of scent is that!?"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "I don't know, just try it out!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Screen!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "What!?"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "I'm takin' a short- cut!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "See anything up there, Pell!?"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Then is it inside some building...!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'll keep searching!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Got it!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Straw hat....!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Where'd he go?"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "The crocodile."
+    },
+    {
+      "speaker": "Pell",
+      "text": "tic. The following of the"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "GAHH!"
+    }
+  ],
+  "summary": "Robin and Crocodile reach Alabasta’s hidden history while Luffy pushes back into the fight, refusing to let the Warlord bury Vivi’s country.",
+  "confidence": 0.89,
+  "needs_review": false
+}

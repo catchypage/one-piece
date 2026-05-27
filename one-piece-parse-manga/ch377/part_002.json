@@ -1,0 +1,98 @@
+{
+  "chapter": "377",
+  "part": 2,
+  "title": "Sogeking Joins the Rescue",
+  "description": "The Straw Hats and their allies launch their attack through Enies Lobby’s front defenses.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Chopper",
+    "Sogeking",
+    "Franky",
+    "Nico Robin",
+    "Oimo",
+    "Blueno"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this part follows Luffy, Zoro, Nami, Sanji, Chopper. The Straw Hats and their allies launch their attack through Enies Lobby’s front defenses.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Bua Ha!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Take'M DOWN!!! He's a single, unarmed man!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "OOGUH!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hmph."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "WAA WAH"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What a ReckLess AtTITude!!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "I gotta get moving!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "I'll be back later!!"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Later!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "WaH...!! Hold on there!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "He's entered the main island!!!"
+    },
+    {
+      "speaker": "Oimo",
+      "text": "What about OIMO and KAASHii!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "He beat those two!!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "No!! Since it's night... they're asleep..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "AN INTRUDER..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "We're here, after all."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "How EmbarRassing!!"
+    }
+  ],
+  "summary": "The Straw Hats and their allies launch their attack through Enies Lobby’s front defenses.",
+  "confidence": 0.83,
+  "needs_review": false
+}

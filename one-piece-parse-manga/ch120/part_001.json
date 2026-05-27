@@ -1,0 +1,100 @@
+{
+  "chapter": "120",
+  "part": 1,
+  "title": "A Century of Battle Ends",
+  "description": "On pages 1–7, a century of battle ends as mr. 3 separates Vivi from her protectors and turns Little Garden’s battlefield into a calculated execution ground.",
+  "pages": [
+    1,
+    5,
+    6,
+    7
+  ],
+  "characters": [
+    "Mr. 3",
+    "Dorry",
+    "Vivi",
+    "Usopp",
+    "Miss Goldenweek",
+    "Mr. 5",
+    "Miss Valentine",
+    "Luffy"
+  ],
+  "scene": "A Century of Battle Ends. Mr. 3 separates Vivi from her protectors and turns Little Garden’s battlefield into a calculated execution ground. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Mr. 3",
+      "text": "After an entire century..."
+    },
+    {
+      "speaker": "Dorry",
+      "text": "This fight..."
+    },
+    {
+      "speaker": "Dorry",
+      "text": "IS OVER...!"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "This is merely the judgment of the warrior God, Elbaf...!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "All it means,"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "Is that I am not blessed by his divine protection...!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Luffy...!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Nghh!"
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "Nghh!"
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "Luffy!?"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Who was it? It!?"
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "Show yourself!!!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Mr. 3?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Did you hear something just now?"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Fuhahahaha! How odd... I wonder if there's some loser crying even deep in this thick jungle?"
+    },
+    {
+      "speaker": "Miss Valentine",
+      "text": "73... Thou- sand..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "467 fights..."
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "One win...!"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on a century of battle ends. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.78,
+  "needs_review": false
+}

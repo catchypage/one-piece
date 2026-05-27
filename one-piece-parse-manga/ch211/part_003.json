@@ -1,0 +1,133 @@
+{
+  "chapter": "211",
+  "part": 3,
+  "title": "The Navy Closes In",
+  "description": "On pages 9, 10, 11, 12, this part focuses on the crew leaves alabasta behind. The Straw Hats move toward departure while Marines, allies, and the kingdom deal with the consequences of the battle.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Zoro",
+    "Smoker",
+    "Karoo"
+  ],
+  "scene": "This scene belongs to the The Crew Leaves Alabasta Behind sequence. The important beat is the dialogue and action around Luffy, Vivi, Nami, Usopp, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "I had already resigned myself to death,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "'But he saved my life."
+    },
+    {
+      "speaker": "Nami",
+      "text": "His strength is incredible..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "222..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Yes, it should be neutralized by now..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "More importantly, you should get back, Vivi."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Back?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Get back out to the square."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "That's right."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "The rebellion was finally stopped,"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "But it's gonna feel pretty anticlimactic,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Then all of you should also-"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Vivi, you understand, don't you?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That we're outlaws..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I'm hungry."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "We're all dead-tired."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Yes,"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "under- stood, captain smoker."
+    },
+    {
+      "speaker": "Karoo",
+      "text": "Then Crocodile was..."
+    },
+    {
+      "speaker": "Karoo",
+      "text": "The man behind it all...?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "I can hardly believe it..."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Marines!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "SALUTE!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Where is he!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Where'd that Croc go!?"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Are hereby revoked."
+    }
+  ],
+  "summary": "The Straw Hats move toward departure while Marines, allies, and the kingdom deal with the consequences of the battle.",
+  "confidence": 0.89,
+  "needs_review": false
+}

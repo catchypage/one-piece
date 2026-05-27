@@ -1,0 +1,41 @@
+{
+  "chapter": "528",
+  "part": 5,
+  "title": "Breaking into Impel Down: Aftermath",
+  "description": "In the Impel Down storyline, this section centers on Magellan, Pacifista, Ace as the scene develops across pages 17–18.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Magellan",
+    "Pacifista",
+    "Ace"
+  ],
+  "scene": "This scene advances the Impel Down conflict through Magellan, Pacifista, Ace, focusing on the immediate stakes of breaking into impel down: aftermath.",
+  "dialogue": [
+    {
+      "speaker": "Magellan",
+      "text": "ACE... what hurts..."
+    },
+    {
+      "speaker": "Magellan",
+      "text": "What good is my title ....?"
+    },
+    {
+      "speaker": "Magellan",
+      "text": "And if I can't stop this war..."
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "-PX-1000"
+    },
+    {
+      "speaker": "Magellan",
+      "text": "-Nashi"
+    }
+  ],
+  "summary": "This scene advances the Impel Down conflict through Magellan, Pacifista, Ace, focusing on the immediate stakes of breaking into impel down: aftermath.",
+  "confidence": 0.84,
+  "needs_review": false
+}

@@ -1,0 +1,88 @@
+{
+  "chapter": "883",
+  "part": 4,
+  "title": "The Fight Against Katakuri Begins",
+  "description": "On pages 14–16, this part focuses on Unknown person #13, Unknown person #14, Katakuri, Unknown person #15, Luffy as Pedro’s sacrifice opens the escape route while Luffy enters the mirror world to hold Katakuri back.",
+  "pages": [
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Unknown person #13",
+    "Unknown person #14",
+    "Katakuri",
+    "Unknown person #15",
+    "Luffy"
+  ],
+  "scene": "Luffy separates himself from the crew to face Katakuri in the mirror world while Sanji moves toward the cake plan.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #13",
+      "text": "FWO O...!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "FWO 000"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "He didn't dodge it?"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "I even got in a kick!"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "You did. So what?!"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "I get it now."
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "your power."
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Huh?! what do you \"get\"?"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "I've told you time and again. Your powers could never hope to defeat mine!"
+    },
+    {
+      "speaker": "Katakuri",
+      "text": "Raindrop Mochi!"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Gear fourth!"
+    },
+    {
+      "speaker": "Unknown person #15",
+      "text": "You're definitely super strong,"
+    },
+    {
+      "speaker": "Unknown person #15",
+      "text": "But you're not in- Vincible!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu No..."
+    },
+    {
+      "speaker": "Unknown person #15",
+      "text": "KONG Gun!"
+    },
+    {
+      "speaker": "Unknown person #15",
+      "text": "CH.( 883: / end)"
+    }
+  ],
+  "summary": "This section advances the Luffy vs Katakuri storyline with 16 dialogue beats. Luffy commits to stopping Katakuri while the others continue the escape and Sanji turns toward the cake that may save them.",
+  "confidence": 0.62,
+  "needs_review": true
+}

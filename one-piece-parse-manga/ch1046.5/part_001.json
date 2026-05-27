@@ -1,0 +1,68 @@
+{
+  "chapter": "1046.5",
+  "part": 1,
+  "title": "Gear Fifth Awakens",
+  "description": "On pages 4–8, this part focuses on Unknown person #1, Unknown person #2, Unknown person #3, Straw Hat Pirates, Nami as Luffy awakens Gear Fifth and fights Kaido as Onigashima’s fall, Wano’s fire festival, and twenty years of suffering converge.",
+  "pages": [
+    4,
+    7,
+    8
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Straw Hat Pirates",
+    "Nami"
+  ],
+  "scene": "Luffy awakens Gear Fifth and fights Kaido as Onigashima’s fall, Wano’s fire festival, and twenty years of suffering converge.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Robin!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Begin the assault!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "We're gonna save you no matter what!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ufu Fu..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "punt..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "This tower has become quite crowded all of a sudden..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Staying here much longer would be a death sentence."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "If you're gonna run, leave your key, okay?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "enies lobby"
+    },
+    {
+      "speaker": "Straw Hat Pirates",
+      "text": "Straw Hat crew"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Nami vs. KaliFA"
+    }
+  ],
+  "summary": "This part advances the Wano / Onigashima War through 11 cleaned dialogue beats, focusing on character decisions, battlefield momentum, and the story’s larger consequences.",
+  "confidence": 0.75,
+  "needs_review": true
+}

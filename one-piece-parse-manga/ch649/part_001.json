@@ -1,0 +1,75 @@
+{
+  "chapter": "649",
+  "part": 1,
+  "title": "The Victory Banquet Begins",
+  "description": "On pages 1–3, this part follows Unknown person #1, Fish-Man Island Citizens, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6. The central beat is the victory banquet begins.",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Fish-Man Island Citizens",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Luffy",
+    "Nami",
+    "Sanji",
+    "Jinbe",
+    "Shirahoshi"
+  ],
+  "scene": "The scene focuses on the victory banquet begins, with Unknown person #1, Fish-Man Island Citizens, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6 shaping the conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "WOOH OOOOOO OOO!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "All right!!! We're free!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "that damn hody got what he deserved!!"
+    },
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "Now to become the pirate King!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I don't know about that..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Now, then..."
+    },
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "Remants of the new fish-man pirates...!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "What ?!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "...it will be sealed off entirely!!!"
+    },
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "Now, where is straw hat luffy?"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Run away?!"
+    }
+  ],
+  "summary": "The Victory Banquet Begins. This part advances the end of the Fish-Man Island conflict and the island’s attempt to move beyond inherited hatred.",
+  "confidence": 0.76,
+  "needs_review": true
+}

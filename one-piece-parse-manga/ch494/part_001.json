@@ -1,0 +1,135 @@
+{
+  "chapter": "494",
+  "part": 1,
+  "title": "The Road to Sabaody",
+  "description": "In the Sabaody Archipelago storyline, this section centers on Robin, Duval, Unknown person #4, Nami, Unknown person #2, Unknown person #1 as the scene develops across pages 1–4.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Robin",
+    "Duval",
+    "Unknown person #4",
+    "Nami",
+    "Unknown person #2",
+    "Unknown person #1",
+    "Unknown person #3",
+    "Whitebeard",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7"
+  ],
+  "scene": "This scene advances the Sabaody Archipelago conflict through Robin, Duval, Unknown person #4, Nami, Unknown person #2, focusing on the immediate stakes of the road to sabaody.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "Nuoooo ...!!"
+    },
+    {
+      "speaker": "Robin",
+      "text": "Duhaa!!"
+    },
+    {
+      "speaker": "Robin",
+      "text": "I'm at my limit--!!"
+    },
+    {
+      "speaker": "Robin",
+      "text": "Take it easy, brook..."
+    },
+    {
+      "speaker": "Duval",
+      "text": "Zoro... it looks like you're still hurt."
+    },
+    {
+      "speaker": "Duval",
+      "text": "Don't worry about it."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Nyuuw-. you're being careless, RORONOA!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "\"Six sword style\" !!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "\"Octopus sword\"!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Heh, you're helping us now?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "NYUFU- FufU-."
+    },
+    {
+      "speaker": "Robin",
+      "text": "HACCHI-N!!"
+    },
+    {
+      "speaker": "Duval",
+      "text": "NYU? Oh, yeah? NYUFU..."
+    },
+    {
+      "speaker": "Whitebeard",
+      "text": "You were awesome!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Oh!!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "DIE, fish- man!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Right, excuse me!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "M-My life flashed before my eyes."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Looks like you're a little rusty."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Thanks."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Go at them all together."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Form up!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "EH?"
+    },
+    {
+      "speaker": "Duval",
+      "text": "Here they come."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "attack them in aerial formation!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "EH?"
+    }
+  ],
+  "summary": "This scene advances the Sabaody Archipelago conflict through Robin, Duval, Unknown person #4, Nami, Unknown person #2, focusing on the immediate stakes of the road to sabaody.",
+  "confidence": 0.71,
+  "needs_review": false
+}

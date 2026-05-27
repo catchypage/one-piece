@@ -1,0 +1,86 @@
+{
+  "chapter": "135",
+  "part": 5,
+  "title": "Vivi Waits Below",
+  "description": "On pages 17–19, vivi waits below as luffy refuses to fight the wildlife while carrying Nami, and the journey toward the doctor becomes a brutal climb through Drum’s snowfields.",
+  "pages": [
+    17,
+    18,
+    19
+  ],
+  "characters": [
+    "Sanji",
+    "Luffy",
+    "Dalton",
+    "Drum villager",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Nami",
+    "Vivi",
+    "Wapol"
+  ],
+  "scene": "Vivi Waits Below. Luffy refuses to fight the wildlife while carrying Nami, and the journey toward the doctor becomes a brutal climb through Drum’s snowfields. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "Wapol...!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Where is he right now!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "He's at your village! Big horn!"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "Ah-"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "Dalton!"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "I have to settle things once and for all!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm not doing this,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "for justice or other such noble intern- tions..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "After all, you and I..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "are guilty of the same crimes...!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Just you wait, Wapol!"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "Now it's the monster's older brother!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Don't falter! We stand and fight, USOPP gallery palters!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "DONE POGUE:"
+    }
+  ],
+  "summary": "This part centers on vivi waits below, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.62,
+  "needs_review": true
+}

@@ -1,0 +1,120 @@
+{
+  "chapter": "1070",
+  "part": 1,
+  "title": "Egghead Falls Under Siege",
+  "description": "On pages 1–3, this part focuses on Unknown person #1, Unknown person #2, Luffy, Kujaku, Unknown person #3, Jinbe as CP0 attacks Egghead, Seraphim enter the conflict, Stussy betrays CP0, Kuma moves toward the Red Line, and Vegapunk’s escape plan collapses.",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Luffy",
+    "Kujaku",
+    "Unknown person #3",
+    "Jinbe",
+    "Lucci",
+    "Vegapunk",
+    "Seraphim"
+  ],
+  "scene": "CP0 attacks Egghead, Seraphim enter the conflict, Stussy betrays CP0, Kuma moves toward the Red Line, and Vegapunk’s escape plan collapses.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Kyah!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hey, ake guy!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Sorry! It's because I distracted you..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Fool..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Don't underestimate me..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I saw his attack coming..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Cough!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Though I should've defended against it properly!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "You're tough..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "just hurry up and lose consciousness already..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "As long as a person with an authority rank..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "As high as yours is still conscious..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "We won't be able to control the Seraphim!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu No...."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "DA WN..."
+    },
+    {
+      "speaker": "Kujaku",
+      "text": "WhIP!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Ahhhh! I can't stop!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Lucci!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Hurry up Luffy! If you want to save this child, we must quickly go to where vegapunk is!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I can't stop!!! I'm spinning too much!!!"
+    },
+    {
+      "speaker": "Jinbe",
+      "text": "Ehhhh!!!! Where are you going, Luffy!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Ahh..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Let's take refuge at the factory!"
+    }
+  ],
+  "summary": "This part advances the Egghead Under Siege through 23 cleaned dialogue beats, focusing on character decisions, battlefield momentum, and the story’s larger consequences.",
+  "confidence": 0.59,
+  "needs_review": true
+}

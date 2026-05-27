@@ -1,0 +1,83 @@
+{
+  "chapter": "351",
+  "part": 1,
+  "title": "Tom’s Dream",
+  "description": "Spandam weaponizes Franky’s battle ships to frame Tom, turning Franky’s creations into the tool that destroys his family.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Franky",
+    "Tom",
+    "Iceburg",
+    "Spandam",
+    "Kokoro",
+    "Yokozuna",
+    "World Government agent"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Franky, Tom, Iceburg, Spandam, Kokoro. Spandam weaponizes Franky’s battle ships to frame Tom, turning Franky’s creations into the tool that destroys his family.",
+  "dialogue": [
+    {
+      "speaker": "Franky",
+      "text": "Shut up!!!"
+    },
+    {
+      "speaker": "Tom",
+      "text": "Bro!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Going Going Merry..."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Is my ship!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "No... it's..."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Not a ship anymore!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "What?"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Then I couldn't have cared less."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "That's why I'm stopping you, kid."
+    },
+    {
+      "speaker": "Franky",
+      "text": "No!!!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "It's not a ship anymore!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Stop!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "STOP....!!!"
+    },
+    {
+      "speaker": "Tom",
+      "text": "Bro--!!"
+    }
+  ],
+  "summary": "Spandam weaponizes Franky’s battle ships to frame Tom, turning Franky’s creations into the tool that destroys his family.",
+  "confidence": 0.82,
+  "needs_review": false
+}

@@ -1,0 +1,143 @@
+{
+  "chapter": "782",
+  "part": 1,
+  "title": "The Race Against the Cage",
+  "description": "Citizens, fighters, and the Straw Hat allies push back against the Birdcage as Luffy and Law continue the fight.",
+  "pages": [
+    4,
+    5,
+    6,
+    9,
+    10
+  ],
+  "characters": [
+    "Luffy",
+    "Doflamingo",
+    "King Riku",
+    "Trafalgar Law",
+    "Trebol",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Unknown person #10",
+    "Unknown person #11",
+    "Unknown person #12",
+    "Unknown person #13"
+  ],
+  "scene": "On pages 4–10, Luffy, Doflamingo, King Riku, Trafalgar Law, Trebol move through the final crisis of Dressrosa as the Birdcage and Doflamingo’s rule reach their breaking point.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Why'd you stop me?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Arch enemies! The final battle! Luffy vs. Dofla- Mino-"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "All I was trying to do..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "was smash..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Law's fucking head in!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "What! A clash of Haoshoku Haki!?"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "That shot nosed punk has it too!?"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Straw Hat-ya... So he: too..."
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "They all passed out?"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "That's Haki! Heeey~"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Haoshoku Haki!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "It is proof of one who has the qualities of a king! Dofla- Mingo..."
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "You are Heaven's chosen!"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "If yer' a man, it's time you tested yourself."
+    },
+    {
+      "speaker": "Unknown person #15",
+      "text": "Got someone you want dead?"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "shall I give him the power to exact revenge?"
+    },
+    {
+      "speaker": "Unknown person #17",
+      "text": "Someone I want to kill!?"
+    },
+    {
+      "speaker": "Unknown person #18",
+      "text": "There are too many to count!"
+    },
+    {
+      "speaker": "Unknown person #19",
+      "text": "Behehe! You'll never be a match for him!"
+    },
+    {
+      "speaker": "Unknown person #20",
+      "text": "Doffy is different... he's cut from a different cloth!"
+    },
+    {
+      "speaker": "Unknown person #21",
+      "text": "His birth fostered his mad- Ness!"
+    },
+    {
+      "speaker": "Unknown person #22",
+      "text": "His fate invoked his rage!"
+    },
+    {
+      "speaker": "Unknown person #23",
+      "text": "They have made this man into a monolithic yaksha*!"
+    },
+    {
+      "speaker": "Unknown person #24",
+      "text": "Gomu Gomu No..."
+    },
+    {
+      "speaker": "Unknown person #25",
+      "text": "Bazooka:"
+    },
+    {
+      "speaker": "Doflamingo",
+      "text": "Athlete thread!\""
+    }
+  ],
+  "summary": "This part focuses on the race against the cage, keeping the final battle centered on Luffy, Law, Doflamingo, and the people trapped inside the Birdcage.",
+  "confidence": 0.54,
+  "needs_review": true
+}

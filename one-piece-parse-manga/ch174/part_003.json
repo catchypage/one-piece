@@ -1,0 +1,145 @@
+{
+  "chapter": "174",
+  "part": 3,
+  "title": "Sand Against Rubber",
+  "description": "On pages 9–12, this part focuses on sand against rubber, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Crocodile",
+    "Vivi",
+    "Luffy",
+    "Sanji",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Chopper",
+    "Miss All Sunday",
+    "Smoker",
+    "Tashigi",
+    "Unknown person #1",
+    "Unknown person #2"
+  ],
+  "scene": "Sand Against Rubber. Luffy stays behind to fight Crocodile for the first time, learning the terrifying gap between resolve and a Warlord’s power. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "CLACK!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "VIV!! Wake up!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "It's coming for you!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "If you like your pirate-friends so much, then feel free to stay here with them."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "You can all become food for my bananas as this room sinks to the bottom of the lake."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I'll even bring that cheeky Mr. Prince here for you..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I hope you'll be satisfied with just his corpse... Hahaha!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "GOD DAMN IT!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "M-Mr. Crocodile!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "H-have you heard about the incident at Nanohana!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hm? Ah yes, I have."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "With the rebels ready to clash against the Royal Army, the whole city-"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "No, I daresay the entire country is in an uproar!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Well, considering how this country was ruled by a king who couldn't even be bothered to protect his own cities from pirate attacks,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Perhaps it`s not surprising that things have turned out the way they did..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Look, it's Crocodile..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "You're right! It's really him! How wonderful!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "He rarely shows his face in the casino..."
+    },
+    {
+      "speaker": "Miss All Sunday",
+      "text": "Crocodile!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "As popular as ever, aren't you..."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Sir Croco- dile!"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Crocodile!"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Hmph..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Viv!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "So I can't just let them die here."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Growl!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "They've saved my life over and over again...!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Aghhhh!"
+    }
+  ],
+  "summary": "This part develops sand against rubber and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.79,
+  "needs_review": false
+}

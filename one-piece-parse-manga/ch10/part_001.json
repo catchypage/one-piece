@@ -1,0 +1,151 @@
+{
+  "chapter": "10",
+  "part": 1,
+  "title": "Nami’s Scheme in Orange Town",
+  "description": "On pages 1–4, this part raises the stakes in Orange Town as Buggy’s weapon and crew threaten the town directly.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Nami",
+    "Luffy",
+    "Buggy",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "Orange Town becomes the stage for Nami’s schemes, Buggy’s violence, and Luffy’s refusal to act like a normal pirate.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "THE MAP OF THE GRAND LINE IS MINE AGAIN!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "At the tavern, \"The drinker pub\"..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "AND WE HAVE A NEW CREWATE!! EVERYTHING IS GOING OUR WAY!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Everybody raise a glass!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Live it up, men! Here's to our next conquest!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hooray!!!!"
+    },
+    {
+      "speaker": "Buggy",
+      "text": "NAM!! ARE YOU KNOCKIN' EM BACK!?"
+    },
+    {
+      "speaker": "Buggy",
+      "text": "Aye Aye, Cap'n Buggy!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Time for a drinking contest, New Girl!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "You're on!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I win!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "HEH HEH... nobody can out- drink me! At this rate they'll all pass out soon."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "THEN THEIR TREASURE WILL BE ALL MINE! PIRATES ARE SUCH EASY PREY!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Chomp!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Chomp!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Looks like they're having fun."
+    },
+    {
+      "speaker": "Buggy",
+      "text": "THAT'S WHAT A PIRATE'S SUPPOSED TO DO!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Howya doin', \"Boss?\""
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Let me outta here!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "AND GET ME SOME- THING TO EAT!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I'm STARVING!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Mom Mom!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "YOU'RE NOT SO BAD. MAYBE I'LL LET YOU JOIN MY CREW AFTER ALL!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Never!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Don't you realize what's going to happen to you?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "They'll probably sell you off somewhere."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "BUT HEY, IF MY PLAN WORKS..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Maybe I'll give you the key to this cage."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "REALLY, YOU DON'T SEEM SO BAD... FOR A PIRATE."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Then let me out of here NOW!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "You picked the wrong partner, little thief!!"
+    }
+  ],
+  "summary": "The Orange Town conflict mixes Nami’s suspicious cleverness with Buggy’s theatrical cruelty. The section builds the unstable alliance that will oppose Buggy’s crew.",
+  "confidence": 0.67,
+  "needs_review": true
+}

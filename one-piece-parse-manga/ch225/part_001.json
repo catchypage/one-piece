@@ -1,0 +1,86 @@
+{
+  "chapter": "225",
+  "part": 1,
+  "title": "Mock Town Shows Its Teeth",
+  "description": "After the humiliation in Mock Town, Blackbeard declares that pirate dreams will never die, sharply opposing Bellamy’s New Age cynicism.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Mock Town pirate",
+    "Nami",
+    "Bellamy crewman",
+    "Sarquiss",
+    "Mont Blanc Cricket",
+    "Luffy",
+    "Blackbeard",
+    "Zoro",
+    "Bellamy",
+    "Mock Town pirates"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this scene centers on Nami, Blackbeard, Bellamy, Sarquiss, Mock Town pirate. After the humiliation in Mock Town, Blackbeard declares that pirate dreams will never die, sharply opposing Bellamy’s New Age cynicism.",
+  "dialogue": [
+    {
+      "speaker": "Mock Town pirate",
+      "text": "Hahaha Hahaha Hahaha!"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "What's going on?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Luffy! ZORO!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Just kick their asses already!"
+    },
+    {
+      "speaker": "Bellamy crewman",
+      "text": "Haha... It's no use, missy."
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "The marines these days sure are generous,"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "Why..."
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "What's wrong with you two...?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "....Just like a maggot."
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "You said it!"
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "I'm through, I'm through..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Never seen someone THIS cowardly..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Somebody get these losers outta my sight!"
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "You're an eyesore."
+    }
+  ],
+  "summary": "After the humiliation in Mock Town, Blackbeard declares that pirate dreams will never die, sharply opposing Bellamy’s New Age cynicism.",
+  "confidence": 0.87,
+  "needs_review": false
+}

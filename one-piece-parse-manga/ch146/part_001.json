@@ -1,0 +1,73 @@
+{
+  "chapter": "146",
+  "part": 1,
+  "title": "Chopper Breaks Down",
+  "description": "On pages 0–8, this part focuses on chopper breaks down, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    0,
+    1,
+    7,
+    8
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Chopper",
+    "Hiriluk"
+  ],
+  "scene": "Chopper Breaks Down. Chopper’s grief meets Kureha’s harsh compassion as Hiriluk’s dream becomes a will that Chopper must carry forward. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Aaaaarr"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Your majesty!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Rrgghhhh!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "what in the world...!?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Huh? Those guys again?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "What're they doing here?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "C-commerce"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Close call!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Ugh...."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Gahhh..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "You three sure were a big pain in my ass back then..."
+    }
+  ],
+  "summary": "This part highlights chopper breaks down and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.58,
+  "needs_review": true
+}

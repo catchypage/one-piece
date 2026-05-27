@@ -1,0 +1,114 @@
+{
+  "chapter": "204",
+  "part": 2,
+  "title": "The Battlefield Goes Silent",
+  "description": "On pages 5, 6, 7, 8, this part focuses on the rain returns to alabasta. With Crocodile defeated and the truth exposed, the battlefield finally begins to quiet as rain and exhaustion wash over the kingdom.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Alabasta citizen",
+    "Vivi",
+    "King Cobra",
+    "Smoker",
+    "Luffy",
+    "Nico Robin"
+  ],
+  "scene": "This scene belongs to the The Rain Returns to Alabasta sequence. The important beat is the dialogue and action around Alabasta citizen, Vivi, King Cobra, Smoker, Luffy.",
+  "dialogue": [
+    {
+      "speaker": "Alabasta citizen",
+      "text": "You again?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I've cormered you now, Croc....!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "How... Are you still alive?"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Well,"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Straw hat!?"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "How did he..."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "twitch"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Straw hat..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You still haven't returned..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "The thing you've stolen...!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "The thing I stole...?"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Money? Fame...?"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Trust...? Is it life?"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Or perhaps the rain!?"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "The country!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Country!? You're an odd fellow..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "No, when I came here,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "It was already stolen!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Her country was nowhere to be found!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Hurry!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "The following conditions"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "If this were really her country..."
+    }
+  ],
+  "summary": "With Crocodile defeated and the truth exposed, the battlefield finally begins to quiet as rain and exhaustion wash over the kingdom.",
+  "confidence": 0.89,
+  "needs_review": false
+}

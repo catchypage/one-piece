@@ -1,0 +1,116 @@
+{
+  "chapter": "207",
+  "part": 4,
+  "title": "The Government Rewrites the Story",
+  "description": "On pages 13, 14, 15, 16, this part focuses on the straw hats become wanted heroes. News of Crocodile’s defeat spreads, new bounties and political consequences appear, and the crew prepares to leave Alabasta quietly.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Alabasta citizen",
+    "Vivi",
+    "King Cobra",
+    "Smoker",
+    "Tashigi",
+    "Nico Robin",
+    "Luffy",
+    "Nami"
+  ],
+  "scene": "This scene belongs to the The Straw Hats Become Wanted Heroes sequence. The important beat is the dialogue and action around Alabasta citizen, Vivi, King Cobra, Smoker, Tashigi.",
+  "dialogue": [
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Hmm? Oh, sure."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Are you heading out, Princess?"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Yes, have fun then."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Where's the Princess?"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "I can't say... it's a secret."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Haha... the clock tower again?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The weather,"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "...Did we stop it!?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "122..."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "122..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "tic"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "toc"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "tic"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "toc"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "tic..."
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "...What, you still alive?"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "...d-did we stop it!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ughh..."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "What the hell just fell on me!?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "What happened?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Something's strange..."
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Vivi won't show her face..."
+    }
+  ],
+  "summary": "News of Crocodile’s defeat spreads, new bounties and political consequences appear, and the crew prepares to leave Alabasta quietly.",
+  "confidence": 0.79,
+  "needs_review": false
+}

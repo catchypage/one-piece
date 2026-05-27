@@ -1,0 +1,190 @@
+{
+  "chapter": "80",
+  "part": 3,
+  "title": "Nezumi Steals Nami’s Hope",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Nami",
+    "Nojiko",
+    "Arlong",
+    "Marine Captain Nezumi",
+    "Cocoyasi villagers",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Marine soldiers"
+  ],
+  "scene": "On pages 9–12, Nojiko’s account of the past reveals how Nami, Bellemere, and Cocoyasi Village were damaged by Arlong’s arrival. The truth of Nami’s long sacrifice collides with Marine corruption and Arlong’s manipulation.",
+  "dialogue": [
+    {
+      "speaker": "Marine Captain Nezumi",
+      "text": "Search her house!"
+    },
+    {
+      "speaker": "Marine soldiers",
+      "text": "Yessir!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "W-Wait! You can't just enter other people's homes without permission!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I said stop!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Aghhh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What's the meaning of this...? Is this what Marines should be doing!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Don't you all have something more important to take care of!?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "The ARLONG Pirates are going around killing people and destroying villages on this island! You know that, don't you!?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "All the people on this island are slaves under their rule!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Yet you ignore that crisis and instead decide to confiscate the stolen goods of one petty thief!?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Is that how the government prioritizes things!?"
+    },
+    {
+      "speaker": "Marine Captain Nezumi",
+      "text": "chichichi...! criminals shouldn't speak so high-handedly, little girl!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Ignore her and continue on with the search!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Even though the people of this island have been waiting for years for the Marines to help..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "You pass them by without even so much as a glance and come right for me!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "captain, these orange fields seem rather suspicious..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Dig up the fields then!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Don't you dare touch Belliemere's oranges with your filthy hands!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ugh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I'll never hand over my money to the likes of you!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "That money is..."
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "That money is for the sake of every resident here in Cocoyashi Village!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Do you still believe you have the right to take that money away!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "Is that the way a mere village should be addressing a marine captain...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Gen...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "How did you... know that...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I knew all Arlong, naml...!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "back then, we couldn't believe what you had done no matter what,"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "So we forced Nojiko to tell us the truth..."
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "Everyone in the village knew all Arlong."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "But we feared that if you knew that we knew,"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Our hopes would pressure you into staying if you ever wanted to run away from it all."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "That's why we pretended not to know."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "WHA..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "What on earth is the meaning of this?"
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "Does this mean that all the villagers in this town were abetting a thief so we should arrest all of you?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "They're saying that the government is hopeless,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "So they have no choice but to fend for themselves!"
+    },
+    {
+      "speaker": "Nojiko",
+      "text": "Nojiko."
+    }
+  ],
+  "summary": "This part deepens Nami’s backstory, showing how family, money, and survival became tied to Arlong’s control over the village.",
+  "confidence": 0.69,
+  "needs_review": false
+}

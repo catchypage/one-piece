@@ -1,0 +1,51 @@
+{
+  "chapter": "536",
+  "part": 5,
+  "title": "The Depths of Impel Down: Aftermath",
+  "description": "In the Impel Down storyline, this section centers on Unknown person #8, Magellan, Unknown person #5, Unknown person #4, Ace as the scene develops across pages 17–18.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Unknown person #8",
+    "Magellan",
+    "Unknown person #5",
+    "Unknown person #4",
+    "Ace"
+  ],
+  "scene": "This scene advances the Impel Down conflict through Unknown person #8, Magellan, Unknown person #5, Unknown person #4, Ace, focusing on the immediate stakes of the depths of impel down: aftermath.",
+  "dialogue": [
+    {
+      "speaker": "Magellan",
+      "text": "Get Back!!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "eh..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Straw- Chan..."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "What ..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Was that...?"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Time Until Ace's Public Execution:"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "2.4 hours."
+    }
+  ],
+  "summary": "This scene advances the Impel Down conflict through Unknown person #8, Magellan, Unknown person #5, Unknown person #4, Ace, focusing on the immediate stakes of the depths of impel down: aftermath.",
+  "confidence": 0.7,
+  "needs_review": false
+}

@@ -1,0 +1,72 @@
+{
+  "chapter": "288",
+  "part": 5,
+  "title": "A Meeting That Changes Shandora",
+  "description": "Noland confronts the village’s disease and superstition, challenging the sacrifices that have shaped Shandora’s fear.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Calgara",
+    "Mont Blanc Noland",
+    "Musse",
+    "Shandia villagers",
+    "Nola",
+    "Nico Robin",
+    "Wyper",
+    "Luffy",
+    "Enel",
+    "Aisa"
+  ],
+  "scene": "Across pages 17, 18, this scene focuses on Calgara, Mont Blanc Noland, Musse, Shandia villagers, Nola. Noland confronts the village’s disease and superstition, challenging the sacrifices that have shaped Shandora’s fear.",
+  "dialogue": [
+    {
+      "speaker": "Calgara",
+      "text": "Ahahahaha! Serves you right!"
+    },
+    {
+      "speaker": "Mont Blanc Noland",
+      "text": "Is no Fearsome existence..."
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Stubborn heathen,"
+    },
+    {
+      "speaker": "Musse",
+      "text": "...What've you come here for?"
+    },
+    {
+      "speaker": "Mont Blanc Noland",
+      "text": "To kill you."
+    },
+    {
+      "speaker": "Mont Blanc Noland",
+      "text": "The earthquake just now was proof."
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Lord Kashi....? Ohh... you mean that snake..."
+    },
+    {
+      "speaker": "Mont Blanc Noland",
+      "text": "Silence!"
+    },
+    {
+      "speaker": "Mont Blanc Noland",
+      "text": "I don't want to see your face."
+    },
+    {
+      "speaker": "Mont Blanc Noland",
+      "text": "Interesting... I'll watch you squirm..."
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Until your last breath..."
+    }
+  ],
+  "summary": "Noland confronts the village’s disease and superstition, challenging the sacrifices that have shaped Shandora’s fear.",
+  "confidence": 0.88,
+  "needs_review": false
+}

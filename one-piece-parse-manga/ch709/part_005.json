@@ -1,0 +1,64 @@
+{
+  "chapter": "709",
+  "part": 5,
+  "title": "The Trap Tightens Around the Alliance",
+  "description": "Pages 17–17 focus on the trap tightens around the alliance, keeping the Dressrosa conflict centered on the characters active in this scene.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Colosseum Fighters",
+    "Doflamingo",
+    "Franky",
+    "Unknown person #10",
+    "Unknown person #12",
+    "Unknown person #13",
+    "Unknown person #24"
+  ],
+  "scene": "This part follows Colosseum Fighters, Doflamingo, Franky, Unknown person #10, Unknown person #12, Unknown person #13, Unknown person #24 as the Colosseum block battle reaches a brutal finish, setting up the tournament’s next stage and sharpening Luffy’s path toward the fruit.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #10",
+      "text": "... So you're also ..."
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Keep it down!!!"
+    },
+    {
+      "speaker": "Colosseum Fighters",
+      "text": "Inside the Colosseum: Passages to audience seating"
+    },
+    {
+      "speaker": "Franky",
+      "text": "You're also plotting to destroy the factory!?"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Indeed I am....!! My comrades and I have been moving along steadily with the preparations!!"
+    },
+    {
+      "speaker": "Colosseum Fighters",
+      "text": "Just tell me where it is!! I'll bring it down it in an instant!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "I can't allow that!! There are some who work in the factory who we aim to rescue!!"
+    },
+    {
+      "speaker": "Unknown person #24",
+      "text": "But our plan is one that could lead to the collapse of this entire country!!"
+    },
+    {
+      "speaker": "Doflamingo",
+      "text": "If you possess the gall and the fortitude to stand against DoFlamingo ..."
+    },
+    {
+      "speaker": "Unknown person #24",
+      "text": "I will tell you everything there is to know about this tragic country, \"dress- Rosa\"!!"
+    }
+  ],
+  "summary": "Pages 17–17 focus on the trap tightens around the alliance, keeping the Dressrosa conflict centered on the characters active in this scene.",
+  "confidence": 0.72,
+  "needs_review": false
+}

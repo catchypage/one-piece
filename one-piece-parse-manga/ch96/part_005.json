@@ -1,0 +1,105 @@
+{
+  "chapter": "96",
+  "part": 5,
+  "title": "Smoker Watches the Pirate Era",
+  "description": "On pages 17–18, smoker watches the pirate era focuses on Luffy, Zoro, Nami, Usopp as news of Luffy’s bounty spreads across the East Blue as the crew sails toward their next destination.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Buggy",
+    "Alvida",
+    "Smoker",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Dragon"
+  ],
+  "scene": "On pages 17–18, smoker watches the pirate era focuses on Luffy, Zoro, Nami, Usopp as news of Luffy’s bounty spreads across the East Blue as the crew sails toward their next destination.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "FUSHA VILLAGE (Luffy's Home- Town)"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Look. Luffy's become a wanted man."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Not bad!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Maybe our village will become known for being the home of a famous pirate!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "That'd be great!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Stop celebrating, you fools! Just what's there to be happy about having a criminal come from our village!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "AHA, chief!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Haha, but look, chief. Look how happy Luffy seems."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "A pirate is a pirate!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It is his dream, afterall."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Are you worried...?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Is it his dream..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Or his fate...?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "This room is often called \"Military Storage.\""
+    },
+    {
+      "speaker": "Luffy",
+      "text": "– Cantonballs"
+    },
+    {
+      "speaker": "Dragon",
+      "text": "This is how you wind the rope."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Rope (An essential item on ships.)"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Calmon (One forward)"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Alchor Line"
+    }
+  ],
+  "summary": "This part shifts the story from local East Blue battles to the wider pirate world reacting to Luffy’s new bounty.",
+  "confidence": 0.79,
+  "needs_review": false
+}

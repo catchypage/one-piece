@@ -1,0 +1,92 @@
+{
+  "chapter": "195",
+  "part": 2,
+  "title": "Vivi Searches for the Shooter",
+  "description": "On pages 6–9, this part focuses on vivi searches for the shooter, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "characters": [
+    "Vivi",
+    "Zoro",
+    "Nami",
+    "Usopp"
+  ],
+  "scene": "Vivi Searches for the Shooter. The bomb’s location and countdown push the Alubarna battle into its final desperate stage. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "Huff... Huff..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "He's one tough bastard..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Same to you..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "By the way, you shouldn't mistakenly think of me as a swordsman..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I've got plenty of other weapons to cut your body to shreds!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Spiral hollow"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "So you aren't a swordsman, are you..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Then what exactly are you, a miner!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "An assassin."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "S-Sparks!? How fast are those things spinning!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "My swords are getting bumped back!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I wouldn't even make for a good miner,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Since I'd cut through everything without restraint."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Oh shit-"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "GAHHA!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "A single moment's miscalculation,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Invites only death."
+    }
+  ],
+  "summary": "This part develops vivi searches for the shooter and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.77,
+  "needs_review": false
+}

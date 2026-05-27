@@ -1,0 +1,146 @@
+{
+  "chapter": "80",
+  "part": 2,
+  "title": "Nezumi Steals Nami’s Hope",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Nami",
+    "Nojiko",
+    "Arlong",
+    "Marine Captain Nezumi",
+    "Cocoyasi villagers",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6"
+  ],
+  "scene": "On pages 5–8, Nojiko’s account of the past reveals how Nami, Bellemere, and Cocoyasi Village were damaged by Arlong’s arrival. The truth of Nami’s long sacrifice collides with Marine corruption and Arlong’s manipulation.",
+  "dialogue": [
+    {
+      "speaker": "Marine Captain Nezumi",
+      "text": "What business do the Marines have with Nami?"
+    },
+    {
+      "speaker": "Marine Captain Nezumi",
+      "text": "Chichi Chi..."
+    },
+    {
+      "speaker": "Marine Captain Nezumi",
+      "text": "That's none of your concerns. Just lead the way."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "...why does that man,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Have a pinwheel on his head!?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Alright! Time to set out for my last haul!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Gen...?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "And the Marines...!?"
+    },
+    {
+      "speaker": "Marine Captain Nezumi",
+      "text": "chichichi... I'm CPT. Nezumi of the Marines' 16th branch."
+    },
+    {
+      "speaker": "Nami",
+      "text": "You must be Nami,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The Criminal."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Criminal?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "...well, I guess that's true considering how I am a pirate."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "But I'll have you know that I'm a crew officer for the Arlong Pirates."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm sure a marine captain such as yourself should be well aware,"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "that Arlong won't sit still if you happened to harm me."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "So tell me, what do you want from me?"
+    },
+    {
+      "speaker": "Marine Captain Nezumi",
+      "text": "chichichi... I have no idea what you're talking about. You're a pirate...?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "The information I received mentioned no such thing."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "don't worry, we're not here to hurt you but..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "I have received reports of your thievery..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "From what I've heard, you steal treasure from Pirates."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Since your victims were pirates, we have no intention of laying any strong charges against you."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "However, a thief is a thief and a crime is a crime."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Do you understand what I'm getting at? It's only natural that stolen goods of criminals,"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "should be given to the government so they can be returned to their rightful owners."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "What did you say!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm saying that you need to hand over all your stolen goods to us,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "This instant!"
+    }
+  ],
+  "summary": "This part deepens Nami’s backstory, showing how family, money, and survival became tied to Arlong’s control over the village.",
+  "confidence": 0.69,
+  "needs_review": false
+}

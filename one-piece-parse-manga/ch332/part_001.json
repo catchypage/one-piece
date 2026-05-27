@@ -1,0 +1,122 @@
+{
+  "chapter": "332",
+  "part": 1,
+  "title": "The Franky Family’s Attack",
+  "description": "Luffy has to decide the Going Merry’s future while Usopp’s anger and grief make the choice unbearable.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Usoppp",
+    "Luffy",
+    "Usopp",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Franky",
+    "Franky Family",
+    "Going Merry"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Usoppp, Luffy, Usopp, Nami, Zoro. Luffy has to decide the Going Merry’s future while Usopp’s anger and grief make the choice unbearable.",
+  "dialogue": [
+    {
+      "speaker": "Usoppp",
+      "text": "What are you thinking!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "\"What's done is done.\" Right?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "No! Just apologize to him!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Tonight at 10!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I'll come back here!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "We will duel for the right..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "to have going merry!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "complain all you want."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "There's no turning back..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Just for an argument..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Go off and chill if you understand!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Luffy..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Didn't they come here during the day!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "The frankies!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Why didn't you just finish them off!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "There's no point arguing about it!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Nami..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It's all this trash's fault."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Chopper, didn't you run after usop...?...?"
+    },
+    {
+      "speaker": "Usoppp",
+      "text": "I wanted to finish treating him..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "But he forced me to come back..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "usopp is in the city now..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "And he said..."
+    }
+  ],
+  "summary": "Luffy has to decide the Going Merry’s future while Usopp’s anger and grief make the choice unbearable.",
+  "confidence": 0.87,
+  "needs_review": false
+}

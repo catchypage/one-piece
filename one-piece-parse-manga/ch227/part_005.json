@@ -1,0 +1,80 @@
+{
+  "chapter": "227",
+  "part": 5,
+  "title": "The South Bird Hunt",
+  "description": "Cricket’s obsession with the lost city of gold and his ancestor’s disgrace gives the Sky Island search emotional weight.",
+  "pages": [
+    22,
+    23
+  ],
+  "characters": [
+    "Mont Blanc Cricket",
+    "Masira",
+    "Shojo",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Zoro",
+    "Chopper",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 22, 23, this scene centers on Mont Blanc Cricket, Masira, Shojo, Luffy, Nami. Cricket’s obsession with the lost city of gold and his ancestor’s disgrace gives the Sky Island search emotional weight.",
+  "dialogue": [
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Just what were you doing!?"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "t... there were... Cough! Bubbles from Bel-"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Caugh!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Huff... Huff..."
+    },
+    {
+      "speaker": "Masira",
+      "text": "You... you okay, old man?"
+    },
+    {
+      "speaker": "Shojo",
+      "text": "Cool this towel a little more."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "And open all the windows!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Diver's disease?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "This old man's sick?"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "What could have driven him to this?"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "I don't know... but it's very dangerous."
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Depending on the severity,"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Diver's disease can even lead to death,"
+    }
+  ],
+  "summary": "Cricket’s obsession with the lost city of gold and his ancestor’s disgrace gives the Sky Island search emotional weight.",
+  "confidence": 0.85,
+  "needs_review": false
+}

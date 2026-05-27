@@ -1,0 +1,137 @@
+{
+  "chapter": "131",
+  "part": 2,
+  "title": "The Munch-Munch King Attacks",
+  "description": "On pages 5–8, the munch-munch king attacks as the crew encounters Wapol and his men at sea, giving the first glimpse of the cruelty tied to Drum Kingdom.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Wapol",
+    "Luffy",
+    "Sanji",
+    "Nami",
+    "Vivi",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "The Munch-Munch King Attacks. The crew encounters Wapol and his men at sea, giving the first glimpse of the cruelty tied to Drum Kingdom. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Wapol",
+      "text": "raise the ship!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Increasing buoyancy!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ahhh how!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What's that!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "A water- melon!?"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "What's all this shaking!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hey, hang tight to the helm up there! If anything happens to Nami, I'll have your heads for it!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "WARVER..."
+    },
+    {
+      "speaker": "Wapol",
+      "text": "fall..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Is this thing..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "A ship...!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Snap"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Maha hahah Aha!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Surpri- Sed!?"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Has my submersible ambush-ship \"Tin can King\" left you speechless!?"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Oh crap!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "A pirate ship!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Whoa has"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Why now of all times..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "VIVI, I'll leave her with you for now!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "OK!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "What's going on out there!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "We have"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Hm..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "...Well?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "What's going on...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "We were ambushed."
+    }
+  ],
+  "summary": "This part centers on the munch-munch king attacks, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.62,
+  "needs_review": true
+}

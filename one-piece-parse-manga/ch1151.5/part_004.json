@@ -1,0 +1,82 @@
+{
+  "chapter": "1151.5",
+  "part": 4,
+  "title": "Jarul’s Legend Is Challenged",
+  "description": "On pages 10–12, this part follows Unknown person #10, Unknown person #11, Unknown person #12 as Elbaf’s warriors, Jarul, and the younger giants clash over the future of the island while dark forces twist pride and tradition into violence.",
+  "pages": [
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Unknown person #10",
+    "Unknown person #11",
+    "Unknown person #12"
+  ],
+  "scene": "Elbaf’s warriors, Jarul, and the younger giants clash over the future of the island while dark forces twist pride and tradition into violence.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "I am competent... but no one's perfect. You can't excel from all angles on your own."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Kids!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Stretch out your hands!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Oh!!! Okay!!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Mister Marine!!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Thank you, Mr. Marine!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "You should be thanking those two, not this old man."
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Ooh!!! Well aren't you a fine marine!!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Where's the drowning marine?!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Naturally..."
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "I'm not drowning (/"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Ah, don't worry about it, my friend is alright!!!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "And then..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "He tried so hard, he ended up covered in wounds, he's the coolest Marine Ever!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Wow... I've never met a cool marine like that..."
+    }
+  ],
+  "summary": "This part advances the The Giants Turn on Their Legend through 15 cleaned dialogue beats, focusing on the immediate conflict, character reactions, and the larger Elbaf mystery.",
+  "confidence": 0.67,
+  "needs_review": true
+}

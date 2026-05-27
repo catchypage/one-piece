@@ -1,0 +1,154 @@
+{
+  "chapter": "378",
+  "part": 2,
+  "title": "Sogeking Joins the Rescue",
+  "description": "Luffy charges ahead through Enies Lobby, aiming straight for Robin while the rest of the group fights to keep up.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Oimo",
+    "Sogeking",
+    "Franky",
+    "Chopper",
+    "Nico Robin",
+    "Blueno"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this part follows Luffy, Zoro, Nami, Sanji, Oimo. Luffy charges ahead through Enies Lobby, aiming straight for Robin while the rest of the group fights to keep up.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "the... the three of them..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "defeated in an instant...!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "We're NaturalBorn Fighters!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "We have a different kind of blood"
+    },
+    {
+      "speaker": "Oimo",
+      "text": "OIMO*!!!"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "00- WAAH!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "00- WAH!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Are you ready?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "BA Hi-?!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "It's done, let's go!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "We can't lose!!!"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "WAAAH —!!!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "UBA BABA BABA BABA BABA!!!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "They were our best guys!!!"
+    },
+    {
+      "speaker": "Oimo",
+      "text": "Gya Aya —!!"
+    },
+    {
+      "speaker": "Kashii",
+      "text": "Gya AAA"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Kaaashi!!!!!!!!?!?"
+    },
+    {
+      "speaker": "Enies Lobby guard",
+      "text": "Zanba!! Mozu!! Kiw!!"
+    },
+    {
+      "speaker": "Galley-La shipwright",
+      "text": "GalleyLA!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Let's go!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "The trio was beaten!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Yeah!"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Don't lose your cool,"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Mozu!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Roger! Kiw!!"
+    },
+    {
+      "speaker": "Kashii",
+      "text": "ship's bottom dismanting cut!!"
+    },
+    {
+      "speaker": "Kashii",
+      "text": "Rope action..."
+    },
+    {
+      "speaker": "Kashii",
+      "text": "Timber Hitch TUG!!!"
+    },
+    {
+      "speaker": "Kashii",
+      "text": "Ooow Owow OwowOW!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "CH-CHK!!"
+    }
+  ],
+  "summary": "Luffy charges ahead through Enies Lobby, aiming straight for Robin while the rest of the group fights to keep up.",
+  "confidence": 0.79,
+  "needs_review": false
+}

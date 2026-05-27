@@ -1,0 +1,81 @@
+{
+  "chapter": "351",
+  "part": 5,
+  "title": "Spandam’s Frame-Up",
+  "description": "Spandam weaponizes Franky’s battle ships to frame Tom, turning Franky’s creations into the tool that destroys his family.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Franky",
+    "Tom",
+    "Iceburg",
+    "Spandam",
+    "Kokoro",
+    "Yokozuna",
+    "World Government agent"
+  ],
+  "scene": "Across pages 17, 18, this part follows Franky, Tom, Iceburg, Spandam, Kokoro. Spandam weaponizes Franky’s battle ships to frame Tom, turning Franky’s creations into the tool that destroys his family.",
+  "dialogue": [
+    {
+      "speaker": "Franky",
+      "text": "This ship must have been really happy..."
+    },
+    {
+      "speaker": "Tom",
+      "text": "..... Going Merry..."
+    },
+    {
+      "speaker": "Tom",
+      "text": "... I see"
+    },
+    {
+      "speaker": "Tom",
+      "text": "So, then,"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "The guy who talked to me..."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Really was you..."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "..... Going Merry."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "This is amazing......!!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "...it's not like that."
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "Men are so clumsy--"
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "They're stupid ---!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Tom",
+      "text": "Bro,"
+    },
+    {
+      "speaker": "Tom",
+      "text": "Someone's here."
+    }
+  ],
+  "summary": "Spandam weaponizes Franky’s battle ships to frame Tom, turning Franky’s creations into the tool that destroys his family.",
+  "confidence": 0.85,
+  "needs_review": false
+}

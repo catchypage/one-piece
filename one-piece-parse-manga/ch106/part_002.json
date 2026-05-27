@@ -1,0 +1,150 @@
+{
+  "chapter": "106",
+  "part": 2,
+  "title": "The Crew Reaches Whiskey Peak",
+  "description": "On pages 4–5, the crew reaches whiskey peak as after facing the Grand Line’s bizarre weather, the crew reaches Whiskey Peak and is greeted with suspicious enthusiasm.",
+  "pages": [
+    4,
+    5
+  ],
+  "characters": [
+    "Nami",
+    "Usopp",
+    "Luffy",
+    "Sanji",
+    "Zoro",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7"
+  ],
+  "scene": "The Crew Reaches Whiskey Peak. After facing the Grand Line’s bizarre weather, the crew reaches Whiskey Peak and is greeted with suspicious enthusiasm. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "Ahhhhh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "W-What is it!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What's the matter, my beloved Nami!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "This can't be happy- ending!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Turn the ship around 180 degrees! Hurry!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "180 degrees? Why're we turning back?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Did we forget something?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "No! The ship turned /75ELF around and is now heading directly away from our destination!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I only took my eyes off of the log pose for a second and the waves were so calm too...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Looks like you've been played by the waves."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Are you really a Navigator?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That's the kind of ocean this is. The winds, skies, waves, and even the clouds..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You can't trust any of them."
+    },
+    {
+      "speaker": "Nami",
+      "text": "The only thing you can trust out here is in the direction your log pose points!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Do you understand?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Stop acting so high and mighty and start helping out!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Aghh!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Catch the wind from the right side!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "We'll use it to turn the ship around 180 degrees to the left!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "usopp, you take the jib sail!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Got it!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Sanji, you take the rudder!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "What a violent woman..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Just leave it to me, Nami!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "And be quiet!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Hey, wait! The winds just changed!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "That can't be!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Ah, the first breeze of spring."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Zoro, wake up! We're in an emergency!"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on the crew reaches whiskey peak. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.7,
+  "needs_review": true
+}

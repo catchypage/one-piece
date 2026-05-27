@@ -1,0 +1,119 @@
+{
+  "chapter": "41",
+  "part": 5,
+  "title": "Kaya Gives the Straw Hats a Ship",
+  "description": "On pages 16–18, Syrup Village moves from battle to farewell as Usopp, Kaya, and the Straw Hats decide what comes after Kuro’s defeat.",
+  "pages": [
+    16,
+    17,
+    18
+  ],
+  "characters": [
+    "Usopp",
+    "Narrator",
+    "Kaya",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5"
+  ],
+  "scene": "The danger has passed, but the emotional weight remains: Usopp must choose between staying with the village that knows his lies and chasing the sea like his father.",
+  "dialogue": [
+    {
+      "speaker": "Usopp",
+      "text": "I'm the son of a pirate!!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "The pirates are here!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "out of sadness, he continued to lie after her death"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Hoping that someday..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "His father's pirate ship might appear in the bay,"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "that he would come to pick up his son..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "The village- Ers said that was the reason behind his lies"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "He probably couldn't leave you alone after you lost your parents,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "for he too experienced that loss in this village"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "You will need to become stronger now..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "as a grati- tude of everything he has done for you..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Yes..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "to a new ship and a new crew member!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Cheers!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Let's go!!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Are we really going to do it?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Of course!! We have to succeed the captain!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Meri..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "meri... I..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Yes Ojou- Sama?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "I'm going to become a doctor..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "The Pirates are here!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Oh, that is a good goal!"
+    }
+  ],
+  "summary": "This part closes Syrup Village by turning Usopp’s lies into a bittersweet farewell, while Kaya’s gift helps the Straw Hats continue their voyage.",
+  "confidence": 0.74,
+  "needs_review": false
+}

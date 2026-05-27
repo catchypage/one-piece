@@ -1,0 +1,55 @@
+{
+  "chapter": "12",
+  "part": 6,
+  "title": "Chouchou Refuses to Abandon the Shop",
+  "description": "On pages 20–20, Chouchou’s loyalty to the pet food shop turns Buggy’s occupation from a pirate threat into a personal wound for the town.",
+  "pages": [
+    20
+  ],
+  "characters": [
+    "Chouchou",
+    "Nami"
+  ],
+  "scene": "Chouchou refuses to give up the place connected to his owner, while pirates and bystanders react to the dog’s stubborn defense.",
+  "dialogue": [
+    {
+      "speaker": "Chouchou",
+      "text": "WHAT'S WRONG...?"
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "I see... a pet food store."
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "Okay, fine..."
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "HAVE A SNACK, BUT BE QUICK ABOUT IT."
+    },
+    {
+      "speaker": "Nami",
+      "text": "WOW! WHAT AN IMPACT!"
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "He knocked me through that house and into the street behind it!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "BUT AT LEAST I'M OUT OF THAT CAGE!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "OKAY, NOW I'LL SHOW ALL OF THESE CLOWNS..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "...AND MAKE THAT THIEF, NAMI, OUR NAVIGATOR!"
+    }
+  ],
+  "summary": "This part makes the conflict emotional: Luffy sees that Buggy’s violence is not abstract, but aimed at things people love and protect.",
+  "confidence": 0.83,
+  "needs_review": false
+}

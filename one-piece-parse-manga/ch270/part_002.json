@@ -1,0 +1,102 @@
+{
+  "chapter": "270",
+  "part": 2,
+  "title": "The Survivors Keep Falling",
+  "description": "Nami is pulled into Enel’s escape plan while the remaining fighters try to understand how to stop the coming disaster.",
+  "pages": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "characters": [
+    "Enel",
+    "Eneru",
+    "Nami",
+    "Sanji",
+    "Usopp",
+    "Gan Fall",
+    "Wyper",
+    "Luffy",
+    "Zoro",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 4, 5, 6, 7, this scene centers on Enel, Eneru, Nami, Sanji, Usopp. Nami is pulled into Enel’s escape plan while the remaining fighters try to understand how to stop the coming disaster.",
+  "dialogue": [
+    {
+      "speaker": "Enel",
+      "text": "What's going on!!?"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Damn it! What is that dog doing....!?"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Haha! You are now trapped"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "In the real trial of iron!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "The White Thorn Death- Match!!!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Completely unnecessary..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "In other words"
+    },
+    {
+      "speaker": "Nami",
+      "text": "ARGH!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's better to avoid..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Being projected on it."
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Don't be in a hurry, my friend..."
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Think about it after you've eliminated me!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Tsula!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Eight men and two animals remaining..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Wyper!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "HAA.... HAA..."
+    },
+    {
+      "speaker": "Enel",
+      "text": "Thank God I found you!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Laki..."
+    }
+  ],
+  "summary": "Nami is pulled into Enel’s escape plan while the remaining fighters try to understand how to stop the coming disaster.",
+  "confidence": 0.86,
+  "needs_review": false
+}

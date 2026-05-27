@@ -1,0 +1,60 @@
+{
+  "chapter": "370",
+  "part": 5,
+  "title": "The Gate of Justice Looms",
+  "description": "Robin’s decision and the crew’s determination collide as the Sea Train carries everyone closer to Enies Lobby.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Franky",
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Kokoro",
+    "Sogeking",
+    "Chopper",
+    "Nico Robin",
+    "Franky Family"
+  ],
+  "scene": "Across pages 17, 18, this part follows Franky, Luffy, Zoro, Nami, Sanji. Robin’s decision and the crew’s determination collide as the Sea Train carries everyone closer to Enies Lobby.",
+  "dialogue": [
+    {
+      "speaker": "Franky",
+      "text": "Fresh fire!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "SORU!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "He jumped into the sea on purpose!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "GetsuPou*!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "What kind of....!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "...monster are you!!!?"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "Sea Train"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "only 20 minutes."
+    }
+  ],
+  "summary": "Robin’s decision and the crew’s determination collide as the Sea Train carries everyone closer to Enies Lobby.",
+  "confidence": 0.82,
+  "needs_review": false
+}

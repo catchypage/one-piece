@@ -1,0 +1,66 @@
+{
+  "chapter": "147",
+  "part": 5,
+  "title": "The Tyrant Climbs Higher",
+  "description": "On pages 18–19, this part focuses on the tyrant climbs higher, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    18,
+    19
+  ],
+  "characters": [
+    "Wapol",
+    "Luffy",
+    "Chopper",
+    "Unknown person #1"
+  ],
+  "scene": "The Tyrant Climbs Higher. Back in the present, Wapol attacks Drum Castle and tries to turn Hiriluk’s symbol into another selfish possession. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Wapol",
+      "text": "Chopperr!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What's he doing?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hey you with the big fat mouth!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Your majesty, look!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Hmm!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Straw Hat!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "A lying poser like you,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Who only \"played\" pirates without even fully risking your life,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Could never understand the true meaning of a pirate's flag!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "...what!?"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Strawhat..."
+    }
+  ],
+  "summary": "This part highlights the tyrant climbs higher and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.71,
+  "needs_review": false
+}

@@ -1,0 +1,59 @@
+{
+  "chapter": "355",
+  "part": 5,
+  "title": "Allies Join the Rescue",
+  "description": "Back in the present, Aqua Laguna bears down on Water Seven while CP9 prepares to leave with Robin and Franky.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Iceburg",
+    "Luffy",
+    "Franky",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "CP9 agent",
+    "Kokoro"
+  ],
+  "scene": "Across pages 17, this part follows Iceburg, Luffy, Franky, Nami, Zoro. Back in the present, Aqua Laguna bears down on Water Seven while CP9 prepares to leave with Robin and Franky.",
+  "dialogue": [
+    {
+      "speaker": "Iceburg",
+      "text": "Let's go stop it, iceburg!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yeah!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Get away from the ships!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Dammit who is it!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "I'm gonna kick your ass!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Hahaha..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "Let's start the trial..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "Tom's workers..."
+    }
+  ],
+  "summary": "Back in the present, Aqua Laguna bears down on Water Seven while CP9 prepares to leave with Robin and Franky.",
+  "confidence": 0.84,
+  "needs_review": false
+}

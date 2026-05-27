@@ -1,0 +1,103 @@
+{
+  "chapter": "218",
+  "part": 4,
+  "title": "The Crew Searches for Proof",
+  "description": "On pages 13, 14, 15, 16, this part focuses on the salvage monkeys appear. Masira and the Salvage King crew enter the story as the Straw Hats encounter the rough culture around shipwrecks and treasure hunting.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Luffy",
+    "Narrator",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Zoro",
+    "Nico Robin"
+  ],
+  "scene": "This scene belongs to the The Salvage Monkeys Appear sequence. The important beat is the dialogue and action around Luffy, Narrator, Nami, Usopp, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Everything that humans can imagine,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Can happen in reality. -Physicist Willy Gallon-"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "A falling ship?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What the..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "A GALLEON...!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Aaaaa GGGHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hold tight onto the ship!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "W-what, what, what!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "A dream! Yes, I must be dreaming!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "A dream!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Whew, that's a relief!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Turn the rudder!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "As if that'd work with these waves!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Alright! Hm? Usopp!?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "And then slowly open them again,"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "And look... It's a calm, beautiful momi-"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Aghhh! A skeleton!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Don't throw it at me, you idiot!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "There's more falling down!"
+    }
+  ],
+  "summary": "Masira and the Salvage King crew enter the story as the Straw Hats encounter the rough culture around shipwrecks and treasure hunting.",
+  "confidence": 0.86,
+  "needs_review": false
+}

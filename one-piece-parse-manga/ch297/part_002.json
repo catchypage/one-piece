@@ -1,0 +1,90 @@
+{
+  "chapter": "297",
+  "part": 2,
+  "title": "Raigo Threatens the Island",
+  "description": "Luffy defeats Enel and rings the golden bell, sending proof of the City of Gold down to Mont Blanc Cricket.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Narrator",
+    "Enel",
+    "Nami",
+    "Calgara",
+    "Aisa",
+    "Wyper",
+    "Gan Fall",
+    "Conis",
+    "Pagaya"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this scene focuses on Luffy, Narrator, Enel, Nami, Calgara. Luffy defeats Enel and rings the golden bell, sending proof of the City of Gold down to Mont Blanc Cricket.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "It won't sink!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Upper yard won't budge an inch!"
+    },
+    {
+      "speaker": "Enel",
+      "text": "What tremendous power to resist!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Yes, yearth's grandeur surpasses"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Wyperrr! Wyperrr!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Go..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Straw Hat..."
+    },
+    {
+      "speaker": "Aisa",
+      "text": "They're all so stubbornly persistent..."
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Here I come!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "enel!"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Hand over!"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "The golden bell!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Enough is enough!"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Disappear with the whole country!"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Raigou!"
+    }
+  ],
+  "summary": "Luffy defeats Enel and rings the golden bell, sending proof of the City of Gold down to Mont Blanc Cricket.",
+  "confidence": 0.88,
+  "needs_review": false
+}

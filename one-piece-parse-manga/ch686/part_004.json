@@ -1,0 +1,100 @@
+{
+  "chapter": "686",
+  "part": 4,
+  "title": "The Escape Plan Tightens",
+  "description": "On pages 11–14, this part follows Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Unknown person #7. The central beat is the escape plan tightens.",
+  "pages": [
+    11,
+    12,
+    13,
+    14
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Unknown person #10",
+    "Unknown person #12",
+    "G-5 Marines"
+  ],
+  "scene": "The scene focuses on the escape plan tightens, with Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Unknown person #7 shaping the Punk Hazard finale and the road toward Dressrosa.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "\"Quatro Mamo\""
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "WH... whoa... that was scary!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Out of the way, you guys!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Well, follow them!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Let's hurry!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Just hang in there, Mochya!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "All right."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "So there's really no problem, then?"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "I'm just saying that you're thoughtless!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "\"Skin Katana\"!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "This whole time, you've..."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Why've you only been blocking my attacks"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "There's no one here!!"
+    },
+    {
+      "speaker": "Trafalgar Law",
+      "text": "Wait, there's still a room further in!!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "It's a bit cold in here"
+    },
+    {
+      "speaker": "G-5 Marines",
+      "text": "Marines !!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Let's head in that door!!"
+    }
+  ],
+  "summary": "The Escape Plan Tightens. This part advances the collapse of Caesar’s operation, Law’s leverage over Doflamingo, and the alliance’s next destination.",
+  "confidence": 0.72,
+  "needs_review": true
+}

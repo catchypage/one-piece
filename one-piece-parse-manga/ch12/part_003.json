@@ -1,0 +1,160 @@
+{
+  "chapter": "12",
+  "part": 3,
+  "title": "Chouchou Refuses to Abandon the Shop",
+  "description": "On pages 8–11, Chouchou’s loyalty to the pet food shop turns Buggy’s occupation from a pirate threat into a personal wound for the town.",
+  "pages": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Mayor Boodle",
+    "Chouchou",
+    "Unknown person #3",
+    "Nami",
+    "Unknown person #4",
+    "Unknown person #5"
+  ],
+  "scene": "Chouchou refuses to give up the place connected to his owner, while pirates and bystanders react to the dog’s stubborn defense.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Yipe yipe!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "DERN WHIPER- SNAPPERS!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Don't you pick on poor ol' chou- chou!"
+    },
+    {
+      "speaker": "Mayor Boodle",
+      "text": "Boodle mayor of Port Town"
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "Chouchou?"
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "Who're you, old timer?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "WHO AMI?"
+    },
+    {
+      "speaker": "Mayor Boodle",
+      "text": "I'm the mayor of this town..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "That's who!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "WHERE'D YOU TAKE ZOLO?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "He's resting. My house is just over there."
+    },
+    {
+      "speaker": "Nami",
+      "text": "THAT BOY'S LOST A LOT OF BLOOD!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I told 'Im there's a doctor at the refugee shelter, but he said he just needs a little sleep!!"
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "THE DOG'S NAME IS CHOUCHOU?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "That's right."
+    },
+    {
+      "speaker": "Mayor Boodle",
+      "text": "WHY'S HE THE ONLY ONE LEFT IN TOWN?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "He's guarding the shop!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Just came to feed him."
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "OH! SO HE'S A GUARD DOG!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "For a pet food store..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "A good friend of mine owned this store."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "ABOUT TEN YEARS AGO..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "...he and chouchou opened this little shop."
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "They've got a lot of memories here"
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "And so do I..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "CHOUCHOU! You're in charge while I'm gone."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "DON'T EAT UP ALL THE MERCHAN- DISE, Y'HEAR!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Ruff!"
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "See those wounds..."
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "HE'S BEEN FIGHTING THE PIRATES..."
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "Pro- Tecting his store..."
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "I'm sure this shop means a lot to his master, but this is just cruel."
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "Is he at the refugee shelter with the others?"
+    }
+  ],
+  "summary": "This part makes the conflict emotional: Luffy sees that Buggy’s violence is not abstract, but aimed at things people love and protect.",
+  "confidence": 0.7,
+  "needs_review": false
+}

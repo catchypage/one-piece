@@ -1,0 +1,120 @@
+{
+  "chapter": "565.5",
+  "part": 1,
+  "title": "Luffy Enters the War",
+  "description": "In the Marineford War storyline, this section centers on Magellan, Brook, Unknown person #8, Unknown person #1, Unknown person #2, Unknown person #3 as the scene develops across pages 1–4.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Magellan",
+    "Brook",
+    "Unknown person #8",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #9",
+    "Unknown person #10"
+  ],
+  "scene": "This scene advances the Marineford War conflict through Magellan, Brook, Unknown person #8, Unknown person #1, Unknown person #2, focusing on the immediate stakes of luffy enters the war.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Marine Headglar- TERS"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "ADMIRAL KONG!!"
+    },
+    {
+      "speaker": "Magellan",
+      "text": "There it is!"
+    },
+    {
+      "speaker": "Magellan",
+      "text": "Wait, GARP!!"
+    },
+    {
+      "speaker": "Brook",
+      "text": "We're NOT THROUGH YET!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Maybe you aren't, but I am!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "You're so cool!"
+    },
+    {
+      "speaker": "Brook",
+      "text": "Garp!! Shiki is my business!"
+    },
+    {
+      "speaker": "Brook",
+      "text": "You stay out of it!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "That's not what I meant !!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "The new world"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Captain Roger!!! Our lives are more important!!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Sorry, but he's in great shape."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Rayleigh- San!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Roger's time is almost up.....!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I have no desire to rule, SHIK!!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "You can pressure me all you want,"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Golden Lion!!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Stop it, Captain!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "outta the way."
+    },
+    {
+      "speaker": "Magellan",
+      "text": "So your answer"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Is that you want to die today!!!?"
+    }
+  ],
+  "summary": "This scene advances the Marineford War conflict through Magellan, Brook, Unknown person #8, Unknown person #1, Unknown person #2, focusing on the immediate stakes of luffy enters the war.",
+  "confidence": 0.67,
+  "needs_review": true
+}

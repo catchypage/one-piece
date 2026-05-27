@@ -1,0 +1,89 @@
+{
+  "chapter": "14",
+  "part": 3,
+  "title": "Buggy’s Cannon Threatens Orange Town",
+  "description": "On pages 7–9, Buggy’s crew threatens Orange Town with overwhelming force, turning the town itself into a hostage.",
+  "pages": [
+    7,
+    8,
+    9
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Mayor Boodle",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Nami",
+    "Luffy",
+    "Unknown person #7"
+  ],
+  "scene": "Buggy’s pirates rely on spectacle and destruction, while Luffy, Zoro, and Nami are forced to react under pressure.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Don't Focus- Age Him!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Forty years of hard work!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "THIS PLACE WAS A WILDERNESS WHEN WE GOT HERE."
+    },
+    {
+      "speaker": "Mayor Boodle",
+      "text": "\"We'll build our town right here!\""
+    },
+    {
+      "speaker": "Mayor Boodle",
+      "text": "\"WE'LL FORGET OUR OLD TOWN THAT THE PIRATES DESTROYED.\""
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "At first, it was just a few homes."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "We worked hard, cleared the land. Over time people came and opened up shops."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "But slowly our numbers grew."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "AND LOOK AT US NOW! WE'RE A THRIVING FORT!"
+    },
+    {
+      "speaker": "Mayor Boodle",
+      "text": "We old Timers built this town from nothing!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "It's OUR LIFE'S WORK!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "This town and its people are my treasure!"
+    },
+    {
+      "speaker": "Mayor Boodle",
+      "text": "I'd be a sorry excuse for a mayor if I didn't try to protect the town!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm gonna fight!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "FireThe ' Buggy Ball!!!!"
+    }
+  ],
+  "summary": "The part shows how Buggy rules through fear, while the Straw Hats begin breaking that fear through defiance and improvisation.",
+  "confidence": 0.6,
+  "needs_review": true
+}

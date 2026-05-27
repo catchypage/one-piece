@@ -1,0 +1,90 @@
+{
+  "chapter": "336",
+  "part": 1,
+  "title": "The Franky Family’s Attack",
+  "description": "The duel ends with Usopp leaving the crew and the Going Merry becoming a symbol of a broken bond.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Iceburg",
+    "Nami",
+    "Zoro",
+    "Franky",
+    "Sanji",
+    "Chopper",
+    "Usopp",
+    "Franky Family",
+    "Going Merry"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Luffy, Iceburg, Nami, Zoro, Franky. The duel ends with Usopp leaving the crew and the Going Merry becoming a symbol of a broken bond.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "So you're..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Straw hat Luffy!?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "While I was away..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "My house was completely demolished!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "My men were beaten up, too..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "This rage won't subside!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Wait a minute!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Ah? That..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I already spent every penny!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The Money doesn't matter!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Franky is going berserk!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "WAAAH!! Run away!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hey!! Get down here!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "What is he doing?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "WAAH!!!"
+    }
+  ],
+  "summary": "The duel ends with Usopp leaving the crew and the Going Merry becoming a symbol of a broken bond.",
+  "confidence": 0.86,
+  "needs_review": false
+}

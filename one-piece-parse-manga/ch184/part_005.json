@@ -1,0 +1,119 @@
+{
+  "chapter": "184",
+  "part": 5,
+  "title": "The Duel Turns Deadly",
+  "description": "On pages 16–18, this part focuses on the duel turns deadly, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    16,
+    17,
+    18
+  ],
+  "characters": [
+    "Chopper",
+    "Nami",
+    "Miss Doublefinger",
+    "Miss Merry Christmas",
+    "Usopp",
+    "Baroque Works agent",
+    "Vivi",
+    "Mr. 4"
+  ],
+  "scene": "The Duel Turns Deadly. Nami fights Miss Doublefinger and learns how to use Usopp’s strange weapon under deadly pressure. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Chopper",
+      "text": "Dammit! If they keep running circles around me like this, there's no way I can finish them off in 3 minutes with a rumble ball!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hm? Where'd that other one go!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The one with the long nose! Where'd he go!?"
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "usop...!?"
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "Let me just say..."
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "That you guys aren't the only ones,"
+    },
+    {
+      "speaker": "Miss Merry Christmas",
+      "text": "Who can use these tunnels!"
+    },
+    {
+      "speaker": "Miss Merry Christmas",
+      "text": "He was inside our tunnels!?"
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "USOP..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "For"
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "Way to go!"
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "Pound!"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "Mr. 4!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "A S TON HAMMER!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Where'd a scrawny brat like him get the strength to use something like that!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The number of ships I've sunk? Too many to count... The people call me,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The Lord of destruction."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "J-just who the hell are you!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "5 tons..."
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "My name's..."
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "The next day I"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You're amazing!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Captain usopp."
+    }
+  ],
+  "summary": "This part develops the duel turns deadly and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

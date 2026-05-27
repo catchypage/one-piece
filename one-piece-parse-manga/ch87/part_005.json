@@ -1,0 +1,52 @@
+{
+  "chapter": "87",
+  "part": 5,
+  "title": "Usopp Wins His Own Way",
+  "description": "On pages 18–18, usopp wins his own way focuses on Usopp, Chew, Nami, Arlong as usopp is forced into a one-on-one fight against Chew and struggles between fear, lies, and real courage.",
+  "pages": [
+    18
+  ],
+  "characters": [
+    "Usopp",
+    "Chew",
+    "Nami",
+    "Arlong",
+    "Sanji",
+    "Zoro",
+    "Unknown person #1"
+  ],
+  "scene": "On pages 18–18, usopp wins his own way focuses on Usopp, Chew, Nami, Arlong as usopp is forced into a one-on-one fight against Chew and struggles between fear, lies, and real courage.",
+  "dialogue": [
+    {
+      "speaker": "Arlong",
+      "text": "Aghhh!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "What did you say,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Was over?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Our fight!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Did you know that alcohol is flammable!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Certain kill flame star!"
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.73,
+  "needs_review": true
+}

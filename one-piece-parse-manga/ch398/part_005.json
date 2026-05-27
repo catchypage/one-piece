@@ -1,0 +1,59 @@
+{
+  "chapter": "398",
+  "part": 5,
+  "title": "The Rescue Race Starts",
+  "description": "Back in Enies Lobby, the Straw Hats fully reject the World Government’s authority and stand with Robin.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nico Robin",
+    "Nami",
+    "Spandam",
+    "Sanji",
+    "Chopper",
+    "Sogeking",
+    "Franky",
+    "Rob Lucci"
+  ],
+  "scene": "Across pages 17, this part follows Luffy, Zoro, Nico Robin, Nami, Spandam. Back in Enies Lobby, the Straw Hats fully reject the World Government’s authority and stand with Robin.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "The drawbridge is lowering!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I guess they've done their job well."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "i'm trembling from the excitement..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "They're coming!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "hurry up and lower it."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "What an evil face....!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "gyaaaah, don't come!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Here we go!!!"
+    }
+  ],
+  "summary": "Back in Enies Lobby, the Straw Hats fully reject the World Government’s authority and stand with Robin.",
+  "confidence": 0.86,
+  "needs_review": false
+}

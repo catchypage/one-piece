@@ -1,0 +1,80 @@
+{
+  "chapter": "229",
+  "part": 5,
+  "title": "The South Bird Hunt",
+  "description": "The crew searches Jaya’s forest for the South Bird, a strange creature needed to navigate toward the Knock Up Stream.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Zoro",
+    "Masira",
+    "Shojo",
+    "Bellamy",
+    "Luffy",
+    "Mont Blanc Cricket",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper"
+  ],
+  "scene": "Across pages 17, 18, this scene centers on Zoro, Masira, Shojo, Bellamy, Luffy. The crew searches Jaya’s forest for the South Bird, a strange creature needed to navigate toward the Knock Up Stream.",
+  "dialogue": [
+    {
+      "speaker": "Zoro",
+      "text": "He was executed later that day,"
+    },
+    {
+      "speaker": "Masira",
+      "text": "Right eye of the skull!?"
+    },
+    {
+      "speaker": "Masira",
+      "text": "And that's why we dive!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "That's right, ukiki!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "Uoho!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "We're gonna fly!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "Up into the sky!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "WOO HOO!"
+    },
+    {
+      "speaker": "Shojo",
+      "text": "The night's fallen by now,"
+    },
+    {
+      "speaker": "Shojo",
+      "text": "But I see it now."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Bellamy."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Prepare to land."
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "material gold,"
+    }
+  ],
+  "summary": "The crew searches Jaya’s forest for the South Bird, a strange creature needed to navigate toward the Knock Up Stream.",
+  "confidence": 0.87,
+  "needs_review": false
+}

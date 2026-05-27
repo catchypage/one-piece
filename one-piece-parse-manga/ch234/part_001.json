@@ -1,0 +1,118 @@
+{
+  "chapter": "234",
+  "part": 1,
+  "title": "Bellamy Attacks the Dreamers",
+  "description": "The Saruyama Alliance finishes the ship’s upgrades as the Straw Hats get ready for the impossible launch.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Bellamy",
+    "Sarquiss",
+    "Mont Blanc Cricket",
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Blackbeard",
+    "Masira",
+    "Shojo",
+    "Mock Town pirate"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this scene centers on Bellamy, Sarquiss, Mont Blanc Cricket, Luffy, Nami. The Saruyama Alliance finishes the ship’s upgrades as the Straw Hats get ready for the impossible launch.",
+  "dialogue": [
+    {
+      "speaker": "Bellamy",
+      "text": "Holy Land \"Marie-Joie\""
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "Stop!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "What do you think you're doing!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "So stop it at once!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Deflamingo, this is your doing, isn't it?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Be a good boy now,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "And stop."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Fufufu!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Well then..."
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "Agh-"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Fufufufufufufufu! And quickly wrap up this meeting!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "613..."
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "Clutch"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Aghh!"
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "I said stop, you idiot!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "Dofla- wingo!"
+    },
+    {
+      "speaker": "Shojo",
+      "text": "Fufufu!"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "cease this."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Paraahh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "scum of the seas."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Fufufu! Well aren't you pretty high-minded..."
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "...Still,"
+    }
+  ],
+  "summary": "The Saruyama Alliance finishes the ship’s upgrades as the Straw Hats get ready for the impossible launch.",
+  "confidence": 0.87,
+  "needs_review": false
+}

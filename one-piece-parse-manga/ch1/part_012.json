@@ -1,0 +1,136 @@
+{
+  "chapter": "1",
+  "part": 12,
+  "title": "Shanks Saves Luffy from the Sea",
+  "description": "On pages 42–44, this part follows the Romance Dawn flashback and focuses on how Luffy’s pirate dream is formed through Shanks, Higuma, and the straw hat promise.",
+  "pages": [
+    42,
+    43,
+    44
+  ],
+  "characters": [
+    "Higuma",
+    "Makino",
+    "Luffy",
+    "Shanks",
+    "Unknown person #1"
+  ],
+  "scene": "The danger reaches the water, where Shanks saves Luffy and pays a permanent price for that rescue.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "WHAT A BRILLIANT ESCAPE!"
+    },
+    {
+      "speaker": "Higuma",
+      "text": "AND NOBODY WOULD EVER EXPECT A MOUNTAIN BANDIT TO HIDE OUT AT SEA!!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "BROUGHT YOU ALONG AS A HOSTAGE..."
+    },
+    {
+      "speaker": "Makino",
+      "text": "BUT I NO LONGER HAVE A USE FOR YOU!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I've already killed $6 people who were foolish enough to make me mad, what's one more?"
+    },
+    {
+      "speaker": "Makino",
+      "text": "UNH"
+    },
+    {
+      "speaker": "Higuma",
+      "text": "You die!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "TSK TSK"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Goodbye..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "JERK!!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "BRAT..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That guy is scum!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "AND I DIDN'T EVEN GET ONE PUNCH IN! DARN IT!"
+    },
+    {
+      "speaker": "Higuma",
+      "text": "Did you see the look on those pirates' faces?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "BROKE A BOTTLE OVER HIS HEAD, AND NOT ONE WORD OF PROTEST!!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "COWARDS LIKE THAT MAKE ME SICK!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "WANTED TO KILL HIM!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "pirates are all talk."
+    },
+    {
+      "speaker": "Makino",
+      "text": "Take that back!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "Huh!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Take back what you said about shanks!! He's not a coward!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Luffy! Stop!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Stop talking bad about shanks!!!!!!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "Haha haha ha!!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "Glug glue"
+    },
+    {
+      "speaker": "Makino",
+      "text": "Glug"
+    },
+    {
+      "speaker": "Makino",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "what... the-- AAH!!"
+    }
+  ],
+  "summary": "The bandit threat turns deadly, and Shanks saves Luffy from the sea. The rescue shows the seriousness behind Shanks’ carefree attitude.",
+  "confidence": 0.93,
+  "needs_review": false
+}

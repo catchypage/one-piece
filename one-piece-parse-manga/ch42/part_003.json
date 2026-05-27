@@ -1,0 +1,108 @@
+{
+  "chapter": "42",
+  "part": 3,
+  "title": "Johnny and Yosaku Cross Paths With the Crew",
+  "description": "On pages 8–11, the Straw Hats settle into life aboard their new ship, raise their pirate flag, and meet Johnny and Yosaku on the way toward a cook.",
+  "pages": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "characters": [
+    "Johnny",
+    "Luffy",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Zoro"
+  ],
+  "scene": "The crew’s mood is lighter after Syrup Village, but practical problems quickly appear: they need roles, supplies, medical help, and eventually a cook.",
+  "dialogue": [
+    {
+      "speaker": "Johnny",
+      "text": "I've killed countless of infamous Pirates..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "And yet a nameless person like you..."
+    },
+    {
+      "speaker": "Johnny",
+      "text": "Dares to Kill My Partner!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Partner...?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I don't know who you're talking about but"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "don't..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Wreck my ship!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ugh...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "A-Almost had him..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Just what the heck,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Are you shouting about anyways?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hey! Aren't you Johnny!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ah..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Z-ZORO!!? Is that really you, bro!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Where's Yosaku? Isn't he usually with you?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "H-He's...!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "They know each other...?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Just what's going on?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "YOSAKU is...!"
+    }
+  ],
+  "summary": "This part acts as a bridge from Syrup Village to Baratie, giving Usopp a place on the crew and steering the story toward Sanji’s introduction.",
+  "confidence": 0.62,
+  "needs_review": false
+}

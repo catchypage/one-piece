@@ -1,0 +1,135 @@
+{
+  "chapter": "222",
+  "part": 1,
+  "title": "Mock Town Shows Its Teeth",
+  "description": "Mock Town shows the crew a different kind of pirate: Bellamy and his men mock dreams while Nami searches for information about Sky Island.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Nami",
+    "Luffy",
+    "Zoro",
+    "Bellamy",
+    "Sarquiss",
+    "Mock Town pirates",
+    "Blackbeard"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this scene centers on Nami, Luffy, Zoro, Bellamy, Sarquiss. Mock Town shows the crew a different kind of pirate: Bellamy and his men mock dreams while Nami searches for information about Sky Island.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "...Man, those monsters sure were big."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Yeah..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Never want to see'em again..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Y'know, Chopper..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Really!?"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "TEN!?"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "For god's sake..."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Look at all this junk!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "He's telling the truth, Nami."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Listen! Whatever happened to that ship,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Aghhh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Oh, what's that, Luffy?"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "armour!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Ahh! You destroyed the suit of armour!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I don't want it, you idiot!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "You seem frustrated..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Surrounded by idiots, honestly!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Here..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "An eternal log pose!?"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Sniff....!"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "You're my only ally, Robin...!"
+    },
+    {
+      "speaker": "Unknown person #15",
+      "text": "Hey! Is the takoyaki done yet!?"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "\"Jaya.\""
+    },
+    {
+      "speaker": "Unknown person #17",
+      "text": "Jaya?"
+    },
+    {
+      "speaker": "Unknown person #18",
+      "text": "Is that where we're goin'?"
+    },
+    {
+      "speaker": "Unknown person #19",
+      "text": "That's for you to decide!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Alright! Set course for Jaya!"
+    }
+  ],
+  "summary": "Mock Town shows the crew a different kind of pirate: Bellamy and his men mock dreams while Nami searches for information about Sky Island.",
+  "confidence": 0.71,
+  "needs_review": true
+}

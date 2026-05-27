@@ -1,0 +1,68 @@
+{
+  "chapter": "423",
+  "part": 5,
+  "title": "Escape from Enies Lobby: Aftermath",
+  "description": "In the Enies Lobby Climax storyline, this section centers on Franky, CP9, Unknown person #32, Unknown person #12, Unknown person #3, Unknown person #33 as the scene develops across pages 17–18.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Franky",
+    "CP9",
+    "Unknown person #32",
+    "Unknown person #12",
+    "Unknown person #3",
+    "Unknown person #33"
+  ],
+  "scene": "This scene advances the Enies Lobby Climax conflict through Franky, CP9, Unknown person #32, Unknown person #12, Unknown person #3, focusing on the immediate stakes of escape from enies lobby: aftermath.",
+  "dialogue": [
+    {
+      "speaker": "Franky",
+      "text": "Let me say..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "NGAGAGA- GAGA!!!"
+    },
+    {
+      "speaker": "CP9",
+      "text": "du..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Dugong !!"
+    },
+    {
+      "speaker": "Unknown person #32",
+      "text": "KaliPA"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Jyabura"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Kaku"
+    },
+    {
+      "speaker": "Unknown person #32",
+      "text": "Spandam"
+    },
+    {
+      "speaker": "CP9",
+      "text": "Kumadori"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Blueno"
+    },
+    {
+      "speaker": "Unknown person #33",
+      "text": "Fukurou"
+    }
+  ],
+  "summary": "This scene advances the Enies Lobby Climax conflict through Franky, CP9, Unknown person #32, Unknown person #12, Unknown person #3, focusing on the immediate stakes of escape from enies lobby: aftermath.",
+  "confidence": 0.7,
+  "needs_review": false
+}

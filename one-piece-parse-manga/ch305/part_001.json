@@ -1,0 +1,134 @@
+{
+  "chapter": "305",
+  "part": 1,
+  "title": "The Davy Back Fight Challenge",
+  "description": "Nami, Usopp, and Robin face Foxy’s tricks in the first Davy Back Fight event while Luffy learns how serious the stakes are.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Foxy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Tonjit",
+    "Nico Robin",
+    "Porche"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this scene focuses on Luffy, Foxy, Nami, Usopp, Zoro. Nami, Usopp, and Robin face Foxy’s tricks in the first Davy Back Fight event while Luffy learns how serious the stakes are.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "A spirit?"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "...Hey, you. Say something."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "A guy..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Have you all been well?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Huh? Do you know him?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I don't know him."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Me neither."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Just who are you!?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "RUB..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "My name's Tonight."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Let me say my thanks."
+    },
+    {
+      "speaker": "Tonjit",
+      "text": "Nomad Tonjit"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Stilts?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Ahh! He's right!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What're you, stupid?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "So I was stuck there,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "For 10 years..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Holy cow, you ARE retarded!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Ahh... Such frightening times..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Both the trees and animals!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That's one heck of an explanation..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "For instance, that animal..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "is a deaaaaaaaaaaaaaaaaaaaaaaaaaaachshunund."
+    },
+    {
+      "speaker": "Nami",
+      "text": "And that's a planaaaaaatypus."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Leopard!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Don't let it bite you."
+    }
+  ],
+  "summary": "Nami, Usopp, and Robin face Foxy’s tricks in the first Davy Back Fight event while Luffy learns how serious the stakes are.",
+  "confidence": 0.88,
+  "needs_review": false
+}

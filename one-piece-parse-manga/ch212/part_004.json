@@ -1,0 +1,133 @@
+{
+  "chapter": "212",
+  "part": 4,
+  "title": "The Farewell Speech",
+  "description": "On pages 13, 14, 15, 16, this part focuses on vivi speaks to her country. Vivi stands before Alabasta and chooses her duty as princess, even as her heart remains tied to the friends who saved her.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Narrator",
+    "Luffy",
+    "Smoker",
+    "Nami",
+    "Tashigi",
+    "Sanji",
+    "Zoro",
+    "Karoo",
+    "Alabasta citizen"
+  ],
+  "scene": "This scene belongs to the Vivi Speaks to Her Country sequence. The important beat is the dialogue and action around Narrator, Luffy, Smoker, Nami, Tashigi.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "The next day,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "At the Eastern Alabastan port of Tamarisque."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Capt. Smoker,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Miss Hima,"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Sgt. Major Tashigi has arrived!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Good work!"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "It's been a while, Tashigi."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Capt. Hima,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Welcome back..."
+    },
+    {
+      "speaker": "Karoo",
+      "text": "Forgive me, captain..."
+    },
+    {
+      "speaker": "Karoo",
+      "text": "I aided the pirates,"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Why do you apologize?"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "No, they did not."
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Sgt. Major...!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "LOSERS CAN'T TALK OF JUSTICE...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That's the kind of sea this is...!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Where's Croc!?"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Tell me!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Will you advance or die?"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "The following"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "You idiot..."
+    },
+    {
+      "speaker": "Karoo",
+      "text": "If you're frustrated enough to cry,"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "Then try getting stronger!"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "Step 3:10:"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Sgt. Major..."
+    },
+    {
+      "speaker": "Karoo",
+      "text": "Yes! Sir!"
+    }
+  ],
+  "summary": "Vivi stands before Alabasta and chooses her duty as princess, even as her heart remains tied to the friends who saved her.",
+  "confidence": 0.89,
+  "needs_review": false
+}

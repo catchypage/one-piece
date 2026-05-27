@@ -1,0 +1,83 @@
+{
+  "chapter": "653",
+  "part": 1,
+  "title": "Shirahoshi Says Goodbye",
+  "description": "On pages 1–3, this part follows Fish-Man Island Citizens, Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6. The central beat is shirahoshi says goodbye.",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Fish-Man Island Citizens",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Luffy",
+    "Shirahoshi"
+  ],
+  "scene": "The scene focuses on shirahoshi says goodbye, with Fish-Man Island Citizens, Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6 shaping the conflict.",
+  "dialogue": [
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "Fishman Island, coral Hill, the mermaid Cafe"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Madame Shirley!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Will do!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Madame! Can we go too?!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Leave it to us, Madame!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Oh, my crystal ball?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "No more fortune- telling for me."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "...then nothing would make me happier ..."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Caimie ..."
+    },
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "In the straw hat boy..."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "...that's right...!!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "UWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "No, another year...!!"
+    }
+  ],
+  "summary": "Shirahoshi Says Goodbye. This part advances the end of the Fish-Man Island conflict and the island’s attempt to move beyond inherited hatred.",
+  "confidence": 0.76,
+  "needs_review": true
+}

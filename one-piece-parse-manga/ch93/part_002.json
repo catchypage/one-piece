@@ -1,0 +1,117 @@
+{
+  "chapter": "93",
+  "part": 2,
+  "title": "Luffy Sees the Maps",
+  "description": "On pages 5–8, luffy sees the maps focuses on Luffy, Arlong, Nami, Nojiko as luffy discovers the room where Nami was forced to draw maps and turns his anger on Arlong Park itself.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Arlong",
+    "Nami",
+    "Nojiko",
+    "Cocoyashi villagers",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "On pages 5–8, luffy sees the maps focuses on Luffy, Arlong, Nami, Nojiko as luffy discovers the room where Nami was forced to draw maps and turns his anger on Arlong Park itself.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "The hell do you think you're doing!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Luffy...?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "What's with all these things being thrown outta there?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "From today on, this'll be your room!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "And over there's your desk and pen!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "anything that you might possibly need is all here!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Stop that already!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Aghh!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Nghhh!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "M-My maps...!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Don't you ever even think of tricking me, you little brat!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "How dare you draw fake maps...!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Aghhh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Here's the data for your next task. Turn all of it into maps!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "And don't you dare leave your room until you're finished, you hear!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Those maps took Nami 8 years to draw, you bastard!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ugh!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Bellie- mere...!"
+    },
+    {
+      "speaker": "Nojiko",
+      "text": "Nojiko...!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Shaha haha!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Arghhhh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Seems like an intense fight is going on up there."
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.83,
+  "needs_review": false
+}

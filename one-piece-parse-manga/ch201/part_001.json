@@ -1,0 +1,116 @@
+{
+  "chapter": "201",
+  "part": 1,
+  "title": "Crocodile Is Driven Back",
+  "description": "On pages 4, 5, 6, 7, this part focuses on luffy breaks crocodile’s scheme. The final struggle beneath Alabasta turns against Crocodile as Luffy keeps fighting and Robin forces Cobra toward the hidden history Crocodile wants.",
+  "pages": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "characters": [
+    "Crocodile",
+    "Nico Robin",
+    "King Cobra",
+    "Luffy",
+    "Vivi",
+    "Pell",
+    "Chaka",
+    "Alabasta soldier"
+  ],
+  "scene": "This scene belongs to the Luffy Breaks Crocodile’s Scheme sequence. The important beat is the dialogue and action around Crocodile, Nico Robin, King Cobra, Luffy, Vivi.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "How's that,"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Croc?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "I can't believe it...!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Aghh!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Come. You'll be showing me the way,"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Where the poneglyph is located."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "The Government's Services (Million"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Approximately 300 employees"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Gahh!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Don't waste my time with useless questions."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Remember between"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Fufufu."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Your time's almost up."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Get going now,"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Nice Robin."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Nice Robin....!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "As you wish..."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Listen up, straw hat."
+    },
+    {
+      "speaker": "Pell",
+      "text": "The grass is drying up!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Aghhh!"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "GROUND SECCO!"
+    },
+    {
+      "speaker": "Alabasta soldier",
+      "text": "What!?"
+    }
+  ],
+  "summary": "The final struggle beneath Alabasta turns against Crocodile as Luffy keeps fighting and Robin forces Cobra toward the hidden history Crocodile wants.",
+  "confidence": 0.89,
+  "needs_review": false
+}

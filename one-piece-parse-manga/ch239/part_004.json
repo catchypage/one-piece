@@ -1,0 +1,51 @@
+{
+  "chapter": "239",
+  "part": 4,
+  "title": "Dials and Wavers Change Everything",
+  "description": "On Angel Island, the crew meets Conis and Pagaya and begins learning how life in the sky works.",
+  "pages": [
+    14,
+    15
+  ],
+  "characters": [
+    "Conis",
+    "Nami",
+    "Pagaya",
+    "Luffy",
+    "Zoro",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 14, 15, this scene centers on Conis, Nami, Pagaya, Luffy, Zoro. On Angel Island, the crew meets Conis and Pagaya and begins learning how life in the sky works.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Good timing, I just finished fishing."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "These are called \"Sky Lobsters.\""
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Really!? Let's go! Let's go!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "There's no sail...or paddles."
+    },
+    {
+      "speaker": "Conis",
+      "text": "\"Dial\"!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "country"
+    }
+  ],
+  "summary": "On Angel Island, the crew meets Conis and Pagaya and begins learning how life in the sky works.",
+  "confidence": 0.72,
+  "needs_review": true
+}

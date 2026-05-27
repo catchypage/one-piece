@@ -1,0 +1,97 @@
+{
+  "chapter": "78",
+  "part": 5,
+  "title": "Nojiko Reveals Nami’s Past",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Nami",
+    "Nojiko",
+    "Bellemere",
+    "Genzo",
+    "Arlong",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Child Nami"
+  ],
+  "scene": "On pages 17–18, Nojiko’s account of the past reveals how Nami, Bellemere, and Cocoyasi Village were damaged by Arlong’s arrival. The flashback reaches Arlong’s arrival, his money demands, and Bellemere’s impossible choice.",
+  "dialogue": [
+    {
+      "speaker": "Bellemere",
+      "text": "So don't lay a finger on them, you hear?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Of course. That is, as long as you die quietly."
+    },
+    {
+      "speaker": "Child Nami",
+      "text": "Somebody! Please help!"
+    },
+    {
+      "speaker": "Child Nami",
+      "text": "Uoooahhh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "AGAH!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Let's go save Bellie- mere!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Take up arms and fight!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hmph, pathetic primates..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "deal with them appropriately but don't kill them.."
+    },
+    {
+      "speaker": "Nami",
+      "text": "got it."
+    },
+    {
+      "speaker": "Nami",
+      "text": "You'll be,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "My first example to the others...!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Click"
+    },
+    {
+      "speaker": "Nami",
+      "text": "die for your stupid love."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Representation."
+    },
+    {
+      "speaker": "Child Nami",
+      "text": "NoJIKO! Nami!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ahhh!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I love you."
+    }
+  ],
+  "summary": "This part deepens Nami’s backstory, showing how family, money, and survival became tied to Arlong’s control over the village.",
+  "confidence": 0.73,
+  "needs_review": false
+}

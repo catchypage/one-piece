@@ -1,0 +1,38 @@
+{
+  "chapter": "52",
+  "part": 1,
+  "title": "Mihawk Tests Zoro’s Dream",
+  "description": "On pages 0–2, Zoro confronts Dracule Mihawk, forcing his dream of becoming the world’s greatest swordsman into a brutal and public test.",
+  "pages": [
+    0,
+    1,
+    2
+  ],
+  "characters": [
+    "Johnny",
+    "Zoro",
+    "Unknown person #1"
+  ],
+  "scene": "The Baratie battle pauses around a duel that dwarfs the immediate conflict: Zoro faces the gap between ambition and the world’s strongest swordsman.",
+  "dialogue": [
+    {
+      "speaker": "Johnny",
+      "text": "Don't rush to death so fast!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Young one!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "\"Death\""
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "\"Death\""
+    }
+  ],
+  "summary": "This part is a defining moment for Zoro, showing that his dream is real enough to risk death and that his loyalty to Luffy survives defeat.",
+  "confidence": 0.74,
+  "needs_review": false
+}

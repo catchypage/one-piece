@@ -1,0 +1,130 @@
+{
+  "chapter": "355",
+  "part": 1,
+  "title": "Aqua Laguna Closes In",
+  "description": "Back in the present, Aqua Laguna bears down on Water Seven while CP9 prepares to leave with Robin and Franky.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Usopp",
+    "Nico Robin",
+    "Franky",
+    "Kokoro",
+    "CP9 agent"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Luffy, Nami, Zoro, Sanji, Chopper. Back in the present, Aqua Laguna bears down on Water Seven while CP9 prepares to leave with Robin and Franky.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "During the 10 years of postpone- went..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Was the trade good?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "So the shipyard is still bankrupt."
+    },
+    {
+      "speaker": "Nami",
+      "text": "We'll do some- thing this time!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Taha...!! But people have vigor!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "The results won't be this fast, iceberg."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "When a man's doing all he can..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "He just thrusts his chest out...!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Hello. Is that you?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Excuse me, but..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Weee..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I'd like to have a word..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "With you!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Cipherpol no.5 supervisor SPANDAM"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Spandam-san!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "OW!! Sorry!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "And..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "\"Battle Franky No. 35\" returns!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I defeated a sea king!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Look!! It's huge!!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "It's at least 100M long!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "That idiot..."
+    }
+  ],
+  "summary": "Back in the present, Aqua Laguna bears down on Water Seven while CP9 prepares to leave with Robin and Franky.",
+  "confidence": 0.8,
+  "needs_review": false
+}

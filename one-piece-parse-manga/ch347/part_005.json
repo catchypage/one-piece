@@ -1,0 +1,33 @@
+{
+  "chapter": "347",
+  "part": 5,
+  "title": "Spandam’s Frame-Up",
+  "description": "The story turns back to Tom, Iceburg, and Franky, showing the pride and dream behind the Sea Train.",
+  "pages": [
+    23
+  ],
+  "characters": [
+    "Franky",
+    "Paulie",
+    "Tom",
+    "Iceburg",
+    "Spandam",
+    "Kokoro",
+    "Yokozuna",
+    "World Government agent"
+  ],
+  "scene": "Across pages 23, this part follows Franky, Paulie, Tom, Iceburg, Spandam. The story turns back to Tom, Iceburg, and Franky, showing the pride and dream behind the Sea Train.",
+  "dialogue": [
+    {
+      "speaker": "Franky",
+      "text": "You can."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Hell No!!!!"
+    }
+  ],
+  "summary": "The story turns back to Tom, Iceburg, and Franky, showing the pride and dream behind the Sea Train.",
+  "confidence": 0.78,
+  "needs_review": false
+}

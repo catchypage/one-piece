@@ -1,0 +1,76 @@
+{
+  "chapter": "306",
+  "part": 5,
+  "title": "Luffy Protects His Crew",
+  "description": "Foxy’s crew uses dirty tactics to twist the race, putting the Straw Hats under pressure inside the bizarre pirate game.",
+  "pages": [
+    22,
+    23
+  ],
+  "characters": [
+    "Luffy",
+    "Foxy",
+    "Nami",
+    "Zoro",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Tonjit",
+    "Porche"
+  ],
+  "scene": "Across pages 22, 23, this scene focuses on Luffy, Foxy, Nami, Zoro, Usopp. Foxy’s crew uses dirty tactics to twist the race, putting the Straw Hats under pressure inside the bizarre pirate game.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Chi Chi"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "this won't sink... Will it?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It'll probably sink."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Hey...~ that orange girl is cute!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Nope. Not him."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "00.^.^. leave it to me"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Their ship is the cutie wagon.....~!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "bury them, porch Honey~!!!!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "KICK THEIR ASSUM ~~!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I will make you sink."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "BOTH TeAM, Get Ready"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Bring it on!!!"
+    }
+  ],
+  "summary": "Foxy’s crew uses dirty tactics to twist the race, putting the Straw Hats under pressure inside the bizarre pirate game.",
+  "confidence": 0.88,
+  "needs_review": false
+}

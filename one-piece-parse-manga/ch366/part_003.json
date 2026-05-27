@@ -1,0 +1,126 @@
+{
+  "chapter": "366",
+  "part": 3,
+  "title": "The Last Cars Are Cut Away",
+  "description": "Rocketman and the allied rescue force continue through Aqua Laguna, refusing to let the Sea Train escape.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Paulie",
+    "Iceburg",
+    "Zoro",
+    "Luffy",
+    "Sanji",
+    "Nami",
+    "Kokoro",
+    "Chopper",
+    "Sogeking",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this part follows Paulie, Iceburg, Zoro, Luffy, Sanji. Rocketman and the allied rescue force continue through Aqua Laguna, refusing to let the Sea Train escape.",
+  "dialogue": [
+    {
+      "speaker": "Paulie",
+      "text": "You didn't know!!!?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Who did you think they were!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Michael and Hayker from the old town?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Yeah! Yeah!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Who the hell are they!!?"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Franky family..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "And galley-La shipwrights..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Our enemies are the same now!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "In the upcoming fights..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I will definitely kick his ass!!!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "That's right."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "It won't end until we get them."
+    },
+    {
+      "speaker": "Nami",
+      "text": "GRANMA! GRANMA!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "It's the Aqua Laguna!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "NYAA!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "What!!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Luffy!!"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "We're all heading in the same direction."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "There's no point in fighting separately!!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "From now on..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "We're Allies!!!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "The sea train that's ahead of us..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "has our friends on it!!!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "BARU RURU..."
+    }
+  ],
+  "summary": "Rocketman and the allied rescue force continue through Aqua Laguna, refusing to let the Sea Train escape.",
+  "confidence": 0.83,
+  "needs_review": false
+}

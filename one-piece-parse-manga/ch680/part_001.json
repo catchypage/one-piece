@@ -1,0 +1,103 @@
+{
+  "chapter": "680",
+  "part": 1,
+  "title": "The Alliance Closes In",
+  "description": "On pages 1–3, this part follows Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Unknown person #7. The central beat is the alliance closes in.",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Marines",
+    "Unknown person #10",
+    "Unknown person #11"
+  ],
+  "scene": "The scene focuses on the alliance closes in, with Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Unknown person #7 shaping the Punk Hazard conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Connecting passage between a and B-block"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "HAA HAA"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "When did you all sneak aboard!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "you're as heavy as I thought!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "But we don't have a choice here!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Brown- beard-dono, was it?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Get off me, you idiots!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "You can hang it up here."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "I'm pretty hungry."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "I'm gonna shake you all off!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "*Pant *pant*"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Shut the hell up!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "HAA, HAA"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Brownbeard and Straw Hat Crew"
+    },
+    {
+      "speaker": "Marines",
+      "text": "Tashigi and G-5"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "A block"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "We have to go, Captain- Chan!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "If our unit doesn't make it back,"
+    }
+  ],
+  "summary": "The Alliance Closes In. This part advances Punk Hazard’s rescue mission, Caesar’s experiment, and the fragile pirate–Marine alliance.",
+  "confidence": 0.72,
+  "needs_review": true
+}

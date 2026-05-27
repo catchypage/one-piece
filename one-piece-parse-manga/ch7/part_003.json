@@ -1,0 +1,131 @@
+{
+  "chapter": "7",
+  "part": 3,
+  "title": "Zoro’s Promise Is Revealed",
+  "description": "On pages 8–11, this part resolves the Shells Town conflict and separates Coby’s Marine dream from Luffy and Zoro’s pirate path.",
+  "pages": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "characters": [
+    "Luffy",
+    "Coby",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5"
+  ],
+  "scene": "In Shells Town, Luffy, Coby, and Zoro are drawn into the cruelty of Morgan’s rule and Helmeppo’s privilege.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Guess we'll be going, then..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "MA'AM, THANKS FOR THE MEAL..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Luffy..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "YOU'RE LEAVING ALREADY?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "AREN'T YOU GOING WITH THEM?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I'm..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "WE'RE GOING OUR SEPARATE WAYS, BUT WE'LL ALWAYS BE FRIENDS!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I'm not one of them!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Excuse me, pirates?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Is that true?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "LET ME EXPLAIN."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I know all about his fast..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Luffy!? You're not going to..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gasp!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "See, there was this secret island..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "AND A BIG PIRATE WOMAN..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "...HER NAME WAS ALVIDA..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "GASP!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "If they find out about your background, they won't let you enlist..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "luffy, don't..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "SHE WAS REALLY MEAN..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "AND FOR TWO YEARS, THIS GUY..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Luffy!! Don't!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Shut up!!!"
+    }
+  ],
+  "summary": "The Shells Town conflict uses Zoro’s imprisonment and Morgan’s rule to test what kind of people Luffy chooses to trust. The section moves Zoro closer to becoming Luffy’s first crewmate.",
+  "confidence": 0.67,
+  "needs_review": true
+}

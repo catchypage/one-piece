@@ -1,0 +1,35 @@
+{
+  "chapter": "310",
+  "part": 5,
+  "title": "Luffy Protects His Crew",
+  "description": "Zoro and Sanji push through Foxy’s cheating and give the crew a chance to reclaim Chopper.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Luffy",
+    "Foxy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Tonjit",
+    "Porche"
+  ],
+  "scene": "Across pages 17, this scene focuses on Luffy, Foxy, Nami, Usopp, Zoro. Zoro and Sanji push through Foxy’s cheating and give the crew a chance to reclaim Chopper.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "It didn't go in!!!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "I don't need you!"
+    }
+  ],
+  "summary": "Zoro and Sanji push through Foxy’s cheating and give the crew a chance to reclaim Chopper.",
+  "confidence": 0.88,
+  "needs_review": false
+}

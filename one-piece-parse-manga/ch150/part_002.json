@@ -1,0 +1,152 @@
+{
+  "chapter": "150",
+  "part": 2,
+  "title": "Nami Escapes Kureha’s Room",
+  "description": "On pages 4–7, this part focuses on nami escapes kureha’s room, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "characters": [
+    "Wapol",
+    "Nami",
+    "Luffy",
+    "Drum villager",
+    "Chopper",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Dr. Kureha"
+  ],
+  "scene": "Nami Escapes Kureha’s Room. Wapol loses control of the castle and the people’s fear as Luffy, Chopper, and the others push the tyrant back. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Wapol",
+      "text": "unacceptable... I'll have every last one of their heads for this!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "This isn't the time to be napping around. I have to escape while the \"Dr. Kureha\" is gone..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "There's no way we can afford to stay here for 3 whole days!"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "Maha Ha!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "W...who are you?"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "You must be one of Stravhat's crewmates, am i right...!?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "N-N-NO, ABSOLUTELY NOT!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "He's definitely an enemy...!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "I don't have the faintest idea what you're talking about!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Really?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "really."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I'm just a random Navigator passing by."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Bye then!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Sure..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Liar!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Kyamakal"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gah!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Cash!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "NGHH! Seems I must've put on a few too many pounds recently!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Then how about this!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Baku Baku Factory!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'll eat myself!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "He... He's become a bucket..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Miraculous bone structuring operation in"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Complete!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Slim-Up Wapol!"
+    }
+  ],
+  "summary": "This part highlights nami escapes kureha’s room and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.76,
+  "needs_review": false
+}

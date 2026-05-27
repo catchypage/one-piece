@@ -1,0 +1,142 @@
+{
+  "chapter": "304",
+  "part": 3,
+  "title": "A Crew Member on the Line",
+  "description": "Foxy challenges Luffy to a pirate game where crew members can be stolen, turning the island stop into a dangerous contest.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Foxy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Tonjit",
+    "Porche"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this scene focuses on Luffy, Foxy, Nami, Usopp, Zoro. Foxy challenges Luffy to a pirate game where crew members can be stolen, turning the island stop into a dangerous contest.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Paysomeness, has represented"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "They definitely looked like pirates though..."
+    },
+    {
+      "speaker": "Foxy",
+      "text": "I'm getting a board feeling..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "So it's the same as always."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Right."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ugh... guys, listen to me..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Nghh..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I can't cure that."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "The island´s becoming visible!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Transonulate vegetables"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "There's nothing!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What is this place!? Whoaaaa!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Sigh... What a boring-looking place."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Woohoo! It's a huge grass plain!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hey!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Whoa!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What is it, Cho-"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "A human?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That's a bear!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I-it's so long! The bear is looming!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Even the trees here are super lanky."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Don't Eat it!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Delish!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Guys, look! Isn't that a house?"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "You're right!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Is there someone living here?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I wonder if there are any shipwrights?"
+    }
+  ],
+  "summary": "Foxy challenges Luffy to a pirate game where crew members can be stolen, turning the island stop into a dangerous contest.",
+  "confidence": 0.88,
+  "needs_review": false
+}

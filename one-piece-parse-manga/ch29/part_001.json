@@ -1,0 +1,130 @@
+{
+  "chapter": "29",
+  "part": 1,
+  "title": "Jango Moves to Carry Out Kuro’s Orders",
+  "description": "On pages 0–3, the Syrup Village story develops through Usopp, Kaya, Kuro, Jango, and the Straw Hats as the danger behind the village’s peaceful surface becomes clearer.",
+  "pages": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Kaya",
+    "Kuro",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Nami"
+  ],
+  "scene": "This scene follows the tension around Usopp’s village: lies, loyalty, hidden plans, and the growing clash with the Black Cat Pirates.",
+  "dialogue": [
+    {
+      "speaker": "Kaya",
+      "text": "Huh? Where the hell is that guy...."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Wasn't he running ahead of me?"
+    },
+    {
+      "speaker": "Kuro",
+      "text": "You're the one..."
+    },
+    {
+      "speaker": "Kuro",
+      "text": "who over- heard our plans. What do you want?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "I'm warning you! Retreat now!!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "I have a 100 million crewmen waiting to kill you all!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "only an idiot would fall for that..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Ol Oil..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "What!? 100 million crewmen?!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "So... soo many!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Captain! He's only lying!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Don't believe him..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Ah! They saw through my lie!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Do you think we're 2 year- olds?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "You bastard,"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "How dare you lie to me..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Captain Jango! Good news!"
+    },
+    {
+      "speaker": "Kuro",
+      "text": "What! You found food?!"
+    },
+    {
+      "speaker": "Kuro",
+      "text": "Not food!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "We found treasure on that wierd boat over there!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "It's quite a lot... Probably worth around 4... no, 5 million bell!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "...5 million bell....!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "5 million? Why would those guys have so much money..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "That is my treasure!"
+    },
+    {
+      "speaker": "Kuro",
+      "text": "But! I can give it to you!!"
+    }
+  ],
+  "summary": "The part advances the Syrup Village arc by tying Usopp’s reputation and Kaya’s safety to the threat posed by Kuro and his crew.",
+  "confidence": 0.85,
+  "needs_review": false
+}

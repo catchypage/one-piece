@@ -1,0 +1,26 @@
+{
+  "chapter": "149",
+  "title": "Chopper’s Rumble Ball",
+  "main_description": "Chopper fights Chessmarimo with the power of the Rumble Ball while the struggle for Drum Castle intensifies. The chapter has been cleaned into display-ready story parts with corrected context, dialogue filtering, and speaker names inferred from the scene.",
+  "main_characters": [
+    "Chopper",
+    "Chessmarimo",
+    "Luffy",
+    "Wapol",
+    "Dr. Kureha",
+    "Nami",
+    "Sanji",
+    "Usopp",
+    "Vivi",
+    "Zoro"
+  ],
+  "key_events": [
+    "Chopper Uses the Rumble Ball",
+    "Chess and Kuromarimo Merge",
+    "Chopper Reveals His Forms",
+    "The Castle Fight Intensifies",
+    "Luffy Turns Toward Wapol"
+  ],
+  "confidence": 0.77,
+  "needs_review": false
+}

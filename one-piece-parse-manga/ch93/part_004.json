@@ -1,0 +1,89 @@
+{
+  "chapter": "93",
+  "part": 4,
+  "title": "Luffy Destroys the Room",
+  "description": "On pages 13–16, luffy destroys the room focuses on Luffy, Arlong, Nami, Nojiko as luffy discovers the room where Nami was forced to draw maps and turns his anger on Arlong Park itself.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Luffy",
+    "Arlong",
+    "Nami",
+    "Nojiko",
+    "Cocoyashi villagers",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "On pages 13–16, luffy destroys the room focuses on Luffy, Arlong, Nami, Nojiko as luffy discovers the room where Nami was forced to draw maps and turns his anger on Arlong Park itself.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "Tooth!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Battle- axe!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Arghhah!!!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Guh!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Arghhhh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Huff... huff..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Huff..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "L-Look! After that impact just now, Arlong Park is...!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "No way!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "It's all coming down!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's too dangerous! Everyone evacuate immediately- lately!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Sister Nami!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "But Luffy's still in there!"
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.74,
+  "needs_review": false
+}

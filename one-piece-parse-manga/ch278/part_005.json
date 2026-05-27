@@ -1,0 +1,56 @@
+{
+  "chapter": "278",
+  "part": 5,
+  "title": "Skypiea Faces Final Judgment",
+  "description": "Luffy finally pushes back toward the real fight, carrying the only natural answer to Enel’s lightning power.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Enel",
+    "Nami",
+    "Luffy",
+    "Aisa",
+    "Nola",
+    "Wyper",
+    "Gan Fall",
+    "Zoro",
+    "Sanji",
+    "Usopp"
+  ],
+  "scene": "Across pages 17, 18, this scene centers on Enel, Nami, Luffy, Aisa, Nola. Luffy finally pushes back toward the real fight, carrying the only natural answer to Enel’s lightning power.",
+  "dialogue": [
+    {
+      "speaker": "Enel",
+      "text": "Luffy!"
+    },
+    {
+      "speaker": "Enel",
+      "text": "What the hell did you do..."
+    },
+    {
+      "speaker": "Enel",
+      "text": "to my crew."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Which trash do you refer to?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ahh, this takes me back."
+    },
+    {
+      "speaker": "Aisa",
+      "text": "Too bad."
+    },
+    {
+      "speaker": "Aisa",
+      "text": "What, we're not included?"
+    }
+  ],
+  "summary": "Luffy finally pushes back toward the real fight, carrying the only natural answer to Enel’s lightning power.",
+  "confidence": 0.86,
+  "needs_review": false
+}

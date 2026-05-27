@@ -1,0 +1,72 @@
+{
+  "chapter": "383",
+  "part": 5,
+  "title": "Robin Is Pulled Toward the Gate",
+  "description": "The rescue group fights through Enies Lobby’s defenses and turns the courthouse into the next major objective.",
+  "pages": [
+    18,
+    19
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Chopper",
+    "Sogeking",
+    "Blueno",
+    "Franky",
+    "Nico Robin",
+    "Spandam"
+  ],
+  "scene": "Across pages 18, 19, this part follows Luffy, Zoro, Nami, Sanji, Chopper. The rescue group fights through Enies Lobby’s defenses and turns the courthouse into the next major objective.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "BAN! Bill!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "He says, \"Go*!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "BARU!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "BARU!!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "No one's riding it!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "What'd you say!?"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Here we go, Gomo Rrah!!!!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "BARU RURU RU RUA!!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "\"HiKen\"!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "\"BaZooKa\"!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Fantimanner kick course!!!!"
+    }
+  ],
+  "summary": "The rescue group fights through Enies Lobby’s defenses and turns the courthouse into the next major objective.",
+  "confidence": 0.83,
+  "needs_review": false
+}

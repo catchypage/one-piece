@@ -1,0 +1,122 @@
+{
+  "chapter": "341",
+  "part": 1,
+  "title": "Robin’s Warning",
+  "description": "Chopper reports what Robin said, while the attack on Iceburg and Robin’s actions push the Straw Hats deeper into Water Seven’s conspiracy.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Iceburg",
+    "Nico Robin",
+    "Chopper",
+    "Rob Lucci",
+    "Franky",
+    "Blueno",
+    "Kaku",
+    "Kalifa",
+    "Luffy",
+    "Nami"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Iceburg, Nico Robin, Chopper, Rob Lucci, Franky. Chopper reports what Robin said, while the attack on Iceburg and Robin’s actions push the Straw Hats deeper into Water Seven’s conspiracy.",
+  "dialogue": [
+    {
+      "speaker": "Iceburg",
+      "text": "The situation will worsen."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "... Nico Robin..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "...Really said that. Right, chopper?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Uh huh."
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "If someone wants to make matters worse..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "There's only one way..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "This time..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "The successful assessi- nation of the Mayor"
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "Then we'll automatically be framed."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Wait!! You sound like"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "I'm just talking about the possibil- ities."
+    },
+    {
+      "speaker": "Franky",
+      "text": "I'm not really on either side."
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "Whether to believe it or not..."
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "Chik"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Do we go to the crime scene?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "We go."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "That's not any of us."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Did he do something to Nico Robin!?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "To control her!?"
+    },
+    {
+      "speaker": "Franky",
+      "text": "That's the optimistic guess."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "What's our goal on this trip?"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "to catch..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Nico Robin!!!"
+    }
+  ],
+  "summary": "Chopper reports what Robin said, while the attack on Iceburg and Robin’s actions push the Straw Hats deeper into Water Seven’s conspiracy.",
+  "confidence": 0.85,
+  "needs_review": false
+}

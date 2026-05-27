@@ -1,0 +1,121 @@
+{
+  "chapter": "23",
+  "part": 4,
+  "title": "Usopp’s Village Comes Into View",
+  "description": "On pages 10–13, the Syrup Village story develops through Usopp, Kaya, Kuro, Jango, and the Straw Hats as the danger behind the village’s peaceful surface becomes clearer.",
+  "pages": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "characters": [
+    "Kaya",
+    "Usopp",
+    "Nami",
+    "Unknown person #1",
+    "Unknown person #2"
+  ],
+  "scene": "This scene follows the tension around Usopp’s village: lies, loyalty, hidden plans, and the growing clash with the Black Cat Pirates.",
+  "dialogue": [
+    {
+      "speaker": "Kaya",
+      "text": "Let's go! Follow me!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Yes!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Yes Captain!!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Wow! There's really an island here!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "So what did you expect?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "We followed the map, so it won't be wrong!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Gakon I"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Oh..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Is there a village here?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Uh huh! Looks like there's a small village!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Hey! Tamanegl, are those the pirates that you were talking about?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "That's right! Look, there's a pirate symbol!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "They don't look scary!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Yeah!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "been a long time since I last stood on firm ground..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "That's because you were sleep- ing all the time!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "By the way,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I just noticed a moment ago..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What are those guys doing there?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Hey! You..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Don't run away!!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "WAAAA..! We've been found!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I am the great pirate fleet leader, usopp, who is in charge of the security of this village!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I'm also known as \"Captain\", \"Captain UsOP\"!"
+    }
+  ],
+  "summary": "The part advances the Syrup Village arc by tying Usopp’s reputation and Kaya’s safety to the threat posed by Kuro and his crew.",
+  "confidence": 0.83,
+  "needs_review": false
+}

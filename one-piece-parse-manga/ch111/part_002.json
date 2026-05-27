@@ -1,0 +1,167 @@
+{
+  "chapter": "111",
+  "part": 2,
+  "title": "A Mysterious Woman Appears",
+  "description": "On pages 5–8, a mysterious woman appears as the crew accepts Vivi’s desperate mission, and a mysterious senior agent reminds them how dangerous Baroque Works really is.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Vivi",
+    "Igaram",
+    "Luffy",
+    "Zoro",
+    "Miss Valentine",
+    "Mr. 5",
+    "Unknown person #1"
+  ],
+  "scene": "A Mysterious Woman Appears. The crew accepts Vivi’s desperate mission, and a mysterious senior agent reminds them how dangerous Baroque Works really is. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "Aren't you forgetting something?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You know you still owe me, right?"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "No I don't."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Back at Logustown, I lent you 100,000 Bell so you could buy your swords."
+    },
+    {
+      "speaker": "Igaram",
+      "text": "Yeah and I paid you back right away! I got my swords for free so I didn't use any of your money."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Yes, but I lent you that money on 300% interest!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I gotta buy some- thing."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Sure, I'll lend you some money. At 300% interest, though."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "So you still owe me 200,000 bell!"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "But you got your money back right away so isn't it fine?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "No."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "What"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Are you saying,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "that you can't even keep a single promise?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Now if you do as I say, we'll call it even, okay?"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "Damn you! You're not going to have a peaceful death, y'hear!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "True, I'll probably go to hell when I die."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Curse my used-Essness!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "If I were only strong- er..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I could protect the PRINC- Ess...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Don't worry."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That guy just now is monstrously strong."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "If anything were to happen to the Princess..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Then it would be the end of our kingdom...! She must survive no matter what!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I've found her!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Faster, Carue!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "There's a docked ship behind cactus rock that we can escape on!"
+    },
+    {
+      "speaker": "Miss Valentine",
+      "text": "Kyaha Haha!"
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "Such a futile struggle."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Ms. Monday!"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "Go on!"
+    },
+    {
+      "speaker": "Miss Valentine",
+      "text": "Get past here and you should be able to escape on the boat."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "As for these guys, I'll do my best to stop them."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "But..."
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on a mysterious woman appears. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.7,
+  "needs_review": false
+}

@@ -1,0 +1,60 @@
+{
+  "chapter": "1047",
+  "part": 6,
+  "title": "Wano’s Long Night Begins to Break",
+  "description": "On pages 18–19, this part focuses on Unknown person #16, Nami, Momonosuke, Unknown person #17, Kaido, Luffy as Luffy awakens Gear Fifth and fights Kaido as Onigashima’s fall, Wano’s fire festival, and twenty years of suffering converge.",
+  "pages": [
+    18,
+    19
+  ],
+  "characters": [
+    "Unknown person #16",
+    "Nami",
+    "Momonosuke",
+    "Unknown person #17",
+    "Kaido",
+    "Luffy"
+  ],
+  "scene": "Luffy awakens Gear Fifth and fights Kaido as Onigashima’s fall, Wano’s fire festival, and twenty years of suffering converge.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #16",
+      "text": "I'm finishing this for Good!!"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "Onigashima is in the way!! Move it!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Is he prepared to punch through the island?!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Luffy! Hold on!!"
+    },
+    {
+      "speaker": "Momonosuke",
+      "text": "Momo!"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "I know you've got this!!"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "What?!"
+    },
+    {
+      "speaker": "Unknown person #17",
+      "text": "Death Destroyer*..."
+    },
+    {
+      "speaker": "Kaido",
+      "text": "THUNDER BAGUA!!"
+    }
+  ],
+  "summary": "This part advances the Wano / Onigashima War through 9 cleaned dialogue beats, focusing on character decisions, battlefield momentum, and the story’s larger consequences.",
+  "confidence": 0.78,
+  "needs_review": true
+}

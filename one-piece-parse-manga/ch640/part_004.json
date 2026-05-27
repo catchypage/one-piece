@@ -1,0 +1,70 @@
+{
+  "chapter": "640",
+  "part": 4,
+  "title": "The Final Chase Begins",
+  "description": "On pages 16–17, this part focuses on Vander Decken, Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6. The core beat is the final chase begins.",
+  "pages": [
+    16,
+    17
+  ],
+  "characters": [
+    "Vander Decken",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Luffy",
+    "Hody Jones",
+    "Shirahoshi"
+  ],
+  "scene": "The scene follows the final chase begins, keeping the focus on Vander Decken, Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6.",
+  "dialogue": [
+    {
+      "speaker": "Vander Decken",
+      "text": "What?! the Noah is... falling!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Jahaha Hahah!!! Perfect timing!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "It's over!! I've won!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Ahhhh hahhhh hah...!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Fish-Man Island in"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "...Is in Perill!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "*Pant* ..."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "No... this can't be..."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "*Pant* ..."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "SOREGA I-I-Y-Q"
+    }
+  ],
+  "summary": "The Final Chase Begins. This part advances Fish-Man Island’s history and present conflict, tying Otohime and Fisher Tiger’s legacy to Hody’s threat.",
+  "confidence": 0.58,
+  "needs_review": true
+}

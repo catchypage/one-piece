@@ -1,0 +1,94 @@
+{
+  "chapter": "838",
+  "part": 1,
+  "title": "Luffy Battles Cracker",
+  "description": "On pages 4–7, this part focuses on Unknown person #1, Luffy, Cracker, Unknown person #2, Unknown person #3, Unknown person #4 as The Straw Hats enter Big Mom’s strange territory while Sanji faces the Vinsmoke family and the arranged marriage.",
+  "pages": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Luffy",
+    "Cracker",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "Luffy fights one of Big Mom’s Sweet Commanders while the rescue mission grows more dangerous.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Rise"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Whereze"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Whereze"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "...Going to see Sanz!!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu No..."
+    },
+    {
+      "speaker": "Cracker",
+      "text": "Master Cracker!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Pretzel..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "KONG Gun!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Roll. I"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Ahhhhh!!! Master Crakee-err!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Ack!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Because you're"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "whereze"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Whereze"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Huu- uh?!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Who the hell are you?!"
+    }
+  ],
+  "summary": "This section advances the Whole Cake Island storyline with 17 dialogue beats. Whole Cake Island becomes a hostile fairy-tale battlefield where Sanji’s rescue and Big Mom’s power are both unavoidable.",
+  "confidence": 0.56,
+  "needs_review": true
+}

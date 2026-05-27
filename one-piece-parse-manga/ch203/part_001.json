@@ -1,0 +1,114 @@
+{
+  "chapter": "203",
+  "part": 1,
+  "title": "Crocodile Is Driven Back",
+  "description": "On pages 2, 3, 4, 5, this part focuses on crocodile’s plan begins to collapse. The fight around the royal tomb and the capital reaches its breaking point as Crocodile loses control of both the battlefield and his secrets.",
+  "pages": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "characters": [
+    "Crocodile",
+    "Vivi",
+    "Nico Robin",
+    "King Cobra",
+    "Luffy",
+    "Pell"
+  ],
+  "scene": "This scene belongs to the Crocodile’s Plan Begins to Collapse sequence. The important beat is the dialogue and action around Crocodile, Vivi, Nico Robin, King Cobra, Luffy.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "Is there nothing else...!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Is this everything this country is hiding...?"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Why, dis- satisfied?"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "I showed you every- thing as promised..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "I see."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "A fitting place for a state secret."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "...So is this a poneglyph, Nice Robin?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "...You arrived quickly."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "So can you decipher it?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "...Yes."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Then read it aloud."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Read this poneglyph..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Furthermore, the performance"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Alabasta is conquered by Kahira,"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "In year239 of the Heaven's Calendar..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Please contact"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Hey mow..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Hold up!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "That is not recorded here."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "There is only history written here."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "What?"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "I see... What a shame."
+    }
+  ],
+  "summary": "The fight around the royal tomb and the capital reaches its breaking point as Crocodile loses control of both the battlefield and his secrets.",
+  "confidence": 0.89,
+  "needs_review": false
+}

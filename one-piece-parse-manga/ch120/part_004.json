@@ -1,0 +1,107 @@
+{
+  "chapter": "120",
+  "part": 4,
+  "title": "Miss Valentine Joins the Attack",
+  "description": "On pages 16–18, miss valentine joins the attack as mr. 3 separates Vivi from her protectors and turns Little Garden’s battlefield into a calculated execution ground.",
+  "pages": [
+    16,
+    17,
+    18
+  ],
+  "characters": [
+    "Mr. 3",
+    "Miss Valentine",
+    "Dorry",
+    "Brogy",
+    "Vivi",
+    "Usopp",
+    "Miss Goldenweek",
+    "Mr. 5"
+  ],
+  "scene": "Miss Valentine Joins the Attack. Mr. 3 separates Vivi from her protectors and turns Little Garden’s battlefield into a calculated execution ground. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Mr. 3",
+      "text": "Chnon!"
+    },
+    {
+      "speaker": "Miss Valentine",
+      "text": "Kyaha- haha!"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "How pitiful!"
+    },
+    {
+      "speaker": "Brogy",
+      "text": "USOP!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "10,000 kg press!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Ahwww!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Calm down..."
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "AghH!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "We won't be killing you just yet...!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Ugh...!?"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "We're only here to carry you away,"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "On Mr. 3's orders, that is..."
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Mr. 3...!? The man with the \"DORU DORU Devil Devil Fruit\"..."
+    },
+    {
+      "speaker": "Dorry",
+      "text": "He's on this island...!?"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "That's right. He can freely control the wax that comes forth from his body."
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "A candle- man."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Damn you... just what're you planning to do...!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Hm? You want to know what I'm doing?"
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "I'm obviously Preparing,"
+    },
+    {
+      "speaker": "Miss Valentine",
+      "text": "to make art, can't you see?"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on miss valentine joins the attack. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.78,
+  "needs_review": false
+}

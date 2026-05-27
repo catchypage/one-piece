@@ -1,0 +1,126 @@
+{
+  "chapter": "208",
+  "part": 3,
+  "title": "The Navy Closes In",
+  "description": "On pages 9, 10, 11, 12, this part focuses on vivi’s choice approaches. The Straw Hats make plans to depart while Vivi faces the decision of whether to remain a princess or continue sailing with her friends.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Chopper",
+    "Zoro",
+    "Karoo",
+    "Smoker",
+    "Tashigi",
+    "Alabasta citizen"
+  ],
+  "scene": "This scene belongs to the Vivi’s Choice Approaches sequence. The important beat is the dialogue and action around Luffy, Vivi, Nami, Usopp, Chopper.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Did you see that just now..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "It's that bird-guy..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Pell!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Pell, listen!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "...Your wild reckless behaviours back then,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Viv!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Sir!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Ah, Pell!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Aghhhh!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "H-He hit the princess!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'll have your head for this!"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "IGARAM, WAIT!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Look."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "'What would I do..."
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Commander Poll..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Higher! Take me higher!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Awesome! We're up so high!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Hey, Pell."
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Yes?"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Who do you have to fight?"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Well..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Is there a differ- once?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Yes, the objectives are different."
+    },
+    {
+      "speaker": "Unknown person #15",
+      "text": "Hmm... that's weird."
+    }
+  ],
+  "summary": "The Straw Hats make plans to depart while Vivi faces the decision of whether to remain a princess or continue sailing with her friends.",
+  "confidence": 0.84,
+  "needs_review": false
+}

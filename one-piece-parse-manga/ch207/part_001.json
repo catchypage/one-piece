@@ -1,0 +1,82 @@
+{
+  "chapter": "207",
+  "part": 1,
+  "title": "Rain Falls on Alabasta",
+  "description": "On pages 1, 2, 3, 4, this part focuses on the straw hats become wanted heroes. News of Crocodile’s defeat spreads, new bounties and political consequences appear, and the crew prepares to leave Alabasta quietly.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Alabasta citizen",
+    "Vivi",
+    "King Cobra",
+    "Smoker",
+    "Luffy",
+    "Nico Robin"
+  ],
+  "scene": "This scene belongs to the The Straw Hats Become Wanted Heroes sequence. The important beat is the dialogue and action around Alabasta citizen, Vivi, King Cobra, Smoker, Luffy.",
+  "dialogue": [
+    {
+      "speaker": "Alabasta citizen",
+      "text": "How fitting!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Kuhaha Hahaha!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Kuhaha Hahaha!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "It all comes down,"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "To try and stop my plans..."
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Will have been for Naught!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "tazz!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I'm launch- ing you off now!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Ready, Chopper!? Viv!!?"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Ribbit!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Oho!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Ribbit!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Oho!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Mmmhmmm!"
+    }
+  ],
+  "summary": "News of Crocodile’s defeat spreads, new bounties and political consequences appear, and the crew prepares to leave Alabasta quietly.",
+  "confidence": 0.87,
+  "needs_review": false
+}

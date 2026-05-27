@@ -1,0 +1,72 @@
+{
+  "chapter": "662",
+  "part": 5,
+  "title": "A Warlord Controls the Field",
+  "description": "On pages 15–18, this part follows Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Marines. The central beat is a warlord controls the field.",
+  "pages": [
+    15,
+    16,
+    17,
+    18
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Marines",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Trafalgar Law",
+    "Smoker",
+    "Tashigi"
+  ],
+  "scene": "The scene focuses on a warlord controls the field, with Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Marines shaping the Punk Hazard conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "What are you plotting on this island?!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What are you people plotting ...?!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "\"Scalpel\""
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "My heart ...!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Remember someone"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Hey, look! This is a battle- ship!!"
+    },
+    {
+      "speaker": "Marines",
+      "text": "Does that mean the Marines are here?!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "There's someone over there!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "... Mister Straw hat."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "It's you!!!"
+    }
+  ],
+  "summary": "A Warlord Controls the Field. This part advances Punk Hazard’s rescue mission, Caesar’s experiment, and the fragile pirate–Marine alliance.",
+  "confidence": 0.76,
+  "needs_review": true
+}

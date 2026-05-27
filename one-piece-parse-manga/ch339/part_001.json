@@ -1,0 +1,142 @@
+{
+  "chapter": "339",
+  "part": 1,
+  "title": "Robin Vanishes into Water Seven",
+  "description": "The attempted assassination of Iceburg throws suspicion across Water Seven and points toward a hidden conspiracy.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Blueno",
+    "Luffy",
+    "Nico Robin",
+    "Iceburg",
+    "Nami",
+    "Franky",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "CP9 agent"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Blueno, Luffy, Nico Robin, Iceburg, Nami. The attempted assassination of Iceburg throws suspicion across Water Seven and points toward a hidden conspiracy.",
+  "dialogue": [
+    {
+      "speaker": "Blueno",
+      "text": "Bad?...what's bad?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The wind is blowing hard,"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "and the pressure is dropping."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "A typhoon might pass through tonight."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "So what?"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Um, I'll check into it later."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Anyway, that's it... look down."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Journal- ists are crowding around that place."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "It's connected to the first dock, too..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Iceburg- San must be in that mansion!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "You're really going!?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Nico Robin shot him,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "See ya later,"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "What...?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Wait...!!!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Who..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "What!!?"
+    },
+    {
+      "speaker": "Franky",
+      "text": "A window broke!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "What's happen- ing?!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "We're being attacked!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "\"Straw hat Luffy\" has"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Invaded Head Quar- TERS!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What!!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "In broad daylight!!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "SO SUD- DEN!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Where is he!?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Protect Iceburg- San!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "It's the straw hat!!!"
+    }
+  ],
+  "summary": "The attempted assassination of Iceburg throws suspicion across Water Seven and points toward a hidden conspiracy.",
+  "confidence": 0.85,
+  "needs_review": false
+}

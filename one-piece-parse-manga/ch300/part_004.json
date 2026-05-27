@@ -1,0 +1,77 @@
+{
+  "chapter": "300",
+  "part": 4,
+  "title": "Rubber Defies Lightning",
+  "description": "The crew prepares to leave Skypiea with new memories, treasure, and the fulfilled promise of the golden bell.",
+  "pages": [
+    13,
+    14,
+    15
+  ],
+  "characters": [
+    "Luffy",
+    "Enel",
+    "Nami",
+    "Aisa",
+    "Wyper",
+    "Gan Fall",
+    "Conis",
+    "Pagaya",
+    "Nico Robin",
+    "Zoro"
+  ],
+  "scene": "Across pages 13, 14, 15, this scene focuses on Luffy, Enel, Nami, Aisa, Wyper. The crew prepares to leave Skypiea with new memories, treasure, and the fulfilled promise of the golden bell.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "No matter how fierce,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "A war was in the distant past..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Chief!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Listen closely, Wyper..."
+    },
+    {
+      "speaker": "Enel",
+      "text": "Even at the very least, Vearth..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Does not reject anyone."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yes..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "And at the very least... Right now!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Not a single person!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "wishes to fight,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Any longer."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Let's party!"
+    }
+  ],
+  "summary": "The crew prepares to leave Skypiea with new memories, treasure, and the fulfilled promise of the golden bell.",
+  "confidence": 0.88,
+  "needs_review": false
+}

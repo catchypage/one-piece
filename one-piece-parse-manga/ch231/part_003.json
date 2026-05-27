@@ -1,0 +1,110 @@
+{
+  "chapter": "231",
+  "part": 3,
+  "title": "One Punch Ends Bellamy’s Boast",
+  "description": "Bellamy steals Cricket’s gold and attacks the dreamers, forcing Luffy to answer the insult directly.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Bellamy",
+    "Shojo",
+    "Mont Blanc Cricket",
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Masira",
+    "Sarquiss",
+    "Usopp",
+    "Sanji"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this scene centers on Bellamy, Shojo, Mont Blanc Cricket, Luffy, Nami. Bellamy steals Cricket’s gold and attacks the dreamers, forcing Luffy to answer the insult directly.",
+  "dialogue": [
+    {
+      "speaker": "Bellamy",
+      "text": "Boss! Get away!"
+    },
+    {
+      "speaker": "Shojo",
+      "text": "Havoc sonar!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Whoa!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "KyaAA!"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "That son of a..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hold up, Sarquiss."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'll finish that one off."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "He's using his..."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Bame Bane* fruit's ability again..."
+    },
+    {
+      "speaker": "Shojo",
+      "text": "Shojo, watch out!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Spring..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "...ick"
+    },
+    {
+      "speaker": "Masira",
+      "text": "SNIPE!"
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "GAHH-"
+    },
+    {
+      "speaker": "Shojo",
+      "text": "Alright, let's beat it."
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "load the gold onboard."
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Boss! We found some gold!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Grow up, old man!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Haha haha!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "The City of Gold Must Exist! ukikiki!"
+    }
+  ],
+  "summary": "Bellamy steals Cricket’s gold and attacks the dreamers, forcing Luffy to answer the insult directly.",
+  "confidence": 0.87,
+  "needs_review": false
+}

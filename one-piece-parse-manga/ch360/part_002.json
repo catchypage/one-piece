@@ -1,0 +1,142 @@
+{
+  "chapter": "360",
+  "part": 2,
+  "title": "Robin Boards the Sea Train",
+  "description": "The rescue force launches into the storm after the Sea Train, beginning the road to Enies Lobby.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Kokoro",
+    "Nico Robin",
+    "Nami",
+    "Iceburg",
+    "Paulie",
+    "Chopper",
+    "Usopp",
+    "Franky",
+    "Franky Family",
+    "Luffy"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this part follows Kokoro, Nico Robin, Nami, Iceburg, Paulie. The rescue force launches into the storm after the Sea Train, beginning the road to Enies Lobby.",
+  "dialogue": [
+    {
+      "speaker": "Kokoro",
+      "text": "All hands on the \"Sea train\"!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Prepare for departure to Enies Lobby!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "THOK!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Even with him gone..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "It still feels like trouble."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "The ruins of galley-La company head- quarters"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Nico Robin doesn't hate us after all ________"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "That's right!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "It turned into a tanuki."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "It turned into a tanuki."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Hey, it turned into a tanuki."
+    },
+    {
+      "speaker": "Franky",
+      "text": "Okay _____!! I'll do my best _____!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "W~wah!! It turned into a gorilla _____!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Wait, you guys......"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Chu Chu"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "So---- what are you saying....!?"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "No way..."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "This is bad!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "What time is it now!?"
+    },
+    {
+      "speaker": "Franky",
+      "text": "It's 10:30."
+    },
+    {
+      "speaker": "Franky",
+      "text": "30 minutes left!!?"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "Oh no!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "I have to convince Nico Robin myself....!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Okay, got it!!"
+    },
+    {
+      "speaker": "Franky Family",
+      "text": "Hey... you guys!!!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Ah....!! Paulie's okay....!!!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "This woman and her friends..."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Lend them a hand."
+    }
+  ],
+  "summary": "The rescue force launches into the storm after the Sea Train, beginning the road to Enies Lobby.",
+  "confidence": 0.83,
+  "needs_review": false
+}

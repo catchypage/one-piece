@@ -1,0 +1,83 @@
+{
+  "chapter": "679",
+  "part": 2,
+  "title": "Tashigi Leads the Escape",
+  "description": "On pages 10–12, this part follows Unknown person #1, Punk Hazard Guards, Unknown person #2, Unknown person #4, Unknown person #5, Tashigi, G-5 Marines. The central beat is tashigi leads the escape.",
+  "pages": [
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Punk Hazard Guards",
+    "Unknown person #2",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Tashigi",
+    "G-5 Marines",
+    "Smoker",
+    "Children",
+    "Nami",
+    "Chopper",
+    "Luffy"
+  ],
+  "scene": "The scene focuses on tashigi leads the escape, with Unknown person #1, Punk Hazard Guards, Unknown person #2, Unknown person #4, Unknown person #5, Tashigi, G-5 Marines shaping the Punk Hazard conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Shut this gate, here"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Front entrance"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Isolate A-Block !!!"
+    },
+    {
+      "speaker": "Punk Hazard Guards",
+      "text": "Eh... Master ...!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "As of now"
+    },
+    {
+      "speaker": "Vergo",
+      "text": "Planning to do something, Vergo...!?"
+    },
+    {
+      "speaker": "Punk Hazard Guards",
+      "text": "Is you and you alone, Caesar!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'll cut them all to ribbons....!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You're not a swordsman, are you..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Right. I was never a swordsman."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Inside the Lab: A-block"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Those aren't animal legs...!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "I've got no respect for you!!"
+    }
+  ],
+  "summary": "Tashigi Leads the Escape. This part advances Punk Hazard’s rescue mission, Caesar’s experiment, and the fragile pirate–Marine alliance.",
+  "confidence": 0.76,
+  "needs_review": false
+}

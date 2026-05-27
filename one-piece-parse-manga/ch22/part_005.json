@@ -1,0 +1,155 @@
+{
+  "chapter": "22",
+  "part": 5,
+  "title": "The Crew Drifts Toward a Strange Island",
+  "description": "On pages 11–14, Luffy, Zoro, and Nami reach a strange island where Gaimon and the rare animals guard a lonely mystery.",
+  "pages": [
+    11,
+    12,
+    13,
+    14
+  ],
+  "characters": [
+    "Nami",
+    "Gaimon",
+    "Luffy"
+  ],
+  "scene": "The crew’s lighthearted exploration turns into a small fable about treasure, isolation, and the life Gaimon built after being trapped on the island.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "How did you get to this island?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "You mentioned earlier that you were pirates right?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Yes, there are three of us"
+    },
+    {
+      "speaker": "Gaimon",
+      "text": "I was also once a pirate!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Oh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's nice being a pirate, venturing for treasures,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's even okay if I risk my life..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Do you have any maps?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "We have a Naviga- Tional map for the \"Grandline\"!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm going for \"One piece\"!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What? \"One piece\"?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "And you intend to go to the \"Grand Line\"?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Um?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Which one is the \"grand line\"?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "this... Uncle cauliflower head, you don't know?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I don't really know how to read maps!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Oh, I see!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Is that how pirates are supposed to talk...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "BLA BLA BLA"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Listen!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Do you know the \"Red Line\"?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I know!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Thats the land that separates the oceans"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Yes! There are 2 oceans in this world!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "And the land that splits the world's two oceans"
+    },
+    {
+      "speaker": "Nami",
+      "text": "is called the \"Red Land\"!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Using the city of \"Red Line\" as the centre,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "GRAND LINE"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Draw a line around the world across the opposite way."
+    },
+    {
+      "speaker": "Nami",
+      "text": "And that is the \"Grand Line\"!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "In history, only the pirate King Gold Roger has con-quered this route!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Also, it is the most dangerous route!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "\"One piece\" is surely in that place!"
+    }
+  ],
+  "summary": "This part works as a pause between major arcs, showing that the sea contains strange lives and unusual dreams beyond simple battles.",
+  "confidence": 0.9,
+  "needs_review": false
+}

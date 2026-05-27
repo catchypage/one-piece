@@ -1,0 +1,62 @@
+{
+  "chapter": "51",
+  "part": 5,
+  "title": "Zoro Faces the World’s Strongest Swordsman",
+  "description": "On pages 17–18, Zoro confronts Dracule Mihawk, forcing his dream of becoming the world’s greatest swordsman into a brutal and public test.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Zoro",
+    "Luffy",
+    "Unknown person #2"
+  ],
+  "scene": "The Baratie battle pauses around a duel that dwarfs the immediate conflict: Zoro faces the gap between ambition and the world’s strongest swordsman.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "I lost..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Never even thought about the possibility of losing..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'm no match for him..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "So this is... the strength of the world's strongest...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "sheathe"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "What...?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "A wound on one's back,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "is the shame of a swordsman."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "splendid,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "ZORO!"
+    }
+  ],
+  "summary": "This part is a defining moment for Zoro, showing that his dream is real enough to risk death and that his loyalty to Luffy survives defeat.",
+  "confidence": 0.86,
+  "needs_review": false
+}

@@ -1,0 +1,130 @@
+{
+  "chapter": "230",
+  "part": 2,
+  "title": "The Noland Legend Returns",
+  "description": "The crew’s chaotic hunt continues as the dangers of Jaya’s wildlife and the pressure of the coming current build.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Mont Blanc Cricket",
+    "Masira",
+    "Shojo",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Zoro",
+    "Chopper",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this scene centers on Mont Blanc Cricket, Masira, Shojo, Luffy, Nami. The crew’s chaotic hunt continues as the dangers of Jaya’s wildlife and the pressure of the coming current build.",
+  "dialogue": [
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Is its cry really that strange?"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Yes, it's just as Noland's log said."
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Speaking of the South Bird,"
+    },
+    {
+      "speaker": "Masira",
+      "text": "For ages, sailors have-"
+    },
+    {
+      "speaker": "Shojo",
+      "text": "- Oh no!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What's wrong!?"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "The forest to the south!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What!? Why!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Why the bird...?"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "laya"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Knock Up Stream"
+    },
+    {
+      "speaker": "Masira",
+      "text": "By sailing South, duh."
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "This is the grand line!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The log-pose won't be of any use!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "That's where this bird comes in!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "As if you can talk!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Why'd you tell us so late!?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Stop whinin'! There's no time for that!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "You better have caught one South Bird,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "By the time the sun rises...!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Whoa..."
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Stop holding onto me!"
+    },
+    {
+      "speaker": "South Bird",
+      "text": "Ughh... I think I ate too much..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "It's pitch black in here!"
+    }
+  ],
+  "summary": "The crew’s chaotic hunt continues as the dangers of Jaya’s wildlife and the pressure of the coming current build.",
+  "confidence": 0.87,
+  "needs_review": false
+}

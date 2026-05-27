@@ -1,0 +1,182 @@
+{
+  "chapter": "380",
+  "part": 2,
+  "title": "Sogeking Joins the Rescue",
+  "description": "The fight across Enies Lobby widens as guards, giants, CP9, Franky, and the Straw Hats collide around the courthouse.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Oimo",
+    "Sogeking",
+    "Franky",
+    "World Government agent",
+    "Nico Robin",
+    "Blueno"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this part follows Luffy, Zoro, Nami, Sanji, Oimo. The fight across Enies Lobby widens as guards, giants, CP9, Franky, and the Straw Hats collide around the courthouse.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Push _____!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "BRURURURU!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Look, the gate....!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The gate's opening!!"
+    },
+    {
+      "speaker": "Oimo",
+      "text": "What's OIMO doing!!?"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "BAHihi —!!!"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "00- WAAAAA!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "The gate's been breached!!!"
+    },
+    {
+      "speaker": "World Government agent",
+      "text": "enies lobby main gate"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "main gate"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "fence"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Hey..."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Look at the sea....!!!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "A sea train...!!?"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "It's charging right at us!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "What's going on...?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hey, Granny!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Hmm!?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "What?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Hey!! Stupid swordsman!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "What's the problem!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Everyone, there's a change of plan!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Hang on to something tightly!!"
+    },
+    {
+      "speaker": "Oimo",
+      "text": "They closed the main gate _____!!!"
+    },
+    {
+      "speaker": "Kashii",
+      "text": "Click..."
+    },
+    {
+      "speaker": "Enies Lobby guard",
+      "text": "What!!?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Oh no! We're gonna crash!!!!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Ah—!!! What should we do!!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Turn! Turn! KokoroSa--N!!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Don't worry..."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "There's a way!!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Push down the fence, frog!!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "GEROO!!!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Gero...!!!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Creek!!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Waah -!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Guoo..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "No way!!!"
+    }
+  ],
+  "summary": "The fight across Enies Lobby widens as guards, giants, CP9, Franky, and the Straw Hats collide around the courthouse.",
+  "confidence": 0.72,
+  "needs_review": false
+}

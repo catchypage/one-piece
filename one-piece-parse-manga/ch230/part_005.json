@@ -1,0 +1,92 @@
+{
+  "chapter": "230",
+  "part": 5,
+  "title": "The South Bird Hunt",
+  "description": "The crew’s chaotic hunt continues as the dangers of Jaya’s wildlife and the pressure of the coming current build.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Mont Blanc Cricket",
+    "Masira",
+    "Shojo",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Zoro",
+    "Chopper",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 17, 18, this scene centers on Mont Blanc Cricket, Masira, Shojo, Luffy, Nami. The crew’s chaotic hunt continues as the dangers of Jaya’s wildlife and the pressure of the coming current build.",
+  "dialogue": [
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "What's Wrong With This Forest!?"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Why, did it say something!?"
+    },
+    {
+      "speaker": "Masira",
+      "text": "Luffy, look!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "A bird?"
+    },
+    {
+      "speaker": "Masira",
+      "text": "AH! It's the bird we're looking for!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "...What?"
+    },
+    {
+      "speaker": "Shojo",
+      "text": "It said it will kill anybody,"
+    },
+    {
+      "speaker": "Shojo",
+      "text": "That dares harm this forest...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "UKIKIKI! Beat it, punks!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Haha haha!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What're you, his bodyguards?"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "You know, pirate Mont Blanc Cricket,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hmph!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "And shed some tears..."
+    },
+    {
+      "speaker": "Masira",
+      "text": "Taking away someone else's hard-earned treasure has..."
+    },
+    {
+      "speaker": "Masira",
+      "text": "The hyena! Ahahaha Hahaha!"
+    }
+  ],
+  "summary": "The crew’s chaotic hunt continues as the dangers of Jaya’s wildlife and the pressure of the coming current build.",
+  "confidence": 0.87,
+  "needs_review": false
+}

@@ -1,0 +1,146 @@
+{
+  "chapter": "225",
+  "part": 3,
+  "title": "Nami Looks for Sky Island Clues",
+  "description": "After the humiliation in Mock Town, Blackbeard declares that pirate dreams will never die, sharply opposing Bellamy’s New Age cynicism.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Mont Blanc Cricket",
+    "Blackbeard",
+    "Nami",
+    "Bellamy",
+    "Sarquiss",
+    "Bellamy crewman",
+    "Mock Town pirate",
+    "Luffy",
+    "Zoro",
+    "Mock Town pirates"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this scene centers on Mont Blanc Cricket, Blackbeard, Nami, Bellamy, Sarquiss. After the humiliation in Mock Town, Blackbeard declares that pirate dreams will never die, sharply opposing Bellamy’s New Age cynicism.",
+  "dialogue": [
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Zena Haha Haha Haha Haha Haha haha!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "The Cherry Pies here are the best!"
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "You're... The man from earlier..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "What're you lookin' annoyed for, sister?"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Those two won that fight just now."
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "Who...?"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "OH!? So you want to surpass us...?"
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "The next time we'll meet,"
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "is when you're at the pirates' top."
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Your comeback was sure somethin' too!"
+    },
+    {
+      "speaker": "Bellamy crewman",
+      "text": "You've got some balls for a girl!"
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "Zehia Haha!"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "Zoro..."
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "Luffy."
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "The \"new age\" those guys talk about,"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Is total bullshit."
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "The age when Pirates dream is ending...?"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Huh!? Well!?"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "W-what's with him!?"
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "Zehaha Hahaha Hahaha!"
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "A man's dream,"
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "Never ends!"
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "I'm right, ain't I?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What's with all the noise outside?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ahahaha! How pathetic!"
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "Hey, hey now!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "A man's... A man's dr... PFFT!"
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "Ahahaha hahaha!"
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "I think he's lost it!"
+    }
+  ],
+  "summary": "After the humiliation in Mock Town, Blackbeard declares that pirate dreams will never die, sharply opposing Bellamy’s New Age cynicism.",
+  "confidence": 0.87,
+  "needs_review": false
+}

@@ -1,0 +1,118 @@
+{
+  "chapter": "213",
+  "part": 5,
+  "title": "The X-Mark Promise",
+  "description": "On pages 20, 21, 22, 23, this part focuses on the silent x-mark farewell. Vivi and the Straw Hats part ways without words, using their shared mark to prove their friendship while protecting her from the Navy.",
+  "pages": [
+    20,
+    21,
+    22,
+    23
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Zoro",
+    "Karoo",
+    "Smoker",
+    "Tashigi"
+  ],
+  "scene": "This scene belongs to the The Silent X-Mark Farewell sequence. The important beat is the dialogue and action around Luffy, Vivi, Nami, Usopp, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Drip, I'm not sure if you are"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Pervert."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Not for THAT!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "For the country,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "This is a grave act, your highness...!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Igaram."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Rank is worn above one's clothing."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "...But this here is the bath."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "As a father,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "and a resident of this land,"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "I'd like to express my gratitude."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Tonight!?"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "So we're leaving, are we..."
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Yeah, I think that's a good idea."
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Gahh!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What should we do, Igaram!?"
+    },
+    {
+      "speaker": "Unknown person #15",
+      "text": "Rorona Zero Bounty: 60 Million Bell"
+    },
+    {
+      "speaker": "Masira",
+      "text": "Monkey D. Luffy Bounty: 100 Million Bell"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "There's no turning back now, Luffy!"
+    }
+  ],
+  "summary": "Vivi and the Straw Hats part ways without words, using their shared mark to prove their friendship while protecting her from the Navy.",
+  "confidence": 0.84,
+  "needs_review": false
+}

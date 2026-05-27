@@ -1,0 +1,65 @@
+{
+  "chapter": "33",
+  "part": 4,
+  "title": "The Nyaban Brothers Enter the Battle",
+  "description": "On pages 12–15, the battle for Syrup Village intensifies as the Straw Hats, Usopp, and the village’s defenders confront Kuro’s pirates.",
+  "pages": [
+    12,
+    14,
+    15
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Zoro",
+    "Kaya",
+    "Black Cat Pirate",
+    "Unknown person #2",
+    "Kuro"
+  ],
+  "scene": "The quiet village becomes a battlefield, with Usopp’s lies turning into real courage and the Straw Hats forcing Kuro’s plan to unravel.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Shyaaaaaa!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Stop Dreaming! Even with three swords, you're still no match for us!!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "You don't know the differ- once..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "between \"Using three swords\" and \"using three swords style\"!"
+    },
+    {
+      "speaker": "Black Cat Pirate",
+      "text": "Nyaban broth- ERS! We're Count- ing on you!!!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "finish them off within these 5 minutes!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "SyaAAAA.....!!!"
+    },
+    {
+      "speaker": "Kuro",
+      "text": "TORA..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Killing swords!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Ah..."
+    }
+  ],
+  "summary": "This part pushes the arc from conspiracy into open battle, testing Usopp’s courage and the Straw Hats’ trust in him.",
+  "confidence": 0.84,
+  "needs_review": false
+}

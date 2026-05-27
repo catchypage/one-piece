@@ -1,0 +1,108 @@
+{
+  "chapter": "200",
+  "part": 3,
+  "title": "The Cannon Threatens the Square",
+  "description": "On pages 9–12, this part focuses on the cannon threatens the square, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Chopper",
+    "Luffy",
+    "Sanji",
+    "Zoro",
+    "Pell"
+  ],
+  "scene": "The Cannon Threatens the Square. The crew and Alabasta’s defenders race against time to stop the cannon before the city is destroyed. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "NGHH!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Drop"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "SUCK!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Flex!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Do you remember telling me,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "That devil fruit powers can grow more powerful,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Depending on how you use them...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu pistol!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "SHOPGUN!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Agh-"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Cheeky brat..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Desert Spada!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "\"That\" attack!?"
+    },
+    {
+      "speaker": "Pell",
+      "text": "Because I"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Close call!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gonu..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Using the same attacks again and again..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Do you really intend on winning?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Yup!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "And I'm 100% Con- Fident!"
+    }
+  ],
+  "summary": "This part develops the cannon threatens the square and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

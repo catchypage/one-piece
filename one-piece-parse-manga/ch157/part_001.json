@@ -1,0 +1,156 @@
+{
+  "chapter": "157",
+  "part": 1,
+  "title": "The Sea Cat Appears",
+  "description": "On pages 1–4, this part focuses on the sea cat appears, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Usopp",
+    "Narrator",
+    "Nami",
+    "Vivi",
+    "Zoro",
+    "Mr. 2 Bon Clay",
+    "Unknown person #1",
+    "Unknown person #2"
+  ],
+  "scene": "The Sea Cat Appears. The crew encounters Baroque Works’ strange forces and the danger of deception grows as Alabasta becomes harder to read. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Usopp",
+      "text": "?,!,\"Meow!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What the heck is that!?"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "It's a sea cat!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Gahhhhhhh!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "It's a moon- steerr!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Our first meal in 4 days!"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "FOOOD!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "We're still on course, so..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "We should be almost there by now..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "FOOOD!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Ahh! It's backing away!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Back the ship up!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Ships can't move like that!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Don't let it get away! We have to hunt it down no matter what!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "You can't!"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "W-what was that for, Vivil?"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "The hell do you think you're doing, Viv!!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You can't eat it!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Sea Cats,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Are sacred creatures of Alabasta,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "There sure are a lot of strange creatures in the sea."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "rRnt PRNT... Heh, looks like you've still got a long ways to go if you get scared at something like that."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Let Usopp tell you about that one time he faced Sea Kings in the Calm Belt."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You fought against Sea Kings!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "The food... The food escaped..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "The biggest Sea Kings you could imagine, my lad!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Don't worry, you'll soon be able to eat as much as you want."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Really!? What kind of cat'll come out from the sea this time!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Vivi! The wind and climate seems to have stabilized."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Yes, we must have entered Alabasta's climate."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "The Sea Cat we saw just now is proof of that."
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "And I guess a sight like \"that\" is another proof that we've reached Alabasta."
+    }
+  ],
+  "summary": "This part highlights the sea cat appears and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.65,
+  "needs_review": true
+}

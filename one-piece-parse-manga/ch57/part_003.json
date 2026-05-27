@@ -1,0 +1,85 @@
+{
+  "chapter": "57",
+  "part": 3,
+  "title": "The Truth Behind Sanji’s Debt to Zeff",
+  "description": "On pages 9–12, Sanji’s past with Zeff is revealed through their starvation on a rock, explaining the debt that binds him to the Baratie.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Zeff",
+    "Sanji",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7"
+  ],
+  "scene": "The flashback strips away the noise of battle and focuses on hunger, sacrifice, and the dream of creating a restaurant where no one is denied food.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Captain, we have to pull back right away! The coming storm's much bigger than we thought!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Alright."
+    },
+    {
+      "speaker": "Zeff",
+      "text": "load up all of the loot back to our boat!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Aghhh!"
+    },
+    {
+      "speaker": "Zeff",
+      "text": "Sanji!"
+    },
+    {
+      "speaker": "Zeff",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Captain!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Ahhhhh!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "that stupid brat..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Captain!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "W-What're you doing!? It's just a stupid little kid!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Captain!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Grash"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Grack.. crack"
+    }
+  ],
+  "summary": "This part gives emotional meaning to Sanji’s choices: Zeff’s sacrifice explains why feeding the hungry is sacred to him.",
+  "confidence": 0.62,
+  "needs_review": false
+}

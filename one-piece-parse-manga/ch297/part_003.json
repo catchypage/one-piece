@@ -1,0 +1,90 @@
+{
+  "chapter": "297",
+  "part": 3,
+  "title": "The Giant Jack Becomes the Road",
+  "description": "Luffy defeats Enel and rings the golden bell, sending proof of the City of Gold down to Mont Blanc Cricket.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Calgara",
+    "Luffy",
+    "Enel",
+    "Nami",
+    "Narrator",
+    "Aisa",
+    "Wyper",
+    "Gan Fall",
+    "Conis",
+    "Pagaya"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this scene focuses on Calgara, Luffy, Enel, Nami, Narrator. Luffy defeats Enel and rings the golden bell, sending proof of the City of Gold down to Mont Blanc Cricket.",
+  "dialogue": [
+    {
+      "speaker": "Calgara",
+      "text": "Thanks, Nami!"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Wha-"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "L-Luffy, wait! The ship is that way!"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Kyaaa!"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "No, Luffy! Inside that spherical mass is...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Rubber Man!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "AAAAA AAAGG G!!!!!!!!!!!!!!"
+    },
+    {
+      "speaker": "Enel",
+      "text": "RAAAAAA AAAAA AAAAAAAAAAAAAAAA AAAAAAAAGAAGE GGH!!!!!!!!!!!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "ZAP!A"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Gomu Gonu... Fireworks!"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "Golden Penny!"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "After finally reaching sky island,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What's with this huge electrical discharge...!?"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Ahh! That's right!"
+    }
+  ],
+  "summary": "Luffy defeats Enel and rings the golden bell, sending proof of the City of Gold down to Mont Blanc Cricket.",
+  "confidence": 0.88,
+  "needs_review": false
+}

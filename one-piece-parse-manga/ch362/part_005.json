@@ -1,0 +1,95 @@
+{
+  "chapter": "362",
+  "part": 5,
+  "title": "The Train Cars Become a Battlefield",
+  "description": "Sanji works his way through the Sea Train, turning the rescue mission into a fight inside enemy territory.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Sanji",
+    "Franky",
+    "Nico Robin",
+    "Spandam",
+    "CP9 agent",
+    "Wanze",
+    "Nero",
+    "Kokoro",
+    "World Government agent"
+  ],
+  "scene": "Across pages 17, 18, this part follows Sanji, Franky, Nico Robin, Spandam, CP9 agent. Sanji works his way through the Sea Train, turning the rescue mission into a fight inside enemy territory.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "Something's over there ~~!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Nya NYA!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Something......?"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "HAA is"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "Mina is"
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "sniz!!"
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "Luffy!!!"
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "Hmm?? That straw hat......"
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "MM. Hmm!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Hey!! Where do you think you're going!!?"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Did she say the back streets!?"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Hey, somebody stop that girl!!!"
+    },
+    {
+      "speaker": "Wanze",
+      "text": "... that..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Come back here!!!"
+    },
+    {
+      "speaker": "Nero",
+      "text": "Don't you want to stay alive!!?"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "\"Aqua Laguna\" is coming!!!!"
+    }
+  ],
+  "summary": "Sanji works his way through the Sea Train, turning the rescue mission into a fight inside enemy territory.",
+  "confidence": 0.82,
+  "needs_review": false
+}

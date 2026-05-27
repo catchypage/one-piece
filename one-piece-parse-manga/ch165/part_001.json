@@ -1,0 +1,66 @@
+{
+  "chapter": "165",
+  "part": 1,
+  "title": "The Agents Receive Their Orders",
+  "description": "On pages 0–3, this part focuses on the agents receive their orders, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Vivi",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Toto"
+  ],
+  "scene": "The Agents Receive Their Orders. The crew reaches Yuba and sees what the drought and rebellion have done to the people who still believe in Alabasta. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "Flavor of Sand."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Flavor of Sand."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Well, I guess we should say good-bye for now, Vivi."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Please do come visit once the town is set up!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Sure thing!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Toto..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Please don't worry anymore."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Vivi..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I'll stop the rebels no matter what!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Thank you, Vivil!"
+    }
+  ],
+  "summary": "This part develops the agents receive their orders and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

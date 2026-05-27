@@ -1,0 +1,27 @@
+{
+  "chapter": "606",
+  "title": "The Deep-Sea Crisis",
+  "main_description": "The crew is pushed into a chaotic deep-sea crisis as volcanoes, currents, and enemies threaten the Sunny.",
+  "main_characters": [
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Usopp",
+    "Chopper",
+    "Robin",
+    "Franky",
+    "Brook",
+    "Surume",
+    "Caribou",
+    "Vander Decken Pirates"
+  ],
+  "key_events": [
+    "The Undersea Volcano Threatens Them",
+    "The Crew Is Scattered by the Current",
+    "Fish-Man Island Draws Near"
+  ],
+  "confidence": 0.84,
+  "needs_review": false,
+  "review_reasons": []
+}

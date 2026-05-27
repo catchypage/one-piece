@@ -1,0 +1,78 @@
+{
+  "chapter": "94",
+  "part": 1,
+  "title": "Arlong Park Crumbles",
+  "description": "On pages 2–5, arlong park crumbles focuses on Luffy, Nami, Arlong, Nojiko as luffy destroys Arlong Park and declares Nami his crewmate, ending Arlong’s rule over Cocoyashi.",
+  "pages": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Arlong",
+    "Nojiko",
+    "Genzo",
+    "Cocoyashi villagers",
+    "Straw Hat Pirates",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "On pages 2–5, arlong park crumbles focuses on Luffy, Nami, Arlong, Nojiko as luffy destroys Arlong Park and declares Nami his crewmate, ending Arlong’s rule over Cocoyashi.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Ugh!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The hell's going on? So freakin' noisy..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Arlong Park... is destroyed...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "brother..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "...just what the heck happened in there!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Which one of them won!?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "...After that best- auction, I can't possibly imagine that..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Luffy...!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Luffy...!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "BHHHR- RUWWW-"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Is he alright...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Nami!"
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.73,
+  "needs_review": false
+}

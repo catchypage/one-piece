@@ -1,0 +1,122 @@
+{
+  "chapter": "357",
+  "part": 4,
+  "title": "Rocketman Is Found",
+  "description": "Robin, Franky, and CP9 board the Sea Train, while the Straw Hats and allies scramble to follow them.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Franky",
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "CP9 agent",
+    "Kokoro",
+    "Franky Family"
+  ],
+  "scene": "Across pages 13, 14, 15, 16, this part follows Franky, Luffy, Nami, Zoro, Sanji. Robin, Franky, and CP9 board the Sea Train, while the Straw Hats and allies scramble to follow them.",
+  "dialogue": [
+    {
+      "speaker": "Franky",
+      "text": "Spandam's face is all messed up!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Franky, don't do this!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Gero Gerooo!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "arrest that bastard!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "You have Permis- Soon to shoot!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Give back Tom- San----!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Dammit, he escaped!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "That guy's definitely a criminal!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Spandam!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What's Wrong!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "It's Franky!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What!!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "He's on the tracks!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "He's carrying some kind of weapon!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Stay there, yoko- Zuna."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Gero Gero!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Is he an idiot!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "That bastard!!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "What.... What should we do!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Are you stupid as well?!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Run him over!! I don't care!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "You don't have to think about it!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "... stop, puffing Tom!!"
+    }
+  ],
+  "summary": "Robin, Franky, and CP9 board the Sea Train, while the Straw Hats and allies scramble to follow them.",
+  "confidence": 0.85,
+  "needs_review": false
+}

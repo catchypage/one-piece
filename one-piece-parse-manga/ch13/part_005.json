@@ -1,0 +1,93 @@
+{
+  "chapter": "13",
+  "part": 5,
+  "title": "Luffy Takes on Mohji and Richie",
+  "description": "On pages 17–18, Luffy confronts Mohji and Richie after their intimidation exposes the cruelty of Buggy’s pirates.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Nami",
+    "Buggy",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Chouchou",
+    "Unknown person #3",
+    "Mayor Boodle"
+  ],
+  "scene": "Mohji and Richie try to use fear and force, but Luffy’s reaction turns the scene into a direct challenge against their bullying.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "THAT'S ALL I COULD SAVE FOR YOU, BOY!"
+    },
+    {
+      "speaker": "Buggy",
+      "text": "THE REST GOT EATEN, OR BURNED..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "ULP!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "HE FOUGHT THAT LION..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "You did good! You fought well!"
+    },
+    {
+      "speaker": "Buggy",
+      "text": "I DIDN'T GET TO SEE YOU IN ACTION..."
+    },
+    {
+      "speaker": "Buggy",
+      "text": "But I know you did good!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ruff!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "THANKS..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Good luck to you, too!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Ruff!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Ruff!!!!"
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "Hmph..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "MOHJI WAS DEFEATED!?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "'At's right, Cap'n!"
+    },
+    {
+      "speaker": "Buggy",
+      "text": "Ready my special buggy balls!!!"
+    },
+    {
+      "speaker": "Mayor Boodle",
+      "text": "Teatime's over, kiddies! We're going to light up this town!! Until there's nothing left!!!"
+    }
+  ],
+  "summary": "This part pushes Luffy from casual involvement into righteous anger, especially when innocent people and loyal companions are hurt.",
+  "confidence": 0.7,
+  "needs_review": false
+}

@@ -1,0 +1,62 @@
+{
+  "chapter": "567",
+  "part": 2,
+  "title": "Luffy Enters the War: Rising Conflict",
+  "description": "In the Marineford War storyline, this section centers on Unknown person #5, Unknown person #7, CP9, Unknown person #4, Unknown person #8, Luffy as the scene develops across pages 5–8.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Unknown person #5",
+    "Unknown person #7",
+    "CP9",
+    "Unknown person #4",
+    "Unknown person #8",
+    "Luffy"
+  ],
+  "scene": "This scene advances the Marineford War conflict through Unknown person #5, Unknown person #7, CP9, Unknown person #4, Unknown person #8, focusing on the immediate stakes of luffy enters the war: rising conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #7",
+      "text": "Zeeh"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Zeeh ..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "GUBU- BU!!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "\"G- gear\" ..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "\"Second.\""
+    },
+    {
+      "speaker": "CP9",
+      "text": "\"Shigan\" !!!"
+    },
+    {
+      "speaker": "CP9",
+      "text": "Uuuh !!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "You've definitely got guts... Strawhat Luffy..."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Take down white- beard!!"
+    }
+  ],
+  "summary": "This scene advances the Marineford War conflict through Unknown person #5, Unknown person #7, CP9, Unknown person #4, Unknown person #8, focusing on the immediate stakes of luffy enters the war: rising conflict.",
+  "confidence": 0.65,
+  "needs_review": true
+}

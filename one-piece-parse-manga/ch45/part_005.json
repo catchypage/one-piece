@@ -1,0 +1,160 @@
+{
+  "chapter": "45",
+  "part": 5,
+  "title": "Sanji Feeds a Starving Enemy",
+  "description": "On pages 15–18, Sanji feeds Gin despite the danger, revealing that his compassion for the hungry matters more to him than restaurant rules or pirate labels.",
+  "pages": [
+    15,
+    16,
+    17,
+    18
+  ],
+  "characters": [
+    "Sanji",
+    "Unknown person #1",
+    "Patty",
+    "Luffy",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Don Krieg",
+    "Zeff"
+  ],
+  "scene": "Gin arrives broken and starving, while the Baratie cooks judge him as an enemy; Sanji alone treats hunger as something that must be answered.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "Then like a herd of elephants stomping on an ant,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "This restaurant will be crushed!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I see..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Then you're suggesting we should've given him a warm welcome?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Don't you think that's a little rude to our other guests!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "As a fighting cook that baratie is renowned for,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I am ashamed by such an idea!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Just how many pirates have we chased off until now!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "If yer so scared, then why don'cha just quit!"
+    },
+    {
+      "speaker": "Patty",
+      "text": "What!? It's precisely because of those words all the waiters quit!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "This is all your fault that we're so busy, Patty!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hmph! As if we ever needed those spineless sacks of crap in the first place!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hey, you blockheads!"
+    },
+    {
+      "speaker": "Patty",
+      "text": "Get back to work!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Yessir!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "See ya then."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I just wanted to warn you."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "But I'm still gonna go to grand line!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Haha... well, you are free to do what you want. It's not like I have the right to stop that."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "And Sanji,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Thank you so much for the food. You're my Saviour."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "That meal was really the best I've ever had."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Would it be alright to come here to eat again?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Sure, anytime."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hey errand-boy! So that's where you were!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Agh! old man!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Go, gin..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Ah, sorry. Just because you gave me food,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "You're going to get scolded..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Come again?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "How can I be scolded,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "If there's no proof?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Don't you get caught again, gin!"
+    }
+  ],
+  "summary": "This part reveals the core of Sanji’s morality: no matter who a person is, he cannot ignore someone starving in front of him.",
+  "confidence": 0.7,
+  "needs_review": false
+}

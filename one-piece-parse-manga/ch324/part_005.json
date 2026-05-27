@@ -1,0 +1,43 @@
+{
+  "chapter": "324",
+  "part": 5,
+  "title": "Usopp Hears the Worst",
+  "description": "The crew splits up in Water Seven, exchanging treasure and discovering the city’s craftsmen, money, and hidden dangers.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Iceburg",
+    "Kaku",
+    "Galley-La shipwright"
+  ],
+  "scene": "Across pages 17, this part follows Luffy, Nami, Usopp, Zoro, Sanji. The crew splits up in Water Seven, exchanging treasure and discovering the city’s craftsmen, money, and hidden dangers.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "customed here!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "...! I thought you're asleep..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Who..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The hell are you?"
+    }
+  ],
+  "summary": "The crew splits up in Water Seven, exchanging treasure and discovering the city’s craftsmen, money, and hidden dangers.",
+  "confidence": 0.69,
+  "needs_review": true
+}

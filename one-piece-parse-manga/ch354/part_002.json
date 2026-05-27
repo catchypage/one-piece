@@ -1,0 +1,107 @@
+{
+  "chapter": "354",
+  "part": 2,
+  "title": "Young Franky and Iceburg",
+  "description": "The flashback closes around Franky’s survival, his transformation, and the burden of Tom’s dream and the Pluton blueprints.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Tom",
+    "Iceburg",
+    "Yokozuna",
+    "World Government agent",
+    "Franky",
+    "Spandam",
+    "Kokoro"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this part follows Tom, Iceburg, Yokozuna, World Government agent, Franky. The flashback closes around Franky’s survival, his transformation, and the burden of Tom’s dream and the Pluton blueprints.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "The blueprint will be done soon,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Can you connect to Enies Lobby?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Your honor,"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "It's possible."
+    },
+    {
+      "speaker": "Tom",
+      "text": "The \"Sea Train\"..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "...Is Water Seven's hope!!!"
+    },
+    {
+      "speaker": "Tom",
+      "text": "How long will it take?"
+    },
+    {
+      "speaker": "Tom",
+      "text": "Ten years."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Then make it!!!"
+    },
+    {
+      "speaker": "Tom",
+      "text": "Good luck Tom!!"
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "Taha!!!...!!!!..."
+    },
+    {
+      "speaker": "World Government agent",
+      "text": "I'm still alive."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "thinking it was your time..."
+    },
+    {
+      "speaker": "Tom",
+      "text": "Everyone was over- wheelmed. The \"sea train\"!!!"
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "Thanks for the meal!! Come, Yokozuna!!"
+    },
+    {
+      "speaker": "Tom",
+      "text": "I'll teach you the crawl stroke!!"
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "Gero 9!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Taha!!...!!..."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Grab"
+    },
+    {
+      "speaker": "Tom",
+      "text": "What's so funny?! You horned Raccoo!!!"
+    }
+  ],
+  "summary": "The flashback closes around Franky’s survival, his transformation, and the burden of Tom’s dream and the Pluton blueprints.",
+  "confidence": 0.72,
+  "needs_review": false
+}

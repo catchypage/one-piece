@@ -1,0 +1,84 @@
+{
+  "chapter": "1111",
+  "part": 1,
+  "title": "Vegapunk Reveals the Sinking World",
+  "description": "On pages 3–5, this part focuses on Unknown person #1, Unknown person #2, Jinbe, Zoro, Unknown person #3 as Vegapunk’s message shakes the world by connecting the Void Century, Joy Boy, ancient weapons, the sinking world, and the Five Elders’ desperate attempt to stop the truth.",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Jinbe",
+    "Zoro",
+    "Unknown person #3"
+  ],
+  "scene": "Vegapunk’s message shakes the world by connecting the Void Century, Joy Boy, ancient weapons, the sinking world, and the Five Elders’ desperate attempt to stop the truth.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "A looming threat!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What in the world???"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "THIS HAKI IS UNREAL!!"
+    },
+    {
+      "speaker": "Jinbe",
+      "text": "The fight's over, Zoro! Let's move!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "JINBE!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "No..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "HE'S STILL STANDING..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Jinbe, have you got him yet?!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I'm on it!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "G'mon, zero. You've already won!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Grab!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Fishman Karate:"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Sorry about this, Rob Lucci..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "5,000 brick..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Fist!!"
+    }
+  ],
+  "summary": "This part advances the Vegapunk’s Broadcast through 15 cleaned dialogue beats, centering the emotional stakes, battle movement, and the wider consequences of Egghead.",
+  "confidence": 0.7,
+  "needs_review": true
+}

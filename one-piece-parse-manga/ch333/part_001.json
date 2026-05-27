@@ -1,0 +1,101 @@
+{
+  "chapter": "333",
+  "part": 1,
+  "title": "The Franky Family’s Attack",
+  "description": "The argument over the Merry becomes a painful split between captain and crewmate, cutting deeper than any normal fight.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Nami",
+    "Usopp",
+    "Luffy",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Franky",
+    "Franky Family",
+    "Going Merry"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Nami, Usopp, Luffy, Zoro, Sanji. The argument over the Merry becomes a painful split between captain and crewmate, cutting deeper than any normal fight.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "I really don't like this"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "LUFFY!!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "USOPP ****!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I know... you won't get...."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "knocked out so easily... Luffy!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "STA..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Certain death"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gommu!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Explosive cactus Star!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Bishu!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "GATLING!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "UWAA AA!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ouch!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Jyara"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Triple flame star!!!"
+    }
+  ],
+  "summary": "The argument over the Merry becomes a painful split between captain and crewmate, cutting deeper than any normal fight.",
+  "confidence": 0.81,
+  "needs_review": false
+}

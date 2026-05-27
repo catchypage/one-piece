@@ -1,0 +1,167 @@
+{
+  "chapter": "133",
+  "part": 2,
+  "title": "A Nameless Country in the Snow",
+  "description": "On pages 7–10, a nameless country in the snow as dalton shelters the crew and explains Drum Island’s fall under Wapol while the search for the island’s last doctor continues.",
+  "pages": [
+    7,
+    8,
+    9,
+    10
+  ],
+  "characters": [
+    "Drum villager",
+    "Dalton",
+    "Luffy",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Vivi",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Nami",
+    "Dr. Kureha"
+  ],
+  "scene": "A Nameless Country in the Snow. Dalton shelters the crew and explains Drum Island’s fall under Wapol while the search for the island’s last doctor continues. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Drum villager",
+      "text": "You can use the bed over there."
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "I'll go heat up the room right now..."
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "drum island captain of the civilian militia Dalton"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "My apologies for the belated introduction..."
+    },
+    {
+      "speaker": "Dalton",
+      "text": "My name is Dalton and it is my job to guard this island."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'd like to ask you one thing..."
+    },
+    {
+      "speaker": "Dalton",
+      "text": "Please forgive our hostile welcome."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "I get the feeling,"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "that I've seen you before some- where..."
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "Y-you must be imagining things. I'm sure we've never met before... more importantly, could you please tell us more about this witch...?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "A fever of... 42 degrees!?"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "Her fever's been rising steadily since 3 days ago..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "If it rises any higher, she'll lose her life..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Yes, but I'm afraid we don't know what the cause of her disease is, nor how to treat it..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "It doesn't matter if this doctor's a witch or whatever as long as she can cure Nami! So just where the hell is she!?"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "From the window..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "You should be able to see mountains..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Yeah, you mean those extremely tall-"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Look at my Mr. Hyper- Snowman!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Clap!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "And my snow- Zilla!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "That's it! I'm kicking both your asses!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Those mountains are called the drum Rockies."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Perhaps you can see a castle at the top of the tallest mountain in the middle?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Pre- sently... It's a castle with no king..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Castle?"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "Ahh, nice and warm..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Yeah, I can see it alright..."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "So what about that castle...?"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "Dr. Kureha, the lone doctor in this entire country whom the people call a witch,"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "lives in that very castle situated on the mountaintop."
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "What!?"
+    }
+  ],
+  "summary": "This part centers on a nameless country in the snow, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.62,
+  "needs_review": true
+}

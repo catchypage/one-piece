@@ -1,0 +1,26 @@
+{
+  "chapter": "604",
+  "title": "Into the Deep Sea",
+  "main_description": "The Straw Hats descend below the surface and face the strange dangers of the deep ocean.",
+  "main_characters": [
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Usopp",
+    "Chopper",
+    "Robin",
+    "Franky",
+    "Brook",
+    "Caribou"
+  ],
+  "key_events": [
+    "The Light Disappears Above",
+    "Deep-Sea Monsters Appear",
+    "The Crew Faces the Kraken",
+    "The Sunny Pushes Deeper"
+  ],
+  "confidence": 0.84,
+  "needs_review": false,
+  "review_reasons": []
+}

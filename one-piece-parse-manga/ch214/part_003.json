@@ -1,0 +1,181 @@
+{
+  "chapter": "214",
+  "part": 3,
+  "title": "Robin Makes Herself Useful",
+  "description": "On pages 9, 10, 11, 12, this part focuses on robin boards the merry. Nico Robin appears aboard the Going Merry and forces the crew to confront the fact that a former enemy now wants to travel with them.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Nico Robin",
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Usopp",
+    "Mr. 2 Bon Clay",
+    "Sanji",
+    "Chopper",
+    "Vivi"
+  ],
+  "scene": "This scene belongs to the Robin Boards the Merry sequence. The important beat is the dialogue and action around Nico Robin, Luffy, Nami, Zoro, Usopp.",
+  "dialogue": [
+    {
+      "speaker": "Nico Robin",
+      "text": "Hmmm..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Igaram!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What should we-"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hm... Something's off."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "She's too unconcerned about it..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Pardon!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hmm..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Something is strange..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "something is definitely strange..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's quiet, isn't it, Carue..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Quick"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "No swordsman doing his usual night training..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "There's nobody here..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "A Den-den mushi call?"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "From who?"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "Some person calling himself bon-chan..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Who's Bon-chan?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "We don't know anybody by that name."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hello!? Hello!? Gaaaaa hahaha! It's meeeeee!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Click..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "RING RING ARRRINNING!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Oh what is it!? Is"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "You the okama?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "What d'ya want from us?"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "Now don't go calling me Mr. 2!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You said it yourself just now."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Just state your business."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "What did you say, you bastard!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I'm on your ship midnight now!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You're pushing your limit...!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Oh noooo, Noooo, Noooo!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Aren't weooooe... FREEENDS?"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Can we trust him?"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "...But we've got no other choice."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Everyone."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Vivil?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Everyone..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What... Should I do...?"
+    }
+  ],
+  "summary": "Nico Robin appears aboard the Going Merry and forces the crew to confront the fact that a former enemy now wants to travel with them.",
+  "confidence": 0.84,
+  "needs_review": false
+}

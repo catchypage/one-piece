@@ -1,0 +1,107 @@
+{
+  "chapter": "84",
+  "part": 1,
+  "title": "Hatchan Draws His Swords",
+  "description": "On pages 0–3, hatchan draws his swords focuses on Zoro, Hatchan, Nami, Usopp as zoro fights Hatchan while still badly wounded, proving his will against a powerful fish-man swordsman.",
+  "pages": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Zoro",
+    "Hatchan",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Arlong",
+    "Cocoyashi villagers",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "On pages 0–3, hatchan draws his swords focuses on Zoro, Hatchan, Nami, Usopp as zoro fights Hatchan while still badly wounded, proving his will against a powerful fish-man swordsman.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "> \"We marine"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Shaha haha!"
+    },
+    {
+      "speaker": "Hatchan",
+      "text": "Don't think your head and 8 limbs will still be in one piece after I'm through with you, octopus!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Ahhaha haha!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What a fun game this'll be!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Bubble bubble"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "You rotten fish bast- Ards,"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Sure do fight dirty!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Hmph, no need to get so worked up."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Even if things hadn't turned out this way, your chances of survival would still be Zoro."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Mnnniff!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Shaha haha!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "A Crea- TURE THAT CAN'T EVEN BREATHE UNDER- WATER! HOW PATHETIC!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "This is bad, Johnny! Brother Luffy's in trouble!"
+    },
+    {
+      "speaker": "Cocoyashi villagers",
+      "text": "He won't be able to do anything in that situation!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I'll end this in 5 seconds!"
+    },
+    {
+      "speaker": "Hatchan",
+      "text": "TAKO- HACHI..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Black..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "NYU!"
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.64,
+  "needs_review": true
+}

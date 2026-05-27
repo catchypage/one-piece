@@ -1,0 +1,115 @@
+{
+  "chapter": "212",
+  "part": 1,
+  "title": "The Escape from Alabasta Begins",
+  "description": "On pages 1, 2, 3, 4, this part focuses on vivi speaks to her country. Vivi stands before Alabasta and chooses her duty as princess, even as her heart remains tied to the friends who saved her.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Smoker",
+    "Narrator",
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper"
+  ],
+  "scene": "This scene belongs to the Vivi Speaks to Her Country sequence. The important beat is the dialogue and action around Smoker, Narrator, Vivi, Nami, Usopp.",
+  "dialogue": [
+    {
+      "speaker": "Smoker",
+      "text": "Smoker! What's with this sudden rain!?"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Alabasta, North of Sandy Island"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "...Don't be idiotic."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I know what is and isn't illegal."
+    },
+    {
+      "speaker": "Nami",
+      "text": "...Pardon Hina. Hina reflects for baseless accusation."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Mind your own business."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Appropriating my elite troops,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Just to search for one puny ship..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Quite vexing."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Hima is vexed."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Marine HQ Captain \"Hina the Black Cage\""
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hmph..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Why should I?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Baroque Works' Artificial Rain \"The Fool\""
+    },
+    {
+      "speaker": "Nami",
+      "text": "Heads."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You lose."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Yeah, yeah, I'm already aware of that."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hina is disap- pointed!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Who?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "That's an order...!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I will not allow any- body..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "They're sitting ducks!"
+    }
+  ],
+  "summary": "Vivi stands before Alabasta and chooses her duty as princess, even as her heart remains tied to the friends who saved her.",
+  "confidence": 0.88,
+  "needs_review": false
+}

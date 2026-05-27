@@ -1,0 +1,86 @@
+{
+  "chapter": "208",
+  "part": 4,
+  "title": "The Farewell Speech",
+  "description": "On pages 13, 14, 15, 16, this part focuses on vivi’s choice approaches. The Straw Hats make plans to depart while Vivi faces the decision of whether to remain a princess or continue sailing with her friends.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Zoro",
+    "Karoo",
+    "Narrator",
+    "Smoker"
+  ],
+  "scene": "This scene belongs to the Vivi’s Choice Approaches sequence. The important beat is the dialogue and action around Luffy, Vivi, Nami, Usopp, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "tic..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "toc..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Princess Vivi,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "That I sincerely consider,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "To be my proudest honour,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "tic..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "toc..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "tic..."
+    },
+    {
+      "speaker": "Karoo",
+      "text": "tic..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "toc..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I am..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "The guardian spirit of Alabasta,"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "The falcon."
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "tic..."
+    }
+  ],
+  "summary": "The Straw Hats make plans to depart while Vivi faces the decision of whether to remain a princess or continue sailing with her friends.",
+  "confidence": 0.89,
+  "needs_review": false
+}

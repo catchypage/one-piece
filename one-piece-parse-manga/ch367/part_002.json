@@ -1,0 +1,106 @@
+{
+  "chapter": "367",
+  "part": 2,
+  "title": "The Rescue Force Regroups",
+  "description": "The Straw Hats’ allies and the enemies aboard the Sea Train trade blows as the rescue closes in on Robin.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Chopper",
+    "Sogeking",
+    "Franky",
+    "Kokoro",
+    "Nico Robin",
+    "Franky Family"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this part follows Luffy, Zoro, Nami, Sanji, Chopper. The Straw Hats’ allies and the enemies aboard the Sea Train trade blows as the rescue closes in on Robin.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "How much is two times 108?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "2016."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Then just change it."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "What are they doing?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "He said to keep firing!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Give them cover fire!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Then 300."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "fine."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu...."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Three hunDred Bond..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Siege cannon!!!"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "We made it through ________"
+    },
+    {
+      "speaker": "Franky",
+      "text": "OOO!!! WOAH >-!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "I thought we were dead meat ____!!!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "We SurVived Aqua Laguna!!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That was awesome!!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Chnk!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "NGagaga..... that was impressive!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "You guys sure are something....!!!"
+    }
+  ],
+  "summary": "The Straw Hats’ allies and the enemies aboard the Sea Train trade blows as the rescue closes in on Robin.",
+  "confidence": 0.84,
+  "needs_review": false
+}

@@ -1,0 +1,140 @@
+{
+  "chapter": "96",
+  "part": 3,
+  "title": "Buggy and Alvida Return",
+  "description": "On pages 9–12, buggy and alvida return focuses on Luffy, Zoro, Nami, Usopp as news of Luffy’s bounty spreads across the East Blue as the crew sails toward their next destination.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Buggy",
+    "Alvida",
+    "Smoker",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "On pages 9–12, buggy and alvida return focuses on Luffy, Zoro, Nami, Usopp as news of Luffy’s bounty spreads across the East Blue as the crew sails toward their next destination.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "You do...?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "That island,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Is proof that we're close to the grand line!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "On that island, there's a famous town called \"loguetown.\""
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "It's also known as the town of the beginning and the end."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It's the birthplace of the pirate King Roger..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "...as well as his execution spot."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "So that's the town that the pirate king died at..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "shall we go?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "loguetown (town of the beginning and the end)"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Whoa! What a big town!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "So the pirate age all began from here, eh?"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "OK, then! I'm gonna go see the execution stand!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Seems like I can get some good ingredients and food here."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "As well as fine women, (7)"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm going to go look for some equipment to buy."
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "I do have something I want to buy too but..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I'll happily lend you some money. At 300% interest, that is."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Seems like that monster ain't with you today!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "It's all because of you that our boss is in prison!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "If you still haven't learned your lesson,"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "I shall gladly be your opponent."
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Did I just hear that correctly!? A little miss like you is going to be our opponent!?"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Well, why not!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "When you die, tell that monster friend of yours,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That our dream of going to grand line was broken all because of him!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Hmm?"
+    }
+  ],
+  "summary": "This part shifts the story from local East Blue battles to the wider pirate world reacting to Luffy’s new bounty.",
+  "confidence": 0.67,
+  "needs_review": true
+}

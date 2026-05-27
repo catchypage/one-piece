@@ -1,0 +1,59 @@
+{
+  "chapter": "153",
+  "part": 5,
+  "title": "The Straw Hats Gain a Doctor",
+  "description": "On pages 16–17, this part focuses on the straw hats gain a doctor, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    16,
+    17
+  ],
+  "characters": [
+    "Dr. Kureha",
+    "Chopper",
+    "Luffy",
+    "Sanji",
+    "Vivi"
+  ],
+  "scene": "The Straw Hats Gain a Doctor. Chopper finally accepts the invitation to join Luffy, leaving Kureha and Drum Island with fear and hope mixed together. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Dr. Kureha",
+      "text": "JOOooh H!!!!!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Get going now,"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "My foolish son."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "It's a lakeshore town further north of here. And also..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "skating is popular there."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "There's no denying that she has skill. But she is a rather..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "strange old woman... She's almost 140 years old."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "A... 140?!! And she's alive?!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Well... yes... she does like those dried plums."
+    }
+  ],
+  "summary": "This part highlights the straw hats gain a doctor and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.84,
+  "needs_review": false
+}

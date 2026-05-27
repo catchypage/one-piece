@@ -1,0 +1,150 @@
+{
+  "chapter": "180",
+  "part": 3,
+  "title": "Help Finds the Fallen Captain",
+  "description": "On pages 9–12, this part focuses on help finds the fallen captain, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Crocodile",
+    "Luffy",
+    "Vivi",
+    "Koza",
+    "King Cobra",
+    "Chaka",
+    "Pell",
+    "Royal Army soldier",
+    "Alabasta rebel",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9"
+  ],
+  "scene": "Help Finds the Fallen Captain. Luffy survives his first loss to Crocodile and begins the long road back into the fight for Alabasta. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "So come as many times as you dare, sand- storm!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Yuba will never be defeated by mere sand!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What!? This crab can't cross rivers!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "4 Hours Remain..."
+    },
+    {
+      "speaker": "Koza",
+      "text": "Itinerant crabs are desert creatures,"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "So it's only natural they can't swim!"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "B-But it's a crab for crying out loud! A freaking crab!"
+    },
+    {
+      "speaker": "Pell",
+      "text": "It'll take forever if we try to swim across this huge river!"
+    },
+    {
+      "speaker": "Pell",
+      "text": "Not only that, we still have several tens of kilom- Eters to go even after crossing the river!"
+    },
+    {
+      "speaker": "Pell",
+      "text": "If this crab can't cross the river, then that means... we'll have to go by foot!"
+    },
+    {
+      "speaker": "Royal Army soldier",
+      "text": "There's no way we'll make it in time then!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Oh crap! The river's already right in front of us!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Please do something, scissors! 🙂"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "That's it! Scissors loves dancing girls!"
+    },
+    {
+      "speaker": "Royal Army soldier",
+      "text": "Will this do?"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Ah, he's looking here."
+    },
+    {
+      "speaker": "Alabasta rebel",
+      "text": "Whoa, warp speed!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "9C... a/wooohh!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "You accidentally broke 2 other animals here..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Sex appeal power!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "...but how's this gonna help our situation at all, chopper!?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Huh!? Holy moly... This crab is phenomenal!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "I can't believe it!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Ohhh!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "It's a miracle!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "It's running on top of the water!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "-Or maybe not, AWW CRAP!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Aghhh!"
+    }
+  ],
+  "summary": "This part develops help finds the fallen captain and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.61,
+  "needs_review": true
+}

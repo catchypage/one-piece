@@ -1,0 +1,38 @@
+{
+  "chapter": "332",
+  "part": 5,
+  "title": "Usopp Challenges Luffy",
+  "description": "Luffy has to decide the Going Merry’s future while Usopp’s anger and grief make the choice unbearable.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Franky",
+    "Franky Family",
+    "Going Merry"
+  ],
+  "scene": "Across pages 17, this part follows Luffy, Usopp, Nami, Zoro, Sanji. Luffy has to decide the Going Merry’s future while Usopp’s anger and grief make the choice unbearable.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Heh..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I see an island!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hahah hahah!!!!"
+    }
+  ],
+  "summary": "Luffy has to decide the Going Merry’s future while Usopp’s anger and grief make the choice unbearable.",
+  "confidence": 0.81,
+  "needs_review": false
+}

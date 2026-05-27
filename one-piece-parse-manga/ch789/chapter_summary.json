@@ -1,0 +1,23 @@
+{
+  "chapter": "789",
+  "title": "Luffy Returns to the Sky",
+  "main_description": "Luffy comes back for the final exchange against Doflamingo.",
+  "main_characters": [
+    "Luffy",
+    "King Riku",
+    "Rebecca",
+    "Viola",
+    "Trafalgar Law",
+    "Doflamingo",
+    "Trebol",
+    "Dressrosa Citizens",
+    "Colosseum Fighters"
+  ],
+  "key_events": [
+    "The Birdcage threatens Dressrosa.",
+    "Luffy and Law continue the decisive fight.",
+    "Doflamingo’s rule approaches its end."
+  ],
+  "confidence": 0.74,
+  "needs_review": false
+}

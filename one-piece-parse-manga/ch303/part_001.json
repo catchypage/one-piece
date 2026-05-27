@@ -1,0 +1,150 @@
+{
+  "chapter": "303",
+  "part": 1,
+  "title": "The Davy Back Fight Challenge",
+  "description": "The crew lands on a strange island of stretched animals and meets Tonjit before the Foxy Pirates interrupt the calm.",
+  "pages": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Luffy",
+    "Foxy",
+    "Nami",
+    "Usopp",
+    "Narrator",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Tonjit"
+  ],
+  "scene": "Across pages 0, 1, 2, 3, this scene focuses on Luffy, Foxy, Nami, Usopp, Narrator. The crew lands on a strange island of stretched animals and meets Tonjit before the Foxy Pirates interrupt the calm.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Why?"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Wait- hey!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I doubt it."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "W-H-A-L-E! TuuunAA!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Whoa!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Ohhhhh!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Blue seas, Grand Line, Jaya"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Call off the search..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "It's only natural, right?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Boss..."
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Boss!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Well, then..."
+    },
+    {
+      "speaker": "Tonjit",
+      "text": "What kind of romance,"
+    },
+    {
+      "speaker": "Porche",
+      "text": "shall we chase after next?"
+    },
+    {
+      "speaker": "Hamburg",
+      "text": "The legendary... Rainbow Eel Brothers."
+    },
+    {
+      "speaker": "Foxy Pirate",
+      "text": "...That was one hell of a sight."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Yeah..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Stunning... They were so friendly too."
+    },
+    {
+      "speaker": "Tonjit",
+      "text": "Alright! Let's call them one more time!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Are they tasty?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Yes, I'm sure."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Oh no you don't!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Woohoo!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Ook ook!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "We'll follow you no matter where, boss!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gimme a break!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Western shore of Jaya, Mocktown"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Aghhh!"
+    },
+    {
+      "speaker": "Porche",
+      "text": "Get away from them!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Huff huff"
+    }
+  ],
+  "summary": "The crew lands on a strange island of stretched animals and meets Tonjit before the Foxy Pirates interrupt the calm.",
+  "confidence": 0.8,
+  "needs_review": false
+}

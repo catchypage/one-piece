@@ -1,0 +1,102 @@
+{
+  "chapter": "225",
+  "part": 2,
+  "title": "Bellamy Mocks the Dreamers",
+  "description": "After the humiliation in Mock Town, Blackbeard declares that pirate dreams will never die, sharply opposing Bellamy’s New Age cynicism.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Mont Blanc Cricket",
+    "Bellamy",
+    "Sarquiss",
+    "Mock Town pirate",
+    "Nami",
+    "Luffy",
+    "Zoro",
+    "Blackbeard",
+    "Bartender",
+    "Mock Town pirates"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this scene centers on Mont Blanc Cricket, Bellamy, Sarquiss, Mock Town pirate, Nami. After the humiliation in Mock Town, Blackbeard declares that pirate dreams will never die, sharply opposing Bellamy’s New Age cynicism.",
+  "dialogue": [
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Look at 'em!"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Drip..."
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "DRIP...!"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "Luffy!"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "ZORO!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "How 'bout I buy you off?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Name your price!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "...What did you just say!?"
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "You think you can BUY me?"
+    },
+    {
+      "speaker": "Bartender",
+      "text": "Ha! Sorry to say this but..."
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "PFFET!"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "Hahaha Hahaha Hahaha Hahaha hahaha hahaha!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The whole crew's a bag of loons!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "They're beyond saving!"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "while they're still breathing...!"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "Maggots!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "gyahaha hahaha!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Sky Island Exists..."
+    }
+  ],
+  "summary": "After the humiliation in Mock Town, Blackbeard declares that pirate dreams will never die, sharply opposing Bellamy’s New Age cynicism.",
+  "confidence": 0.87,
+  "needs_review": false
+}

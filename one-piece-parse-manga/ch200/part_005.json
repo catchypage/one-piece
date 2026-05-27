@@ -1,0 +1,70 @@
+{
+  "chapter": "200",
+  "part": 5,
+  "title": "The Bomb Must Be Stopped",
+  "description": "On pages 17–18, this part focuses on the bomb must be stopped, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Chopper",
+    "Sanji",
+    "Zoro",
+    "Luffy",
+    "Pell"
+  ],
+  "scene": "The Bomb Must Be Stopped. The crew and Alabasta’s defenders race against time to stop the cannon before the city is destroyed. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "does he understand/ the current situation...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Or is he trying to make fun of me!!!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "toc"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "tic"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Stop joking around, you little brat!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "curses."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Just who the hell is joking around!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "My body won't...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'm always serious!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu..."
+    },
+    {
+      "speaker": "Pell",
+      "text": "BazookA!"
+    }
+  ],
+  "summary": "This part develops the bomb must be stopped and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

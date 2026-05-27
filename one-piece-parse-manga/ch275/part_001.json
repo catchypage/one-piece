@@ -1,0 +1,66 @@
+{
+  "chapter": "275",
+  "part": 1,
+  "title": "Luffy Is Trapped Inside Nola",
+  "description": "The Straw Hats and their allies try to survive Enel’s destruction while searching for a way to reach him.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Nola",
+    "Enel",
+    "Nami",
+    "Aisa",
+    "Gan Fall",
+    "Wyper",
+    "Zoro",
+    "Sanji",
+    "Usopp"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this scene centers on Luffy, Nola, Enel, Nami, Aisa. The Straw Hats and their allies try to survive Enel’s destruction while searching for a way to reach him.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "No..."
+    },
+    {
+      "speaker": "Nola",
+      "text": "She's a woman..."
+    },
+    {
+      "speaker": "Enel",
+      "text": "I noticed."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Fwup Fwup"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Him..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Nice strong arms."
+    },
+    {
+      "speaker": "Nami",
+      "text": "You really are insane!!!"
+    },
+    {
+      "speaker": "Nola",
+      "text": "Swap"
+    },
+    {
+      "speaker": "Nola",
+      "text": "\"Burn Bazooka\"!!!"
+    }
+  ],
+  "summary": "The Straw Hats and their allies try to survive Enel’s destruction while searching for a way to reach him.",
+  "confidence": 0.85,
+  "needs_review": false
+}

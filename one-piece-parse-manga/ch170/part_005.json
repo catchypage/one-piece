@@ -1,0 +1,89 @@
+{
+  "chapter": "170",
+  "part": 5,
+  "title": "Operation Utopia Takes Shape",
+  "description": "On pages 17–19, this part focuses on operation utopia takes shape, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    17,
+    18,
+    19
+  ],
+  "characters": [
+    "Luffy",
+    "Crocodile",
+    "Vivi",
+    "Sanji",
+    "Nami",
+    "Usopp"
+  ],
+  "scene": "Operation Utopia Takes Shape. Crocodile toys with Vivi and the Straw Hats while his agents move the plan toward full civil war. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Gri?!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm sure all who live in Alabama, yourself included,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Would be well aware of the power of my \"Suna Suna Fruit\"..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Shall I dry you up into a mummy?"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "H-He's a sand- human!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hey you! Get away from VIVI right now or I'll kick your ass!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Now sit down..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Oh, don't glare at me like that."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It's time for the long- waited party to begin..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Or am I mistaken, Ms. All-Sunday?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "No, you're right on the mark..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "And so begins Baroque Works' Operation Utopia,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The time is now 7 o'clock."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "And the start of a very long day..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Colour trap!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "(that mark) (Colour Trap) Hey, it's better"
+    }
+  ],
+  "summary": "This part develops operation utopia takes shape and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.83,
+  "needs_review": false
+}

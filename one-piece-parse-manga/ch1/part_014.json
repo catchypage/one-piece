@@ -1,0 +1,161 @@
+{
+  "chapter": "1",
+  "part": 14,
+  "title": "The Straw Hat Promise",
+  "description": "On pages 48–51, this part follows the Romance Dawn flashback and focuses on how Luffy’s pirate dream is formed through Shanks, Higuma, and the straw hat promise.",
+  "pages": [
+    48,
+    49,
+    50,
+    51
+  ],
+  "characters": [
+    "Makino",
+    "Luffy",
+    "Higuma",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6"
+  ],
+  "scene": "Shanks leaves Luffy with the straw hat, turning their farewell into a promise about the future.",
+  "dialogue": [
+    {
+      "speaker": "Makino",
+      "text": "It's a small price to pay..."
+    },
+    {
+      "speaker": "Makino",
+      "text": "Just an ARM..."
+    },
+    {
+      "speaker": "Makino",
+      "text": "I'm just glad you're okay."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Luffy understood why shanks wouldn't take him out to sea."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "THE DANGERS OF THE SEA WERE TOO GREAT..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "AND HE WAS NOT YET STRONG ENOUGH..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "BUT MOST OF ALL, LIFFY REALIZED WHAT A GREAT MAN SHANKS WAS."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "HE VOWED TO BE JUST LIKE HIM ONE DAY."
+    },
+    {
+      "speaker": "Makino",
+      "text": "So you won't be coming back to this village after this voyage?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "That's right."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "WE'VE BEEN USING THIS HARBOR AS A BASE OF OFFATIONS FOR A LONG TIME. MAYBE TOO LONG."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Are you sad?"
+    },
+    {
+      "speaker": "Makino",
+      "text": "YEAH, I'M SAD..."
+    },
+    {
+      "speaker": "Makino",
+      "text": "BUT I WON'T ASK YOU TO TAKE ME WITH YOU!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "I'VE DECIDED TO BECOME A PIRATE ON MY OWN!"
+    },
+    {
+      "speaker": "Higuma",
+      "text": "It wouldn't do you any good. You're still too little!"
+    },
+    {
+      "speaker": "Higuma",
+      "text": "THERE'S NO WAY YOU CAN BECOME A PIRATE!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "OHYES I WILL!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "One day I'll have a ship and crew better than yours!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "And we'll have the biggest Board of Treasure in the World!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "I'm gonna be King of the Pirates!!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Hmm... you're gonna be better than us, huh?"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "WELL THEM..."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "DO ME A FAVOR..."
+    },
+    {
+      "speaker": "Makino",
+      "text": "Keep this hat safe for me?"
+    },
+    {
+      "speaker": "Makino",
+      "text": "This hat means a lot to me."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "PROMISE THAT YOU'LL GIVE IT BACK TO ME SOMEDAY..."
+    },
+    {
+      "speaker": "Higuma",
+      "text": "...WHEN YOU'VE BECOME A GREAT PIRATE."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "THAT KID'S GONNA MAKE SOME- THING OF HIMSELF."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "YEAH..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HE ACTS JUST LIKE I DID WHEN I WAS A KID."
+    },
+    {
+      "speaker": "Higuma",
+      "text": "WELGH THE ANCHOR!"
+    },
+    {
+      "speaker": "Higuma",
+      "text": "RAISE THE SAILS! WE'RE OFF WITH THE TIDE!!"
+    }
+  ],
+  "summary": "Shanks entrusts Luffy with the straw hat as a promise for the future. This moment turns Luffy’s dream into the core vow that will define his journey.",
+  "confidence": 0.76,
+  "needs_review": false
+}

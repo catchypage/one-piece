@@ -1,0 +1,23 @@
+{
+  "chapter": "8",
+  "title": "Orange Town and the Thief Called Nami",
+  "main_description": "The story shifts to Orange Town, where Nami’s schemes, Buggy’s pirates, and Luffy’s blunt honesty collide. The chapter begins the uneasy triangle between Luffy, Zoro, and Nami against Buggy’s occupation.",
+  "main_characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Buggy",
+    "Buggy Pirate"
+  ],
+  "key_events": [
+    "Nami becomes involved with Buggy’s crew.",
+    "Luffy and Zoro enter the Orange Town conflict.",
+    "Buggy’s threat over the town is introduced.",
+    "Nami’s motives remain suspicious but important."
+  ],
+  "confidence": 0.65,
+  "needs_review": true,
+  "review_reasons": [
+    "Some dialogue-heavy parts still contain many unresolved speakers."
+  ]
+}

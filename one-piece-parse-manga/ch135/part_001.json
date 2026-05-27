@@ -1,0 +1,130 @@
+{
+  "chapter": "135",
+  "part": 1,
+  "title": "Luffy Protects Nami",
+  "description": "On pages 1–4, luffy protects nami as luffy refuses to fight the wildlife while carrying Nami, and the journey toward the doctor becomes a brutal climb through Drum’s snowfields.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Sanji",
+    "Luffy",
+    "Dalton",
+    "Drum villager",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Nami"
+  ],
+  "scene": "Luffy Protects Nami. Luffy refuses to fight the wildlife while carrying Nami, and the journey toward the doctor becomes a brutal climb through Drum’s snowfields. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "My apologies,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "This is my fault."
+    },
+    {
+      "speaker": "Dalton",
+      "text": "I had heard the doctor came down from the mountain yesterday,"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "So I assumed she wouldn't come down again for several days..."
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "But it seems I jumped too quickly to conclusions...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Don't worry, it's not your fault!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "The problem now is those two abnormally strong crewmates of mine."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Even if we were to rush up the mountain, there's no way we could catch up to them!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "So if the doctor's in cocoa weed right now,"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "We have to hurry up and ask her to return back to the castle right away."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Yes... that's all we can do right now..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Forgive me..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "It's my fault that this country doesn't even have enough doctors..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "What? That's not your fault, Dalton!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "In any case, let's hurry!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It jumped!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Whoa!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "What in the world... How can it jump like that!?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "It's like a gorilla!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "No, it's a polar bear!"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "No, it's goddamn rabbit!"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "But didn't you just say it was a gorilla?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "This must be the \"Lapin\" that Dalton was talking about!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "There's so many of'em!"
+    }
+  ],
+  "summary": "This part centers on luffy protects nami, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.62,
+  "needs_review": true
+}

@@ -1,0 +1,85 @@
+{
+  "chapter": "364",
+  "part": 3,
+  "title": "Robin Is Carried Away",
+  "description": "Franky and Sanji push deeper into the Sea Train while Robin and CP9 remain the true targets of the chase.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Sanji",
+    "Franky",
+    "Nico Robin",
+    "Spandam",
+    "CP9 agent",
+    "Wanze",
+    "Paulie",
+    "Nero",
+    "World Government agent"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this part follows Sanji, Franky, Nico Robin, Spandam, CP9 agent. Franky and Sanji push deeper into the Sea Train while Robin and CP9 remain the true targets of the chase.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "GullP"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Are you all brainless or something!!?"
+    },
+    {
+      "speaker": "Franky",
+      "text": "It'd be suicide^ A!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "We're done with the search."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "If we wait until morning..."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Won't it be too late?"
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "What's that?"
+    },
+    {
+      "speaker": "Wanze",
+      "text": "evidence enough for the crime."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "to a giant, cold, iron gate."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "One is the heart \"justice\"..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "The Marine HeadQuarters."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "The great prison of the deep blue..."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Impel down."
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "Am I right!?"
+    }
+  ],
+  "summary": "Franky and Sanji push deeper into the Sea Train while Robin and CP9 remain the true targets of the chase.",
+  "confidence": 0.85,
+  "needs_review": false
+}

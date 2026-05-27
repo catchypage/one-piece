@@ -1,0 +1,103 @@
+{
+  "chapter": "351",
+  "part": 4,
+  "title": "Tom’s Pride",
+  "description": "Spandam weaponizes Franky’s battle ships to frame Tom, turning Franky’s creations into the tool that destroys his family.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Franky",
+    "Tom",
+    "Iceburg",
+    "Spandam",
+    "Kokoro",
+    "Yokozuna",
+    "World Government agent"
+  ],
+  "scene": "Across pages 13, 14, 15, 16, this part follows Franky, Tom, Iceburg, Spandam, Kokoro. Spandam weaponizes Franky’s battle ships to frame Tom, turning Franky’s creations into the tool that destroys his family.",
+  "dialogue": [
+    {
+      "speaker": "Franky",
+      "text": "From the empty ship...!!"
+    },
+    {
+      "speaker": "Tom",
+      "text": "usop, it's not the flying model anymore."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Know going Going Merry's original shape?"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "It was all so strange, but..."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "I remember this one phrase..."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "or maybe he really did say it."
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "It's alright. I'll carry all of you..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "For a litte while longer."
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "But.... I...."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "and wanted to warn us about it."
+    },
+    {
+      "speaker": "Franky",
+      "text": "You probably think I'm crazy."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "No need for that..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "He looked like a sailor,"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Hold- ing a hammer, didn't he?"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "How..."
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "Did you know that?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "'Cause, kid,"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "You probably saw a KLA- sauter- Mann."
+    },
+    {
+      "speaker": "Franky",
+      "text": "KLABAR....."
+    }
+  ],
+  "summary": "Spandam weaponizes Franky’s battle ships to frame Tom, turning Franky’s creations into the tool that destroys his family.",
+  "confidence": 0.86,
+  "needs_review": false
+}

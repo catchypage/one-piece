@@ -1,0 +1,58 @@
+{
+  "chapter": "336",
+  "part": 5,
+  "title": "Usopp Challenges Luffy",
+  "description": "The duel ends with Usopp leaving the crew and the Going Merry becoming a symbol of a broken bond.",
+  "pages": [
+    17,
+    19,
+    21,
+    24
+  ],
+  "characters": [
+    "Luffy",
+    "Iceburg",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Nami",
+    "Chopper",
+    "Franky",
+    "Franky Family",
+    "Going Merry"
+  ],
+  "scene": "Across pages 17, 19, 21, 24, this part follows Luffy, Iceburg, Usopp, Zoro, Sanji. The duel ends with Usopp leaving the crew and the Going Merry becoming a symbol of a broken bond.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Making such a big mess..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Straw Hat!!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Galley-La...! What do you want!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Going Merry Parka >"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "I'm at the things"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "ONE X PIECE"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "For the"
+    }
+  ],
+  "summary": "The duel ends with Usopp leaving the crew and the Going Merry becoming a symbol of a broken bond.",
+  "confidence": 0.85,
+  "needs_review": false
+}

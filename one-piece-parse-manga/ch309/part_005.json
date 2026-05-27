@@ -1,0 +1,71 @@
+{
+  "chapter": "309",
+  "part": 5,
+  "title": "Luffy Protects His Crew",
+  "description": "Zoro and Sanji’s rivalry turns into forced teamwork as they battle the Groggy Monsters for Chopper’s return.",
+  "pages": [
+    16
+  ],
+  "characters": [
+    "Luffy",
+    "Foxy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Tonjit",
+    "Porche"
+  ],
+  "scene": "Across pages 16, this scene focuses on Luffy, Foxy, Nami, Usopp, Zoro. Zoro and Sanji’s rivalry turns into forced teamwork as they battle the Groggy Monsters for Chopper’s return.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Here they are!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Behind him is \"Pickles, the tackle demon!!!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Wow!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "What are they!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "That is one giant fishman. I"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Fue- Hehe- heh! I"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's mean the ball sign!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Aaaa A!!!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "There's no way you can win!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "10 people"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "We're out number"
+    }
+  ],
+  "summary": "Zoro and Sanji’s rivalry turns into forced teamwork as they battle the Groggy Monsters for Chopper’s return.",
+  "confidence": 0.88,
+  "needs_review": false
+}

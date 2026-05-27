@@ -1,0 +1,82 @@
+{
+  "chapter": "90",
+  "part": 3,
+  "title": "Luffy Stands Up to Arlong",
+  "description": "On pages 9–12, luffy stands up to arlong focuses on Luffy, Arlong, Nami, Sanji as luffy is freed and confronts Arlong directly, shifting the battle toward its final stage.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Arlong",
+    "Nami",
+    "Sanji",
+    "Zoro",
+    "Usopp",
+    "Cocoyashi villagers",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "On pages 9–12, luffy stands up to arlong focuses on Luffy, Arlong, Nami, Sanji as luffy is freed and confronts Arlong directly, shifting the battle toward its final stage.",
+  "dialogue": [
+    {
+      "speaker": "Arlong",
+      "text": "NGAH!!!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "The hell? You're just swinging around those swords randomly...!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "I don't have the time to play around with you."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Got it!?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Mnh!!!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "enough with your stupid little g..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Shut your trap!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Arghh!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "WAHA...!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "He broke Arlong's teeth!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Guahhhh!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Of course I don't know how to fight with swords, you dumbass!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "What...? What's he trying to say...?"
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.77,
+  "needs_review": false
+}

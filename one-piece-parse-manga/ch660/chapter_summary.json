@@ -1,0 +1,26 @@
+{
+  "chapter": "660",
+  "title": "The Children Were Taken",
+  "main_description": "The Straw Hats realize the children were kidnapped, while Punk Hazard’s lab and Law’s presence make the situation far more dangerous.",
+  "main_characters": [
+    "Nami",
+    "Chopper",
+    "Sanji",
+    "Franky",
+    "Children",
+    "Trafalgar Law",
+    "Smoker",
+    "Tashigi",
+    "Punk Hazard Guards",
+    "Marines"
+  ],
+  "key_events": [
+    "The Children Explain Their Capture",
+    "Chopper Suspects Kidnapping",
+    "The Lab Escape Hits a Dead End",
+    "Law and the Marines Close In"
+  ],
+  "confidence": 0.84,
+  "needs_review": false,
+  "review_reasons": []
+}

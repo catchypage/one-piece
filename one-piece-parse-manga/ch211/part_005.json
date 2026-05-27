@@ -1,0 +1,27 @@
+{
+  "chapter": "211",
+  "part": 5,
+  "title": "The X-Mark Promise",
+  "description": "On pages 18, this part focuses on the crew leaves alabasta behind. The Straw Hats move toward departure while Marines, allies, and the kingdom deal with the consequences of the battle.",
+  "pages": [
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji"
+  ],
+  "scene": "This scene belongs to the The Crew Leaves Alabasta Behind sequence. The important beat is the dialogue and action around Luffy, Vivi, Zoro, Nami, Usopp.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Answer:"
+    }
+  ],
+  "summary": "The Straw Hats move toward departure while Marines, allies, and the kingdom deal with the consequences of the battle.",
+  "confidence": 0.89,
+  "needs_review": false
+}

@@ -1,0 +1,80 @@
+{
+  "chapter": "10",
+  "part": 5,
+  "title": "The Cannon Threatens the Town",
+  "description": "On pages 16–19, this part raises the stakes in Orange Town as Buggy’s weapon and crew threaten the town directly.",
+  "pages": [
+    16,
+    17,
+    18,
+    19
+  ],
+  "characters": [
+    "Buggy",
+    "Luffy",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6"
+  ],
+  "scene": "Orange Town becomes the stage for Nami’s schemes, Buggy’s violence, and Luffy’s refusal to act like a normal pirate.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "little girl, you tried to make a fool of me!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "For that, you die!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "DIE!!!!"
+    },
+    {
+      "speaker": "Buggy",
+      "text": "The fuse is still lit..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Darn! I'll be blown to bits!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "You missed!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "No way! I'll never give up!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "AGGH...!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hey! Look out!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Behind you!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "YARR!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HOW MANY PIRATES DOES IT TAKE TO HANDLE ONE GIRL?"
+    },
+    {
+      "speaker": "Buggy",
+      "text": "Zolo!!!"
+    }
+  ],
+  "summary": "The Orange Town conflict mixes Nami’s suspicious cleverness with Buggy’s theatrical cruelty. The section builds the unstable alliance that will oppose Buggy’s crew.",
+  "confidence": 0.63,
+  "needs_review": true
+}

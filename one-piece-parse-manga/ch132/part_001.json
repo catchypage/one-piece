@@ -1,0 +1,145 @@
+{
+  "chapter": "132",
+  "part": 1,
+  "title": "Drum Island Opens Fire",
+  "description": "On pages 1–4, drum island opens fire as the Straw Hats reach Drum Island, but the armed villagers fear pirates and refuse to welcome them until Vivi pleads for Nami’s life.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Drum villager",
+    "Vivi",
+    "Luffy",
+    "Dalton",
+    "Usopp",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Nami"
+  ],
+  "scene": "Drum Island Opens Fire. The Straw Hats reach Drum Island, but the armed villagers fear pirates and refuse to welcome them until Vivi pleads for Nami’s life. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Drum villager",
+      "text": "you think if we dumped a bucket of water on her,"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "Her fever might go down...?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Are you retar- DED!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "GAAAH!"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "Damn it... the sun's already going down for the day, VIVI."
+    },
+    {
+      "speaker": "Dalton",
+      "text": "drop"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "right... I guess we better drop the anchor for the night then."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Without Nami's navigational sense, sailing in the night is too dangerous..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "tok"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "tok"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "whoo boy, it's cold."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "It'll be a full moon soon..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I still want to know what the hell all that was about..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You know, those guys from yesterday. I mean, I've never even heard of a pirate called Wapol,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "But he had a ship that no mere no-name pirate could get!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "whatever, don't pay any mind to him anymore..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Your majesty!"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "This is extremely bad! His majesty was flung into the ocean!"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "CRAAAAAAAAP! And he can't swim either!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Back to the ship everyone!"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "If we don't go rescue him, he'll drown for sure!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "And as for you scum! We'll have our revenge one day!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "REMEM- BER US!"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "Don't forget it!"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "Please remember us!"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "PLEAAASE!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Just a bunch of idiots."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Nothing more, nothing less."
+    }
+  ],
+  "summary": "This part centers on drum island opens fire, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.68,
+  "needs_review": true
+}

@@ -1,0 +1,62 @@
+{
+  "chapter": "346",
+  "part": 5,
+  "title": "Franky Is Targeted",
+  "description": "Franky is forced into the center of the conflict as CP9 targets both him and Iceburg for the ancient weapon blueprints.",
+  "pages": [
+    17,
+    19,
+    21,
+    22
+  ],
+  "characters": [
+    "Iceburg",
+    "Nico Robin",
+    "Franky",
+    "Chopper",
+    "Rob Lucci",
+    "Kaku",
+    "Kalifa",
+    "Blueno",
+    "Luffy",
+    "Nami"
+  ],
+  "scene": "Across pages 17, 19, 21, 22, this part follows Iceburg, Nico Robin, Franky, Chopper, Rob Lucci. Franky is forced into the center of the conflict as CP9 targets both him and Iceburg for the ancient weapon blueprints.",
+  "dialogue": [
+    {
+      "speaker": "Iceburg",
+      "text": "URYA AAAAA AA!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Luffy"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Where's Nico Robin"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Luffy!!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "A HIN- DRAACE."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Invest to be a 'Pamacea.'"
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "Identify"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "\"I don't know what I"
+    }
+  ],
+  "summary": "Franky is forced into the center of the conflict as CP9 targets both him and Iceburg for the ancient weapon blueprints.",
+  "confidence": 0.84,
+  "needs_review": false
+}

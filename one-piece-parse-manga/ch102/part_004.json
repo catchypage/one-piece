@@ -1,0 +1,113 @@
+{
+  "chapter": "102",
+  "part": 4,
+  "title": "Inside the Whale",
+  "description": "On pages 13–16, inside the whale as the Straw Hats collide with Laboon, a gigantic whale guarding the entrance to the Grand Line, and Luffy is separated inside it.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Usopp",
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Laboon"
+  ],
+  "scene": "Inside the Whale. The Straw Hats collide with Laboon, a gigantic whale guarding the entrance to the Grand Line, and Luffy is separated inside it. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Usopp",
+      "text": "Damn it! Planning to dive under the sea!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Wait!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I said wait! Give me back my crew- mates!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "We were just about to start our grand adventure!! They're my important friends!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I have a feeling of a comment"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What do you make of this?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What do I make of this...?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Yeah, what's your explanation for this..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I could've sworn we were Swal- lowered up by a whale but..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Are we just dreaming or something?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "...yeah, this has got to be a dream..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "then..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "What's with that house on that island?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Must be an illusion..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Then what about this?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's a giant squid!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Seems like there's a person here."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Let's hope it's a person."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "B-By the way, where did Luffy go...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I've had enough... I wanna go home..."
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on inside the whale. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.73,
+  "needs_review": false
+}

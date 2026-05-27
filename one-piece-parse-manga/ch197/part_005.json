@@ -1,0 +1,60 @@
+{
+  "chapter": "197",
+  "part": 5,
+  "title": "The City Holds Its Breath",
+  "description": "On pages 17–18, this part focuses on the city holds its breath, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Crocodile",
+    "Miss All Sunday",
+    "King Cobra",
+    "Vivi",
+    "Zoro"
+  ],
+  "scene": "The City Holds Its Breath. Luffy comes back for another fight with Crocodile, now armed with the will to keep standing. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "The Battle is over!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Rebels! Lay down your arms and quell your rage! The Royalists no longer have any intent to fight!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Clench"
+    },
+    {
+      "speaker": "Miss All Sunday",
+      "text": "Please stop!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Is it... Really true...?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Kouza...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yes... The war is finally-"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Grim, I'm not sure if you are a fan of the"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Damn Royalists! How dare you!"
+    }
+  ],
+  "summary": "This part develops the city holds its breath and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.77,
+  "needs_review": false
+}

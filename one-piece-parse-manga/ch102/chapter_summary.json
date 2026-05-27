@@ -1,0 +1,23 @@
+{
+  "chapter": "102",
+  "title": "Laboon Blocks the Grand Line",
+  "main_description": "The Straw Hats collide with Laboon, a gigantic whale guarding the entrance to the Grand Line, and Luffy is separated inside it. The reviewed chapter file is organized into display-ready story parts with cleaned dialogue and context-based speaker names.",
+  "main_characters": [
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Usopp",
+    "Sanji",
+    "Laboon",
+    "Crocus"
+  ],
+  "key_events": [
+    "The Grand Line at Last",
+    "A Whale Appears Ahead",
+    "Luffy Challenges Laboon",
+    "Inside the Whale",
+    "A Door Inside Laboon"
+  ],
+  "confidence": 0.78,
+  "needs_review": false
+}

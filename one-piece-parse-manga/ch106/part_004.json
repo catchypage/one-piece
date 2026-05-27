@@ -1,0 +1,165 @@
+{
+  "chapter": "106",
+  "part": 4,
+  "title": "A Dangerous Celebration",
+  "description": "On pages 9–12, a dangerous celebration as after facing the Grand Line’s bizarre weather, the crew reaches Whiskey Peak and is greeted with suspicious enthusiasm.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Nami",
+    "Mr. 9",
+    "Vivi",
+    "Luffy",
+    "Sanji",
+    "Zoro",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Miss Wednesday"
+  ],
+  "scene": "A Dangerous Celebration. After facing the Grand Line’s bizarre weather, the crew reaches Whiskey Peak and is greeted with suspicious enthusiasm. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "Hmm... there's something sinister about your faces..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "What did you say your names were again...?"
+    },
+    {
+      "speaker": "Mr. 9",
+      "text": "M... MR. 9..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "And I'm Miss Wednesday..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Right... something about those names have been bugging me ever since I heard'em..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I feel like I've heard it before... or not..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Well, in any case-"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Did you have a MICE nap!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "You wouldn't wake up no matter how hard we tried...!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Don't let your guards down, everyone!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You can never expect what might happen out here!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I finally under- stand just how terrifying this ocean truly is,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "as well as why they call it the \"Grand Line!\""
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I understand because all of my navigation skills have failed to work!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Uhh... are we gonna be fine?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We'll be fine!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "things will work out one way or the other."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "and as a proof of that,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Look...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "The first leg of our journey,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "is over."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "It's an island!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I see giant cacti!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "So this is whiskey peak!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Thank God we've arrived alive!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Now then, we ask you please drop us off here!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "tatan!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Thank you for taking us here, my honeys!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "If fate wills it, then let us meet again!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Bye bye baby!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Trump!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Huh?"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on a dangerous celebration. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.7,
+  "needs_review": true
+}

@@ -1,0 +1,152 @@
+{
+  "chapter": "123",
+  "part": 3,
+  "title": "Karoo Carries the Counterattack",
+  "description": "On pages 8–11, karoo carries the counterattack as usopp, Karoo, and Luffy counterattack against Mr. 5, Miss Valentine, and Mr. 3 as the wax trap begins to fall apart.",
+  "pages": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Mr. 3",
+    "Vivi",
+    "Nami",
+    "Miss Goldenweek",
+    "Mr. 5",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Karoo",
+    "Miss Valentine"
+  ],
+  "scene": "Karoo Carries the Counterattack. Usopp, Karoo, and Luffy counterattack against Mr. 5, Miss Valentine, and Mr. 3 as the wax trap begins to fall apart. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Hammer!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "WAA..!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "He did it! The candle pillar is desk..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Ahhhhh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Oh good! I destroyed the thing around my legs too!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "We're alive...!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "But nothing's changed...!"
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "oh thank God..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Demonstrated purposes of"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "That was dangerous. Why don'cha try to run away?"
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "Because we can't move!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Oh, really?"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "But didn't you tell me to destroy the pillar?"
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "Are you sure it's really okay to trust our lives to him!?"
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "Well, Mr. Bushido!?"
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "Well... not like we have a choice anymore... my arms have already hardened up."
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "W-Wait... my entire body is... hardening up...!"
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "I can't... move... at all...!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Fuhahahaha! Now that the candles are closer to you, the hardening process has sped up even more!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "IMBECILES! Fuhahaha! Hurry up and turn into my beautiful wax- dolls!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "What!? You're turning into wax-dolls!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Isn't that what we said from the beginning!?"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Just destroy this entire candle set, Luffy!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "A-ALRIGHT!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Didn't I tell you not to inter- here!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Ahhh!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "DORU DORU ARTS! Harpoon!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Gun- Powder Star!"
+    }
+  ],
+  "summary": "This part centers on karoo carries the counterattack, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.7,
+  "needs_review": false
+}

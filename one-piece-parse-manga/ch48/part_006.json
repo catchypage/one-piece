@@ -1,0 +1,57 @@
+{
+  "chapter": "48",
+  "part": 6,
+  "title": "The Baratie Is Thrown Into Chaos",
+  "description": "On pages 18–18, Don Krieg’s arrival turns the Baratie crisis into a pirate siege while Nami’s departure and the looming fight split the crew’s attention.",
+  "pages": [
+    18
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "The Baratie becomes trapped between hungry enemies, terrified cooks, Krieg’s overwhelming force, and the Straw Hats’ personal priorities.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "While we still had no idea what was going on,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Our ships sank one by one..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "And if it weren't for that storm that whisked us away,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Even our main ship would've sunk..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I don't even know how many of our ships managed to survive..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It's just too terrifying to believe as real...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I don't even want to think about..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "That Hawk-eyed Man whose glare is sharp enough to kill a man...! I don't! I don't want to think about him!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "What!?"
+    }
+  ],
+  "summary": "This part escalates the Baratie arc from character introduction to open conflict, with Krieg threatening the restaurant and Nami pulling the story toward Arlong Park.",
+  "confidence": 0.58,
+  "needs_review": true
+}

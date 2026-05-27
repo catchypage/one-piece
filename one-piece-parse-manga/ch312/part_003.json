@@ -1,0 +1,90 @@
+{
+  "chapter": "312",
+  "part": 3,
+  "title": "A Crew Member on the Line",
+  "description": "The Foxy Pirates force the Straw Hats toward the decisive round, where Luffy has to defend his crew directly.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Foxy",
+    "Tonjit",
+    "Porche"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this scene focuses on Luffy, Nami, Usopp, Zoro, Sanji. The Foxy Pirates force the Straw Hats toward the decisive round, where Luffy has to defend his crew directly.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Hyun"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Leader!!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I'll avenge you!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Damn you!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "SWORD- LESS STYLE..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Dragon..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I'll slice you into pieces!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Twister!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "BusyaAAAA!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Big Bang is..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Getting diced up by pickles!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "WAH... I can't stop!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "OWWAAA!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Anti-manner"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Kick Course!!"
+    }
+  ],
+  "summary": "The Foxy Pirates force the Straw Hats toward the decisive round, where Luffy has to defend his crew directly.",
+  "confidence": 0.88,
+  "needs_review": false
+}

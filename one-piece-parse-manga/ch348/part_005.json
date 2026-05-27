@@ -1,0 +1,66 @@
+{
+  "chapter": "348",
+  "part": 5,
+  "title": "Spandam’s Frame-Up",
+  "description": "Young Franky’s recklessness and Tom’s faith in building ships reveal why the sea train and blueprints matter so much.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Franky",
+    "Tom",
+    "Iceburg",
+    "Spandam",
+    "Kokoro",
+    "Yokozuna",
+    "World Government agent"
+  ],
+  "scene": "Across pages 17, 18, this part follows Luffy, Franky, Tom, Iceburg, Spandam. Young Franky’s recklessness and Tom’s faith in building ships reveal why the sea train and blueprints matter so much.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "You lowly Pirates..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Tom",
+      "text": "This incident is of the utmost secrecy."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "It's not something you can touch!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Lucchi,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We should hurry..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "But it's such a pity."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "What....!??"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "UWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    }
+  ],
+  "summary": "Young Franky’s recklessness and Tom’s faith in building ships reveal why the sea train and blueprints matter so much.",
+  "confidence": 0.83,
+  "needs_review": false
+}

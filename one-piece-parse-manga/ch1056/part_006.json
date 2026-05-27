@@ -1,0 +1,62 @@
+{
+  "chapter": "1056",
+  "part": 6,
+  "title": "The Alliance Says Farewell to Wano",
+  "description": "On pages 18–18, this part focuses on Kaido, Unknown person #16, Momonosuke, Luffy, Yamato as Wano celebrates liberation while Momonosuke becomes shogun, Green Bull threatens the island, and the alliance prepares to depart.",
+  "pages": [
+    18
+  ],
+  "characters": [
+    "Kaido",
+    "Unknown person #16",
+    "Momonosuke",
+    "Luffy",
+    "Yamato"
+  ],
+  "scene": "Wano celebrates liberation while Momonosuke becomes shogun, Green Bull threatens the island, and the alliance prepares to depart.",
+  "dialogue": [
+    {
+      "speaker": "Kaido",
+      "text": "Are you gone too, YAMato...?!"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "Not yet,"
+    },
+    {
+      "speaker": "Momonosuke",
+      "text": "Momo- Nosuke- Kan!"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "Huh?! are you..."
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "...on the roof like usual?!"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "Yeah, I've made up my mind!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "I'm about to head over to Luffy and the gang!"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "It's finally time for me..."
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "...to live like open did!!"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "Heroic and free!!"
+    }
+  ],
+  "summary": "This part advances the Wano Aftermath through 10 cleaned dialogue beats, focusing on character decisions, battlefield momentum, and the story’s larger consequences.",
+  "confidence": 0.75,
+  "needs_review": true
+}

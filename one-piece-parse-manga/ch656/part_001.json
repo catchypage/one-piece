@@ -1,0 +1,67 @@
+{
+  "chapter": "656",
+  "part": 1,
+  "title": "The Landing Party Reaches the Burning Island",
+  "description": "On pages 1–3, this part follows Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Luffy. The central beat is the landing party reaches the burning island.",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Luffy",
+    "Unknown person #7",
+    "Zoro",
+    "Robin",
+    "Usopp",
+    "Nami"
+  ],
+  "scene": "The scene focuses on the landing party reaches the burning island, with Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Luffy shaping the conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hey!! It just spoke!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "...you think so...?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Don't tell me...!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "WhoA AAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "It breathed fire!!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "This is getting interesting...!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "AHAHA HAHA!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu No..."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "DORURUN!!"
+    }
+  ],
+  "summary": "The Landing Party Reaches the Burning Island. This part moves the Straw Hats from Fish-Man Island into the New World and begins the mystery of Punk Hazard.",
+  "confidence": 0.76,
+  "needs_review": true
+}

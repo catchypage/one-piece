@@ -1,0 +1,94 @@
+{
+  "chapter": "220",
+  "part": 4,
+  "title": "The Crew Searches for Proof",
+  "description": "On pages 15, 16, 17, 18, this part focuses on cricket and the dream of the sky. The Straw Hats meet people connected to Mont Blanc Noland’s legend and begin chasing the impossible route to the sky.",
+  "pages": [
+    15,
+    16,
+    17,
+    18
+  ],
+  "characters": [
+    "Masira",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Chopper",
+    "Nico Robin",
+    "Shojo",
+    "Mont Blanc Cricket",
+    "Sanji",
+    "Jaya local"
+  ],
+  "scene": "This scene belongs to the Cricket and the Dream of the Sky sequence. The important beat is the dialogue and action around Masira, Nami, Usopp, Zoro, Chopper.",
+  "dialogue": [
+    {
+      "speaker": "Masira",
+      "text": "Monkey punch!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's coming up this way....!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Land!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "It's a monkey."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Masira",
+      "text": "Look like? What, he ain't a monkey?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Don't ask me."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Who're you?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Look! Under the ship..."
+    },
+    {
+      "speaker": "Masira",
+      "text": "Aghh-"
+    },
+    {
+      "speaker": "Masira",
+      "text": "there's some- thing below..."
+    },
+    {
+      "speaker": "Shojo",
+      "text": "UKIKIKI!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Hahaha!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Ohh! So you're from East Blue!?"
+    },
+    {
+      "speaker": "Jaya local",
+      "text": "Shucks, stop tryin' to Embar- Rass me!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "CRunch!"
+    }
+  ],
+  "summary": "The Straw Hats meet people connected to Mont Blanc Noland’s legend and begin chasing the impossible route to the sky.",
+  "confidence": 0.85,
+  "needs_review": false
+}

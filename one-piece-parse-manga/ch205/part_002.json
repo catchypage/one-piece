@@ -1,0 +1,71 @@
+{
+  "chapter": "205",
+  "part": 2,
+  "title": "The Battlefield Goes Silent",
+  "description": "On pages 5, 6, 7, 8, this part focuses on a kingdom wakes from war. Alabasta starts facing the aftermath of Crocodile’s deception while Vivi, Cobra, the rebels, and the Straw Hats recover from the civil war.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Alabasta citizen",
+    "Vivi",
+    "King Cobra",
+    "Smoker",
+    "Tashigi",
+    "Nico Robin",
+    "Luffy"
+  ],
+  "scene": "This scene belongs to the A Kingdom Wakes from War sequence. The important beat is the dialogue and action around Alabasta citizen, Vivi, King Cobra, Smoker, Tashigi.",
+  "dialogue": [
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Rrriiiibit ribbit ribbit..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Ohohoho!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "I was caught off guard...!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "too"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "tic..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Stretch!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "tug!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "$10..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The second is the"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Bui-"
+    }
+  ],
+  "summary": "Alabasta starts facing the aftermath of Crocodile’s deception while Vivi, Cobra, the rebels, and the Straw Hats recover from the civil war.",
+  "confidence": 0.86,
+  "needs_review": false
+}

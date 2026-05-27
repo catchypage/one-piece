@@ -1,0 +1,87 @@
+{
+  "chapter": "642",
+  "part": 2,
+  "title": "The Princes Fight to Save Noah",
+  "description": "On pages 5–7, this part follows Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Fish-Man Island Citizens. The central beat is the princes fight to save noah.",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Fish-Man Island Citizens",
+    "Unknown person #7",
+    "Luffy",
+    "Hody Jones",
+    "Shirahoshi",
+    "Jinbe"
+  ],
+  "scene": "The scene focuses on the princes fight to save noah, with Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Fish-Man Island Citizens shaping the conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Your majesty!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Are you all right?!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "No matter."
+    },
+    {
+      "speaker": "King Neptune",
+      "text": "Did you witness the Noah...?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Yes... very good..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "You must leave as well, your majesty!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "No ..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I will await the princes."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "What in the world ...?"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "What is going on here?!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "I need Explana- Tions!!"
+    },
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "Where did all these pirates come from?!"
+    },
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "The straw hat pirates..."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Jinbe ...!!"
+    }
+  ],
+  "summary": "The Princes Fight to Save Noah. This part advances the end of the Fish-Man Island conflict and the island’s attempt to move beyond inherited hatred.",
+  "confidence": 0.76,
+  "needs_review": true
+}

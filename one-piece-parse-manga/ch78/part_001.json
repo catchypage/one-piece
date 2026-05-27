@@ -1,0 +1,187 @@
+{
+  "chapter": "78",
+  "part": 1,
+  "title": "Arlong Puts a Price on the Village",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Nami",
+    "Nojiko",
+    "Bellemere",
+    "Genzo",
+    "Arlong",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Cocoyasi villagers"
+  ],
+  "scene": "On pages 1–4, Nojiko’s account of the past reveals how Nami, Bellemere, and Cocoyasi Village were damaged by Arlong’s arrival. The flashback reaches Arlong’s arrival, his money demands, and Bellemere’s impossible choice.",
+  "dialogue": [
+    {
+      "speaker": "Arlong",
+      "text": "100,000 belli for one human adult,"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "And 50,000 belli for one human child."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Considering that we came with no notice, we'll only kill those who can't pay up right now...!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "How many have we collected so far?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "almost 25 million..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Excellent!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "This is... too much..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "How're we supposed to make a living,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "just bear with it for now... Fortunately, no one will be killed this time."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "If we have to pay that much every month...!"
+    },
+    {
+      "speaker": "Nojiko",
+      "text": "What do we do, nojiko... do you think Belliemere's alright?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Don't worry."
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "They won't be able to see our house since you can't see it here from the village."
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "They've took complete control of our village..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I guess we should consider ourselves fortunate if we can solve this crisis with money alone..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Now please just go back without noticing Belliemere's home!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "With her and her 2 kids, they'd have to pay 200,000 belli... there's no way she'd have that much money saved up..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Alright,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Let's pull back for today, brethren!"
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "Arlong! There seems to be a house a little away from the village!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "No...!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "over there."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "That smoke must be coming from someone's home."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Representation of the following"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Belliemere!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "mm hmm him."
+    },
+    {
+      "speaker": "Nami",
+      "text": "We almost missed it..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "MM!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "It's almost too good!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "As expected of my special orange sauce!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Let's see... the duck still needs 10 more minutes in the oven before I add the vegetables."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "The stew's still boiling so all I need to make now is the omurice."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Our household finances are going to take quite a hit after this."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Well, if that's the way it's gonna be,"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "I might as well as give them a little alcohol too."
+    },
+    {
+      "speaker": "Nami",
+      "text": "By the way, have you found any sea charts?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Nope, not a single one."
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "Not the most useful village, is it..."
+    }
+  ],
+  "summary": "This part deepens Nami’s backstory, showing how family, money, and survival became tied to Arlong’s control over the village.",
+  "confidence": 0.66,
+  "needs_review": true
+}

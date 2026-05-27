@@ -1,0 +1,106 @@
+{
+  "chapter": "276",
+  "part": 3,
+  "title": "Luffy Breaks Free",
+  "description": "Enel’s ark becomes an active threat, turning the conflict from a survival game into a race to save Skypiea.",
+  "pages": [
+    14,
+    15,
+    16,
+    17
+  ],
+  "characters": [
+    "Eneru",
+    "Enel",
+    "Nami",
+    "Luffy",
+    "Wyper",
+    "Narrator",
+    "Aisa",
+    "Ark Maxim",
+    "Gan Fall",
+    "Sanji"
+  ],
+  "scene": "Across pages 14, 15, 16, 17, this scene centers on Eneru, Enel, Nami, Luffy, Wyper. Enel’s ark becomes an active threat, turning the conflict from a survival game into a race to save Skypiea.",
+  "dialogue": [
+    {
+      "speaker": "Eneru",
+      "text": "It can't be..."
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Even Zero was..."
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Everyone was beaten...!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Why do you stand?"
+    },
+    {
+      "speaker": "Enel",
+      "text": "You said your people,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The second morning"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "So why do you still stand?"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "For my ancestors!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "But I see you're barely conscious."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Wyper..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Come here, Wyper,"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "What is it?"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Your distant ancestor... The great warrior Kalgara,"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Had another reason,"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Why he tried to recover our homelands."
+    },
+    {
+      "speaker": "Aisa",
+      "text": "Another reason...?"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "The following"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Listen carefully."
+    },
+    {
+      "speaker": "Eneru",
+      "text": "The great warrior Kalgara had..."
+    }
+  ],
+  "summary": "Enel’s ark becomes an active threat, turning the conflict from a survival game into a race to save Skypiea.",
+  "confidence": 0.86,
+  "needs_review": false
+}

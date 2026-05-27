@@ -1,0 +1,120 @@
+{
+  "chapter": "46",
+  "part": 5,
+  "title": "Sanji Feeds a Starving Enemy",
+  "description": "On pages 14–17, Sanji feeds Gin despite the danger, revealing that his compassion for the hungry matters more to him than restaurant rules or pirate labels.",
+  "pages": [
+    14,
+    15,
+    16,
+    17
+  ],
+  "characters": [
+    "Sanji",
+    "Unknown person #1",
+    "Gin",
+    "Don Krieg",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5"
+  ],
+  "scene": "Gin arrives broken and starving, while the Baratie cooks judge him as an enemy; Sanji alone treats hunger as something that must be answered.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "Anything!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "don...!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hmph."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Trying to earn some sympathy points?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hey move it, Patty."
+    },
+    {
+      "speaker": "Gin",
+      "text": "here, gin. Give this to him."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Sanji!"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Thank you!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hey Sanji! Take that food back this instant!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Do you have any idea what kind of man he is!?"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "The ruler of East Blue, the King of Decceptions! That's Don Krieg for you!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "He started out by disgusting as a marine after escaping from prison!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "He then killed the Marine Officer in charge of the ship and took it over!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "That's how he became a pirate!"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Since then, he's attacked ports, towns, and other ships by hanging a marine flag..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "And when attacking his enemies, he hangs a white flag to attack them by surprise...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "He's a man who'll stoop to anything in order to win!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "And that's how he made his way to the top!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "His strength ain't no exaggeration either!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "You really think he'll just leave after eating!? That's utterly impossible for him!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Letting a demon like him starve to death,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Is for the good of this world!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Sanji!"
+    }
+  ],
+  "summary": "This part reveals the core of Sanji’s morality: no matter who a person is, he cannot ignore someone starving in front of him.",
+  "confidence": 0.74,
+  "needs_review": false
+}

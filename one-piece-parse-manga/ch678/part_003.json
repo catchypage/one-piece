@@ -1,0 +1,88 @@
+{
+  "chapter": "678",
+  "part": 3,
+  "title": "The Marines Protect the Children",
+  "description": "On pages 9–12, this part follows Unknown person #1, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #7, Punk Hazard Guards, Unknown person #8. The central beat is the marines protect the children.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #7",
+    "Punk Hazard Guards",
+    "Unknown person #8",
+    "Smoker",
+    "Unknown person #10",
+    "Unknown person #11",
+    "Luffy",
+    "Trafalgar Law"
+  ],
+  "scene": "The scene focuses on the marines protect the children, with Unknown person #1, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #7, Punk Hazard Guards, Unknown person #8 shaping the Punk Hazard conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Wait, I can expl- eurgblm Phagh!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "You're a real hero, Sanji!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I have something to tell everyone here!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "But there is one way ..."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Hmm... I see!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Well, then..."
+    },
+    {
+      "speaker": "Punk Hazard Guards",
+      "text": "CAESAR, I'M COMING FOR YOU NOW!!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Yeah!!!!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "And why not....?!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Huh?! Where are you going, smoker- San?!"
+    },
+    {
+      "speaker": "Vergo",
+      "text": "YOU'RE NOT... GOING AFTER Vergo...?!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Then let me go with you!!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Someone knows it"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Smoker- San..."
+    }
+  ],
+  "summary": "The Marines Protect the Children. This part advances Punk Hazard’s rescue mission, Caesar’s experiment, and the fragile pirate–Marine alliance.",
+  "confidence": 0.76,
+  "needs_review": true
+}

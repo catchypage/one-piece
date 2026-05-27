@@ -1,0 +1,75 @@
+{
+  "chapter": "649",
+  "part": 4,
+  "title": "The Royal Family Thanks the Straw Hats",
+  "description": "On pages 11–14, this part follows Unknown person #1, Unknown person #2, Unknown person #3, Fish-Man Island Citizens, Unknown person #4, Unknown person #5, Unknown person #6. The central beat is the royal family thanks the straw hats.",
+  "pages": [
+    11,
+    12,
+    14
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Fish-Man Island Citizens",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Luffy",
+    "Nami",
+    "Sanji",
+    "Jinbe"
+  ],
+  "scene": "The scene focuses on the royal family thanks the straw hats, with Unknown person #1, Unknown person #2, Unknown person #3, Fish-Man Island Citizens, Unknown person #4, Unknown person #5, Unknown person #6 shaping the conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Bring on the food!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Eat, drink, sing, dance and be merry!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Dancing of Dreams"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "and places!.."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "OH! :)"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Uwih HH..."
+    },
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "...young pirate lady?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Who exactly is \"joyboy\"?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "You are ... able to read it...?!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "I am a survivor of ohara."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Your crew have earned my trust..."
+    }
+  ],
+  "summary": "The Royal Family Thanks the Straw Hats. This part advances the end of the Fish-Man Island conflict and the island’s attempt to move beyond inherited hatred.",
+  "confidence": 0.76,
+  "needs_review": true
+}

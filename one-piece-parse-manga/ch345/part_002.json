@@ -1,0 +1,110 @@
+{
+  "chapter": "345",
+  "part": 2,
+  "title": "The Masked Intruders",
+  "description": "The Pluton blueprints and Tom’s legacy become central as CP9 hunts the secret that Iceburg and Franky have protected.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Iceburg",
+    "Nico Robin",
+    "Kalifa",
+    "Chopper",
+    "Kaku",
+    "Rob Lucci",
+    "Blueno",
+    "Franky",
+    "Luffy",
+    "Nami"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this part follows Iceburg, Nico Robin, Kalifa, Chopper, Kaku. The Pluton blueprints and Tom’s legacy become central as CP9 hunts the secret that Iceburg and Franky have protected.",
+  "dialogue": [
+    {
+      "speaker": "Iceburg",
+      "text": "What!!?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": ".....!! the wall broke from one kick!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "GUHeh!!!"
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "Clink"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "It's an Emer-gency."
+    },
+    {
+      "speaker": "Kaku",
+      "text": "I... can't move!!"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "Hey,"
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "Stop him too....!!"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "There's no time for fighting."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "WAA AA!"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "rilling..."
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "rilling..."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Click"
+    },
+    {
+      "speaker": "Franky",
+      "text": "it's me."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "There's a hitch in our plan."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Everyone head to the bedroom."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Don't shoot iceberg yet."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "What, are you running away!!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "No....."
+    }
+  ],
+  "summary": "The Pluton blueprints and Tom’s legacy become central as CP9 hunts the secret that Iceburg and Franky have protected.",
+  "confidence": 0.79,
+  "needs_review": false
+}

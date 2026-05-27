@@ -1,0 +1,128 @@
+{
+  "chapter": "158",
+  "part": 2,
+  "title": "Smoker Finds Luffy",
+  "description": "On pages 5–8, this part focuses on smoker finds luffy, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Smoker",
+    "Luffy",
+    "Ace",
+    "Tashigi",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "Smoker Finds Luffy. Luffy runs into both Marines and his brother Ace in Nanohana, turning the Alabasta arrival into a chaotic reunion. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Smoker",
+      "text": "As long as I'm a marine,"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "And you're a pirate, that is...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yahoo!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What a dull reason..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Well, let's see what ya got."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Rocket!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gahh!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Ace",
+      "text": "WOO HOO!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "gyaaaa!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Finally a restau- rant! I'm starving!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gimme some food, mister!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Umm... You might... want to run for it, kid."
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Mmmmm Mmmm!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Damn, the food here is great!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "T-thanks..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Damn it... Who was that punk!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Pardon me for intruding during your meal."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "How dare h-"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Light"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Lu..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hey, Luf-"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Straw- Haaat!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "So you did come to this country, after all..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Can't you stop eating for just one second?"
+    }
+  ],
+  "summary": "This part highlights smoker finds luffy and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.74,
+  "needs_review": false
+}

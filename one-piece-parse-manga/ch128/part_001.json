@@ -1,0 +1,169 @@
+{
+  "chapter": "128",
+  "part": 1,
+  "title": "Smoker Studies the Reports",
+  "description": "On pages 0–5, smoker studies the reports as the Straw Hats escape Little Garden with help from Dorry and Brogy, but Nami’s worsening illness makes the next destination urgent.",
+  "pages": [
+    0,
+    4,
+    5
+  ],
+  "characters": [
+    "Smoker",
+    "Marine",
+    "Luffy",
+    "Usopp",
+    "Vivi",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Zoro",
+    "Nami",
+    "Dorry",
+    "Brogy",
+    "Tashigi"
+  ],
+  "scene": "Smoker Studies the Reports. The Straw Hats escape Little Garden with help from Dorry and Brogy, but Nami’s worsening illness makes the next destination urgent. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Smoker",
+      "text": "Yes, sir!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "To think I could come across a masterwork blade so soon... the grand line sure lives up to its reputation...!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Tashigi! Are you even listening, you sword- obsessed freak!?"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Y-Yes, Captain!?"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Did you need a cup of coffee or something?"
+    },
+    {
+      "speaker": "Marine",
+      "text": "Listen carefully to this conversation between two men."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It's from a call that we intercepted just now. Shall I play it back now, SGT. Major?"
+    },
+    {
+      "speaker": "Marine",
+      "text": "BLACK DENDEN-MUSH) (used to intercept calls)"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Y-Yes, please go ahead."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "CRRK..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "TSST..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "...Princess VIVI and... Straw- hat Pi-"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "...or not?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "CRRK... Yes,"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I've carried out my miss-...CRK..."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Straw- Hat!? As in the straw-hat pirates!?"
+    },
+    {
+      "speaker": "Marine",
+      "text": "Yes... the source was too far away for us to intercept the call clearly but we can still note 4 keywords from this conversation."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "\"Princess VIVI,\""
+    },
+    {
+      "speaker": "Marine",
+      "text": "\"Straw-hat,\""
+    },
+    {
+      "speaker": "Marine",
+      "text": "\"Mr. O,\""
+    },
+    {
+      "speaker": "Marine",
+      "text": "and \"orders.\""
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "could it be that the Mr. O from the intercepted call,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Has something to do with this suspicious swordsman called Mr. 11 who we apprehended yesterday at RunesU!?"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Hm, good point. If these numbers are their codenames,"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "And there's talk about carrying out orders..."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Then we might be dealing with a secret criminal organi- Zation."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Mr. O? Criminal Organization? I haven't got the faintest idea what you're talking about."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Seems like you're making too much out of your guesswork."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "baroque works frontier agent Mr. 11"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Then how do you explain this letter I found in your pocket with orders written on it!?"
+    },
+    {
+      "speaker": "Marine",
+      "text": "What? I... I'm sure I burned that letter up...!"
+    },
+    {
+      "speaker": "Marine",
+      "text": "A4- that letter is actually..."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "that letter...?"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "We never found any letter in your pockets."
+    }
+  ],
+  "summary": "This part centers on smoker studies the reports, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.67,
+  "needs_review": false
+}

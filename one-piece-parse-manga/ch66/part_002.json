@@ -1,0 +1,90 @@
+{
+  "chapter": "66",
+  "part": 2,
+  "title": "Gin’s Loyalty Breaks Under Krieg’s Cruelty",
+  "pages": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "characters": [
+    "Luffy",
+    "Sanji",
+    "Don Krieg",
+    "Gin",
+    "Zeff",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Krieg Pirates"
+  ],
+  "scene": "On pages 6–9, the Baratie conflict focuses on Luffy, Sanji, Don Krieg, Gin, Zeff. Luffy finally shatters Krieg’s pride and ends the battle at the Baratie.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Is that what you were wondering?"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "How can he keep on charging straight ahead without the slightest hesitation!?"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "I'm the great pirate fleet Admiral Don Krieg!"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "Give me some support, you bas- tards!"
+    },
+    {
+      "speaker": "Krieg Pirates",
+      "text": "Y-Yes, Don!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "This time, it'll really be the end!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Shoot him all at once!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Quit it,"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "Or I'll kill the lot of you."
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "ack!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Aghuhhh!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "GONU GONU...!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Arghhhh!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Aghhhh!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Sledge- Hammer!"
+    }
+  ],
+  "summary": "This part keeps the Baratie battle centered on willpower, debt, hunger, and pride. The dialogue shows who still stands firm after Krieg’s violence and who is ready to break away from the restaurant’s old life.",
+  "confidence": 0.69,
+  "needs_review": true
+}

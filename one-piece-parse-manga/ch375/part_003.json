@@ -1,0 +1,114 @@
+{
+  "chapter": "375",
+  "part": 3,
+  "title": "Luffy Charges Ahead",
+  "description": "The rescue force reaches Enies Lobby, where the island’s guards and government agents prepare to stop the Straw Hats.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "World Government agent",
+    "Luffy",
+    "Zoro",
+    "Kumadori",
+    "Nami",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Sogeking",
+    "Franky"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this part follows World Government agent, Luffy, Zoro, Kumadori, Nami. The rescue force reaches Enies Lobby, where the island’s guards and government agents prepare to stop the Straw Hats.",
+  "dialogue": [
+    {
+      "speaker": "World Government agent",
+      "text": "Judicial Island: Enies Lobby"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Nice work on the mission!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Take the criminals out!"
+    },
+    {
+      "speaker": "Kumadori",
+      "text": "awoo!!"
+    },
+    {
+      "speaker": "Kumadori",
+      "text": "gyAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What a troublemaker..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Watch out!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "He bites!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "The CPS sure are great."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Nico Robin..."
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "What... A beauty..."
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Open the front gate!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "CREAK..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "A... WaterFall!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "What's up with this island!!?"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Shut up and keep moving..."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "I can't see the bottom in"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "What the hell I?"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Shut up..."
+    },
+    {
+      "speaker": "Oimo",
+      "text": "Looks like they're back..."
+    },
+    {
+      "speaker": "Kashii",
+      "text": "Lucchi and the others..."
+    }
+  ],
+  "summary": "The rescue force reaches Enies Lobby, where the island’s guards and government agents prepare to stop the Straw Hats.",
+  "confidence": 0.83,
+  "needs_review": false
+}

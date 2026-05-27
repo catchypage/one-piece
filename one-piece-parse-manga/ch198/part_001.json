@@ -1,0 +1,100 @@
+{
+  "chapter": "198",
+  "part": 1,
+  "title": "Crocodile Reaches the Tomb",
+  "description": "On pages 3–6, this part focuses on crocodile reaches the tomb, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "characters": [
+    "Luffy",
+    "Crocodile",
+    "Miss All Sunday",
+    "King Cobra",
+    "Vivi",
+    "Zoro",
+    "Pell",
+    "Chaka"
+  ],
+  "scene": "Crocodile Reaches the Tomb. Crocodile drags the conflict toward the royal tomb and the truth of Pluton while Robin watches the plan unfold. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Kouza!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "I'll build that town so it'll help make this country better than before!"
+    },
+    {
+      "speaker": "Miss All Sunday",
+      "text": "Stop fighting,"
+    },
+    {
+      "speaker": "Miss All Sunday",
+      "text": "Comrades!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Kouza!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Heh heh."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You idiot! Why did you shoot Kouza!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Gah!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "G... commrades...!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "What's with this sudden cloud of sand!?"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Listen to me!"
+    },
+    {
+      "speaker": "Pell",
+      "text": "They've opened fire at us!"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "Those bastards!"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "Fellow rebels!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Damn these sand storms!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "I can't see ahead at all!"
+    },
+    {
+      "speaker": "Miss All Sunday",
+      "text": "Those Rebel Scum!"
+    },
+    {
+      "speaker": "Pell",
+      "text": "It's useless! We Baroque Works agents have infiltrated both sides!"
+    }
+  ],
+  "summary": "This part develops crocodile reaches the tomb and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

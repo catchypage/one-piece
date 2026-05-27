@@ -1,0 +1,73 @@
+{
+  "chapter": "45",
+  "part": 8,
+  "title": "Gin’s Gratitude Reveals Sanji’s Kindness",
+  "description": "On pages 24–25, Sanji feeds Gin despite the danger, revealing that his compassion for the hungry matters more to him than restaurant rules or pirate labels.",
+  "pages": [
+    24,
+    25
+  ],
+  "characters": [
+    "Sanji",
+    "Unknown person #1",
+    "Gin",
+    "Don Krieg",
+    "Narrator",
+    "Unknown person #2",
+    "Zeff"
+  ],
+  "scene": "Gin arrives broken and starving, while the Baratie cooks judge him as an enemy; Sanji alone treats hunger as something that must be answered.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "So that cook saved your life,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "And you were able to come back here..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Y-Yes..."
+    },
+    {
+      "speaker": "Gin",
+      "text": "B-But I never could've imagined that our mother ship would be in this condition..."
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "Don Krieg,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What is it...?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Allow me to guide you sir,"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "To baratie, the restaurant on the seas!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Bleagh!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "leftovers."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Even though I can do the moon- walk and the chakram."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Pheww... the dance world is tough."
+    }
+  ],
+  "summary": "This part reveals the core of Sanji’s morality: no matter who a person is, he cannot ignore someone starving in front of him.",
+  "confidence": 0.78,
+  "needs_review": false
+}

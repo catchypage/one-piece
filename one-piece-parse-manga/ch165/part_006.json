@@ -1,0 +1,32 @@
+{
+  "chapter": "165",
+  "part": 6,
+  "title": "The Road Narrows",
+  "description": "On pages 19–19, this part focuses on the road narrows, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    19
+  ],
+  "characters": [
+    "Vivi",
+    "Luffy",
+    "Nami"
+  ],
+  "scene": "The Road Narrows. The crew reaches Yuba and sees what the drought and rebellion have done to the people who still believe in Alabasta. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "AWAWAWA! Fly, U.G. Pirates! Fly!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Bry's room"
+    },
+    {
+      "speaker": "Nami",
+      "text": "ONEPIENCE *Nani*"
+    }
+  ],
+  "summary": "This part develops the road narrows and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.7,
+  "needs_review": false
+}

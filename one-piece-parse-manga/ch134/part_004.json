@@ -1,0 +1,180 @@
+{
+  "chapter": "134",
+  "part": 4,
+  "title": "Wapol Returns to His Kingdom",
+  "description": "On pages 12–15, wapol returns to his kingdom as wapol comes back to reclaim his kingdom as Luffy, Sanji, and Nami prepare for the dangerous climb toward Dr. Kureha.",
+  "pages": [
+    12,
+    13,
+    14,
+    15
+  ],
+  "characters": [
+    "Luffy",
+    "Wapol",
+    "Sanji",
+    "Drum villager",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Nami",
+    "Dr. Kureha"
+  ],
+  "scene": "Wapol Returns to His Kingdom. Wapol comes back to reclaim his kingdom as Luffy, Sanji, and Nami prepare for the dangerous climb toward Dr. Kureha. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "It seems we've got quite the cruel father."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Looks like it's coming from here..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Stand back."
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Don't mind the intrusion!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Happy, puppy?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Heeeeeeehee Heehee!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "master of doctors D.R. KUREHA age 139"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Dr.kureha's beloved Reindeer Tony Tony Tony Tony Tony Tony Tony Tony Tony Tony Tony Tony Tony Tony Tony Chong Chopper"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "You want to know the secret of my youth!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "We didn't even ask!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "to think that's actually a 140 year-old granny..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I'm still only 139!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Ack!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "shall I treat him?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "What?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "But he's not even sick!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Oh? And are you a doctor?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Fine. Let's go, chopper."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "W-Wait!"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "My hands hurt..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Is that so..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Then how's this?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ahh! My leg!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "But you forgot about how much your hands hurt, didn't you? Hee hee hee!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The hell are you doing to my son!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Fire Tool"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Fine, I'll stop. Happy, pappy? Now stay still for a moment."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I only lightly touched his leg but his limbs seem to be in quite a bit of pain."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "No fever but looks like we've got a pyogenic inflammation on the leg."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Must be a bacterial infection in the bones."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Chopper! Get me my antibiotics!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "W-What's Wrong With My Boy, Doctor?"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "This disease can still be treated while in its early phase."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Don't worry, your boy'll recover."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "but he was on the verge of death."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What!? He was!?"
+    }
+  ],
+  "summary": "This part centers on wapol returns to his kingdom, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.62,
+  "needs_review": true
+}

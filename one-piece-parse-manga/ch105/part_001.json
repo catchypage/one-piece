@@ -1,0 +1,151 @@
+{
+  "chapter": "105",
+  "part": 1,
+  "title": "Luffy Marks the Promise",
+  "description": "On pages 1–4, luffy marks the promise as luffy turns Laboon’s grief into a promise of a future rematch, and the crew receives the Log Pose needed for the Grand Line.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Crocus",
+    "Luffy",
+    "Usopp",
+    "Sanji",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Nami",
+    "Laboon"
+  ],
+  "scene": "Luffy Marks the Promise. Luffy turns Laboon’s grief into a promise of a future rematch, and the crew receives the Log Pose needed for the Grand Line. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Crocus",
+      "text": "And... done!"
+    },
+    {
+      "speaker": "Crocus",
+      "text": "This will be a sign of our promise to fight again!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "So don't you bash your head against the wall and make it disappear."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "By the time we come back, you hear!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Fuoo hhh,"
+    },
+    {
+      "speaker": "Crocus",
+      "text": "Good!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Alright then, time to chart out our navigation route."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "This elephant trout is just perfect for cooking!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "How could that idiot just destroy our ship!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Hey, I could use a little help over here, zero!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I ain't no shipwright, you know!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What? You're being so noisy."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "What's the matter, my dear nami!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "If it's about the meal, then it's all ready!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Ugh... I'll take a brief break from the ship repairs and eat."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "The comp- ass...!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "It's broken! It's pointing all over the place!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hmm.. It appears you've come here without knowing anything."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm quite amazed. Did you come here to just throw your lives away?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Ah, time for food?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "In your case, it's time for feeding."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I've said before that common sense fails to uphold in this ocean."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "That compass isn't broken."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Then is it... the magnetic field!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Yes... There exists a geomagnetic anomaly across Grand Line,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Due to many islands here being rich with various minerals."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Not only that, the currents and the winds here are as unpredictable as they can be."
+    },
+    {
+      "speaker": "Nami",
+      "text": "As a Navigator, you should well understand how terrifying that can be."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "If you venture out into this ocean without knowing anything, you'll die for sure."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "True... without a reliable way to tell one's directions, it's all hopeless."
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on luffy marks the promise. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.7,
+  "needs_review": true
+}

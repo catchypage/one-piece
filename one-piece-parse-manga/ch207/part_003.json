@@ -1,0 +1,71 @@
+{
+  "chapter": "207",
+  "part": 3,
+  "title": "The Kingdom Counts the Cost",
+  "description": "On pages 9, 10, 11, 12, this part focuses on the straw hats become wanted heroes. News of Crocodile’s defeat spreads, new bounties and political consequences appear, and the crew prepares to leave Alabasta quietly.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Alabasta citizen",
+    "Vivi",
+    "King Cobra",
+    "Smoker",
+    "Tashigi",
+    "Nico Robin",
+    "Luffy"
+  ],
+  "scene": "This scene belongs to the The Straw Hats Become Wanted Heroes sequence. The important beat is the dialogue and action around Alabasta citizen, Vivi, King Cobra, Smoker, Tashigi.",
+  "dialogue": [
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Slasher!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "What"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "2 seconds left"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Ribbit ribbit! Too bad, so sad!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "You missed!"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Runback!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Alright!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "It's over!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Viv!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Come out and play!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Ahhh! It's the guard! Run!"
+    }
+  ],
+  "summary": "News of Crocodile’s defeat spreads, new bounties and political consequences appear, and the crew prepares to leave Alabasta quietly.",
+  "confidence": 0.88,
+  "needs_review": false
+}

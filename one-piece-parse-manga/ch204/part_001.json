@@ -1,0 +1,133 @@
+{
+  "chapter": "204",
+  "part": 1,
+  "title": "Rain Falls on Alabasta",
+  "description": "On pages 1, 2, 3, 4, this part focuses on the rain returns to alabasta. With Crocodile defeated and the truth exposed, the battlefield finally begins to quiet as rain and exhaustion wash over the kingdom.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Vivi",
+    "King Cobra",
+    "Smoker",
+    "Tashigi",
+    "Usopp",
+    "Luffy",
+    "Nami",
+    "Nico Robin",
+    "Narrator"
+  ],
+  "scene": "This scene belongs to the The Rain Returns to Alabasta sequence. The important beat is the dialogue and action around Vivi, King Cobra, Smoker, Tashigi, Usopp.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "Whoa"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "What's going on here...!?"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "The whole place is falling apart!"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "You really think it's in there!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I'm going on ahead, Usopp!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "W-wait up, Vivi!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "toc"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Hurry them!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Yeehaw! We found the Princess!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Oh no, it's the B.W. again!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "GAHHHHHHH!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "We ended up calling the enemies too!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Good, it's close by!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "That's Usopp's signal!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "I wonder if they found the place!?"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "I'm sure they did!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "USoooopp-"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Noise!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Screen!"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Ahhh!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "GAHA AAH!!!!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Stop!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Now, VIV!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "R-right!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "They're getting away!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "After them!"
+    }
+  ],
+  "summary": "With Crocodile defeated and the truth exposed, the battlefield finally begins to quiet as rain and exhaustion wash over the kingdom.",
+  "confidence": 0.79,
+  "needs_review": false
+}

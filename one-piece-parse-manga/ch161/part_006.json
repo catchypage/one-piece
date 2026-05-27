@@ -1,0 +1,40 @@
+{
+  "chapter": "161",
+  "part": 6,
+  "title": "The Threat Narrows",
+  "description": "On pages 17–17, this part focuses on the threat narrows, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Miss All Sunday",
+    "Crocodile",
+    "Vivi"
+  ],
+  "scene": "The Threat Narrows. Baroque Works’ senior agents are summoned while the Straw Hats and Vivi continue moving through the desert toward the heart of Alabasta’s crisis. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Miss All Sunday",
+      "text": "Hey,"
+    },
+    {
+      "speaker": "Miss All Sunday",
+      "text": "Just what're you guys thi-"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Let's hurry up and get a move on."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Crack!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "My fists are getting antsy."
+    }
+  ],
+  "summary": "This part develops the threat narrows and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

@@ -1,0 +1,76 @@
+{
+  "chapter": "658",
+  "part": 5,
+  "title": "The Escape Begins",
+  "description": "On pages 16–19, this part follows Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Punk Hazard Guards. The central beat is the escape begins.",
+  "pages": [
+    16,
+    17,
+    18,
+    19
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Punk Hazard Guards",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Nami",
+    "Chopper",
+    "Franky"
+  ],
+  "scene": "The scene focuses on the escape begins, with Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Punk Hazard Guards shaping the conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ciem ..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "GYAA AHH!!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "A Leopard ... and a giraffe?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Don't say stuff like that!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "...and we'd never have met Ashimallow either!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "\"Ashimallow\" ...?"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Punk Hazard, Northwest Coast"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "It's no use, Vice-Admiral Smoker!!!"
+    },
+    {
+      "speaker": "Punk Hazard Guards",
+      "text": "The place is still flooded with gas!!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "That's why Akainu and Aokiji..."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "\"I scary!"
+    }
+  ],
+  "summary": "The Escape Begins. This part moves the Straw Hats from Fish-Man Island into the New World and begins the mystery of Punk Hazard.",
+  "confidence": 0.76,
+  "needs_review": true
+}

@@ -1,0 +1,82 @@
+{
+  "chapter": "278",
+  "part": 4,
+  "title": "The Golden Bell Becomes the Goal",
+  "description": "Luffy finally pushes back toward the real fight, carrying the only natural answer to Enel’s lightning power.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Enel",
+    "Nami",
+    "Luffy",
+    "Aisa",
+    "Wyper",
+    "Gan Fall",
+    "Zoro",
+    "Sanji",
+    "Usopp",
+    "Eneru"
+  ],
+  "scene": "Across pages 13, 14, 15, 16, this scene centers on Enel, Nami, Luffy, Aisa, Wyper. Luffy finally pushes back toward the real fight, carrying the only natural answer to Enel’s lightning power.",
+  "dialogue": [
+    {
+      "speaker": "Enel",
+      "text": "Does not have a God!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "So resolve yourselves!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You're sure, right!?"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "Yes! It's that hole for sure!"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Then let's hurry!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Pierre!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "At the very least..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "As I suspected..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "They were not among the 5 survivors..."
+    },
+    {
+      "speaker": "Eneru",
+      "text": "How unpleasant..."
+    },
+    {
+      "speaker": "Eneru",
+      "text": "To see that my prediction was off..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Are you the one called Enel!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "What!?"
+    }
+  ],
+  "summary": "Luffy finally pushes back toward the real fight, carrying the only natural answer to Enel’s lightning power.",
+  "confidence": 0.84,
+  "needs_review": false
+}

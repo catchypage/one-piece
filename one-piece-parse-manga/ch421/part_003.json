@@ -1,0 +1,75 @@
+{
+  "chapter": "421",
+  "part": 3,
+  "title": "Escape from Enies Lobby: Key Exchange",
+  "description": "In the Enies Lobby Climax storyline, this section centers on CP9, Unknown person #16, Unknown person #1, Unknown person #17, Unknown person #18, Unknown person #19 as the scene develops across pages 9–12.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "CP9",
+    "Unknown person #16",
+    "Unknown person #1",
+    "Unknown person #17",
+    "Unknown person #18",
+    "Unknown person #19",
+    "Unknown person #10"
+  ],
+  "scene": "This scene advances the Enies Lobby Climax conflict through CP9, Unknown person #16, Unknown person #1, Unknown person #17, Unknown person #18, focusing on the immediate stakes of escape from enies lobby: key exchange.",
+  "dialogue": [
+    {
+      "speaker": "CP9",
+      "text": "\"Hyoubi** !!!"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "Uwah !!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Can you defeat me!?"
+    },
+    {
+      "speaker": "CP9",
+      "text": "Gomu Gomu"
+    },
+    {
+      "speaker": "Unknown person #17",
+      "text": "\"Rifle\" !!!"
+    },
+    {
+      "speaker": "Unknown person #18",
+      "text": "\"Tekai\""
+    },
+    {
+      "speaker": "Unknown person #19",
+      "text": "\"utsugi** !!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "... haa"
+    },
+    {
+      "speaker": "CP9",
+      "text": "Flying \"shigan\""
+    },
+    {
+      "speaker": "CP9",
+      "text": "\"Bach** !!!"
+    },
+    {
+      "speaker": "CP9",
+      "text": "Uwah!!"
+    },
+    {
+      "speaker": "CP9",
+      "text": "\"Rankyaku.\""
+    }
+  ],
+  "summary": "This scene advances the Enies Lobby Climax conflict through CP9, Unknown person #16, Unknown person #1, Unknown person #17, Unknown person #18, focusing on the immediate stakes of escape from enies lobby: key exchange.",
+  "confidence": 0.71,
+  "needs_review": false
+}

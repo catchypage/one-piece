@@ -1,0 +1,112 @@
+{
+  "chapter": "348",
+  "part": 1,
+  "title": "Tom’s Dream",
+  "description": "Young Franky’s recklessness and Tom’s faith in building ships reveal why the sea train and blueprints matter so much.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Franky",
+    "Tom",
+    "Iceburg",
+    "Spandam",
+    "Luffy",
+    "Kokoro",
+    "Yokozuna",
+    "World Government agent"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Franky, Tom, Iceburg, Spandam, Luffy. Young Franky’s recklessness and Tom’s faith in building ships reveal why the sea train and blueprints matter so much.",
+  "dialogue": [
+    {
+      "speaker": "Franky",
+      "text": "The flames will rise from"
+    },
+    {
+      "speaker": "Tom",
+      "text": "But the culprits were pirates......"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "These things happen."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "... you.....!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Talk about rude!!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "I'll be going then."
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "Yes. You've done your part."
+    },
+    {
+      "speaker": "World Government agent",
+      "text": "Wait!!! Nico Robin!!! I won't accept it!!!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "Goodbye..."
+    },
+    {
+      "speaker": "World Government agent",
+      "text": "Nico Robin!!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "Don't let her go....!!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "Don't let Nico Nico Robin....!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Where are you going now!!?"
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "We just found you!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Get outta my way!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Tekki."
+    },
+    {
+      "speaker": "World Government agent",
+      "text": "GRIN!"
+    },
+    {
+      "speaker": "World Government agent",
+      "text": "We can heighten our resistance."
+    },
+    {
+      "speaker": "World Government agent",
+      "text": "I said, get outta my way!!!"
+    },
+    {
+      "speaker": "World Government agent",
+      "text": "KAMIE."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Nico Robin!! Wait!!!"
+    }
+  ],
+  "summary": "Young Franky’s recklessness and Tom’s faith in building ships reveal why the sea train and blueprints matter so much.",
+  "confidence": 0.79,
+  "needs_review": false
+}

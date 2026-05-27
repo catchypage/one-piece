@@ -1,0 +1,127 @@
+{
+  "chapter": "209",
+  "part": 1,
+  "title": "The Escape from Alabasta Begins",
+  "description": "On pages 3, 4, 5, 6, this part focuses on the farewell plan. Vivi and the crew try to find a way to say goodbye without exposing their bond to the Navy or putting Alabasta in danger.",
+  "pages": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Crocodile",
+    "Usopp",
+    "Sanji",
+    "Chopper"
+  ],
+  "scene": "This scene belongs to the The Farewell Plan sequence. The important beat is the dialogue and action around Luffy, Vivi, Nami, Crocodile, Usopp.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "That son of a gun..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "He... protected the country..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "...Look."
+    },
+    {
+      "speaker": "Nami",
+      "text": "You've gotta be kiddin' me..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Wait! Stop it, all of you!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "SGT. MAJOR! watch out!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Rahhhh!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Who..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "This is madness..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Why...!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Why won't they stop...!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "...TING!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Representations, recommendations"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Please!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Stop fighting!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Please! Stop fighting!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Vivi..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Please stop fighting!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You dummy."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "What're you all just standing around for!?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "W-what was that for!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Come on them!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Please stop fighting!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "I have"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Please! Stop fighting!"
+    }
+  ],
+  "summary": "Vivi and the crew try to find a way to say goodbye without exposing their bond to the Navy or putting Alabasta in danger.",
+  "confidence": 0.89,
+  "needs_review": false
+}

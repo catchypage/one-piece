@@ -1,0 +1,109 @@
+{
+  "chapter": "320",
+  "part": 3,
+  "title": "The Admiral Tests the Straw Hats",
+  "description": "Aokiji’s connection to Nico Robin and Ohara turns the encounter into a threat aimed directly at the crew’s newest member.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Aokiji",
+    "Luffy",
+    "Nico Robin",
+    "Sanji",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Chopper",
+    "Tonjit"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this scene focuses on Aokiji, Luffy, Nico Robin, Sanji, Zoro. Aokiji’s connection to Nico Robin and Ohara turns the encounter into a threat aimed directly at the crew’s newest member.",
+  "dialogue": [
+    {
+      "speaker": "Aokiji",
+      "text": "\"Shoot\"!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Grab"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Grab"
+    },
+    {
+      "speaker": "Aokiji",
+      "text": "Burette!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "So cold!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Waah!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Guaah!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "PAKIKI.."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Oowaah!!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Pakiki Pakiki"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "gyaaaaah!! He froze them!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "GuaaaaAah!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "this.. This is bad!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "..You've got some good friends this time..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "But... you're still yourself, Nico Robin Nico."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You're WRONG.... I have..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Nico Robin!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Nico Robin! Get away from him!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I am..."
+    }
+  ],
+  "summary": "Aokiji’s connection to Nico Robin and Ohara turns the encounter into a threat aimed directly at the crew’s newest member.",
+  "confidence": 0.88,
+  "needs_review": false
+}

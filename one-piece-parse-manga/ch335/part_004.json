@@ -1,0 +1,158 @@
+{
+  "chapter": "335",
+  "part": 4,
+  "title": "The Captain’s Decision",
+  "description": "Luffy and Usopp fight over the ship, forcing the crew to watch friendship and authority collide.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Franky",
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Kalifa",
+    "Sanji",
+    "Chopper",
+    "Iceburg",
+    "Franky Family",
+    "Usopp"
+  ],
+  "scene": "Across pages 13, 14, 15, 16, this part follows Franky, Luffy, Nami, Zoro, Kalifa. Luffy and Usopp fight over the ship, forcing the crew to watch friendship and authority collide.",
+  "dialogue": [
+    {
+      "speaker": "Franky",
+      "text": "Franky -...!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The frankies' \"square sisters\" Kiwi & Mozu"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "UWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!! They've gone berser!!! Run away!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Come out, straw hat!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "...what the hell is with that weirdo?"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Did he just say Franky??"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Hey!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Luffy!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "sea- water panty guy!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm Luffy."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Every- one,"
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "KaliFA!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "You may now quietly enter the room."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Oh... that means..."
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "Iceburg- San has..."
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "regained conscious-ness."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Great!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Hey!! Iceburg- San"
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "Woke up!!!"
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "Yay!!!"
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "Really?!! wow!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Iceburgsan!!"
+    },
+    {
+      "speaker": "Franky Family",
+      "text": "...ah.... NMA..."
+    },
+    {
+      "speaker": "Franky Family",
+      "text": "I made you worry....."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Better rest well, now."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Chuchu"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Alright..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "By the way..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Last night..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "The guys who came into my room..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Oh... we're still looking into that."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "No... I remember- her,"
+    }
+  ],
+  "summary": "Luffy and Usopp fight over the ship, forcing the crew to watch friendship and authority collide.",
+  "confidence": 0.79,
+  "needs_review": false
+}

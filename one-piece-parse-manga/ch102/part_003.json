@@ -1,0 +1,102 @@
+{
+  "chapter": "102",
+  "part": 3,
+  "title": "Luffy Challenges Laboon",
+  "description": "On pages 9–12, luffy challenges laboon as the Straw Hats collide with Laboon, a gigantic whale guarding the entrance to the Grand Line, and Luffy is separated inside it.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Usopp",
+    "Luffy",
+    "Zoro",
+    "Sanji",
+    "Unknown person #1",
+    "Laboon"
+  ],
+  "scene": "Luffy Challenges Laboon. The Straw Hats collide with Laboon, a gigantic whale guarding the entrance to the Grand Line, and Luffy is separated inside it. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Usopp",
+      "text": "[Diot!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It saw us!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Come at me, you bastard!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Just shut the hell up already!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Daf!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Aghhh haha!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Aghh H!!!!!!!!!!!!!!!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Luffy!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Ahhh- huh- huh!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Aghh- Haha- HHH!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ahh! I'm gonna fall!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I ain't gonna die here!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Huff huff"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Huff..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What do I do now?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Everyone was swallowed up."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hey you!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Give me my friends back!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Cough 'em up!"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on luffy challenges laboon. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.73,
+  "needs_review": false
+}

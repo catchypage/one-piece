@@ -1,0 +1,130 @@
+{
+  "chapter": "386",
+  "part": 1,
+  "title": "Luffy Catches Blueno",
+  "description": "Luffy catches up to Blueno and begins a decisive clash that reveals how far he is willing to go to save Robin.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Enies Lobby guard",
+    "Luffy",
+    "Blueno",
+    "Spandam",
+    "Nico Robin",
+    "CP9 agent"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Enies Lobby guard, Luffy, Blueno, Spandam, Nico Robin. Luffy catches up to Blueno and begins a decisive clash that reveals how far he is willing to go to save Robin.",
+  "dialogue": [
+    {
+      "speaker": "Enies Lobby guard",
+      "text": "enies lobby, \"Tower of Justice\""
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Haa"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Haa"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Behold, Funkfreed!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Paco,"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "The \"Golden Den-den Mushi\"...!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "It's a precious species..."
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "And look now,"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Munch Munch."
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "SPX: So"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Director Spandam!!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "I almost pushed the button by mistake!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Hey!! It's disconnected!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Yes, sir!!"
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "Muhu HU..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Spanda...!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Wahahaha"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Hey... Nice Nico Robin."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Trampled your comrades..."
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "...you're scum...!!"
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "Quiet, you hoodLum!!"
+    },
+    {
+      "speaker": "Enies Lobby guard",
+      "text": "Ahh!! Is this the direct-tor?!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Calm down, you fool!!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Alright, listen up!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "About 60 PiRates have inVaded!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "The Courthouse front Plaza, has been invaded!!"
+    }
+  ],
+  "summary": "Luffy catches up to Blueno and begins a decisive clash that reveals how far he is willing to go to save Robin.",
+  "confidence": 0.81,
+  "needs_review": false
+}

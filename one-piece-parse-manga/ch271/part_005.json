@@ -1,0 +1,39 @@
+{
+  "chapter": "271",
+  "part": 5,
+  "title": "The Crew Regroups Under Disaster",
+  "description": "Luffy’s path to Enel is delayed inside the giant snake, while outside, Enel’s plan moves closer to completion.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Zoro",
+    "Luffy",
+    "Nola",
+    "Nami",
+    "Enel",
+    "Wyper",
+    "Gan Fall",
+    "Sanji",
+    "Usopp",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 17, this scene centers on Zoro, Luffy, Nola, Nami, Enel. Luffy’s path to Enel is delayed inside the giant snake, while outside, Enel’s plan moves closer to completion.",
+  "dialogue": [
+    {
+      "speaker": "Zoro",
+      "text": "\"One hundred and eight pound cannon\"!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "He cut through"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "My iron cloud!!!"
+    }
+  ],
+  "summary": "Luffy’s path to Enel is delayed inside the giant snake, while outside, Enel’s plan moves closer to completion.",
+  "confidence": 0.86,
+  "needs_review": false
+}

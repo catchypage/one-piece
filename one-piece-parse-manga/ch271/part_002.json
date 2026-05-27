@@ -1,0 +1,86 @@
+{
+  "chapter": "271",
+  "part": 2,
+  "title": "The Ruins Point Toward the Bell",
+  "description": "Luffy’s path to Enel is delayed inside the giant snake, while outside, Enel’s plan moves closer to completion.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Eneru",
+    "Nola",
+    "Enel",
+    "Nami",
+    "Aisa",
+    "Wyper",
+    "Gan Fall",
+    "Zoro",
+    "Sanji"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this scene centers on Luffy, Eneru, Nola, Enel, Nami. Luffy’s path to Enel is delayed inside the giant snake, while outside, Enel’s plan moves closer to completion.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Tsula LaLala Lala!!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Tsula LaLala LaLala LaLA!!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "HAA!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "\"Iron whip\"!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "There it goes again!!"
+    },
+    {
+      "speaker": "Nola",
+      "text": "It's impossible!!!"
+    },
+    {
+      "speaker": "Nola",
+      "text": "How can he know where I am...!!?"
+    },
+    {
+      "speaker": "Nola",
+      "text": "HAA... HAA...!!"
+    },
+    {
+      "speaker": "Nola",
+      "text": "you..."
+    },
+    {
+      "speaker": "Enel",
+      "text": "It's like he can see through walls!"
+    },
+    {
+      "speaker": "Enel",
+      "text": "It must be his sunglasses..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Meeeh ~!!!"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "DIE, INTRUDER FROM THE BLUE SEA!"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Piss off!!!"
+    }
+  ],
+  "summary": "Luffy’s path to Enel is delayed inside the giant snake, while outside, Enel’s plan moves closer to completion.",
+  "confidence": 0.85,
+  "needs_review": false
+}

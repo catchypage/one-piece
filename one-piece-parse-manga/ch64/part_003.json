@@ -1,0 +1,59 @@
+{
+  "chapter": "64",
+  "part": 3,
+  "title": "Luffy Breaks Through Krieg’s Arsenal — Part 3",
+  "pages": [
+    11,
+    12,
+    13
+  ],
+  "characters": [
+    "Luffy",
+    "Sanji",
+    "Don Krieg",
+    "Gin",
+    "Zeff",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "On pages 11–13, the Baratie conflict focuses on Luffy, Sanji, Don Krieg, Gin, Zeff. Luffy keeps pushing Don Krieg backward, proving that Krieg’s weapons cannot fully stop him.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Agh...!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "DIE!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Whew, close call..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "You little..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Maggot!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "HOP!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "SSS..."
+    }
+  ],
+  "summary": "This part keeps the Baratie battle centered on willpower, debt, hunger, and pride. The dialogue shows who still stands firm after Krieg’s violence and who is ready to break away from the restaurant’s old life.",
+  "confidence": 0.6,
+  "needs_review": true
+}

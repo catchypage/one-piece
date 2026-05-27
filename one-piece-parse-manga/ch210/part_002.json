@@ -1,0 +1,74 @@
+{
+  "chapter": "210",
+  "part": 2,
+  "title": "Vivi Faces Her Choice",
+  "description": "On pages 6, 9, 10, 11, this part focuses on the war finally ends. Alabasta’s people absorb the end of the fighting while the Straw Hats and their allies prepare for the painful separation ahead.",
+  "pages": [
+    6,
+    9,
+    10,
+    11
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji"
+  ],
+  "scene": "This scene belongs to the The War Finally Ends sequence. The important beat is the dialogue and action around Luffy, Vivi, Nami, Usopp, Zoro.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "There aren't any enemies left now..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Kouza!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Can you feel it...?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Don't doubt him, Kouza."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The rain will come."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "the war,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "is over."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Rain..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": ": the madness stopped..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hey!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Hey, you!"
+    }
+  ],
+  "summary": "Alabasta’s people absorb the end of the fighting while the Straw Hats and their allies prepare for the painful separation ahead.",
+  "confidence": 0.87,
+  "needs_review": false
+}

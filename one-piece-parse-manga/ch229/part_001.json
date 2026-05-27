@@ -1,0 +1,134 @@
+{
+  "chapter": "229",
+  "part": 1,
+  "title": "Cricket’s House on Jaya",
+  "description": "The crew searches Jaya’s forest for the South Bird, a strange creature needed to navigate toward the Knock Up Stream.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Mont Blanc Cricket",
+    "Masira",
+    "Shojo",
+    "Luffy",
+    "Bellamy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Zoro",
+    "Chopper"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this scene centers on Mont Blanc Cricket, Masira, Shojo, Luffy, Bellamy. The crew searches Jaya’s forest for the South Bird, a strange creature needed to navigate toward the Knock Up Stream.",
+  "dialogue": [
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Alright,"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "But it's all uncertain,"
+    },
+    {
+      "speaker": "Masira",
+      "text": "Ok, I believe you."
+    },
+    {
+      "speaker": "Masira",
+      "text": "Too fast, Luffy!"
+    },
+    {
+      "speaker": "Shojo",
+      "text": "1.22...."
+    },
+    {
+      "speaker": "Masira",
+      "text": "When day suddenly turns into night."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ahh! there is!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That's true for sure!"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Right!?"
+    },
+    {
+      "speaker": "Masira",
+      "text": "But let's leave that aside for now."
+    },
+    {
+      "speaker": "Masira",
+      "text": "In any case, the suddenly occurring \"night,\""
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "You mean a continuous?"
+    },
+    {
+      "speaker": "Masira",
+      "text": "222."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Just cloudy."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Just shut up and listen!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "\"Emperominibus.\""
+    },
+    {
+      "speaker": "Sanji",
+      "text": "And when those appear in the sky,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "They block even the sunlight out,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Changing day on land to night."
+    },
+    {
+      "speaker": "Masira",
+      "text": "You're free to believe it or not."
+    },
+    {
+      "speaker": "Nami",
+      "text": "So it's a \"mystery cloud,\" huh."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Luffy, you're amazing!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Zoro, wake up!"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Morning, already?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Thanks for telling us, mister!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I want to do that!?"
+    }
+  ],
+  "summary": "The crew searches Jaya’s forest for the South Bird, a strange creature needed to navigate toward the Knock Up Stream.",
+  "confidence": 0.87,
+  "needs_review": false
+}

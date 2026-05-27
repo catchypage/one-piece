@@ -1,0 +1,189 @@
+{
+  "chapter": "117",
+  "part": 3,
+  "title": "A Duel with a Hidden Wound",
+  "description": "On pages 11–13, a duel with a hidden wound as the battle between Dorry and Brogy is poisoned by interference, pushing Luffy and Usopp toward a furious confrontation.",
+  "pages": [
+    11,
+    12,
+    13
+  ],
+  "characters": [
+    "Brogy",
+    "Mr. 3",
+    "Dorry",
+    "Vivi",
+    "Usopp",
+    "Miss Goldenweek",
+    "Mr. 5",
+    "Miss All Sunday",
+    "Nami",
+    "Luffy"
+  ],
+  "scene": "A Duel with a Hidden Wound. The battle between Dorry and Brogy is poisoned by interference, pushing Luffy and Usopp toward a furious confrontation. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Brogy",
+      "text": "73,466 fights,"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "And 73, 466..."
+    },
+    {
+      "speaker": "Dorry",
+      "text": "...Draws."
+    },
+    {
+      "speaker": "Brogy",
+      "text": "thud!"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "Gaba Bababa! Hey, DORRY!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I got some rum from guests!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Excel- Lent! I haven't had rum for so long!"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "Pour me some, will ya!? Gegya Gyagya!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "GE GYA GYA GYA GYA GYA!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Ah! Could his guests be your crewmates?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "He said his two guests were a long-nosed man and a woman."
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "That must be USOPP and NAM!!"
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "What's with them? They made such a fuss about not leaving the ship, too!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Maybe those two really do like adventures!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Then I guess I should be thanking you two as well for these drinks!"
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "Sorry to change the topic,"
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "But earlier you said that it takes a year for the log to finish recording on this island."
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "Is that really true?"
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "Haven't you seen the skeletons of them little humans,"
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "lying on the ground around these parts?"
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "Most humans who come here end up dying before their log sets."
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "Some are eaten by the dinosaurs, others give in to heat or starvation."
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "And some even try to attack us..."
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "whatever the case, they all end up perishing on this island."
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "Seems that spending even a single year on this island's just too long for you little humans."
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "What do I do... even if I survive on this island for that long..."
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "who knows what would become of my country during that time..."
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "Yeah, spending a whole year here would get kinda boring."
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "Isn't there some other way, mister?"
+    },
+    {
+      "speaker": "Miss All Sunday",
+      "text": "Well, I do have one eternal pose."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "But that only points towards my home Elbaf."
+    },
+    {
+      "speaker": "Brogy",
+      "text": "In a way, you could say that Brogy and I are fighting over this eternal pose."
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "You want to try stealing it from us by force?"
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "Nah, that won't do."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "We're not trying to go to Elbaf,"
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "We just want to go on to the next island."
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "Right?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Yes... If we veer off our current course to Alabasta,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Then there's no meaning in sailing at all."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Yeah, see?"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on a duel with a hidden wound. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.78,
+  "needs_review": false
+}

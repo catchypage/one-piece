@@ -1,0 +1,183 @@
+{
+  "chapter": "74",
+  "part": 2,
+  "title": "Arlong’s Rule Tightens Around Nami",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Arlong",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Nojiko",
+    "Hatchan",
+    "Cocoyasi villagers"
+  ],
+  "scene": "On pages 5–8, the story moves through Arlong Park and Nami’s dangerous position among the fish-men. Cocoyasi Village and nearby towns show the cost of Arlong’s occupation.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "Yo!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Why's everyone all gathered here?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "NYU!? ARLONG, YOU'RE BACK!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Welcome back!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Whats this?"
+    },
+    {
+      "speaker": "Hatchan",
+      "text": "It's the work of that infamous pirate Hunter Zoro. Where were you, HACHi?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "If you were only here, this would've never happened."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Damn right! Like I would ever let the guy who offed my crewmates go scot-free!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Why that Zoro! I'll kill him!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "So you don't know anything about where Zoro could've gone to?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Nope, nothing!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "The only one I remember meeting was this rather suspicious lone swordsman."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Could it have been him!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "So you did meet him, you dumbass!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Where did he go!?"
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "I just gave him a ride to Cocoyashi Village..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "You gave him a ride!?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "B-But... It was only because I thought he was Arlong's guest,"
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "that I gave him a ride to the village so he could meet you."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "I never thought you'd come back here so soon."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Then that means there's no need for us to rush."
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "Because he's looking for me too...!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Zoro's looking for Arlong!? What's he planning? He shouldn't have any reason to fight Arlong!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "...if I let things get any more out of hand than this, then I'll really be-in-trouble!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "By the way, who's he?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "He's Zoro's companion."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Even though he's just a human, he thought he could take on us fishmen."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Grab..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Ughh!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Nami!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "you...!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "You wanna fight, is that it!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You're a nuisance..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "It's your own fault for going against Arlong..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "It's my fault that I let you guys follow me this far."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "But there are certain rules on this island that you're all ignorant of."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Everything was going without a hitch until you guys got here."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I can't let you ruin the business I've been running for the past 8 years."
+    }
+  ],
+  "summary": "This part builds the Arlong Park conflict by showing how Nami’s choices look contradictory from outside while Arlong’s power keeps the island trapped.",
+  "confidence": 0.76,
+  "needs_review": false
+}

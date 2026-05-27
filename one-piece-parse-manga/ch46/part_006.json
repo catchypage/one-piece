@@ -1,0 +1,59 @@
+{
+  "chapter": "46",
+  "part": 6,
+  "title": "Gin’s Gratitude Reveals Sanji’s Kindness",
+  "description": "On pages 18–18, Sanji feeds Gin despite the danger, revealing that his compassion for the hungry matters more to him than restaurant rules or pirate labels.",
+  "pages": [
+    18
+  ],
+  "characters": [
+    "Don Krieg",
+    "Unknown person #1",
+    "Sanji",
+    "Gin",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "Gin arrives broken and starving, while the Baratie cooks judge him as an enemy; Sanji alone treats hunger as something that must be answered.",
+  "dialogue": [
+    {
+      "speaker": "Don Krieg",
+      "text": "D-Don KrieG! This is different from what you promised!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I guided you here because you promised not to harm this restaurant!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Not only that, that man is our Saviour!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "gyaaaaa!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Ahh, that was a great meal. I feel like I'm back to my normal self again..."
+    },
+    {
+      "speaker": "Gin",
+      "text": "Gin!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "So he reveals his fangs at last..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Nice restaurant you've got here."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I'll take it."
+    }
+  ],
+  "summary": "This part reveals the core of Sanji’s morality: no matter who a person is, he cannot ignore someone starving in front of him.",
+  "confidence": 0.74,
+  "needs_review": false
+}

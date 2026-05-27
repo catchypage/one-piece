@@ -1,0 +1,171 @@
+{
+  "chapter": "388",
+  "part": 3,
+  "title": "Blueno Falls",
+  "description": "Luffy overwhelms Blueno and proves the crew can challenge CP9 directly, clearing the way toward Robin.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Blueno",
+    "Nico Robin",
+    "Enies Lobby guard",
+    "Spandam",
+    "Franky",
+    "CP9 agent"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this part follows Luffy, Blueno, Nico Robin, Enies Lobby guard, Spandam. Luffy overwhelms Blueno and proves the crew can challenge CP9 directly, clearing the way toward Robin.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "... you really are tough..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "GNN..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Watch this..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gear..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Sway"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HAA...!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm dead tired..."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "... Oh well, I don't care...."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "about my body for now."
+    },
+    {
+      "speaker": "Enies Lobby guard",
+      "text": "enies lobby, main island"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Tower of Justice"
+    },
+    {
+      "speaker": "Enies Lobby guard",
+      "text": "main gate"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "fire!! Fire the cannon!!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "We'll be crushed!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Shit, what's going on!!?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "It's no use!! I won't stop!!!"
+    },
+    {
+      "speaker": "Enies Lobby guard",
+      "text": "PUNY GUARDS!!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Me, too--!!! You won't stop me!!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "00- WAA AAH!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I really can't believe this!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "These troublesome gatekeepers are now our friends!?"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Gaha haha Ha!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "It's called a Warrior's Fate!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Yo, Bros!! Courthouse is right there!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "charge!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "\"CourtHouse\" front Plaza"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "What're you doing? Get inside already!!!!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "The Pirates are in the courthouse!!!!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "And we can't enter!!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "A frog!?"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Gero Gero"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Gero —!!!"
+    },
+    {
+      "speaker": "Unknown person #15",
+      "text": "courthouse, right tower"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "Gakin!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Woo ooo"
+    }
+  ],
+  "summary": "Luffy overwhelms Blueno and proves the crew can challenge CP9 directly, clearing the way toward Robin.",
+  "confidence": 0.71,
+  "needs_review": true
+}

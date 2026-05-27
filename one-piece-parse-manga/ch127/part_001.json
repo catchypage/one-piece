@@ -1,0 +1,64 @@
+{
+  "chapter": "127",
+  "part": 1,
+  "title": "The Aftermath on Little Garden",
+  "description": "On pages 0–8, the aftermath on little garden as the battle on Little Garden closes with the giants’ pride restored and the Straw Hats preparing to leave the ancient island.",
+  "pages": [
+    0,
+    1,
+    7,
+    8
+  ],
+  "characters": [
+    "Nami",
+    "Unknown person #1",
+    "Marine",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6"
+  ],
+  "scene": "The Aftermath on Little Garden. The battle on Little Garden closes with the giants’ pride restored and the Straw Hats preparing to leave the ancient island. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "Hhhhhh ohhhh"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Even his crying is ear-splittingly energetic...!"
+    },
+    {
+      "speaker": "Marine",
+      "text": "It's like looking at a waterfall!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Hey, look! You can see a Rainbow Behind him!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Quick!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "My ears..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I understand completely, master bogy!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Uohhh how"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Ohhh ohhh"
+    }
+  ],
+  "summary": "This part centers on the aftermath on little garden, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.59,
+  "needs_review": true
+}

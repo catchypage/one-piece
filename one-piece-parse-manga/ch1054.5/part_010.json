@@ -1,0 +1,71 @@
+{
+  "chapter": "1054.5",
+  "part": 10,
+  "title": "Wano Celebrates Liberation",
+  "description": "On pages 29–31, this part focuses on Unknown person #28, Unknown person #29, Unknown person #30, Kid as Wano celebrates liberation while Momonosuke becomes shogun, Green Bull threatens the island, and the alliance prepares to depart.",
+  "pages": [
+    29,
+    30,
+    31
+  ],
+  "characters": [
+    "Unknown person #28",
+    "Unknown person #29",
+    "Unknown person #30",
+    "Kid"
+  ],
+  "scene": "Wano celebrates liberation while Momonosuke becomes shogun, Green Bull threatens the island, and the alliance prepares to depart.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #28",
+      "text": "Take this out to the table."
+    },
+    {
+      "speaker": "Unknown person #28",
+      "text": "Don't leave the cus- tower waiting."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "You're kidding me! Just a Whitiff of Ts AROMA..."
+    },
+    {
+      "speaker": "Unknown person #29",
+      "text": "...was nearly enough to carry me away!"
+    },
+    {
+      "speaker": "Unknown person #29",
+      "text": "Your entree, madames."
+    },
+    {
+      "speaker": "Unknown person #29",
+      "text": "Oh, wow! It looks delicious!"
+    },
+    {
+      "speaker": "Unknown person #29",
+      "text": "Ooh, what a lovely red color."
+    },
+    {
+      "speaker": "Unknown person #30",
+      "text": "It's sooo! Good!"
+    },
+    {
+      "speaker": "Unknown person #30",
+      "text": "Deliciously, Gamy mutton savoriness..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "\"...Undercored by decadently ripe(strawberries; with notes of a fruity wine!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "EACH CUTHAS A DIFFERENT EXTURE TOO, MAKING EVERY BITE A NEW JOY TO EXPLORE!"
+    },
+    {
+      "speaker": "Unknown person #30",
+      "text": "Shriiiip"
+    }
+  ],
+  "summary": "This part advances the Wano Aftermath through 12 cleaned dialogue beats, focusing on character decisions, battlefield momentum, and the story’s larger consequences.",
+  "confidence": 0.71,
+  "needs_review": true
+}

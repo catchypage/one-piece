@@ -1,0 +1,100 @@
+{
+  "chapter": "51",
+  "part": 1,
+  "title": "Zoro Faces the World’s Strongest Swordsman",
+  "description": "On pages 1–4, Zoro confronts Dracule Mihawk, forcing his dream of becoming the world’s greatest swordsman into a brutal and public test.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Zoro",
+    "Mihawk",
+    "Johnny",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5"
+  ],
+  "scene": "The Baratie battle pauses around a duel that dwarfs the immediate conflict: Zoro faces the gap between ambition and the world’s strongest swordsman.",
+  "dialogue": [
+    {
+      "speaker": "Zoro",
+      "text": "To be honest,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I never thought I'd be able to meet you so early on..."
+    },
+    {
+      "speaker": "Mihawk",
+      "text": "A waste, if you ask me."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "The world's strongest swordsman,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "versus the pirate Hunter Zoro...!"
+    },
+    {
+      "speaker": "Johnny",
+      "text": "There's not a chance someone can match our bro!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "that man... just what did he do to this ship...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Just what're you planning to do with that?"
+    },
+    {
+      "speaker": "Mihawk",
+      "text": "I'm different from those stupid brutes who'd go all out just to hunt a mere rabbit."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Though you may be a swordsman of some renown,"
+    },
+    {
+      "speaker": "Mihawk",
+      "text": "This is east blue, the weakest of the four seas,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "that are separated by red line and grand line."
+    },
+    {
+      "speaker": "Mihawk",
+      "text": "Unfortunately, I do not have a blade smaller than this at the moment."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "There's a limit,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "To just how much you can underestimate me...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You better not regret it when you die!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "hear me, little frog in his well."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It's time for you to realize that the world is bigger than what it seems from your well."
+    }
+  ],
+  "summary": "This part is a defining moment for Zoro, showing that his dream is real enough to risk death and that his loyalty to Luffy survives defeat.",
+  "confidence": 0.74,
+  "needs_review": false
+}

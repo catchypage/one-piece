@@ -1,0 +1,119 @@
+{
+  "chapter": "387",
+  "part": 1,
+  "title": "Luffy Catches Blueno",
+  "description": "Luffy unveils Gear Second against Blueno, changing the scale of the fight and showing CP9 that the Straw Hats have evolved.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Franky",
+    "Blueno",
+    "Spandam",
+    "Nico Robin",
+    "CP9 agent",
+    "Enies Lobby guard"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Luffy, Franky, Blueno, Spandam, Nico Robin. Luffy unveils Gear Second against Blueno, changing the scale of the fight and showing CP9 that the Straw Hats have evolved.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "BasketVille!!! Presiding Judge, BasketVille!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Answer the call, it's me!!!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Inside the courtHouse"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Oooh!! Director Spandam!!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "What the heck is that!!?"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "The situaTion!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "hmmm, the situation....!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "The situation is..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "The worst has occurred."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "What _____!!?"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "GuHeh!!"
+    },
+    {
+      "speaker": "CP9 agent",
+      "text": "00- GAH!!!"
+    },
+    {
+      "speaker": "Enies Lobby guard",
+      "text": "and pirates are pouring in!!"
+    },
+    {
+      "speaker": "Enies Lobby guard",
+      "text": "I can see that, you idiot!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "What the heck is that...?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What is that thing....!?"
+    },
+    {
+      "speaker": "Enies Lobby guard",
+      "text": "Silence!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Gero!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Gotcha!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "To Crim are as follows:"
+    },
+    {
+      "speaker": "Enies Lobby guard",
+      "text": "First!! Stepping into Enies lobby,"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "A property of the world govern-ment, is--"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "We can go upstairs using those."
+    }
+  ],
+  "summary": "Luffy unveils Gear Second against Blueno, changing the scale of the fight and showing CP9 that the Straw Hats have evolved.",
+  "confidence": 0.77,
+  "needs_review": false
+}

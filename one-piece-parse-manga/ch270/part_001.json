@@ -1,0 +1,94 @@
+{
+  "chapter": "270",
+  "part": 1,
+  "title": "Nami Faces Enel",
+  "description": "Nami is pulled into Enel’s escape plan while the remaining fighters try to understand how to stop the coming disaster.",
+  "pages": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Enel",
+    "Nami",
+    "Sanji",
+    "Eneru",
+    "Usopp",
+    "Gan Fall",
+    "Wyper",
+    "Luffy",
+    "Zoro",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 0, 1, 2, 3, this scene centers on Enel, Nami, Sanji, Eneru, Usopp. Nami is pulled into Enel’s escape plan while the remaining fighters try to understand how to stop the coming disaster.",
+  "dialogue": [
+    {
+      "speaker": "Enel",
+      "text": "\"Serenade\""
+    },
+    {
+      "speaker": "Nami",
+      "text": "Meeh >!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Meeh >!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "DIE, ohm!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "That makes ten fighters and two animals."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Meeeh"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Ack...!!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "It's time for the apotheosis."
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Let's do that move, holy!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "WOOF!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "WOOF!!!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "ARGH!!!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Now, *Dash*!!!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "WOOF!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Aaf!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "AAF!"
+    }
+  ],
+  "summary": "Nami is pulled into Enel’s escape plan while the remaining fighters try to understand how to stop the coming disaster.",
+  "confidence": 0.85,
+  "needs_review": false
+}

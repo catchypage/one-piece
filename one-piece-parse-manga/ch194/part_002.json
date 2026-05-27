@@ -1,0 +1,72 @@
+{
+  "chapter": "194",
+  "part": 2,
+  "title": "Vivi Searches for the Shooter",
+  "description": "On pages 6–9, this part focuses on vivi searches for the shooter, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "characters": [
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Chopper",
+    "Sanji",
+    "Zoro",
+    "Pell",
+    "Chaka"
+  ],
+  "scene": "Vivi Searches for the Shooter. Vivi and the others hunt for the hidden cannon before the final explosion can destroy both armies. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "Spin!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Flip!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Whoa!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "CLAMP!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Oni-"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "GIR!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "(demom slash)"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Tora-"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Garr!!"
+    },
+    {
+      "speaker": "Pell",
+      "text": "(tiger hunt)"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "Land"
+    }
+  ],
+  "summary": "This part develops vivi searches for the shooter and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.77,
+  "needs_review": false
+}

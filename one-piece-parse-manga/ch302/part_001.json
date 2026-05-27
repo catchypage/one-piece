@@ -1,0 +1,126 @@
+{
+  "chapter": "302",
+  "part": 1,
+  "title": "Treasure After the Bell",
+  "description": "The Straw Hats leave Skypiea behind, carrying treasure, memories, and the sound of the golden bell back toward the Blue Sea.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Conis",
+    "Pagaya",
+    "Gan Fall"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this scene focuses on Luffy, Nami, Zoro, Usopp, Sanji. The Straw Hats leave Skypiea behind, carrying treasure, memories, and the sound of the golden bell back toward the Blue Sea.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "What...? They ran off from the island?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "How can this be..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Pierre"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "How unfair of you, Aisa..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Everyone's in a big fuss,"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "That their savours ran out on them..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Fufufu!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "I want to become like him too!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "And have my body stretch reeeeeaaaally long!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Pretty?"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Who, me?"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Yes, because... Kids like you,"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "No longer need to bear arms..."
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Hee hee!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Hey, stop moving, Lisa..."
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Great Warrior Kalgara..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Your wish, too,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Has likely reached your dear friend..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "The war is over..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "But we will not lose our pride!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "That's why we swear..."
+    },
+    {
+      "speaker": "Unknown person #15",
+      "text": "To never let the flame of Shandora,"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "Extinguish,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Ever again,"
+    }
+  ],
+  "summary": "The Straw Hats leave Skypiea behind, carrying treasure, memories, and the sound of the golden bell back toward the Blue Sea.",
+  "confidence": 0.71,
+  "needs_review": true
+}

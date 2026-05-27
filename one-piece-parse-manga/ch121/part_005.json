@@ -1,0 +1,58 @@
+{
+  "chapter": "121",
+  "part": 5,
+  "title": "The Fight Turns Toward Mr. 3",
+  "description": "On pages 18–19, the fight turns toward mr. 3 as luffy and Usopp push back against Baroque Works on Little Garden while Mr. 3’s wax execution threatens the crew and the giants.",
+  "pages": [
+    18,
+    19
+  ],
+  "characters": [
+    "Vivi",
+    "Usopp",
+    "Mr. 3",
+    "Luffy"
+  ],
+  "scene": "The Fight Turns Toward Mr. 3. Luffy and Usopp push back against Baroque Works on Little Garden while Mr. 3’s wax execution threatens the crew and the giants. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "USOPP..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Can you forgive them?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Absolutely... not...!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "...?...? are you... annoyed too...!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Quick!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "good...! Then it's time for the three of us to go!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "to go and crush them...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "This guy"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "This scene"
+    }
+  ],
+  "summary": "This part centers on the fight turns toward mr. 3, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

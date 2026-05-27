@@ -1,0 +1,90 @@
+{
+  "chapter": "180",
+  "part": 1,
+  "title": "Luffy Refuses to Stay Down",
+  "description": "On pages 1–4, this part focuses on luffy refuses to stay down, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Crocodile",
+    "Koza",
+    "Luffy",
+    "King Cobra",
+    "Chaka",
+    "Pell"
+  ],
+  "scene": "Luffy Refuses to Stay Down. Luffy survives his first loss to Crocodile and begins the long road back into the fight for Alabasta. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "You and I are pirates in completely different leagues..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Yuba will die."
+    },
+    {
+      "speaker": "Koza",
+      "text": "Zil..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Drip drip"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "th... thanks..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "...Why?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Tell me..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Those of you who carry the name of \"D\"..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Why do you fight?"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "HACK!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "just who on earth..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Are you, people!?"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "...Perhaps it was a pointless question to ask."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Flick!"
+    },
+    {
+      "speaker": "Pell",
+      "text": "Catch"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "I've found you."
+    }
+  ],
+  "summary": "This part develops luffy refuses to stay down and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.83,
+  "needs_review": false
+}

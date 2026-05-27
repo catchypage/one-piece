@@ -1,0 +1,88 @@
+{
+  "chapter": "215",
+  "part": 5,
+  "title": "The Log Points Forward",
+  "description": "On pages 16, 17, 18, 19, this part focuses on a new crewmate and a new mystery. Robin settles into the ship while the crew argues, adapts, and begins moving toward the strange next stage of the Grand Line.",
+  "pages": [
+    16,
+    17,
+    18,
+    19
+  ],
+  "characters": [
+    "Nico Robin",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Zoro",
+    "Vivi"
+  ],
+  "scene": "This scene belongs to the A New Crewmate and a New Mystery sequence. The important beat is the dialogue and action around Nico Robin, Luffy, Nami, Usopp, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Nico Robin",
+      "text": "Ms. Hina!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The sheep- ship is heading east!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Gahaha Hahaha Hahaha!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "You fell for my trap..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "We're masters of disguise..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "And..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The friends of straw hat!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "come at me,"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "If you dare."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Hina highlighted."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Bon- cham!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Bon- Chan!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "We will never, ever,"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Forget about you!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Let's go, Usopp Gallery Pirates!"
+    }
+  ],
+  "summary": "Robin settles into the ship while the crew argues, adapts, and begins moving toward the strange next stage of the Grand Line.",
+  "confidence": 0.86,
+  "needs_review": false
+}

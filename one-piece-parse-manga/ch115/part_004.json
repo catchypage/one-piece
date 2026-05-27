@@ -1,0 +1,178 @@
+{
+  "chapter": "115",
+  "part": 4,
+  "title": "The Volcano Signal",
+  "description": "On pages 12–15, the volcano signal as usopp is inspired by the giants’ courage, while the crew’s separate groups are pulled deeper into Little Garden’s hazards.",
+  "pages": [
+    12,
+    13,
+    14,
+    15
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Dorry",
+    "Miss Valentine",
+    "Brogy",
+    "Vivi",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Nami"
+  ],
+  "scene": "The Volcano Signal. Usopp is inspired by the giants’ courage, while the crew’s separate groups are pulled deeper into Little Garden’s hazards. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "We're running out of food onboard so if you see any animals that look to be edible, can you hunt it down and bring it back?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Sure thing."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'll go hunt for some animals that you'd never be able to kill yourself."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Wait right there!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "Did I hear you wrong,"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "Or did you just imply that you could hunt a bigger game than I can...?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Isn't that obvious?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That's it! I chall- enge you at hunting!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Why does everyone on this ship have to be like that..."
+    },
+    {
+      "speaker": "Miss Valentine",
+      "text": "Whoever brings back the most kilograms of meat will be the winner!"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "Fine by me,"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "though in my case, it'll be tonnes of meat."
+    },
+    {
+      "speaker": "Brogy",
+      "text": "I know exactly how you feel, Nami. Don't cry, at least I'm by your side..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Why can't you be a little more dependable?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "That's my line!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Wait a second..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I feel like I've read this in a book before..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm sure I've heard of it..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "heard of what?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "of little garden."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hey, check this out!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "There's a claim that looks like a squad!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "A claim- Squad!"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "This looks like..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "An Ammonite if you ask me..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "A claim- squad, right?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "not this."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Not that."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Where'd I put it..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Shoot, I can't remember!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I know I read it pretty recently..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Why's there a sea king on land?"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "It's a Dino- Saur!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "A Dino- Saur!?"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on the volcano signal. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.7,
+  "needs_review": false
+}

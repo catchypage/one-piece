@@ -1,0 +1,62 @@
+{
+  "chapter": "264",
+  "part": 5,
+  "title": "Zoro Cuts Through the War",
+  "description": "Robin follows the historical trail through Upper Yard while the war around her threatens to bury the island’s forgotten truth.",
+  "pages": [
+    17,
+    18,
+    19,
+    20
+  ],
+  "characters": [
+    "Narrator",
+    "Luffy",
+    "Enel",
+    "Zoro",
+    "Wyper",
+    "Nico Robin",
+    "Chopper",
+    "Gan Fall",
+    "Shandia warriors",
+    "Nami"
+  ],
+  "scene": "Across pages 17, 18, 19, 20, this scene centers on Narrator, Luffy, Enel, Zoro, Wyper. Robin follows the historical trail through Upper Yard while the war around her threatens to bury the island’s forgotten truth.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "Two hours have passed since the start..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Of the survivor game of Upper Yard."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Fifty six contestants fallen."
+    },
+    {
+      "speaker": "Enel",
+      "text": "Thirteen members of \"God's militia\" remaining..."
+    },
+    {
+      "speaker": "Enel",
+      "text": "Seven Standards remaining..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Five Strawhats remaining..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Twenty-five active participants."
+    },
+    {
+      "speaker": "Wyper",
+      "text": "X100"
+    }
+  ],
+  "summary": "Robin follows the historical trail through Upper Yard while the war around her threatens to bury the island’s forgotten truth.",
+  "confidence": 0.85,
+  "needs_review": false
+}

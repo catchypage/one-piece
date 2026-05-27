@@ -1,0 +1,40 @@
+{
+  "chapter": "6",
+  "part": 6,
+  "title": "Zoro Takes Up His Swords",
+  "description": "On pages 21–22, this part turns Zoro’s imprisonment into open action as Luffy forces the fight against Morgan’s Marines.",
+  "pages": [
+    21,
+    22
+  ],
+  "characters": [
+    "Zoro",
+    "Unknown person #1"
+  ],
+  "scene": "In Shells Town, Luffy, Coby, and Zoro are drawn into the cruelty of Morgan’s rule and Helmeppo’s privilege.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "OOF!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Nice..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "..Zolo!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "No sweat..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "...CAPTAIN!"
+    }
+  ],
+  "summary": "The Shells Town conflict uses Zoro’s imprisonment and Morgan’s rule to test what kind of people Luffy chooses to trust. The section moves Zoro closer to becoming Luffy’s first crewmate.",
+  "confidence": 0.62,
+  "needs_review": true
+}

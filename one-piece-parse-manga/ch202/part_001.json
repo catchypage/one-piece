@@ -1,0 +1,82 @@
+{
+  "chapter": "202",
+  "part": 1,
+  "title": "Crocodile Is Driven Back",
+  "description": "On pages 1, 2, 3, 4, this part focuses on the royal tomb and the poneglyph. Robin and Crocodile reach Alabasta’s hidden history while Luffy pushes back into the fight, refusing to let the Warlord bury Vivi’s country.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Crocodile",
+    "Nico Robin",
+    "King Cobra",
+    "Luffy",
+    "Vivi",
+    "Pell"
+  ],
+  "scene": "This scene belongs to the The Royal Tomb and the Poneglyph sequence. The important beat is the dialogue and action around Crocodile, Nico Robin, King Cobra, Luffy, Vivi.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "And in just 6 minutes,"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Rest easy down here,"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "And celebrate..."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Sorry,"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "But I'm in a hurry..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "...Now then, I should get going too."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Dodge!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Grin..."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "You missed..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Dammit!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "He's gone..."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "But I saw him flying that way!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "turn!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "I'm not gonna let him get away!"
+    }
+  ],
+  "summary": "Robin and Crocodile reach Alabasta’s hidden history while Luffy pushes back into the fight, refusing to let the Warlord bury Vivi’s country.",
+  "confidence": 0.89,
+  "needs_review": false
+}

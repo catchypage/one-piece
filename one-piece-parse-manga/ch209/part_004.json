@@ -1,0 +1,45 @@
+{
+  "chapter": "209",
+  "part": 4,
+  "title": "The Farewell Speech",
+  "description": "On pages 15, 16, 17, this part focuses on the farewell plan. Vivi and the crew try to find a way to say goodbye without exposing their bond to the Navy or putting Alabasta in danger.",
+  "pages": [
+    15,
+    16,
+    17
+  ],
+  "characters": [
+    "Crocodile",
+    "Vivi",
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Usopp"
+  ],
+  "scene": "This scene belongs to the The Farewell Plan sequence. The important beat is the dialogue and action around Crocodile, Vivi, Luffy, Nami, Zoro.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "AAAAAAHAAAHAAAHAAAHA AAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "margchini"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Enter"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "← Enter"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Puzzle 2"
+    }
+  ],
+  "summary": "Vivi and the crew try to find a way to say goodbye without exposing their bond to the Navy or putting Alabasta in danger.",
+  "confidence": 0.89,
+  "needs_review": false
+}

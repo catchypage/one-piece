@@ -1,0 +1,149 @@
+{
+  "chapter": "105",
+  "part": 3,
+  "title": "The Road to the Final Island",
+  "description": "On pages 8–11, the road to the final island as luffy turns Laboon’s grief into a promise of a future rematch, and the crew receives the Log Pose needed for the Grand Line.",
+  "pages": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "characters": [
+    "Luffy",
+    "Crocus",
+    "Usopp",
+    "Sanji",
+    "Nami",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Vivi",
+    "Laboon",
+    "Miss Wednesday"
+  ],
+  "scene": "The Road to the Final Island. Luffy turns Laboon’s grief into a promise of a future rematch, and the crew receives the Log Pose needed for the Grand Line. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Then does that mean..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "One piece is on that island!?"
+    },
+    {
+      "speaker": "Crocus",
+      "text": "who knows."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Although that is the most likely theory, nobody has ever reached there to confirm it."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "enough thinking."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "We can see for ourselves once we're there!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Ahhh... should we get going now?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I'm finished eating and all."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Did you just eat everything all by yourself!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Aghhh! Even the bones are gone!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Alright, log pose... I'll make sure to take good care of you. The fate of our journey is all up to you, after all."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Why you rubber crap head! that food was... was..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "For Nami to Enjoy!"
+    },
+    {
+      "speaker": "Crocus",
+      "text": "Agh!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "You two can just go cool your heads down in the sea!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Aghh!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "BUGAH!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ahhh! Wasn't that compass, like, super-duper important!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What do we do, CroCus!? Our precious log pose is....!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "don't worry. I'll give you one as a sign of thanks for the matter with Laboon."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Well? Can you see them, Mr.9?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "...I can't really make out what exactly happened just now but..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I think that woman has our log pose."
+    },
+    {
+      "speaker": "Nami",
+      "text": "How could you have been so careless to accidentally drop our precious log pose!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I sincerely apologize for my EHR, Miss Wednesday. I know well that we can't return back to our town without it."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "We're already long overdue in our mission to catch the whale."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "If we don't hurry back and report to the boss, we'll be in some serious trouble."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We've lost our weapons but we have no choice but to take it back by force. We can't just stand around waiting for the perfect chance any longer."
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on the road to the final island. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.7,
+  "needs_review": true
+}

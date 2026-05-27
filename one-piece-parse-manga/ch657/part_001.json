@@ -1,0 +1,63 @@
+{
+  "chapter": "657",
+  "part": 1,
+  "title": "A Dragon Falls",
+  "description": "On pages 4–7, this part follows Unknown person #1, Unknown person #2, Brownbeard, Unknown person #3, Unknown person #4, Luffy, Zoro. The central beat is a dragon falls.",
+  "pages": [
+    4,
+    6,
+    7
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Brownbeard",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Luffy",
+    "Zoro",
+    "Robin",
+    "Usopp",
+    "Kinemon",
+    "Punk Hazard Guards",
+    "Straw Hats"
+  ],
+  "scene": "The scene focuses on a dragon falls, with Unknown person #1, Unknown person #2, Brownbeard, Unknown person #3, Unknown person #4, Luffy, Zoro shaping the conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Two ships,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "The Isle of Punk Hazard"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Hey, you guys!! Look!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "He stuck on to me!!"
+    },
+    {
+      "speaker": "Brownbeard",
+      "text": "You mean... A centaur?"
+    },
+    {
+      "speaker": "Brownbeard",
+      "text": "Yeah!! I'm a centaur !!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Waha Hahahia Hah!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I have Dragon Power now!!"
+    }
+  ],
+  "summary": "A Dragon Falls. This part moves the Straw Hats from Fish-Man Island into the New World and begins the mystery of Punk Hazard.",
+  "confidence": 0.76,
+  "needs_review": true
+}

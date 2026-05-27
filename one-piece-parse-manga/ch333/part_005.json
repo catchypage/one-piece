@@ -1,0 +1,71 @@
+{
+  "chapter": "333",
+  "part": 5,
+  "title": "Usopp Challenges Luffy",
+  "description": "The argument over the Merry becomes a painful split between captain and crewmate, cutting deeper than any normal fight.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Usopp",
+    "Chopper",
+    "Franky",
+    "Franky Family",
+    "Going Merry"
+  ],
+  "scene": "Across pages 17, 18, this part follows Luffy, Nami, Zoro, Sanji, Usopp. The argument over the Merry becomes a painful split between captain and crewmate, cutting deeper than any normal fight.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "That's"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What a Captain is.......!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Don't hesitate"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm not sure if this is a"
+    },
+    {
+      "speaker": "Nami",
+      "text": "If you can't be decisive"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Who can we believe in?!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "PYON!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Let's clear the ship"
+    },
+    {
+      "speaker": "Nami",
+      "text": "We can't..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "return to this ship"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Ever again"
+    }
+  ],
+  "summary": "The argument over the Merry becomes a painful split between captain and crewmate, cutting deeper than any normal fight.",
+  "confidence": 0.83,
+  "needs_review": false
+}

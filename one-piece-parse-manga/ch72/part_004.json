@@ -1,0 +1,150 @@
+{
+  "chapter": "72",
+  "part": 4,
+  "title": "Arlong’s Rule Tightens Around Nami",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Arlong",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Genzo"
+  ],
+  "scene": "On pages 13–16, the story moves through Arlong Park and Nami’s dangerous position among the fish-men. Nami’s role with Arlong becomes harder to understand as loyalty, fear, and survival overlap.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "If we die here, everything will come to an end!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "You must keep on fighting even if I die!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Let me show you what happens to those who harbour ill thoughts..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Watch closely, humans!"
+    },
+    {
+      "speaker": "Genzo",
+      "text": "Gen!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Let this be,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "A warning to the rest of you!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Gun- Powder Star!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Ugh!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "W-What was that!?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Arlong!?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "...look! Over there!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "There's someone standing on the roof!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Identify yourself!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I am the brave and heroic warrior of the seas!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I was writing"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Captain USOP!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "...Huh? USOP...?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "never heard of'im..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "It's him...!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Who is that...!?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "feared by the entire world as the man from hell, they call me \"usopp the wicked devil king!\""
+    },
+    {
+      "speaker": "Arlong",
+      "text": "I have 8000 subordin- Ates at my command! Flee at once and I shall consider forgiving you!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Arlong, it's him! He's that guy I told you about earlier who escaped from me!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "I don't care if you've got tens of thousands of followers..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Just try me! I'll crush every single last one of 'em!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Aghhh! He's not scared at all and my gunpowder star didn't work at all!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Even though you're just a puny human...!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Lowly human scum!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "You dare attack me!?"
+    }
+  ],
+  "summary": "This part builds the Arlong Park conflict by showing how Nami’s choices look contradictory from outside while Arlong’s power keeps the island trapped.",
+  "confidence": 0.73,
+  "needs_review": false
+}

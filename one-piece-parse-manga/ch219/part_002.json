@@ -1,0 +1,108 @@
+{
+  "chapter": "219",
+  "part": 2,
+  "title": "The Salvage Monkeys Arrive",
+  "description": "On pages 5, 6, 7, 8, this part focuses on toward the knock up stream. The search for sky island becomes more concrete as the crew learns about unusual currents, salvage rivals, and the legends around Jaya.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Zoro",
+    "Chopper",
+    "Mont Blanc Cricket",
+    "Nico Robin"
+  ],
+  "scene": "This scene belongs to the Toward the Knock Up Stream sequence. The important beat is the dialogue and action around Luffy, Nami, Usopp, Sanji, Zoro.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "He was in his early 30s,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It must have been coated with tar."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Right... But the ship is already sinki-"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Luffy, hang in there!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "bffft pfft mini!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What the hell are you two doing!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Guys! Guys!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I did it!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I found something super-duper amazing!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Check this out!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "A map of a..."
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Sky Island!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Skypica..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Well!?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Woohoo! USOP!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Chopper!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "There's really a sky island!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "An island of dreams!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Ah... S-sorry-"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Nami... Please treat the ship with care."
+    }
+  ],
+  "summary": "The search for sky island becomes more concrete as the crew learns about unusual currents, salvage rivals, and the legends around Jaya.",
+  "confidence": 0.86,
+  "needs_review": false
+}

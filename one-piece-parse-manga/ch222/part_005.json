@@ -1,0 +1,45 @@
+{
+  "chapter": "222",
+  "part": 5,
+  "title": "Blackbeard Speaks of Dreams",
+  "description": "Mock Town shows the crew a different kind of pirate: Bellamy and his men mock dreams while Nami searches for information about Sky Island.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Nami",
+    "Luffy",
+    "Zoro",
+    "Bellamy",
+    "Sarquiss",
+    "Mock Town pirates",
+    "Blackbeard"
+  ],
+  "scene": "Across pages 17, 18, this scene centers on Nami, Luffy, Zoro, Bellamy, Sarquiss. Mock Town shows the crew a different kind of pirate: Bellamy and his men mock dreams while Nami searches for information about Sky Island.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "Flick..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Later, loser."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hahahahah!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Lotta people here,"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Seems like a pretty fun town,"
+    }
+  ],
+  "summary": "Mock Town shows the crew a different kind of pirate: Bellamy and his men mock dreams while Nami searches for information about Sky Island.",
+  "confidence": 0.73,
+  "needs_review": true
+}

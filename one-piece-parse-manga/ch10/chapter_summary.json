@@ -1,0 +1,24 @@
+{
+  "chapter": "10",
+  "title": "Buggy’s Cannon Threatens Orange Town",
+  "main_description": "Buggy’s occupation becomes more destructive as the cannon and his crew put Orange Town in danger. Luffy’s stubbornness and Nami’s conflicted position drive the chapter toward open resistance.",
+  "main_characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Buggy",
+    "Mayor Boodle",
+    "Chouchou"
+  ],
+  "key_events": [
+    "Buggy’s crew shows the destructive power of its cannon.",
+    "Nami is forced deeper into the conflict.",
+    "Luffy resists Buggy despite being trapped.",
+    "Orange Town’s civilians become part of the stakes."
+  ],
+  "confidence": 0.68,
+  "needs_review": true,
+  "review_reasons": [
+    "Some dialogue-heavy parts still contain many unresolved speakers."
+  ]
+}

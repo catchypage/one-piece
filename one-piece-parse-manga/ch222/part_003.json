@@ -1,0 +1,116 @@
+{
+  "chapter": "222",
+  "part": 3,
+  "title": "Nami Looks for Sky Island Clues",
+  "description": "Mock Town shows the crew a different kind of pirate: Bellamy and his men mock dreams while Nami searches for information about Sky Island.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Nami",
+    "Bellamy",
+    "Sarquiss",
+    "Mock Town pirate",
+    "Luffy",
+    "Zoro",
+    "Mock Town pirates",
+    "Blackbeard"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this scene centers on Nami, Bellamy, Sarquiss, Mock Town pirate, Luffy. Mock Town shows the crew a different kind of pirate: Bellamy and his men mock dreams while Nami searches for information about Sky Island.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Jaya's Western Shore"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Poor thing..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "How painful it must have been..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "But that too, is fate,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "A Conse- Quence of your everyday actions..."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Whoa!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Whoa, it looks like a mini-resort....!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "A resort!?"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Faster, Merry!"
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "You're right!"
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "Hahaha... I guess you're right!"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "What's wrong with this town..."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "On the Western shore of Jaya island,"
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "Talk about weak..."
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "Do you even lift, bro?"
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "Ahahaha hahaha!"
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "Hey, you know who I am?"
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "I'm a wrestling champ!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Whoa, now..."
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "You messed with the wrong man, there..."
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "He's one of Roshio's crew...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "He's crazy!"
+    }
+  ],
+  "summary": "Mock Town shows the crew a different kind of pirate: Bellamy and his men mock dreams while Nami searches for information about Sky Island.",
+  "confidence": 0.78,
+  "needs_review": false
+}

@@ -1,0 +1,89 @@
+{
+  "chapter": "68",
+  "part": 4,
+  "title": "Sanji and Zeff’s Debt Comes to the Surface",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Luffy",
+    "Sanji",
+    "Don Krieg",
+    "Gin",
+    "Zeff",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Baratie cooks"
+  ],
+  "scene": "On pages 13–16, the Baratie conflict focuses on Luffy, Sanji, Don Krieg, Gin, Zeff. Sanji leaves the restaurant behind, joining Luffy’s crew while the cooks hide their emotions behind insults.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "Brother Cook is sure running late."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ah, he's here."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "This is payback for all those years!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Die, Sanji!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "told ya you can't beat him."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Let's go."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Just like that? What about saying good-byes?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "It's fine."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hey, Sanji."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Don't catch a cold."
+    },
+    {
+      "speaker": "Baratie cooks",
+      "text": "Owner Zeff!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm ETER- Nally GRAT- eful,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "For taking care of me for so damn long!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I shall never forget for the rest of my life..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "The debt I owe you!"
+    }
+  ],
+  "summary": "This part keeps the Baratie battle centered on willpower, debt, hunger, and pride. The dialogue shows who still stands firm after Krieg’s violence and who is ready to break away from the restaurant’s old life.",
+  "confidence": 0.76,
+  "needs_review": false
+}

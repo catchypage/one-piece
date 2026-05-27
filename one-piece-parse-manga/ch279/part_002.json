@@ -1,0 +1,106 @@
+{
+  "chapter": "279",
+  "part": 2,
+  "title": "Nami Chooses Her Crew",
+  "description": "The fight shifts toward the great golden bell, turning victory into a promise to prove that the City of Gold exists.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Eneru",
+    "Enel",
+    "Gan Fall",
+    "Luffy",
+    "Nami",
+    "Aisa",
+    "Wyper",
+    "Nico Robin",
+    "Zoro",
+    "Sanji"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this scene centers on Eneru, Enel, Gan Fall, Luffy, Nami. The fight shifts toward the great golden bell, turning victory into a promise to prove that the City of Gold exists.",
+  "dialogue": [
+    {
+      "speaker": "Eneru",
+      "text": "Watch your tongue..."
+    },
+    {
+      "speaker": "Enel",
+      "text": "You are speaking to God!"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Just what part about you is God!?"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Aghhh!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Pierre..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Luffy! Be caref-"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I am"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Just what the hell,"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Is Godly about you!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Oh, you'll see."
+    },
+    {
+      "speaker": "Aisa",
+      "text": "Stretch!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "But..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "A mere paranoia?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "How insignificant...!"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "OHHA!"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "All attacks are meaningless before me!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "For I am..."
+    },
+    {
+      "speaker": "Enel",
+      "text": "GOD!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "El Thor!"
+    }
+  ],
+  "summary": "The fight shifts toward the great golden bell, turning victory into a promise to prove that the City of Gold exists.",
+  "confidence": 0.85,
+  "needs_review": false
+}

@@ -1,0 +1,83 @@
+{
+  "chapter": "670",
+  "part": 1,
+  "title": "Caesar Shows His Power",
+  "description": "On pages 1–3, this part follows Unknown person #1, Unknown person #2, Punk Hazard Guards, Unknown person #4, Unknown person #5, Unknown person #7, Unknown person #9. The central beat is caesar shows his power.",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Punk Hazard Guards",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #7",
+    "Unknown person #9",
+    "Unknown person #10",
+    "Unknown person #11",
+    "Unknown person #12",
+    "Caesar Clown",
+    "Luffy"
+  ],
+  "scene": "The scene focuses on caesar shows his power, with Unknown person #1, Unknown person #2, Punk Hazard Guards, Unknown person #4, Unknown person #5, Unknown person #7, Unknown person #9 shaping the Punk Hazard conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Take 'em down!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It's the straw hat pirates!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "HAAA AHHHH!!!!"
+    },
+    {
+      "speaker": "Punk Hazard Guards",
+      "text": "...but where's this \"master\" guy?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Straw hat Luffy!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "OH! SMOKBY!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "I don't have time for your jokes!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Ah! It worked!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "...to this pirate!!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "that weapon ..."
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "So, you came back, straw hat ..."
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Back to the seas!!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "WhoAA Aah!!!!"
+    }
+  ],
+  "summary": "Caesar Shows His Power. This part advances Punk Hazard’s rescue mission, Caesar’s experiment, and the fragile pirate–Marine alliance.",
+  "confidence": 0.76,
+  "needs_review": true
+}

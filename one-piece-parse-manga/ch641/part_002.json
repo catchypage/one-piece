@@ -1,0 +1,67 @@
+{
+  "chapter": "641",
+  "part": 2,
+  "title": "Neptune Explains the Ship’s Promise",
+  "description": "On pages 4–6, this part follows Unknown person #1, Hody Jones, King Neptune, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5. The central beat is neptune explains the ship’s promise.",
+  "pages": [
+    4,
+    5,
+    6
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Hody Jones",
+    "King Neptune",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #7",
+    "Fish-Man Island Citizens",
+    "Luffy",
+    "Shirahoshi",
+    "Fukaboshi"
+  ],
+  "scene": "The scene focuses on neptune explains the ship’s promise, with Unknown person #1, Hody Jones, King Neptune, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5 shaping the conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "I can't think of anything else!!!"
+    },
+    {
+      "speaker": "Hody Jones",
+      "text": "Jahahahah!! Falling out amongst ourselves, are we?!"
+    },
+    {
+      "speaker": "King Neptune",
+      "text": "You must wait, Noah!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Shirahoshi!!! You mustn't go near the ship!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Fishman karate!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Shira- Hoshi!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Mamboshi- Onilsama!!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Jahah AHah..."
+    },
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "Straw Hat!!!"
+    }
+  ],
+  "summary": "Neptune Explains the Ship’s Promise. This part advances the end of the Fish-Man Island conflict and the island’s attempt to move beyond inherited hatred.",
+  "confidence": 0.76,
+  "needs_review": true
+}

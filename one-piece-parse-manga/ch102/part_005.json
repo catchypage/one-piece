@@ -1,0 +1,46 @@
+{
+  "chapter": "102",
+  "part": 5,
+  "title": "A Door Inside Laboon",
+  "description": "On pages 17–17, a door inside laboon as the Straw Hats collide with Laboon, a gigantic whale guarding the entrance to the Grand Line, and Luffy is separated inside it.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Usopp",
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Laboon"
+  ],
+  "scene": "A Door Inside Laboon. The Straw Hats collide with Laboon, a gigantic whale guarding the entrance to the Grand Line, and Luffy is separated inside it. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Usopp",
+      "text": "What the..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Just what is all this?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Why's there a door in a whale...? And a hallway, too..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "A ship..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "M-Maybe we should just open fire!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Hang on, someone's coming out...!"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on a door inside laboon. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.81,
+  "needs_review": false
+}

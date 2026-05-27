@@ -1,0 +1,132 @@
+{
+  "chapter": "216",
+  "part": 4,
+  "title": "A Strange New Crewmate",
+  "description": "On pages 13, 14, 15, 16, this part focuses on the sky island rumor begins. The crew hears clues that point beyond normal seas, setting up the mystery of an island in the sky and the search for proof.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Vivi",
+    "Nico Robin",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Zoro"
+  ],
+  "scene": "This scene belongs to the The Sky Island Rumor Begins sequence. The important beat is the dialogue and action around Vivi, Nico Robin, Luffy, Nami, Usopp.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "I love my country too much!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Where's the princess!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Get off the stands, Capt. Igaram!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Captain!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Nice show, captain!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "We came to see princess Vivi's face!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Hahaha!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "That's why I can't come!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Sure!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Why?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "'Cause we're pirates!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Who cares! Let's go with a cross!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Sure, I'm fine with a cross."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "This should do...!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Although,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I'll remain here now..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "If we meet again some- day..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "The development of"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "We'll alwa-"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Quiet!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "You can't reply!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "The warines are watching her right now."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Let's say our good-byes in silence."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "quick..."
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "will be the mark of our friendship!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Let's set sail!"
+    }
+  ],
+  "summary": "The crew hears clues that point beyond normal seas, setting up the mystery of an island in the sky and the search for proof.",
+  "confidence": 0.8,
+  "needs_review": false
+}

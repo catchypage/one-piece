@@ -1,0 +1,78 @@
+{
+  "chapter": "260",
+  "part": 3,
+  "title": "Dials Decide the Battle",
+  "description": "After learning how brutal Enel’s rule is, Luffy and the crew continue through Upper Yard toward the heart of Skypiea’s conflict.",
+  "pages": [
+    11,
+    12,
+    13,
+    14
+  ],
+  "characters": [
+    "Luffy",
+    "Enel",
+    "Wyper",
+    "Shandia warrior",
+    "Gan Fall",
+    "Sanji",
+    "Usopp",
+    "Nami",
+    "Zoro",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 11, 12, 13, 14, this scene centers on Luffy, Enel, Wyper, Shandia warrior, Gan Fall. After learning how brutal Enel’s rule is, Luffy and the crew continue through Upper Yard toward the heart of Skypiea’s conflict.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Eh? Where did that guy go?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu No..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Pistol!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu No..."
+    },
+    {
+      "speaker": "Enel",
+      "text": "Stamp!!!"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Stamp!"
+    },
+    {
+      "speaker": "Shandia warrior",
+      "text": "Stamp!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "HNG!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Pwoosh!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu No..."
+    },
+    {
+      "speaker": "Enel",
+      "text": "BURN...!!!"
+    },
+    {
+      "speaker": "Shandia warrior",
+      "text": "ZAM!!"
+    }
+  ],
+  "summary": "After learning how brutal Enel’s rule is, Luffy and the crew continue through Upper Yard toward the heart of Skypiea’s conflict.",
+  "confidence": 0.85,
+  "needs_review": false
+}

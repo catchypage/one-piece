@@ -1,0 +1,172 @@
+{
+  "chapter": "213",
+  "part": 2,
+  "title": "Vivi Faces Her Choice",
+  "description": "On pages 7, 8, 9, 10, this part focuses on the silent x-mark farewell. Vivi and the Straw Hats part ways without words, using their shared mark to prove their friendship while protecting her from the Navy.",
+  "pages": [
+    7,
+    8,
+    9,
+    10
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Zoro",
+    "Karoo"
+  ],
+  "scene": "This scene belongs to the The Silent X-Mark Farewell sequence. The important beat is the dialogue and action around Luffy, Vivi, Nami, Usopp, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Leave at once!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Lying won't help your country!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Harbour- ing pirates is a serious crime!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I know of no pirates!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Keep up the good work out here."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ah, welcome back."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Yeah, a decent amount."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "I guess."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "W-well, no, but...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Y'think he's woken up yet?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "If he did, it's gonna get noisy."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Maaaaaaan, did I ever sleep well!"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "Ahh! My hat! Where's my hat!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "And it's not time for break- fast."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It's evening right now."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Oh, that's good!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm glad to see you're fine, Luffy..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Fine? Ain't I always fine?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Really!? Thanks!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "...Oh, you awake, Luffy?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Oh hey, Zoro. Long time no see!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Long time no see?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Ahhh!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "You went out training again, didn't you!?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "What, it's my own body."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "No means no! I'm the doctor here!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Don't take your bandages off!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Long time no see??"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You're not supposed to move!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Three days?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I was asleep for three whole days!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Demonstrate a new language"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Clark: Clink clink."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "I'm hoping"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "I missed 15 meals!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "And he calculated 5 meals per day."
+    }
+  ],
+  "summary": "Vivi and the Straw Hats part ways without words, using their shared mark to prove their friendship while protecting her from the Navy.",
+  "confidence": 0.89,
+  "needs_review": false
+}

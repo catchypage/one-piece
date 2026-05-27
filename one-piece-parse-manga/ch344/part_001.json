@@ -1,0 +1,126 @@
+{
+  "chapter": "344",
+  "part": 1,
+  "title": "Robin’s Warning",
+  "description": "Robin’s surrender is tied to the World Government’s threat against the crew, making her betrayal look more like a sacrifice.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Blueno",
+    "Iceburg",
+    "Nico Robin",
+    "Chopper",
+    "Rob Lucci",
+    "Kaku",
+    "Kalifa",
+    "Franky",
+    "Luffy",
+    "Nami"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Blueno, Iceburg, Nico Robin, Chopper, Rob Lucci. Robin’s surrender is tied to the World Government’s threat against the crew, making her betrayal look more like a sacrifice.",
+  "dialogue": [
+    {
+      "speaker": "Blueno",
+      "text": "Uwo 000!!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Why don't you see for yourself?"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Tekkai."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Aaah!! tileston-san's giant hammer was..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "SHAT- Tered by a fist!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Grab!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "You seem confident in your strength."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "I... I can't move"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "I never lose in strength"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "One hit...!!!"
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "Swish"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "OH CRAP!! Let's Go Get Help!!"
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "gyAA AAAAA AAA!!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "It's RORONOA ZORO!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "He's finally appeared!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Stomp!!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "STOMP!! Stomp!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "WAAH!!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "What happened to Luffy!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Don't let them get away!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "They're straw hats!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "How the heck would I know?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "In any case,"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "What are you saying, zero?"
+    }
+  ],
+  "summary": "Robin’s surrender is tied to the World Government’s threat against the crew, making her betrayal look more like a sacrifice.",
+  "confidence": 0.85,
+  "needs_review": false
+}

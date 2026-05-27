@@ -1,0 +1,89 @@
+{
+  "chapter": "215",
+  "part": 4,
+  "title": "A Strange New Crewmate",
+  "description": "On pages 12, 13, 14, 15, this part focuses on a new crewmate and a new mystery. Robin settles into the ship while the crew argues, adapts, and begins moving toward the strange next stage of the Grand Line.",
+  "pages": [
+    12,
+    13,
+    14,
+    15
+  ],
+  "characters": [
+    "Nico Robin",
+    "Luffy",
+    "Nami",
+    "Mr. 2 Bon Clay",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Zoro",
+    "Vivi"
+  ],
+  "scene": "This scene belongs to the A New Crewmate and a New Mystery sequence. The important beat is the dialogue and action around Nico Robin, Luffy, Nami, Mr. 2 Bon Clay, Usopp.",
+  "dialogue": [
+    {
+      "speaker": "Nico Robin",
+      "text": "Father... Igaraw..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "I have something important to discuss..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Mr. Bon Kurei...!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "...Running away here,"
+    },
+    {
+      "speaker": "Mr. 2 Bon Clay",
+      "text": "Is unbelit- ting of an Okama!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Miss Hina!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The duck's the decoy, obviously."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Ahh-"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "No!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Ms. Hina! The decoy is the sheep!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "3 minutes...!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "It's time to move! Full speed ahead!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Gahaha Hahaha Hahaha!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "This!?"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Too bad!"
+    }
+  ],
+  "summary": "Robin settles into the ship while the crew argues, adapts, and begins moving toward the strange next stage of the Grand Line.",
+  "confidence": 0.79,
+  "needs_review": false
+}

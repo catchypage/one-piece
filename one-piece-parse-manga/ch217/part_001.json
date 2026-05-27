@@ -1,0 +1,75 @@
+{
+  "chapter": "217",
+  "part": 1,
+  "title": "A Strange Sea Near Jaya",
+  "description": "On pages 1, 5, 7, 8, this part focuses on jaya’s strange sea. The Straw Hats reach waters filled with strange creatures, salvage crews, and rumors that begin pulling them toward Jaya.",
+  "pages": [
+    1,
+    5,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Zoro",
+    "Chopper",
+    "Smoker"
+  ],
+  "scene": "This scene belongs to the Jaya’s Strange Sea sequence. The important beat is the dialogue and action around Luffy, Nami, Usopp, Sanji, Zoro.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "...deer?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "* 3% of"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "777677776 246802468"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Miss Hina! There's still an enemy loose!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "...Hmph. At what, your own income- petence?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Side step!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "No, not at all."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Mad at you, Smoker."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Well..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Even though the Straw- Hats got away,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Gah! What's with this... iron lock!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "You sound perfectly happy..."
+    }
+  ],
+  "summary": "The Straw Hats reach waters filled with strange creatures, salvage crews, and rumors that begin pulling them toward Jaya.",
+  "confidence": 0.86,
+  "needs_review": false
+}

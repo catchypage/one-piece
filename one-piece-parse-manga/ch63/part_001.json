@@ -1,0 +1,28 @@
+{
+  "chapter": "63",
+  "part": 1,
+  "title": "Luffy Stands Through the Poison",
+  "pages": [
+    1,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Sanji",
+    "Don Krieg",
+    "Gin",
+    "Zeff",
+    "Unknown person #1"
+  ],
+  "scene": "On pages 1–4, the Baratie conflict focuses on Luffy, Sanji, Don Krieg, Gin, Zeff. The Baratie battle turns into a test of will as Luffy keeps challenging Krieg despite poison, weapons, and exhaustion.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "There's this short little story I want to tell you. It seems that long, long ago, rabbits used to fly. That's why when we count them, we use the same counter \"WA\" as we do for birds. rabbits that soared freely through the clear blue skies with their great big ears... WHAT"
+    }
+  ],
+  "summary": "This part keeps the Baratie battle centered on willpower, debt, hunger, and pride. The dialogue shows who still stands firm after Krieg’s violence and who is ready to break away from the restaurant’s old life.",
+  "confidence": 0.6,
+  "needs_review": true
+}

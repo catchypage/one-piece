@@ -1,0 +1,111 @@
+{
+  "chapter": "1073",
+  "part": 2,
+  "title": "Stussy Betrays CP0",
+  "description": "On pages 5–7, this part focuses on Unknown person #4, Shanks, Unknown person #5, Sanji, Unknown person #6, Lucci as CP0 attacks Egghead, Seraphim enter the conflict, Stussy betrays CP0, Kuma moves toward the Red Line, and Vegapunk’s escape plan collapses.",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "characters": [
+    "Unknown person #4",
+    "Shanks",
+    "Unknown person #5",
+    "Sanji",
+    "Unknown person #6",
+    "Lucci",
+    "Stussy",
+    "Seraphim"
+  ],
+  "scene": "CP0 attacks Egghead, Seraphim enter the conflict, Stussy betrays CP0, Kuma moves toward the Red Line, and Vegapunk’s escape plan collapses.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #4",
+      "text": "Doctor, Unfortu- lately..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "My authority level is the same as Lucci's..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "So I can't override his orders..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "...and stop the Sepharim!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "You've done plenty, Stussy! We're on our way!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "We need to stop those runts before they flatten the others!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Right!! And is it just me..."
+    },
+    {
+      "speaker": "Shanks",
+      "text": "...or do those kids look familiar?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I know!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Especially..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "That one."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Phooey! They won't stop blowing holes in the lab!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Though I suppose we can use those extra exits to get out faster!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Aaaand I'm out!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Hey!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Seraphim, Listen--!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Now that I've had a closer look..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "There actually is a spark of humanity in there... but still..."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "What the hell are you?!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "That was a shock!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Leave it to me!"
+    }
+  ],
+  "summary": "This part advances the Egghead Under Siege through 21 cleaned dialogue beats, focusing on character decisions, battlefield momentum, and the story’s larger consequences.",
+  "confidence": 0.64,
+  "needs_review": true
+}

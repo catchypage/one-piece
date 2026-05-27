@@ -1,0 +1,38 @@
+{
+  "chapter": "112",
+  "part": 5,
+  "title": "The Giants’ Island Awakens",
+  "description": "On pages 17–18, the giants’ island awakens as the Straw Hats enter Little Garden, an island frozen in prehistoric time, and split up amid dinosaurs and jungle danger.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Dorry",
+    "Brogy"
+  ],
+  "scene": "The Giants’ Island Awakens. The Straw Hats enter Little Garden, an island frozen in prehistoric time, and split up amid dinosaurs and jungle danger. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Getting in the way of our fight!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Ahhhhh!"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "For swords, the levels go down from Supreme Grade swords to Great-grade swords, skillful-grade swords, grade- swords, and then normal swords. A grade-sword means it's an excellent blade. When they say \"12 Supreme-grade swords,\" it means there are 12 blades in the world that"
+    },
+    {
+      "speaker": "Brogy",
+      "text": "Yes of blade edges: \"Indravelled edge.\" These are types of patterns you can make on the blades when you forge them. But since unravelled edges come in various forms, they turn into an \"unravelled edge with a"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on the giants’ island awakens. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.7,
+  "needs_review": false
+}

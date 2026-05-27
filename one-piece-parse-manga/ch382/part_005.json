@@ -1,0 +1,51 @@
+{
+  "chapter": "382",
+  "part": 5,
+  "title": "Robin Is Pulled Toward the Gate",
+  "description": "Luffy pushes ahead toward Robin and CP9, leaving the larger Enies Lobby battle to the rest of the rescue force.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Luffy",
+    "Blueno",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Chopper",
+    "Sogeking",
+    "Franky",
+    "Nico Robin",
+    "Spandam"
+  ],
+  "scene": "Across pages 17, this part follows Luffy, Blueno, Zoro, Nami, Sanji. Luffy pushes ahead toward Robin and CP9, leaving the larger Enies Lobby battle to the rest of the rescue force.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "But there's no way to get there!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What the-??"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Air door."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Yeah, that was surpriseing."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Until I die!!!"
+    }
+  ],
+  "summary": "Luffy pushes ahead toward Robin and CP9, leaving the larger Enies Lobby battle to the rest of the rescue force.",
+  "confidence": 0.63,
+  "needs_review": true
+}

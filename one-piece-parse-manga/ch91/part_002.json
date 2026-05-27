@@ -1,0 +1,78 @@
+{
+  "chapter": "91",
+  "part": 2,
+  "title": "Luffy Refuses to Fear Fish-Men",
+  "description": "On pages 5–8, luffy refuses to fear fish-men focuses on Luffy, Arlong, Nami, Cocoyashi villagers as arlong attacks with overwhelming fish-man strength while Luffy fights for Nami and the village.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Arlong",
+    "Nami",
+    "Cocoyashi villagers",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6"
+  ],
+  "scene": "On pages 5–8, luffy refuses to fear fish-men focuses on Luffy, Arlong, Nami, Cocoyashi villagers as arlong attacks with overwhelming fish-man strength while Luffy fights for Nami and the village.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "I say Marine"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "How dare you use one of my brethren as your shield!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "What're you talking about? You're the one who attacked him."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That was scary...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "brother Luffy said he had a good idea..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "What could it be...?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Did he come up with a secret strategy or something?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Tooth gum!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Aghh!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "OOF!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Whoa!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Nghh..."
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.58,
+  "needs_review": true
+}

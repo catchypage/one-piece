@@ -1,0 +1,102 @@
+{
+  "chapter": "1115",
+  "part": 3,
+  "title": "The Elders Hunt the Broadcast",
+  "description": "On pages 8–10, this part focuses on Nusjuro, Unknown person #7, Unknown person #8, Vegapunk, Luffy, Unknown person #9 as Vegapunk’s message shakes the world by connecting the Void Century, Joy Boy, ancient weapons, the sinking world, and the Five Elders’ desperate attempt to stop the truth.",
+  "pages": [
+    8,
+    9,
+    10
+  ],
+  "characters": [
+    "Nusjuro",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Vegapunk",
+    "Luffy",
+    "Unknown person #9",
+    "Bonney"
+  ],
+  "scene": "Vegapunk’s message shakes the world by connecting the Void Century, Joy Boy, ancient weapons, the sinking world, and the Five Elders’ desperate attempt to stop the truth.",
+  "dialogue": [
+    {
+      "speaker": "Nusjuro",
+      "text": "Don't let him use his sword!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "This geezer can cut anything!!"
+    },
+    {
+      "speaker": "Nusjuro",
+      "text": "sense the living voices..."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "BONNEY..."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Bonney, Get Down!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "AYAAH!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "I can't maintain distorted future for very long."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Weez. Weez"
+    },
+    {
+      "speaker": "Vegapunk",
+      "text": "The Void century ended..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "...with joy boy's defeat..."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "How much do you intend to say."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Vega- punk?!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "He's leaving?"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "TCH! There are too many lifeforms up here!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "The wake of that ancient conflict scarred the world,"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "But the aftermath had grander consequences."
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "What the?!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "And those scars never healed!!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "UWAAH!!"
+    }
+  ],
+  "summary": "This part advances the Vegapunk’s Broadcast through 19 cleaned dialogue beats, centering the emotional stakes, battle movement, and the wider consequences of Egghead.",
+  "confidence": 0.68,
+  "needs_review": true
+}

@@ -1,0 +1,85 @@
+{
+  "chapter": "10",
+  "part": 4,
+  "title": "Buggy Takes the Stage",
+  "description": "On pages 12–15, this part raises the stakes in Orange Town as Buggy’s weapon and crew threaten the town directly.",
+  "pages": [
+    12,
+    13,
+    14,
+    15
+  ],
+  "characters": [
+    "Luffy",
+    "Buggy",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "Orange Town becomes the stage for Nami’s schemes, Buggy’s violence, and Luffy’s refusal to act like a normal pirate.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Huh!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Huf Huf..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "DARN! I couldn't help myself."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "DARN!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "TRAITOR!! AND AFTER I WELCOMED YOU INTO MY CREW!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "WHOA, ARE YOU GOING TO SAVE ME AFTER ALL?"
+    },
+    {
+      "speaker": "Buggy",
+      "text": "Don't be stupid!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Just got carried away..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I JUST DON'T WANT TO BECOME A LOW-DOWN MURDERER LIKE ALL OF YOU!!"
+    },
+    {
+      "speaker": "Buggy",
+      "text": "You Pirates took someone dear to me..."
+    },
+    {
+      "speaker": "Buggy",
+      "text": "I'll never become what I hate!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "OH... SO THAT'S WHY YOU HATE PIRATES."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "The Fuse is LITT!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Uh-oh!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I'M GONNA DIE!!!"
+    }
+  ],
+  "summary": "The Orange Town conflict mixes Nami’s suspicious cleverness with Buggy’s theatrical cruelty. The section builds the unstable alliance that will oppose Buggy’s crew.",
+  "confidence": 0.64,
+  "needs_review": true
+}

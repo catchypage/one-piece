@@ -1,0 +1,46 @@
+{
+  "chapter": "138",
+  "part": 5,
+  "title": "Luffy Climbs Barehanded",
+  "description": "On pages 17–18, luffy climbs barehanded as after Wapol blocks the way, Luffy keeps carrying his injured friends up the mountain despite the cold and attacks.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Wapol",
+    "Luffy",
+    "Kuromarimo",
+    "Chess"
+  ],
+  "scene": "Luffy Climbs Barehanded. After Wapol blocks the way, Luffy keeps carrying his injured friends up the mountain despite the cold and attacks. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Wapol",
+      "text": "Hmph!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Just you wait, straw hat!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Swing"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Swimming"
+    },
+    {
+      "speaker": "Kuromarimo",
+      "text": "Don't you forget..."
+    },
+    {
+      "speaker": "Chess",
+      "text": "About that sense of happiness just now!"
+    }
+  ],
+  "summary": "This part centers on luffy climbs barehanded, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

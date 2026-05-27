@@ -1,0 +1,98 @@
+{
+  "chapter": "293",
+  "part": 1,
+  "title": "Luffy Returns to the Final Fight",
+  "description": "Luffy returns to the final battle against Enel, refusing to let the self-proclaimed god erase Skypiea or the old promise.",
+  "pages": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "characters": [
+    "Calgara",
+    "Conis",
+    "Luffy",
+    "Enel",
+    "Nami",
+    "Aisa",
+    "Wyper",
+    "Gan Fall",
+    "Pagaya",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 2, 3, 4, 5, this scene focuses on Calgara, Conis, Luffy, Enel, Nami. Luffy returns to the final battle against Enel, refusing to let the self-proclaimed god erase Skypiea or the old promise.",
+  "dialogue": [
+    {
+      "speaker": "Calgara",
+      "text": "The great warrior Calgara,"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "\"Light the flame of shandora.\""
+    },
+    {
+      "speaker": "Conis",
+      "text": "\"We are here...\""
+    },
+    {
+      "speaker": "Conis",
+      "text": "However, the bell was not rung."
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Not even once..."
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Our saviour Nolandd,"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "The more the people called him \"liar,\""
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Until the very moment of his death..."
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Meanwhile, Calgara, too,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Chief,"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Tell me..."
+    },
+    {
+      "speaker": "Calgara",
+      "text": "could the bell,"
+    },
+    {
+      "speaker": "Calgara",
+      "text": "Still deliver its message?"
+    },
+    {
+      "speaker": "Conis",
+      "text": "Perhaps..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "wiper."
+    },
+    {
+      "speaker": "Aisa",
+      "text": "Wyper!"
+    },
+    {
+      "speaker": "Conis",
+      "text": "Wyper!"
+    }
+  ],
+  "summary": "Luffy returns to the final battle against Enel, refusing to let the self-proclaimed god erase Skypiea or the old promise.",
+  "confidence": 0.88,
+  "needs_review": false
+}

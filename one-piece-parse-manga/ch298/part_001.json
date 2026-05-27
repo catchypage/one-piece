@@ -1,0 +1,86 @@
+{
+  "chapter": "298",
+  "part": 1,
+  "title": "Luffy Returns to the Final Fight",
+  "description": "The sound of the bell ends the war and lets Shandia, Skypieans, and the Straw Hats understand what was protected.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Enel",
+    "Nami",
+    "Aisa",
+    "Gan Fall",
+    "Conis",
+    "Pagaya",
+    "Nico Robin",
+    "Zoro",
+    "Sanji"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this scene focuses on Luffy, Enel, Nami, Aisa, Gan Fall. The sound of the bell ends the war and lets Shandia, Skypieans, and the Straw Hats understand what was protected.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "...ohhh"
+    },
+    {
+      "speaker": "Enel",
+      "text": "The condensed ball of lightning just... disappeared!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What just happened....!?"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "Hell yeah!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Luffy!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "ring it! Straw HaaAT!!!"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Light the flame of Shadow!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Let us hear it, boy..."
+    },
+    {
+      "speaker": "Conis",
+      "text": "Alright, then!"
+    },
+    {
+      "speaker": "Pagaya",
+      "text": "How dare you..."
+    },
+    {
+      "speaker": "Enel",
+      "text": "RUN MY RAIGOU...!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "You impudent monkey from the blue seas!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "200 million Volts!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Amaru!"
+    }
+  ],
+  "summary": "The sound of the bell ends the war and lets Shandia, Skypieans, and the Straw Hats understand what was protected.",
+  "confidence": 0.88,
+  "needs_review": false
+}

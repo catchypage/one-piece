@@ -1,0 +1,132 @@
+{
+  "chapter": "103",
+  "part": 5,
+  "title": "The Whale from West Blue",
+  "description": "On pages 18–20, the whale from west blue as inside the whale, the crew meets Crocus and begins to understand Laboon’s pain and strange living arrangements.",
+  "pages": [
+    18,
+    19,
+    20
+  ],
+  "characters": [
+    "Crocus",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Luffy",
+    "Laboon",
+    "Unknown person #1",
+    "Unknown person #2"
+  ],
+  "scene": "The Whale from West Blue. Inside the whale, the crew meets Crocus and begins to understand Laboon’s pain and strange living arrangements. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Crocus",
+      "text": "This whale is an island whale, found normally in West Blue."
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's the largest species of whale in the world. This one's name is Laboon."
+    },
+    {
+      "speaker": "Crocus",
+      "text": "And these two are Rogers from a nearby town..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Their goal is to hunt Laboon,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Because the meat from Laboon can feed their town for 2-3 years."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "But I won't allow that!"
+    },
+    {
+      "speaker": "Crocus",
+      "text": "As for why Laboon keeps on bashing his head against the red line,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "And bellows while facing reverse mountain... there's a reason for all that too."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Long ago, while I was minding my business as a lighthouse keeper,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "A certain group of friendly pirates came down reverse mountain."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "and following their ship was a little baby whale. That whale was Laboon."
+    },
+    {
+      "speaker": "Crocus",
+      "text": "It seems that Laboon had accompanied their journey in West Blue,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "But fearing that Grand Line was too dangerous, they left him behind or so they thought."
+    },
+    {
+      "speaker": "Crocus",
+      "text": "Normally, Island whales are known to swim together in pods,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "But to Laboon, those pirates were his pod members."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Their ship was damaged when they arrived so they stayed here for several months to fix it."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I became quite good friends with them during their stay."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "And so, on the day of their departure, their captain asked me,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "\"Could you please take care of Laboon for 2-3 years?\""
+    },
+    {
+      "speaker": "Luffy",
+      "text": "\"Once we've sailed around the world, we'll come back for him no matter what.\""
+    },
+    {
+      "speaker": "Crocus",
+      "text": "Under- standing their intent, Laboon patiently waited for them here."
+    },
+    {
+      "speaker": "Laboon",
+      "text": "BUOO Hhh..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "So that's why he keeps on bellowing even today... and bashing himself against red line..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That's right..."
+    },
+    {
+      "speaker": "Crocus",
+      "text": "It's been over 50 years since then..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "He still believes his friends will come back..."
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on the whale from west blue. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.73,
+  "needs_review": false
+}

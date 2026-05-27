@@ -1,0 +1,100 @@
+{
+  "chapter": "311",
+  "part": 5,
+  "title": "Luffy Protects His Crew",
+  "description": "The Davy Back Fight continues with more tricks, arguments, and pressure on Luffy’s crew.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Foxy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Hamburg",
+    "Tonjit",
+    "Porche",
+    "Foxy Pirate"
+  ],
+  "scene": "Across pages 17, 18, this scene focuses on Luffy, Foxy, Nami, Usopp, Sanji. The Davy Back Fight continues with more tricks, arguments, and pressure on Luffy’s crew.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "So cruel..."
+    },
+    {
+      "speaker": "Foxy",
+      "text": "ZORO!! Sanj!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "WU... WU...!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "*SOB... SOB...!!!*"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Team Straw hat is down!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Yeah! Gyaha hah."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "WU... WU...!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "The enemy team is..."
+    },
+    {
+      "speaker": "Hamburg",
+      "text": "...GROGGY,!!"
+    },
+    {
+      "speaker": "Tonjit",
+      "text": "Yeee HaaAA"
+    },
+    {
+      "speaker": "Porche",
+      "text": "UNDEFEATABLE!!"
+    },
+    {
+      "speaker": "Hamburg",
+      "text": "They are the groggy... moon-sters all"
+    },
+    {
+      "speaker": "Foxy Pirate",
+      "text": "Waha haha!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "We won again!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "... hey, cook."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Give me a hand for 10 seconds."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "That sounds like the right amount."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "*They are really pissed now! *"
+    }
+  ],
+  "summary": "The Davy Back Fight continues with more tricks, arguments, and pressure on Luffy’s crew.",
+  "confidence": 0.84,
+  "needs_review": false
+}

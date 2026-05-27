@@ -1,0 +1,66 @@
+{
+  "chapter": "179",
+  "part": 5,
+  "title": "The Crew Searches for the True Enemy",
+  "description": "On pages 16–18, this part focuses on the crew searches for the true enemy, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    16,
+    17,
+    18
+  ],
+  "characters": [
+    "Crocodile",
+    "Luffy",
+    "Vivi"
+  ],
+  "scene": "The Crew Searches for the True Enemy. As Luffy is gone and the armies clash, Crocodile’s plan appears to be working exactly as intended. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "Those who agitate it..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "And those who know the truth and attempt to stop it..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "All of them,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Each with conflicting intentions,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Aubaria"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Marines"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Baroque Works"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Katorea"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Nanohania"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Will clash at Alubarma."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "PLOP!"
+    }
+  ],
+  "summary": "This part develops the crew searches for the true enemy and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

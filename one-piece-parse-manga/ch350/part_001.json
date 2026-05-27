@@ -1,0 +1,168 @@
+{
+  "chapter": "350",
+  "part": 1,
+  "title": "Tom’s Dream",
+  "description": "Tom teaches Franky and Iceburg that a shipwright must stand proudly behind the ships they build.",
+  "pages": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "characters": [
+    "Franky",
+    "Iceburg",
+    "Tom",
+    "Spandam",
+    "Kokoro",
+    "Blueno",
+    "Yokozuna",
+    "World Government agent"
+  ],
+  "scene": "Across pages 2, 3, 4, 5, this part follows Franky, Iceburg, Tom, Spandam, Kokoro. Tom teaches Franky and Iceburg that a shipwright must stand proudly behind the ships they build.",
+  "dialogue": [
+    {
+      "speaker": "Franky",
+      "text": "Grandma! Grandma! That fire's so huge ____!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "NYA!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "That's the galley-La head- quarters..."
+    },
+    {
+      "speaker": "Tom",
+      "text": "Who'd do such a thing....!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Who set it on fire!?"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Nya!?"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "Well... I'm not quite sure..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "---- However..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Hopefully..... iceberg is okay..."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Blueno,"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Wasn't frankly in your bar earlier?"
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "World Government agent",
+      "text": "Look."
+    },
+    {
+      "speaker": "World Government agent",
+      "text": "Listen carefully, straw hat brat----!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "We have the long nose guy!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Yup! We have him!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Yeah!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Idiot!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "It's \"Out of Sea Urchins\"!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "*Into the sea,\" Idiot!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "You have a really crappy memory!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Fine! You do the yelling then!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Big bro is gonna kick our asses!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "sincerely, frankly!\" That's the message!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Come out! Come out! Straw hat!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Getting a good beating, I'm sure!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Of course! They destroyed our frankly house!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "000, scary"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Who did you say..."
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Took whom to where?"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Who the heck are you!?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Yeah! haha!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "You're not worthy of our time..."
+    },
+    {
+      "speaker": "Unknown person #15",
+      "text": "If you want to live..."
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "You have 3 seconds to reply."
+    }
+  ],
+  "summary": "Tom teaches Franky and Iceburg that a shipwright must stand proudly behind the ships they build.",
+  "confidence": 0.71,
+  "needs_review": true
+}

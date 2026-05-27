@@ -1,0 +1,132 @@
+{
+  "chapter": "222",
+  "part": 4,
+  "title": "Luffy and Zoro Refuse to Fight",
+  "description": "Mock Town shows the crew a different kind of pirate: Bellamy and his men mock dreams while Nami searches for information about Sky Island.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Nami",
+    "Bellamy",
+    "Sarquiss",
+    "Mock Town pirate",
+    "Luffy",
+    "Zoro",
+    "Mock Town pirates",
+    "Blackbeard"
+  ],
+  "scene": "Across pages 13, 14, 15, 16, this scene centers on Nami, Bellamy, Sarquiss, Mock Town pirate, Luffy. Mock Town shows the crew a different kind of pirate: Bellamy and his men mock dreams while Nami searches for information about Sky Island.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "You should consider yourself \"lucky,\"hee hee."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Heh heh..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Sorry there."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Looks like you're all out."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "What'll you bet now? Your underwear? Haha..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I'll be taking all your money then."
+    },
+    {
+      "speaker": "Nami",
+      "text": "GRABI"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "It might be chump change,"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "KyaAAA!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Clunk!"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Aghhh!"
+    },
+    {
+      "speaker": "Sarquiss",
+      "text": "You cheated, didn'cha..."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Oh, you did."
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "You cheated, alright..."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Watch your mouth there..."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "That's Bellamy... \"Hyena Bellamy!\""
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Sarquiss!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "SAR- QUISS!"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "What?"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "You saw him cheat, didn'tha?"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Haha... Oh, he cheated alright. Definitely."
+    },
+    {
+      "speaker": "Unknown person #15",
+      "text": "...Cheat? Yeah, sure."
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "That's enough bull- crap!"
+    },
+    {
+      "speaker": "Unknown person #17",
+      "text": "He's one dirty bastard, I tell ya!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "GAHHHHHHHHHHHHHHHHHH!"
+    }
+  ],
+  "summary": "Mock Town shows the crew a different kind of pirate: Bellamy and his men mock dreams while Nami searches for information about Sky Island.",
+  "confidence": 0.72,
+  "needs_review": true
+}

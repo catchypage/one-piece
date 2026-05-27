@@ -1,0 +1,116 @@
+{
+  "chapter": "470",
+  "part": 3,
+  "title": "Oars and Moria’s Nightmare: Key Exchange",
+  "description": "In the Thriller Bark storyline, this section centers on Luffy, Unknown person #5, Unknown person #1, Franky, Unknown person #10, Unknown person #11 as the scene develops across pages 9–12.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Unknown person #5",
+    "Unknown person #1",
+    "Franky",
+    "Unknown person #10",
+    "Unknown person #11",
+    "Unknown person #2",
+    "Unknown person #4"
+  ],
+  "scene": "This scene advances the Thriller Bark conflict through Luffy, Unknown person #5, Unknown person #1, Franky, Unknown person #10, focusing on the immediate stakes of oars and moria’s nightmare: key exchange.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "\"Ichi Gorkira\" !!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "\"N! GORIRA\" !!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "\"Santou- Ryuu\" ...!!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "\"Nigorizake** !!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "\"Gomu Gomu No...\"!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "\"Kazan\" !!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "ZORO ~-!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Are you alive!!? ... NO!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Eat this, monster!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "\"Weapons left\" !!!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "What agility....!! He dodged it again!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Whaaa- AAAAA!! Franky !!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Yoho!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Brook !!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "WAA- AAAAA- AAA!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "ZORD is falling !!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "\"Clean Fleur!\""
+    },
+    {
+      "speaker": "Luffy",
+      "text": "\"spider net\"!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "... GAHU ....!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Damn!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "WhaaaaAA- AAAA!!!"
+    }
+  ],
+  "summary": "This scene advances the Thriller Bark conflict through Luffy, Unknown person #5, Unknown person #1, Franky, Unknown person #10, focusing on the immediate stakes of oars and moria’s nightmare: key exchange.",
+  "confidence": 0.7,
+  "needs_review": false
+}

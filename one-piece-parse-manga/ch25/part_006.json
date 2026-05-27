@@ -1,0 +1,117 @@
+{
+  "chapter": "25",
+  "part": 6,
+  "title": "Usopp’s Village Comes Into View",
+  "description": "On pages 16–18, the Syrup Village story develops through Usopp, Kaya, Kuro, Jango, and the Straw Hats as the danger behind the village’s peaceful surface becomes clearer.",
+  "pages": [
+    16,
+    17,
+    18
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Jango",
+    "Kaya",
+    "Unknown person #2",
+    "Merry",
+    "Unknown person #3"
+  ],
+  "scene": "This scene follows the tension around Usopp’s village: lies, loyalty, hidden plans, and the growing clash with the Black Cat Pirates.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Yasopp was a really popular pirate!"
+    },
+    {
+      "speaker": "Jango",
+      "text": "Is that really true?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "to tell you the truth, even thought he left me for the sea,"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "I'm always proud of my dad!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "But that bastard Clahador looked down on him"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "He looked down on my pride!"
+    },
+    {
+      "speaker": "Jango",
+      "text": "Yup!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "I don't like him at all!"
+    },
+    {
+      "speaker": "Merry",
+      "text": "Are you giving up seeing that Ojousama?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Dunno, maybe if that Butler apologizes,"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "And begs me, then I'll con- slider!"
+    },
+    {
+      "speaker": "Jango",
+      "text": "That Butler?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Yeah! That Butler..."
+    },
+    {
+      "speaker": "Jango",
+      "text": "Why is he here?"
+    },
+    {
+      "speaker": "Jango",
+      "text": "Jango, I told you not to draw the attention of the village- ERS,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Why did you sleep in the middle of the street?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "How can I attract any attention? It's not like I look weird or something!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "There's a weird- looking guy with him..."
+    },
+    {
+      "speaker": "Jango",
+      "text": "I've never seen him before, who is he?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "So... are you all pre- pared for it?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Of course!"
+    },
+    {
+      "speaker": "Merry",
+      "text": "We can start operation \"assassi- Nate Ojousama\" any time!"
+    },
+    {
+      "speaker": "Jango",
+      "text": "What!!? Assassinate!!?"
+    }
+  ],
+  "summary": "The part advances the Syrup Village arc by tying Usopp’s reputation and Kaya’s safety to the threat posed by Kuro and his crew.",
+  "confidence": 0.81,
+  "needs_review": false
+}

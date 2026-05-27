@@ -1,0 +1,165 @@
+{
+  "chapter": "136",
+  "part": 1,
+  "title": "Wapol Learns About the Castle",
+  "description": "On pages 1–4, wapol learns about the castle as wapol learns that the Straw Hats are heading for Drum Castle, while Dalton and the villagers face the threat of the old tyrant’s return.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Wapol",
+    "Chess",
+    "Kuromarimo",
+    "Drum villager",
+    "Dalton",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8"
+  ],
+  "scene": "Wapol Learns About the Castle. Wapol learns that the Straw Hats are heading for Drum Castle, while Dalton and the villagers face the threat of the old tyrant’s return. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Wapol",
+      "text": "The heck are they doing now?"
+    },
+    {
+      "speaker": "Chess",
+      "text": "They stopped chasing after us,"
+    },
+    {
+      "speaker": "Chess",
+      "text": "But now they're up to something else..."
+    },
+    {
+      "speaker": "Chess",
+      "text": "W-Wait..."
+    },
+    {
+      "speaker": "Wapol",
+      "text": "It can't be..."
+    },
+    {
+      "speaker": "Chess",
+      "text": "They couldn't possibly be trying to...!?"
+    },
+    {
+      "speaker": "Kuromarimo",
+      "text": "All those who can fight, grab your weapons and head for big horn!"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "Hurry!"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "to big horn!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Follow after Dalton!"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "Wapol has returned! Grab your arms and prepare to fight!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "It's time to protect our country!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Take arms and head for big horn!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Hey, VIV!!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "You sure this is the right way to Gyasta?"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "I think so but I'm not entirely sure..."
+    },
+    {
+      "speaker": "Dalton",
+      "text": "You're not sure? That's not gonna cut it, princess."
+    },
+    {
+      "speaker": "Chess",
+      "text": "Just imagine what'll happen when the guys reach the mountaintop,"
+    },
+    {
+      "speaker": "Chess",
+      "text": "Only to realize the doctor's missing! Who knows what they'll do then!"
+    },
+    {
+      "speaker": "Chess",
+      "text": "Come on, you're a princess. Figure something out."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "What does me being a princess have to do with anything!?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Why don't you take a look at this map and figure something out?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "There's nothin' but snow out here! I wouldn't be able to tell apart north from South even with that map!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Well..."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "There should be a sign that points to Gyasta along our way so just keep an eye out for that."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "gyasta"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Got it!"
+    },
+    {
+      "speaker": "Dalton",
+      "text": "GULP!"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "Deeee- Eeeeeee- Eeeel- Icious!"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "Listen well, my citizens! Everything that exists in this country is nothing but food for me!"
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "Kuro- Marimo! Tell the people why I'm so great!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "The fact that you are King proves your greatness, your majesty."
+    },
+    {
+      "speaker": "Drum villager",
+      "text": "Ahhh... nothing like a nice roasted house cooked to well-done on a cold snowy day!"
+    }
+  ],
+  "summary": "This part centers on wapol learns about the castle, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.62,
+  "needs_review": true
+}

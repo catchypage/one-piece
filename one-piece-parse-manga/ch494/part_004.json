@@ -1,0 +1,153 @@
+{
+  "chapter": "494",
+  "part": 4,
+  "title": "The Road to Sabaody: Turning Point",
+  "description": "In the Sabaody Archipelago storyline, this section centers on Duval, Unknown person #2, Unknown person #1, Robin, Unknown person #8, Whitebeard as the scene develops across pages 13–16.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Duval",
+    "Unknown person #2",
+    "Unknown person #1",
+    "Robin",
+    "Unknown person #8",
+    "Whitebeard",
+    "Nami",
+    "Unknown person #11",
+    "Unknown person #12"
+  ],
+  "scene": "This scene advances the Sabaody Archipelago conflict through Duval, Unknown person #2, Unknown person #1, Robin, Unknown person #8, focusing on the immediate stakes of the road to sabaody: turning point.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #8",
+      "text": "Have a taste of my anger!!!"
+    },
+    {
+      "speaker": "Whitebeard",
+      "text": "Kyaah!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Nami, be careful!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "That bastard is!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Uoh!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Damn it....!!"
+    },
+    {
+      "speaker": "Duval",
+      "text": "Really!? Who is he?"
+    },
+    {
+      "speaker": "Duval",
+      "text": "I'll show you!! Don't be too surprised!"
+    },
+    {
+      "speaker": "Duval",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Robin",
+      "text": "Oooh!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Oryaah !!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Aaah!! That bastard!!"
+    },
+    {
+      "speaker": "Duval",
+      "text": "UuH!"
+    },
+    {
+      "speaker": "Duval",
+      "text": "Duval's... IRON MASK!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "That's fine! Take a good look....!!"
+    },
+    {
+      "speaker": "Duval",
+      "text": "No way ...!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ehhhhh!!!?"
+    },
+    {
+      "speaker": "Duval",
+      "text": "Garan..."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "He's ...!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Zabah!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Well, now."
+    },
+    {
+      "speaker": "Duval",
+      "text": "Oh, my."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Uwoo 00..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm crying."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'be been waiting fo dis day..."
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "But finding you... was too difficult..."
+    },
+    {
+      "speaker": "Whitebeard",
+      "text": "Boss ...!!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Hey, Sanji, where are you!?"
+    },
+    {
+      "speaker": "Robin",
+      "text": "\"We found you,\""
+    },
+    {
+      "speaker": "Robin",
+      "text": "\"Black leg Sanji\"!!!"
+    },
+    {
+      "speaker": "Robin",
+      "text": "And I would tell them..."
+    }
+  ],
+  "summary": "This scene advances the Sabaody Archipelago conflict through Duval, Unknown person #2, Unknown person #1, Robin, Unknown person #8, focusing on the immediate stakes of the road to sabaody: turning point.",
+  "confidence": 0.72,
+  "needs_review": false
+}

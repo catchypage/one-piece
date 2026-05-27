@@ -1,0 +1,96 @@
+{
+  "chapter": "138",
+  "part": 2,
+  "title": "Luffy Refuses to Stop",
+  "description": "On pages 5–8, luffy refuses to stop as after Wapol blocks the way, Luffy keeps carrying his injured friends up the mountain despite the cold and attacks.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Wapol",
+    "Chess",
+    "Luffy",
+    "Kuromarimo"
+  ],
+  "scene": "Luffy Refuses to Stop. After Wapol blocks the way, Luffy keeps carrying his injured friends up the mountain despite the cold and attacks. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Wapol",
+      "text": "Did they give up already or something?"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Aghhh!"
+    },
+    {
+      "speaker": "Chess",
+      "text": "Behold our battle camouflage, the Snow Look!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Seeing as how you've already sustained grave injuries, this should be an instant kill!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Ahh-"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Checkmate!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Staa- AaaP!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "It's the white bears..."
+    },
+    {
+      "speaker": "Wapol",
+      "text": "OAF!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "PLOP!"
+    },
+    {
+      "speaker": "Kuromarimo",
+      "text": "The lapin!?"
+    },
+    {
+      "speaker": "Kuromarimo",
+      "text": "MOFW!?"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Why would they help HIM!?"
+    },
+    {
+      "speaker": "Kuromarimo",
+      "text": "Don't be Ridi- culous! It's just a council- dance. A lapin never shows mercy towards humans."
+    },
+    {
+      "speaker": "Chess",
+      "text": "Garr,"
+    },
+    {
+      "speaker": "Kuromarimo",
+      "text": "Don't let him escape!"
+    },
+    {
+      "speaker": "Kuromarimo",
+      "text": "Thanks a bunch! You really saved us!"
+    },
+    {
+      "speaker": "Kuromarimo",
+      "text": "Yes, your majesty!"
+    }
+  ],
+  "summary": "This part centers on luffy refuses to stop, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

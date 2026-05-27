@@ -1,0 +1,115 @@
+{
+  "chapter": "216",
+  "part": 1,
+  "title": "Robin Appears on the Merry",
+  "description": "On pages 1, 2, 3, 4, this part focuses on the sky island rumor begins. The crew hears clues that point beyond normal seas, setting up the mystery of an island in the sky and the search for proof.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Nico Robin",
+    "Vivi",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper"
+  ],
+  "scene": "This scene belongs to the The Sky Island Rumor Begins sequence. The important beat is the dialogue and action around Nico Robin, Vivi, Luffy, Nami, Usopp.",
+  "dialogue": [
+    {
+      "speaker": "Nico Robin",
+      "text": "You don't know who their leader is?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "So this organization..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Is this country's true enemy....!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Moreover,"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "But you've caught,"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Their tail at least, right...?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yes..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Crap! I spoke too much!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Igaram... Can you tell what I'm thinking...?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "NGHH!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "IGARAM!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yes, that's all the more reason then!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Look! It's princess Vivil"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I am not sure if"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "But resign! They're too strong!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The cannons won't work either!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Get outta our way!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "It's princess Vivil"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "It's the princess!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "She's grown so big!"
+    }
+  ],
+  "summary": "The crew hears clues that point beyond normal seas, setting up the mystery of an island in the sky and the search for proof.",
+  "confidence": 0.85,
+  "needs_review": false
+}

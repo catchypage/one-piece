@@ -1,0 +1,76 @@
+{
+  "chapter": "218",
+  "part": 5,
+  "title": "Cricket’s Legend Comes Into View",
+  "description": "On pages 17, 18, this part focuses on the salvage monkeys appear. Masira and the Salvage King crew enter the story as the Straw Hats encounter the rough culture around shipwrecks and treasure hunting.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Mont Blanc Cricket",
+    "Zoro",
+    "Sanji"
+  ],
+  "scene": "This scene belongs to the The Salvage Monkeys Appear sequence. The important beat is the dialogue and action around Luffy, Nami, Usopp, Mont Blanc Cricket, Zoro.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Talk about bizarre...!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Ahh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What's wrong, Nami?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What do we do!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The log pose is... broken!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "PLINK....!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's stuck pointing up!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "...No, you're mistaken."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "There must be another island nearby,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "If the needle is pointing upwards,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "to a \"Sky Island\".....!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Fire!"
+    }
+  ],
+  "summary": "Masira and the Salvage King crew enter the story as the Straw Hats encounter the rough culture around shipwrecks and treasure hunting.",
+  "confidence": 0.84,
+  "needs_review": false
+}

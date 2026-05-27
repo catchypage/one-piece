@@ -1,0 +1,44 @@
+{
+  "chapter": "45",
+  "part": 2,
+  "title": "Sanji Feeds a Starving Enemy",
+  "description": "On pages 5–8, Sanji feeds Gin despite the danger, revealing that his compassion for the hungry matters more to him than restaurant rules or pirate labels.",
+  "pages": [
+    5,
+    8
+  ],
+  "characters": [
+    "Sanji",
+    "Luffy"
+  ],
+  "scene": "Gin arrives broken and starving, while the Baratie cooks judge him as an enemy; Sanji alone treats hunger as something that must be answered.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "Lucky!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "You got some food!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "You were almost about to die before too! hahaha!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hey cook! Join my crew, Will ya!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Be the cook for my pirate ship!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Huh!?"
+    }
+  ],
+  "summary": "This part reveals the core of Sanji’s morality: no matter who a person is, he cannot ignore someone starving in front of him.",
+  "confidence": 0.88,
+  "needs_review": false
+}

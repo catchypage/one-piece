@@ -1,0 +1,31 @@
+{
+  "chapter": "312",
+  "part": 5,
+  "title": "Luffy Protects His Crew",
+  "description": "The Foxy Pirates force the Straw Hats toward the decisive round, where Luffy has to defend his crew directly.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Luffy",
+    "Foxy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Tonjit",
+    "Porche"
+  ],
+  "scene": "Across pages 17, this scene focuses on Luffy, Foxy, Nami, Usopp, Zoro. The Foxy Pirates force the Straw Hats toward the decisive round, where Luffy has to defend his crew directly.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "GOAL"
+    }
+  ],
+  "summary": "The Foxy Pirates force the Straw Hats toward the decisive round, where Luffy has to defend his crew directly.",
+  "confidence": 0.88,
+  "needs_review": false
+}

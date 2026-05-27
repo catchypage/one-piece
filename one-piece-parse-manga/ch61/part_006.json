@@ -1,0 +1,69 @@
+{
+  "chapter": "61",
+  "part": 6,
+  "title": "Gin Turns on Sanji — Part 6",
+  "pages": [
+    20,
+    21
+  ],
+  "characters": [
+    "Luffy",
+    "Sanji",
+    "Don Krieg",
+    "Gin",
+    "Zeff",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "On pages 20–21, the Baratie conflict focuses on Luffy, Sanji, Don Krieg, Gin, Zeff. Gin is ordered to kill Sanji, but his debt and sympathy clash with Don Krieg’s brutal command.",
+  "dialogue": [
+    {
+      "speaker": "Don Krieg",
+      "text": "Eat up."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Because..."
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "Damn good, right?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Say that to me one more time!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I've never been treated so kindly by another person,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "In my entire life...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "That's why... I just can't kill this man!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "COWARD...!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I-it can't be... Don!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "This time, we'll be expanding to 3 pages!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "So let's set sail, USOPP gallery Pirates!"
+    }
+  ],
+  "summary": "This part keeps the Baratie battle centered on willpower, debt, hunger, and pride. The dialogue shows who still stands firm after Krieg’s violence and who is ready to break away from the restaurant’s old life.",
+  "confidence": 0.7,
+  "needs_review": true
+}

@@ -1,0 +1,111 @@
+{
+  "chapter": "12",
+  "part": 1,
+  "title": "Orange Town Under Buggy’s Shadow",
+  "description": "On pages 1–4, the Orange Town conflict focuses on Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, with Buggy’s occupation testing Luffy, Zoro, Nami, and the townspeople.",
+  "pages": [
+    1,
+    2,
+    4
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Nami",
+    "Unknown person #5",
+    "Chouchou",
+    "Buggy"
+  ],
+  "scene": "This part follows the pressure inside Orange Town as Buggy’s crew, the Straw Hats, and the people caught between them react to the escalating fight.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Listen up, crew!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "WE'VE STOLEN TONS OF BOOTY, AND OUR NAME BRINGS TERROR TO ALL WHO HEAR IT!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "SO ARE WE GONNA LET THREE LITTLE LOSERS MAKE FOOLS OF US!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "NO SIR!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "CAN'T HEAR YOU!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "No sir!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "All right, pipe down!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "IT'S TIME TO SHOW OUR ENEMIES JUST HOW TERRYING WE CAN BE!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Bring out the \"Wild Animal Show\"!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Oooooh! It's Mohji!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "CAPTAIN BUGGY..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "...you called?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "It's time for Mohji's wild animal show!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "MAY! TAKE RORONOA ZOLO'S HEAD?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "TAKE ANY PART YOU WANT!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "WE SHOULD BE FAR ENOUGH FROM THAT TAVERN."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "WE GOT AWAY... FOR NOW..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "BUT WHAT ARE WE GONNA DO ABOUT THIS CAGE?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I CAN'T DO ANYTHING STUCK INSIDE THIS THING!"
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "It's no use... lost too much blood..."
+    },
+    {
+      "speaker": "Chouchou",
+      "text": "...got to... rest..."
+    }
+  ],
+  "summary": "The scene keeps the Orange Town arc moving by tying the immediate battle to the town’s fear, Nami’s motives, and Luffy’s instinct to answer cruelty directly.",
+  "confidence": 0.6,
+  "needs_review": true
+}

@@ -1,0 +1,86 @@
+{
+  "chapter": "305",
+  "part": 5,
+  "title": "Luffy Protects His Crew",
+  "description": "Nami, Usopp, and Robin face Foxy’s tricks in the first Davy Back Fight event while Luffy learns how serious the stakes are.",
+  "pages": [
+    17,
+    18,
+    19,
+    20
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Foxy",
+    "Usopp",
+    "Zoro",
+    "Chopper",
+    "Nico Robin",
+    "Tonjit",
+    "Porche",
+    "Hamburg"
+  ],
+  "scene": "Across pages 17, 18, 19, 20, this scene focuses on Luffy, Nami, Foxy, Usopp, Zoro. Nami, Usopp, and Robin face Foxy’s tricks in the first Davy Back Fight event while Luffy learns how serious the stakes are.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Huh...? Luffy... Walta moment..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Is \"Pavy Back Fight\"...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Someone give orders! Navigator!"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "We don't have one!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Then the captain!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "We don't have one!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Luffy, no! You can't accept this game!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We'll lose our crewmates!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "It's art time! Gather 'round, everyone!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Let's go, Usopp Gallery Pirates!"
+    },
+    {
+      "speaker": "Tonjit",
+      "text": "I forgot my hat!"
+    },
+    {
+      "speaker": "Porche",
+      "text": "(2)^(a)"
+    },
+    {
+      "speaker": "Porche",
+      "text": "Chit@c.net: Let us"
+    },
+    {
+      "speaker": "Hamburg",
+      "text": "\"Good. I think"
+    }
+  ],
+  "summary": "Nami, Usopp, and Robin face Foxy’s tricks in the first Davy Back Fight event while Luffy learns how serious the stakes are.",
+  "confidence": 0.88,
+  "needs_review": false
+}

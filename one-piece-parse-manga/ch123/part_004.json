@@ -1,0 +1,145 @@
+{
+  "chapter": "123",
+  "part": 4,
+  "title": "Mr. 3 Loses Control",
+  "description": "On pages 12–15, mr. 3 loses control as usopp, Karoo, and Luffy counterattack against Mr. 5, Miss Valentine, and Mr. 3 as the wax trap begins to fall apart.",
+  "pages": [
+    12,
+    13,
+    14,
+    15
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Mr. 3",
+    "Vivi",
+    "Nami",
+    "Miss Goldenweek",
+    "Karoo",
+    "Mr. 5",
+    "Miss Valentine"
+  ],
+  "scene": "Mr. 3 Loses Control. Usopp, Karoo, and Luffy counterattack against Mr. 5, Miss Valentine, and Mr. 3 as the wax trap begins to fall apart. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Gul?!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Hmph..."
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Whoa!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Damn it!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Tastes pretty bad..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You must be using Subpar gunpowder..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "He ate my..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "gun- powder star!?"
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "Damn, this is pretty bad... we're hardening up really fast...!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Glad I decided on my pose already."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Are you kidding me!?"
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "Luffy! Please hurry up!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Got it!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I just have to destroy that pumpkin, right!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "GOMU GOMU..."
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "A futile ended- VOUR..."
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Candle wall!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Bazoka!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Hey!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Stop gettin' in my way!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I believe that's what I should be saying, is it not...?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You should stop interfering in my efforts to create art!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Candle lock!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Again!?"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Ah,"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "That's right!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Oh!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Shishi- shishi!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Thanks for the hammer!"
+    }
+  ],
+  "summary": "This part centers on mr. 3 loses control, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

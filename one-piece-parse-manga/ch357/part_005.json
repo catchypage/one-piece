@@ -1,0 +1,86 @@
+{
+  "chapter": "357",
+  "part": 5,
+  "title": "Allies Join the Rescue",
+  "description": "Robin, Franky, and CP9 board the Sea Train, while the Straw Hats and allies scramble to follow them.",
+  "pages": [
+    17,
+    18,
+    19,
+    23
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Franky",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "CP9 agent",
+    "Kokoro",
+    "Franky Family"
+  ],
+  "scene": "Across pages 17, 18, 19, 23, this part follows Luffy, Nami, Franky, Zoro, Sanji. Robin, Franky, and CP9 board the Sea Train, while the Straw Hats and allies scramble to follow them.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Gero Gero ____!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "HAA"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gero!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Stop, sea train!!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Taha!!!!!!!!...!!..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I see!! You were abandoned, huh!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What a piece of work,"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Hey!! You laugh too much!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Tom- San..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "But Tom- San"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "My goal is still you!!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "I want to make..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "A dream ship someday."
+    }
+  ],
+  "summary": "Robin, Franky, and CP9 board the Sea Train, while the Straw Hats and allies scramble to follow them.",
+  "confidence": 0.84,
+  "needs_review": false
+}

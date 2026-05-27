@@ -1,0 +1,42 @@
+{
+  "chapter": "1141",
+  "part": 5,
+  "title": "The Children of Elbaf Panic",
+  "description": "On pages 14–14, this part follows Unknown person #13 as The Straw Hats explore Elbaf’s strange giant-scale spaces while children, teachers, and old legends point toward the island’s deeper mysteries.",
+  "pages": [
+    14
+  ],
+  "characters": [
+    "Unknown person #13"
+  ],
+  "scene": "The Straw Hats explore Elbaf’s strange giant-scale spaces while children, teachers, and old legends point toward the island’s deeper mysteries.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #13",
+      "text": "Look!!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "What-!!! I could've sworn he was out cold!!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Stop it!!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "LOK!!!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Put RAGNIR DOWN!!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "The accused Prince Rises!!"
+    }
+  ],
+  "summary": "This part advances the Elbaf Exploration through 6 cleaned dialogue beats, focusing on the immediate conflict, character reactions, and the larger Elbaf mystery.",
+  "confidence": 0.76,
+  "needs_review": true
+}

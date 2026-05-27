@@ -1,0 +1,90 @@
+{
+  "chapter": "338",
+  "part": 2,
+  "title": "Iceburg’s Warning",
+  "description": "Robin’s secret movements and the World Government’s presence begin to pull Water Seven away from a simple ship-repair story.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Nico Robin",
+    "Franky",
+    "Nami",
+    "Paulie",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Iceburg",
+    "CP9 agent"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this part follows Luffy, Nico Robin, Franky, Nami, Paulie. Robin’s secret movements and the World Government’s presence begin to pull Water Seven away from a simple ship-repair story.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Leap!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Whoa!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Squeeze!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "HAA"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What's wrong? Why don't you fight back?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "I said...!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Damn."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "They're so intense about this!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "WAA AAH!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "wow!!!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Bulls- eye!!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Nah, he got away."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That was close!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Whoa!!!"
+    }
+  ],
+  "summary": "Robin’s secret movements and the World Government’s presence begin to pull Water Seven away from a simple ship-repair story.",
+  "confidence": 0.71,
+  "needs_review": false
+}

@@ -1,0 +1,86 @@
+{
+  "chapter": "77",
+  "part": 5,
+  "title": "Nojiko Reveals Nami’s Past",
+  "pages": [
+    17,
+    18,
+    19
+  ],
+  "characters": [
+    "Nami",
+    "Nojiko",
+    "Bellemere",
+    "Genzo",
+    "Arlong",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Usopp",
+    "Arlong Pirates"
+  ],
+  "scene": "On pages 17–19, Nojiko’s account of the past reveals how Nami, Bellemere, and Cocoyasi Village were damaged by Arlong’s arrival. Nojiko starts revealing the past that shaped Nami, Bellemere, and the village.",
+  "dialogue": [
+    {
+      "speaker": "Arlong Pirates",
+      "text": "It's the Arlong Pirates!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Arlong!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It can't be!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "OMG"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Sha Haha Ha!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Then... that rumour about the fishman pirate crew in Grand Line Splitting off... must've been true...!"
+    },
+    {
+      "speaker": "Child Nami",
+      "text": "Nami! Nojiko! It's too dangerous for you to stay here!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Go hide in the forest behind here!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "But Bellie- here's waiting for us at home...!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Greet- Ings, my beloved pathetic humans!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "From this moment hereon,"
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "This village... nay, this entire island shall be under my control!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Gather 'round, gather 'round, we're setting sail!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The USOPP gallery PIRATES!!!"
+    }
+  ],
+  "summary": "This part deepens Nami’s backstory, showing how family, money, and survival became tied to Arlong’s control over the village.",
+  "confidence": 0.69,
+  "needs_review": false
+}

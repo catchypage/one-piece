@@ -1,0 +1,66 @@
+{
+  "chapter": "89",
+  "part": 5,
+  "title": "Luffy Is Nearly Free",
+  "description": "On pages 17–18, luffy is nearly free focuses on Sanji, Nojiko, Genzo, Luffy as the fight centers on freeing Luffy from underwater before Arlong’s crew can finish the Straw Hats.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Sanji",
+    "Nojiko",
+    "Genzo",
+    "Luffy",
+    "Arlong",
+    "Nami",
+    "Zoro",
+    "Hatchan",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "On pages 17–18, luffy is nearly free focuses on Sanji, Nojiko, Genzo, Luffy as the fight centers on freeing Luffy from underwater before Arlong’s crew can finish the Straw Hats.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ahhh..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Gattung Gun!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Whew..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hence people"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Did you... just do some- thing...?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "it... it didn't work at all!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Yup."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "My warm-up exercise."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "I swear... I'll kill him..."
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.58,
+  "needs_review": true
+}

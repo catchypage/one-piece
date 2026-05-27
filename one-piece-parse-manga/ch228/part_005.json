@@ -1,0 +1,76 @@
+{
+  "chapter": "228",
+  "part": 5,
+  "title": "The South Bird Hunt",
+  "description": "Masira, Shojo, and Cricket begin preparing the Going Merry for the dangerous route through the Knock Up Stream.",
+  "pages": [
+    18,
+    19
+  ],
+  "characters": [
+    "Mont Blanc Cricket",
+    "Masira",
+    "Shojo",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Zoro",
+    "Chopper",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 18, 19, this scene centers on Mont Blanc Cricket, Masira, Shojo, Luffy, Nami. Masira, Shojo, and Cricket begin preparing the Going Merry for the dangerous route through the Knock Up Stream.",
+  "dialogue": [
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "So it does exist!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Woohoo!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "Boss! How's your body feeling?"
+    },
+    {
+      "speaker": "Shojo",
+      "text": "Never felt better."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Now keep quiet and answer me."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Do you like these guys?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Why're you asking us that?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "No matter what..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That's why I'm thinking..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "We lend them a hand..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Squeeze"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "SWell"
+    }
+  ],
+  "summary": "Masira, Shojo, and Cricket begin preparing the Going Merry for the dangerous route through the Knock Up Stream.",
+  "confidence": 0.87,
+  "needs_review": false
+}

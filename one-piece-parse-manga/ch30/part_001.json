@@ -1,0 +1,60 @@
+{
+  "chapter": "30",
+  "part": 1,
+  "title": "Kuro’s Plan Against Kaya Is Revealed",
+  "description": "On pages 0–3, the Syrup Village story develops through Usopp, Kaya, Kuro, Jango, and the Straw Hats as the danger behind the village’s peaceful surface becomes clearer.",
+  "pages": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Kaya",
+    "Kuro",
+    "Unknown person #1",
+    "Unknown person #2"
+  ],
+  "scene": "This scene follows the tension around Usopp’s village: lies, loyalty, hidden plans, and the growing clash with the Black Cat Pirates.",
+  "dialogue": [
+    {
+      "speaker": "Kaya",
+      "text": "Why are they late..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Those idiots..."
+    },
+    {
+      "speaker": "Kuro",
+      "text": "should know what it means to ruin my plans"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "And still they dare to be late..."
+    },
+    {
+      "speaker": "Kuro",
+      "text": "If they dare forget about my plans..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "I will kill them all..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Pumpsterization messages"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I didn't know you guys were this strong..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Of course!"
+    }
+  ],
+  "summary": "The part advances the Syrup Village arc by tying Usopp’s reputation and Kaya’s safety to the threat posed by Kuro and his crew.",
+  "confidence": 0.83,
+  "needs_review": false
+}

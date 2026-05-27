@@ -1,0 +1,102 @@
+{
+  "chapter": "229",
+  "part": 3,
+  "title": "The Saruyama Alliance Gets Involved",
+  "description": "The crew searches Jaya’s forest for the South Bird, a strange creature needed to navigate toward the Knock Up Stream.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Mont Blanc Cricket",
+    "Masira",
+    "Bellamy",
+    "Shojo",
+    "Luffy",
+    "Usopp",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Chopper"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this scene centers on Mont Blanc Cricket, Masira, Bellamy, Shojo, Luffy. The crew searches Jaya’s forest for the South Bird, a strange creature needed to navigate toward the Knock Up Stream.",
+  "dialogue": [
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Masira",
+      "text": "But... Well, there! See, it's impossible!"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Thanks a bunch!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "We never asked for this..."
+    },
+    {
+      "speaker": "Shojo",
+      "text": "Do you even realize!?"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "What?"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "On this island!"
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "What, so we CAN make it!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You're lying, aren't you!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Not only that!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Usopp-"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You just stay quiet!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Will happen TOMORROW!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Just what're you plotting!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Nami, the meal is-"
+    },
+    {
+      "speaker": "Masira",
+      "text": "Information regarding"
+    },
+    {
+      "speaker": "Nami",
+      "text": "W-what? You wanna go or somethin'!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "When..."
+    }
+  ],
+  "summary": "The crew searches Jaya’s forest for the South Bird, a strange creature needed to navigate toward the Knock Up Stream.",
+  "confidence": 0.87,
+  "needs_review": false
+}

@@ -1,0 +1,78 @@
+{
+  "chapter": "391",
+  "part": 1,
+  "title": "The Crew Reaches Robin",
+  "description": "Robin’s fear of living is tied to the pain of Ohara, setting up the truth behind her isolation.",
+  "pages": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "characters": [
+    "Spandam",
+    "Luffy",
+    "Nico Robin",
+    "Nami",
+    "Sanji",
+    "Chopper",
+    "Zoro",
+    "Sogeking",
+    "Franky",
+    "Rob Lucci"
+  ],
+  "scene": "Across pages 2, 3, 4, 5, this part follows Spandam, Luffy, Nico Robin, Nami, Sanji. Robin’s fear of living is tied to the pain of Ohara, setting up the truth behind her isolation.",
+  "dialogue": [
+    {
+      "speaker": "Spandam",
+      "text": "for another 50 years...!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Take this!! \"OIMO Press\"!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "We'll defend this door to our death!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "OOWA AAAH!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Where Mozu and Kiwi went!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Yeah!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Let's go!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Woooh!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Drawbridge?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "They have good luck, don't they?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Now we have permission to kill."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "POPO"
+    }
+  ],
+  "summary": "Robin’s fear of living is tied to the pain of Ohara, setting up the truth behind her isolation.",
+  "confidence": 0.82,
+  "needs_review": false
+}

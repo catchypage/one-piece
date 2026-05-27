@@ -1,0 +1,82 @@
+{
+  "chapter": "342",
+  "part": 2,
+  "title": "The Masked Intruders",
+  "description": "The truth behind the attack on Iceburg begins to emerge as the masked intruders and CP9 agents move in the shadows.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Paulie",
+    "Iceburg",
+    "Nico Robin",
+    "Chopper",
+    "Franky",
+    "Rob Lucci",
+    "Kaku",
+    "Kalifa",
+    "Blueno",
+    "Luffy"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this part follows Paulie, Iceburg, Nico Robin, Chopper, Franky. The truth behind the attack on Iceburg begins to emerge as the masked intruders and CP9 agents move in the shadows.",
+  "dialogue": [
+    {
+      "speaker": "Paulie",
+      "text": "Okay!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "We'll probably never know the truth."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "I'll definitely catch her!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Karifa..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Yes, iceberg- San?"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Under- stood,"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Paulie..."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "to me?"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Yes, just you."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "I wonder what it's about..."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "We'll move away from the door."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Yeah..."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "I got it."
+    }
+  ],
+  "summary": "The truth behind the attack on Iceburg begins to emerge as the masked intruders and CP9 agents move in the shadows.",
+  "confidence": 0.83,
+  "needs_review": false
+}

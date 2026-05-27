@@ -1,0 +1,82 @@
+{
+  "chapter": "327",
+  "part": 5,
+  "title": "Usopp Hears the Worst",
+  "description": "The shipwrights deliver devastating news: the Going Merry is too damaged to continue, forcing Luffy toward an impossible captain’s decision.",
+  "pages": [
+    17,
+    18,
+    20,
+    21
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Nami",
+    "Kaku",
+    "Sanji",
+    "Paulie",
+    "Nico Robin",
+    "Iceburg",
+    "Zoro",
+    "Chopper"
+  ],
+  "scene": "Across pages 17, 18, 20, 21, this part follows Luffy, Usopp, Nami, Kaku, Sanji. The shipwrights deliver devastating news: the Going Merry is too damaged to continue, forcing Luffy toward an impossible captain’s decision.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Allow me to speak frankly, but"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "So please repair it good."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Will it take a long time?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "... no,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "The truth is..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Is something wrong with the keel?"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "Yes. It is severely damaged."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The following"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Going Going Merry..."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "You really..."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Can't go any farther...??"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Nico Robin'sp"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "For the"
+    }
+  ],
+  "summary": "The shipwrights deliver devastating news: the Going Merry is too damaged to continue, forcing Luffy toward an impossible captain’s decision.",
+  "confidence": 0.84,
+  "needs_review": false
+}

@@ -1,0 +1,63 @@
+{
+  "chapter": "656",
+  "part": 2,
+  "title": "The Crew Finds a Dragon",
+  "description": "On pages 4–6, this part follows Unknown person #1, Unknown person #2, Unknown person #5, Unknown person #6, Unknown person #7, Unknown person #8, Unknown person #9. The central beat is the crew finds a dragon.",
+  "pages": [
+    4,
+    5,
+    6
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Unknown person #10",
+    "Luffy",
+    "Zoro",
+    "Robin",
+    "Usopp"
+  ],
+  "scene": "The scene focuses on the crew finds a dragon, with Unknown person #1, Unknown person #2, Unknown person #5, Unknown person #6, Unknown person #7, Unknown person #8, Unknown person #9 shaping the conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Jet bullet(1)"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Its skin is really hard!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Go on, try it."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "I can feel your presence, PFFT!!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Whoo AaaAA AAA!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Luffy's right... this thing really can talk!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "...TORA- GART!!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Saniouryou"
+    }
+  ],
+  "summary": "The Crew Finds a Dragon. This part moves the Straw Hats from Fish-Man Island into the New World and begins the mystery of Punk Hazard.",
+  "confidence": 0.76,
+  "needs_review": true
+}

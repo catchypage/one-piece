@@ -1,0 +1,143 @@
+{
+  "chapter": "120",
+  "part": 2,
+  "title": "Mr. 3 Mocks the Giants",
+  "description": "On pages 8–11, mr. 3 mocks the giants as mr. 3 separates Vivi from her protectors and turns Little Garden’s battlefield into a calculated execution ground.",
+  "pages": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "characters": [
+    "Mr. 3",
+    "Dorry",
+    "Brogy",
+    "Miss Goldenweek",
+    "Usopp",
+    "Mr. 5",
+    "Vivi",
+    "Miss Valentine",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Luffy"
+  ],
+  "scene": "Mr. 3 Mocks the Giants. Mr. 3 separates Vivi from her protectors and turns Little Garden’s battlefield into a calculated execution ground. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Mr. 3",
+      "text": "Haha- haha!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Fuhaha- haha!"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "It must be nice to be such a simple dolt that cries from being too happy, mustn't it?"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "Well... I guess I should be first saying, \"Good work.\""
+    },
+    {
+      "speaker": "Brogy",
+      "text": "You think these are tears of joy...!?"
+    },
+    {
+      "speaker": "Brogy",
+      "text": "Just what would you know...!?"
+    },
+    {
+      "speaker": "Brogy",
+      "text": "Who are you any- ways!?"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "I am Mr. 3... my apologies for only giving you my code- name... I'm a sculptor, you see."
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "And this here is my assistant Miss Golden- Week, a realist painter."
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Further- more,"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "I must tell you that you have already been en- trapped by me...!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What"
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "What is this...!?"
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "Alright, Luffy..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I may not know who was the one respon- Bible..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "But I'll go and take care of him no matter what!"
+    },
+    {
+      "speaker": "Dorry",
+      "text": "I'll go too!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Good! Please come along! It'll be quite reassuring!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "There won't be any need for that...!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "So it was you!"
+    },
+    {
+      "speaker": "Miss Valentine",
+      "text": "We'll return this back to you! He was utterly useless to us..."
+    },
+    {
+      "speaker": "Miss Valentine",
+      "text": "Kyaha- Haha!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Carue!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "How could you..."
+    },
+    {
+      "speaker": "Brogy",
+      "text": "Carue has nothing to do with this!"
+    },
+    {
+      "speaker": "Brogy",
+      "text": "Hey, who are these guys!?"
+    },
+    {
+      "speaker": "Brogy",
+      "text": "They're the guys from the previous town!"
+    },
+    {
+      "speaker": "Miss Valentine",
+      "text": "Indeed, that bird is the least of our concerns...!"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on mr. 3 mocks the giants. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.7,
+  "needs_review": false
+}

@@ -1,0 +1,130 @@
+{
+  "chapter": "110",
+  "part": 2,
+  "title": "Baroque Works Agents Flee",
+  "description": "On pages 5–8, baroque works agents flee as vivi, Igaram, and the Straw Hats try to survive Baroque Works’ pursuit while the truth about Alabasta comes into focus.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Vivi",
+    "Igaram",
+    "Luffy",
+    "Zoro",
+    "Mr. 5",
+    "Miss Valentine"
+  ],
+  "scene": "Baroque Works Agents Flee. Vivi, Igaram, and the Straw Hats try to survive Baroque Works’ pursuit while the truth about Alabasta comes into focus. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "down you go."
+    },
+    {
+      "speaker": "Igaram",
+      "text": "there, that takes care of the clean up."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Ah..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "It's become a nice quiet night again..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I have a few of the most popular"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Was that just my imagination- action?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Thought I heard something just now..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Huff... Ugh..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I can't... just die here...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I still have... an important mission...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "How pathetic, you lost to a single swordsman?"
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "Mr. 5!?"
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "baroque works officer agent MR. 5"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Ms. Valentine!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Baroque works officer agent Ms. Valentine"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Are you idiots just playing around?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Well?"
+    },
+    {
+      "speaker": "Miss Valentine",
+      "text": "Kyaha Haha!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Give them a break, you can't expect them to be as capable as we are."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Did you just come to laugh at us...?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That's one reason."
+    },
+    {
+      "speaker": "Miss Valentine",
+      "text": "Kyaha Haha."
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "We've obviously come here for business."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ku... Hahahaha! With you two backing us up, those pirates stand no chance...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That's right... so please, go crush that troublesome swordsman!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Stop joking around."
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on baroque works agents flee. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.78,
+  "needs_review": false
+}

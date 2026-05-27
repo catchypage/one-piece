@@ -1,0 +1,58 @@
+{
+  "chapter": "93",
+  "part": 5,
+  "title": "The Park Begins to Collapse",
+  "description": "On pages 17–18, the park begins to collapse focuses on Luffy, Arlong, Nami, Nojiko as luffy discovers the room where Nami was forced to draw maps and turns his anger on Arlong Park itself.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Arlong",
+    "Nami",
+    "Nojiko",
+    "Cocoyashi villagers",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Zoro"
+  ],
+  "scene": "On pages 17–18, the park begins to collapse focuses on Luffy, Arlong, Nami, Nojiko as luffy discovers the room where Nami was forced to draw maps and turns his anger on Arlong Park itself.",
+  "dialogue": [
+    {
+      "speaker": "Arlong",
+      "text": "Luffy! Why!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "UARY, Zoro, Usoppp and Salji's resting room and bedroom. It's bloody fatty, but since they're boys, they don't mind."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Laundry Basket"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Nast"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Relaxing Table (nice and relaxing)"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Chest"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Relaxing Could - (totally relaxing)"
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.58,
+  "needs_review": true
+}

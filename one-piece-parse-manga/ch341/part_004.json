@@ -1,0 +1,122 @@
+{
+  "chapter": "341",
+  "part": 4,
+  "title": "Iceburg Reveals the Blueprints",
+  "description": "Chopper reports what Robin said, while the attack on Iceburg and Robin’s actions push the Straw Hats deeper into Water Seven’s conspiracy.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Iceburg",
+    "Paulie",
+    "Nico Robin",
+    "Blueno",
+    "Chopper",
+    "Rob Lucci",
+    "Kaku",
+    "Kalifa",
+    "Franky",
+    "Luffy"
+  ],
+  "scene": "Across pages 13, 14, 15, 16, this part follows Iceburg, Paulie, Nico Robin, Blueno, Chopper. Chopper reports what Robin said, while the attack on Iceburg and Robin’s actions push the Straw Hats deeper into Water Seven’s conspiracy.",
+  "dialogue": [
+    {
+      "speaker": "Iceburg",
+      "text": "Damn....!! it's finally sunset."
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Paulie- San!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "..... yeah"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "You guys go back."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "I'm going to HQ!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Yes, sir."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Shipyard dock 1"
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "So, what's happen- ing"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "With the Grimin- als?"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Shipping basement Hangar"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "appar- entry, they haven't been caught yet."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Scary!!"
+    },
+    {
+      "speaker": "Kalifa",
+      "text": "All gonna be guarding HQ."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "That is amazing!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "That sounds bad!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Galley- La company HQ"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Form a tight line!! Galley-La company!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Ooh!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Oooh!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Outside ice- Berg's bedroom"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Come if you dare!!! WOOOOOO!!!!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "You're too loud! Be quiet, tileston!!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "They didn't get on the sea trains."
+    }
+  ],
+  "summary": "Chopper reports what Robin said, while the attack on Iceburg and Robin’s actions push the Straw Hats deeper into Water Seven’s conspiracy.",
+  "confidence": 0.85,
+  "needs_review": false
+}

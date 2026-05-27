@@ -1,0 +1,67 @@
+{
+  "chapter": "652",
+  "part": 1,
+  "title": "Big Mom Threatens Fish-Man Island",
+  "description": "On pages 1–3, this part follows Unknown person #1, Jinbe, Big Mom, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5. The central beat is big mom threatens fish-man island.",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Jinbe",
+    "Big Mom",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #7",
+    "Luffy",
+    "Pekoms",
+    "Tamago",
+    "King Neptune"
+  ],
+  "scene": "The scene focuses on big mom threatens fish-man island, with Unknown person #1, Jinbe, Big Mom, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5 shaping the conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "So let me ask you jinbe.."
+    },
+    {
+      "speaker": "Jinbe",
+      "text": "How are the sun pirates getting on..."
+    },
+    {
+      "speaker": "Big Mom",
+      "text": "...as part of big mom's fleet?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Does it not trouble you?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "A coincidence, nothing more."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hahah AHAH..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "However, your majesty ..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Indeed... It is a very tempting offer."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "WAHA AHAH! I see!"
+    }
+  ],
+  "summary": "Big Mom Threatens Fish-Man Island. This part advances the end of the Fish-Man Island conflict and the island’s attempt to move beyond inherited hatred.",
+  "confidence": 0.76,
+  "needs_review": true
+}

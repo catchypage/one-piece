@@ -1,0 +1,62 @@
+{
+  "chapter": "131",
+  "part": 5,
+  "title": "The Crew Heads for Snow",
+  "description": "On pages 17–18, the crew heads for snow as the crew encounters Wapol and his men at sea, giving the first glimpse of the cruelty tied to Drum Kingdom.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Wapol",
+    "Luffy",
+    "Sanji",
+    "Nami",
+    "Vivi",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "The Crew Heads for Snow. The crew encounters Wapol and his men at sea, giving the first glimpse of the cruelty tied to Drum Kingdom. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Wapol",
+      "text": "Hm? What's this long thing hanging out?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Oh hey, VIVI. How's Nami doing?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "She's... What's going on!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hmm... a tough one to chew through, aren't you..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Why you..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Ah-"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Get off of my ship!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "YOUR MAJESTY...?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "That man is...!"
+    }
+  ],
+  "summary": "This part centers on the crew heads for snow, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.73,
+  "needs_review": false
+}

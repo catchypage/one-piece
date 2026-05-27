@@ -1,0 +1,103 @@
+{
+  "chapter": "1120",
+  "part": 3,
+  "title": "Atlas Opens the Way Forward",
+  "description": "On pages 8–10, this part focuses on Unknown person #7, Lilith, Atlas, Unknown person #8, Zoro, Jinbe as The Straw Hats, Bonney, giants, Vegapunk satellites, and the Iron Giant struggle to escape while the Five Elders press the island from every direction.",
+  "pages": [
+    8,
+    9,
+    10
+  ],
+  "characters": [
+    "Unknown person #7",
+    "Lilith",
+    "Atlas",
+    "Unknown person #8",
+    "Zoro",
+    "Jinbe",
+    "Unknown person #9",
+    "Vegapunk"
+  ],
+  "scene": "The Straw Hats, Bonney, giants, Vegapunk satellites, and the Iron Giant struggle to escape while the Five Elders press the island from every direction.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #7",
+      "text": "I'll leave her in your hands!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Take off!! I'll make sure you make it in one piece!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "What are you talking about?!"
+    },
+    {
+      "speaker": "Lilith",
+      "text": "Lilith's access has been severed..."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Ailas is the only one left!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Take with inside, zero!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Got it!!"
+    },
+    {
+      "speaker": "Atlas",
+      "text": "Atlas!! You've gotta explain!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Hffth!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Let's go!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Jinbe?!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "We'd regret it if we hesitated now!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Do it, brook!!"
+    },
+    {
+      "speaker": "Jinbe",
+      "text": "Right away, Zoro-san!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Coup..."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "DE..."
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "FWOOSH!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Burst!!"
+    },
+    {
+      "speaker": "Vegapunk",
+      "text": "This broadcast of mine..."
+    }
+  ],
+  "summary": "This part advances the Escape from Egghead through 19 cleaned dialogue beats, centering the emotional stakes, battle movement, and the wider consequences of Egghead.",
+  "confidence": 0.67,
+  "needs_review": true
+}

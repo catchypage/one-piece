@@ -1,0 +1,136 @@
+{
+  "chapter": "200",
+  "part": 2,
+  "title": "No Time to Think",
+  "description": "On pages 5–8, this part focuses on no time to think, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Zoro",
+    "Pell",
+    "Chaka",
+    "King Cobra",
+    "Luffy",
+    "Crocodile",
+    "Miss All Sunday",
+    "Alabasta rebel"
+  ],
+  "scene": "No Time to Think. The crew and Alabasta’s defenders race against time to stop the cannon before the city is destroyed. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "These 10 minutes,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I have been looking for a long time and I have to say that the"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "tic..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Will decide this country's fate!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Hahaha!"
+    },
+    {
+      "speaker": "Pell",
+      "text": "We have"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "You really think you can beat me...!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "'Course."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "I will commend you on your escape from death's door..."
+    },
+    {
+      "speaker": "Pell",
+      "text": "But even so, there's still an insurmountable gap between you and I!"
+    },
+    {
+      "speaker": "Pell",
+      "text": "I am on the level of a Shichibukai...!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "So what if you're a Shichibukail? If that's how it is,"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "I'll just be a Hachibukai!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Who is that man...?"
+    },
+    {
+      "speaker": "Pell",
+      "text": "He's a pirate, haven't you heard...?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "It appears he's saved the princess yet again."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Them..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "He's the one who escorted Vivi safely back to Alabasta?"
+    },
+    {
+      "speaker": "Pell",
+      "text": "Fufu..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Pistol!"
+    },
+    {
+      "speaker": "Pell",
+      "text": "A simple dodge,"
+    },
+    {
+      "speaker": "Pell",
+      "text": "And your attacks are meaningless whether wet or not."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "The Palm of My Hand Can Absorb All Moisture...!"
+    },
+    {
+      "speaker": "Miss All Sunday",
+      "text": "Crap!"
+    },
+    {
+      "speaker": "Alabasta rebel",
+      "text": "I forgot you had that ability!"
+    }
+  ],
+  "summary": "This part develops no time to think and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

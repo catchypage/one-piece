@@ -1,0 +1,146 @@
+{
+  "chapter": "153",
+  "part": 1,
+  "title": "The Crew Waits for Chopper",
+  "description": "On pages 1–3, this part focuses on the crew waits for chopper, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Usopp",
+    "Nami",
+    "Luffy",
+    "Sanji",
+    "Vivi",
+    "Unknown person #1",
+    "Chopper"
+  ],
+  "scene": "The Crew Waits for Chopper. Chopper finally accepts the invitation to join Luffy, leaving Kureha and Drum Island with fear and hope mixed together. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Usopp",
+      "text": "Hey, we should go say good bye as well,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "to the Granny Doctor and that huge guy shaped like an acorn..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Just let Chopper alone do that."
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's just gonna be a big tear-fest for them..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That doctor might seem cruel on the outside but she's a pretty soft-hearted person on the inside, you know."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Then should we really just go like this?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Yes, as soon as Chopper comes back, we'll go down and sail straight for alabasta!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "that's fine with you too, right vivi?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Yes, especially since a doctor will be coming aboard."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Doctor?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Alright... we'll set up the Popeway in the mean- time."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Yo Luffy, come give me a hand."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Awesome, I didn't even know there was a robbery!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "OPEN!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Oh...?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Is it just me or has the number of my patients decreased...?...?...?...?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "They ran away,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "\"Ignoring\" the warning you gave them..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I see..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "trouble- some bunch..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Doc- Tress!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Dottress!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I have something to tell you!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Where've you been, Chopper?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Come down and help carry the cannons outside!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "No, listen! I... I'm going to become a pirate!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I've decided to leave with them!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "What did you say...?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I'm going out to the seas!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I'll be travelling the world as their doctor and crewmate!"
+    }
+  ],
+  "summary": "This part highlights the crew waits for chopper and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.77,
+  "needs_review": false
+}

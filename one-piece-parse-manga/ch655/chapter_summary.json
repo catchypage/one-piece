@@ -1,0 +1,27 @@
+{
+  "chapter": "655",
+  "title": "The Burning Island Calls",
+  "main_description": "The crew finds Punk Hazard, a burning island ignored by the Log Pose, and a distress call pulls Luffy toward danger.",
+  "main_characters": [
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Chopper",
+    "Sanji",
+    "Zoro",
+    "Brook",
+    "Franky",
+    "Robin",
+    "Straw Hats"
+  ],
+  "key_events": [
+    "Punk Hazard Erupts Ahead",
+    "Nami Warns Against the Island",
+    "The Distress Signal Rings",
+    "Luffy Answers the Call",
+    "The Crew Chooses Danger"
+  ],
+  "confidence": 0.84,
+  "needs_review": false,
+  "review_reasons": []
+}

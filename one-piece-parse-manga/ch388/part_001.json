@@ -1,0 +1,78 @@
+{
+  "chapter": "388",
+  "part": 1,
+  "title": "Luffy Catches Blueno",
+  "description": "Luffy overwhelms Blueno and proves the crew can challenge CP9 directly, clearing the way toward Robin.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Blueno",
+    "Nico Robin",
+    "Spandam",
+    "CP9 agent",
+    "Enies Lobby guard"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Luffy, Blueno, Nico Robin, Spandam, CP9 agent. Luffy overwhelms Blueno and proves the crew can challenge CP9 directly, clearing the way toward Robin.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "\"Gear\"?"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Your technique will evalve?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "EMITTING STEAM FROM YOUR BODY..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What're you trying to Bluff?"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Am glad I met you here."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "\"Gomu Gomu\"..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "\"Soru\""
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Jet pistol!!!!!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "...Kuh!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I can't see him at all!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Whoa!!!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "GA HA...!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "\"Stamp\"!!!"
+    }
+  ],
+  "summary": "Luffy overwhelms Blueno and proves the crew can challenge CP9 directly, clearing the way toward Robin.",
+  "confidence": 0.81,
+  "needs_review": false
+}

@@ -1,0 +1,101 @@
+{
+  "chapter": "210",
+  "part": 3,
+  "title": "The Navy Closes In",
+  "description": "On pages 12, 13, 14, 15, this part focuses on the war finally ends. Alabasta’s people absorb the end of the fighting while the Straw Hats and their allies prepare for the painful separation ahead.",
+  "pages": [
+    12,
+    13,
+    14,
+    15
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Zoro",
+    "Baroque Works Agent",
+    "Karoo",
+    "Smoker"
+  ],
+  "scene": "This scene belongs to the The War Finally Ends sequence. The important beat is the dialogue and action around Luffy, Nami, Usopp, Sanji, Chopper.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Please stop..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "fighting!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Vivi's voice..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Finally reached them..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "It's the princess."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Princess Vivi?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Vivi...!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Wasn't the princess supposed to be missing...?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "AHH! W-why is..."
+    },
+    {
+      "speaker": "Baroque Works Agent",
+      "text": "Crocodile lying here unconscious!?"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "Shut your trap and sit still!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The rain falling now..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Will fall again as in times past."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Now that the nightmare,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Is finally over...!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You have my thanks."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Grin!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Cool!"
+    }
+  ],
+  "summary": "Alabasta’s people absorb the end of the fighting while the Straw Hats and their allies prepare for the painful separation ahead.",
+  "confidence": 0.89,
+  "needs_review": false
+}

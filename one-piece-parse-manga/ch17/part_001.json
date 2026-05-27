@@ -1,0 +1,104 @@
+{
+  "chapter": "17",
+  "part": 1,
+  "title": "Chouchou Refuses to Abandon the Shop",
+  "description": "On pages 1–4, Chouchou’s loyalty to the pet food shop turns Buggy’s occupation from a pirate threat into a personal wound for the town.",
+  "pages": [
+    1,
+    2,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Unknown person #1",
+    "Buggy"
+  ],
+  "scene": "Chouchou refuses to give up the place connected to his owner, while pirates and bystanders react to the dog’s stubborn defense.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "I'm feeling FAINT JUST watching THIS!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Get'M, Zolo!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I can't lose, not even once..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "TO ANYONE WHO CALLS HIMSELF A SWORDSMAN!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "So you injured yourself as insurance for your reputation... well, don't worry..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "YOUR WOUNDS ARE SEVERE. THEY'LL MAKE AN EXCELLENT EXCUSE WHEN YOU LOSE."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Read this way"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It's the other way around!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "If I lose to the likes of you when my wounds are only this light..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Then I may as well give up my dream right now."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You scurvy dog!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hey!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "THAT SHACK BEHIND THE RUNS OF THE TAVERN..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "That's where they keep their treasure."
+    },
+    {
+      "speaker": "Nami",
+      "text": "And Buggy's probably got the map of the Grand Line."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I'll get their treasure and make my escape."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'VE GOT TO DO IT NOW, WHILE THEY'RE ALL KNOCKED OUT..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "WHETHER YOU GUYS WIN OR LOSE THIS BATTLE..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I DON'T REALLY CARE!"
+    }
+  ],
+  "summary": "This part makes the conflict emotional: Luffy sees that Buggy’s violence is not abstract, but aimed at things people love and protect.",
+  "confidence": 0.7,
+  "needs_review": false
+}

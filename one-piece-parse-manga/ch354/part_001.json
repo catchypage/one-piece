@@ -1,0 +1,111 @@
+{
+  "chapter": "354",
+  "part": 1,
+  "title": "Tom’s Dream",
+  "description": "The flashback closes around Franky’s survival, his transformation, and the burden of Tom’s dream and the Pluton blueprints.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Tom",
+    "Spandam",
+    "Kokoro",
+    "Yokozuna",
+    "World Government agent",
+    "Franky",
+    "Iceburg"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Tom, Spandam, Kokoro, Yokozuna, World Government agent. The flashback closes around Franky’s survival, his transformation, and the burden of Tom’s dream and the Pluton blueprints.",
+  "dialogue": [
+    {
+      "speaker": "Tom",
+      "text": "Tom's going to be executed!!!"
+    },
+    {
+      "speaker": "Tom",
+      "text": "'Cause he built a pirate ship!!!"
+    },
+    {
+      "speaker": "Tom",
+      "text": "Tom- San!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Thus, this exe- button."
+    },
+    {
+      "speaker": "Tom",
+      "text": "Please escort the criminal."
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "Right now...!!"
+    },
+    {
+      "speaker": "World Government agent",
+      "text": "Hey, what're you doing?!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "...is because of the bad trade."
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "Are the concern for this sinking island..."
+    },
+    {
+      "speaker": "Tom",
+      "text": "The opening of the sea train..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "...will someday be the Saviour..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "...of Water Seven!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Excuse us!! We'll take him right away!!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "... wait."
+    },
+    {
+      "speaker": "Tom",
+      "text": "\"Sea train\"...?"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "unaffected by the weather..."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "The sea tracks..."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "And it won't go against the waves."
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "There will be no use for logs."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "You can do that...?"
+    }
+  ],
+  "summary": "The flashback closes around Franky’s survival, his transformation, and the burden of Tom’s dream and the Pluton blueprints.",
+  "confidence": 0.71,
+  "needs_review": true
+}

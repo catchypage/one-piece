@@ -1,0 +1,111 @@
+{
+  "chapter": "205",
+  "part": 1,
+  "title": "Rain Falls on Alabasta",
+  "description": "On pages 1, 2, 3, 4, this part focuses on a kingdom wakes from war. Alabasta starts facing the aftermath of Crocodile’s deception while Vivi, Cobra, the rebels, and the Straw Hats recover from the civil war.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Alabasta citizen",
+    "Vivi",
+    "Luffy",
+    "King Cobra",
+    "Smoker",
+    "Tashigi",
+    "Nico Robin"
+  ],
+  "scene": "This scene belongs to the A Kingdom Wakes from War sequence. The important beat is the dialogue and action around Alabasta citizen, Vivi, Luffy, King Cobra, Smoker.",
+  "dialogue": [
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Hurry! Hurry!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "We've lost quite a bit of time!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Don't look at them, you idiot!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "...Right!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Praying won't help us in this situation!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Right!"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "We need everyone for this last job!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Right!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "They're here!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "VIV!! USOP!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Nami! Tony!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Drsh!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Is the cannon here!?"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "It's inside the clock tower!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "What"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The clock tower!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You're right!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "tic..."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "tic"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "I have been to work with the"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "There's no more time!"
+    }
+  ],
+  "summary": "Alabasta starts facing the aftermath of Crocodile’s deception while Vivi, Cobra, the rebels, and the Straw Hats recover from the civil war.",
+  "confidence": 0.88,
+  "needs_review": false
+}

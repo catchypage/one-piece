@@ -1,0 +1,24 @@
+{
+  "chapter": "613",
+  "title": "Princess Shirahoshi’s Tower",
+  "main_description": "Luffy meets Shirahoshi and discovers the lonely princess hiding from Vander Decken’s constant attacks.",
+  "main_characters": [
+    "Luffy",
+    "Shirahoshi",
+    "King Neptune",
+    "Vander Decken",
+    "Royal Guards",
+    "Zoro",
+    "Fish-Men",
+    "Hody Jones"
+  ],
+  "key_events": [
+    "Luffy Finds Shirahoshi",
+    "The Princess Reveals Her Loneliness",
+    "Decken’s Axe Strikes Again",
+    "The Palace Panic Spreads"
+  ],
+  "confidence": 0.84,
+  "needs_review": false,
+  "review_reasons": []
+}

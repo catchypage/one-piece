@@ -1,0 +1,51 @@
+{
+  "chapter": "107",
+  "part": 5,
+  "title": "The Agents Realize Their Mistake",
+  "description": "On pages 17–18, the agents realize their mistake as while the crew sleeps after the feast, Zoro stays awake and discovers the town’s real identity as a nest of bounty hunters.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Zoro",
+    "Baroque Works agent",
+    "Luffy",
+    "Nami",
+    "Unknown person #1"
+  ],
+  "scene": "The Agents Realize Their Mistake. While the crew sleeps after the feast, Zoro stays awake and discovers the town’s real identity as a nest of bounty hunters. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Zoro",
+      "text": "1garappa!"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "Whew... was that a shotgun?"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "Talk about dangerous..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It looks like..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "We'll have to deal with him person- ally."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Yo, baby, you called?!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "adventure!! USOPP gallery Pirates!!"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on the agents realize their mistake. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.7,
+  "needs_review": false
+}

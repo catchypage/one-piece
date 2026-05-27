@@ -1,0 +1,37 @@
+{
+  "chapter": "104.5",
+  "part": 6,
+  "title": "Fifty Years of Waiting",
+  "description": "On pages 19–19, fifty years of waiting as crocus explains Laboon’s long vigil and the tragedy behind the whale’s attacks on the Red Line.",
+  "pages": [
+    19
+  ],
+  "characters": [
+    "Crocus",
+    "Nami",
+    "Usopp",
+    "Laboon"
+  ],
+  "scene": "Fifty Years of Waiting. Crocus explains Laboon’s long vigil and the tragedy behind the whale’s attacks on the Red Line. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Crocus",
+      "text": "That's why he's crying for them and hitting his head against red line, so he can get to another side."
+    },
+    {
+      "speaker": "Nami",
+      "text": "That's right."
+    },
+    {
+      "speaker": "Crocus",
+      "text": "It's been 50 years now."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "He still believes that his friends are still alive."
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on fifty years of waiting. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.73,
+  "needs_review": false
+}

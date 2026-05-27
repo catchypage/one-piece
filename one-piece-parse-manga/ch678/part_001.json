@@ -1,0 +1,54 @@
+{
+  "chapter": "678",
+  "part": 1,
+  "title": "The Lab Becomes a Battlefield",
+  "description": "On pages 1–3, this part follows Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Luffy, Trafalgar Law, Smoker. The central beat is the lab becomes a battlefield.",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Luffy",
+    "Trafalgar Law",
+    "Smoker",
+    "Tashigi",
+    "Nami",
+    "Chopper",
+    "Children"
+  ],
+  "scene": "The scene focuses on the lab becomes a battlefield, with Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Luffy, Trafalgar Law, Smoker shaping the Punk Hazard conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "What do you think you're doing?!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "This is bad!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "It's great that we've made it inside..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Everyone plug up that hole!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Somewhere you have"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "HAA had"
+    }
+  ],
+  "summary": "The Lab Becomes a Battlefield. This part advances Punk Hazard’s rescue mission, Caesar’s experiment, and the fragile pirate–Marine alliance.",
+  "confidence": 0.76,
+  "needs_review": true
+}

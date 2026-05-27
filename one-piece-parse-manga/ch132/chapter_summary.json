@@ -1,0 +1,23 @@
+{
+  "chapter": "132",
+  "title": "Drum Island Rejects Pirates",
+  "main_description": "The Straw Hats reach Drum Island, but the armed villagers fear pirates and refuse to welcome them until Vivi pleads for Nami’s life. The chapter is divided into display-ready story parts with cleaned dialogue and context-based speaker names.",
+  "main_characters": [
+    "Luffy",
+    "Nami",
+    "Vivi",
+    "Zoro",
+    "Usopp",
+    "Sanji",
+    "Dalton"
+  ],
+  "key_events": [
+    "Drum Island Opens Fire",
+    "Vivi Begs for Help",
+    "The Villagers Lower Their Weapons",
+    "Dalton Steps Forward",
+    "The Search for Kureha Begins"
+  ],
+  "confidence": 0.76,
+  "needs_review": false
+}

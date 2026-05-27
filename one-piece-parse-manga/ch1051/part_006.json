@@ -1,0 +1,45 @@
+{
+  "chapter": "1051",
+  "part": 6,
+  "title": "The Alliance Says Farewell to Wano",
+  "description": "On pages 18–18, this part focuses on Wano Citizens, Momonosuke, Unknown person #16, Yamato as Wano celebrates liberation while Momonosuke becomes shogun, Green Bull threatens the island, and the alliance prepares to depart.",
+  "pages": [
+    18
+  ],
+  "characters": [
+    "Wano Citizens",
+    "Momonosuke",
+    "Unknown person #16",
+    "Yamato"
+  ],
+  "scene": "Wano celebrates liberation while Momonosuke becomes shogun, Green Bull threatens the island, and the alliance prepares to depart.",
+  "dialogue": [
+    {
+      "speaker": "Wano Citizens",
+      "text": "Wano will be led by me,"
+    },
+    {
+      "speaker": "Momonosuke",
+      "text": "Kozuki MOMONO- SURE!!"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "WAAH!!"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "mother..."
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "I will keep my promise!!"
+    },
+    {
+      "speaker": "Yamato",
+      "text": "father..."
+    }
+  ],
+  "summary": "This part advances the Wano Aftermath through 6 cleaned dialogue beats, focusing on character decisions, battlefield momentum, and the story’s larger consequences.",
+  "confidence": 0.82,
+  "needs_review": true
+}

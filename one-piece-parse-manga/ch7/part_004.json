@@ -1,0 +1,126 @@
+{
+  "chapter": "7",
+  "part": 4,
+  "title": "Luffy Decides to Free Zoro",
+  "description": "On pages 12–15, this part resolves the Shells Town conflict and separates Coby’s Marine dream from Luffy and Zoro’s pirate path.",
+  "pages": [
+    12,
+    13,
+    14,
+    15
+  ],
+  "characters": [
+    "Luffy",
+    "Coby",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "In Shells Town, Luffy, Coby, and Zoro are drawn into the cruelty of Morgan’s rule and Helmeppo’s privilege.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Why, you--!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "TAKE THAT!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "And this!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Enough!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "STOP DISTURBING THE PEACE!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hey, hey..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "That's enough."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "It's clear that you're not friends!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Please, leave Town! Now!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Was that his plan!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "DID HE GOAD ME INTO HITTING HIM!?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "He did it again!! In the end..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "CATCH US IF YOU CAN!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "GASP!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "...I still depend on his help!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "WHAT AM I..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "helpless!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "If I don't depend on myself from now on, then I AM a loser!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Please let me join the Navy, Sir!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'll be a cabin boy, or anything, but just let me join!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm gonna do it!! I'm gonna do it!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "LEUTENANT! I DON'T THINK THAT'S A GOOD IDEA!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I still don't trust him!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "pirates have been known to plant spies in the navy."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "WE SHOULD DO A THOROUGH BACK- GROUND CHECK ON HIM."
+    }
+  ],
+  "summary": "The Shells Town conflict uses Zoro’s imprisonment and Morgan’s rule to test what kind of people Luffy chooses to trust. The section moves Zoro closer to becoming Luffy’s first crewmate.",
+  "confidence": 0.69,
+  "needs_review": true
+}

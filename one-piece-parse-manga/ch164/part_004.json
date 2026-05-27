@@ -1,0 +1,198 @@
+{
+  "chapter": "164",
+  "part": 4,
+  "title": "The Friendship Behind the War",
+  "description": "On pages 13–16, this part focuses on the friendship behind the war, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Vivi",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "King Cobra",
+    "Sanji",
+    "Zoro",
+    "Toto",
+    "Koza",
+    "Baroque Works agent"
+  ],
+  "scene": "The Friendship Behind the War. Vivi’s childhood bond with Koza and the roots of the rebel movement give the civil war a personal face. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "I must confess that I am a little worried."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "About what?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "To be a ruler means having to lay down harsh decisions at times..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I fear Vivi's a little too nice for that."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Igaram..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Yes?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It's fine..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Alabasta is just fine like this..."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "I'll accompany your majesty,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "'Till the end of my life."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "\"Yuba.\""
+    },
+    {
+      "speaker": "Usopp",
+      "text": "That's right!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "That's what your dad was talking to my dad about!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "To Toto...?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Yuba's an uninhabited oasis right now,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "So he asked if my dad would be interested in starting up a town there!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "It's situated right in the middle of Western Alabama,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "So it'll be the perfect intersection for travellers and merchants!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Just imagine how happy people would be if a town were there!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Sounds amazing, right!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "My dad accepted the offer to start a town there on behalf of the king!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Are you going too?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "'Course! My dad told me I should just stay here but, well..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I mean, I know it's gonna be hard work and all,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "But I still want to try it! I want to help create a new town with my own two hands!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Yuba will be a vital town for the future of Alabasta!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'll leave it all in your care, Toto."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Thank you, your majesty. I promise the new town will be something to see!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Well, I guess we should say good-bye for now, Vivi."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Please do come visit once the town is set up."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Sure thing, Toto!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Just you wait!"
+    },
+    {
+      "speaker": "Toto",
+      "text": "I'll build that town so it'll help make this country better than before!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "See ya then, Vivi! In the meanwhile..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You better grow up to be a good princess!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Okay!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Kouza! That's not how to address the princess of our country!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Oww!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "As Kouza said,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm sure Yuba will help make this country even better than before..."
+    },
+    {
+      "speaker": "Koza",
+      "text": "...So what if there hasn't been any rain for the past 3 years!?"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "I still believe in the king! And I'm sure most of the other citizens still do too!"
+    }
+  ],
+  "summary": "This part develops the friendship behind the war and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

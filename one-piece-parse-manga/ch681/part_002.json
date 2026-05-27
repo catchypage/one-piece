@@ -1,0 +1,50 @@
+{
+  "chapter": "681",
+  "part": 2,
+  "title": "The Rescue Pushes Forward",
+  "description": "On pages 4–6, this part follows Unknown person #1, Unknown person #2, Unknown person #4, Caesar Clown, Unknown person #5, Luffy, Nami. The central beat is the rescue pushes forward.",
+  "pages": [
+    4,
+    5,
+    6
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #4",
+    "Caesar Clown",
+    "Unknown person #5",
+    "Luffy",
+    "Nami",
+    "Chopper",
+    "Children",
+    "Trafalgar Law",
+    "Smoker"
+  ],
+  "scene": "The scene focuses on the rescue pushes forward, with Unknown person #1, Unknown person #2, Unknown person #4, Caesar Clown, Unknown person #5, Luffy, Nami shaping the Punk Hazard finale and the road toward Dressrosa.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "MICK GAS!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I'm the one who decides that!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Kara- KUN!!"
+    },
+    {
+      "speaker": "Caesar Clown",
+      "text": "SHUROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROROR"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "...KU ...!!"
+    }
+  ],
+  "summary": "The Rescue Pushes Forward. This part advances the collapse of Caesar’s operation, Law’s leverage over Doflamingo, and the alliance’s next destination.",
+  "confidence": 0.76,
+  "needs_review": true
+}

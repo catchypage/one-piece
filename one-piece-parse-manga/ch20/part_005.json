@@ -1,0 +1,67 @@
+{
+  "chapter": "20",
+  "part": 5,
+  "title": "Orange Town Under Buggy’s Shadow",
+  "description": "On pages 17–18, the Orange Town conflict focuses on Nami, Unknown person #1, Luffy, Unknown person #2, with Buggy’s occupation testing Luffy, Zoro, Nami, and the townspeople.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Nami",
+    "Unknown person #1",
+    "Luffy",
+    "Unknown person #2",
+    "Buggy"
+  ],
+  "scene": "This part follows the pressure inside Orange Town as Buggy’s crew, the Straw Hats, and the people caught between them react to the escalating fight.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "Eh!!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "You wouldn't happen to be looking..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "For these, would you?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "YIKES!!! My body parts!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hahaha- Hahahaha- HahaHA!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "A thief definitely has some cool skills!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Leave the rest to me!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Get lost, buggy..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "STOOOOO OOPPP!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Bazooka!"
+    }
+  ],
+  "summary": "The scene keeps the Orange Town arc moving by tying the immediate battle to the town’s fear, Nami’s motives, and Luffy’s instinct to answer cruelty directly.",
+  "confidence": 0.7,
+  "needs_review": false
+}

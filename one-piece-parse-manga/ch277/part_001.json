@@ -1,0 +1,98 @@
+{
+  "chapter": "277",
+  "part": 1,
+  "title": "The Ark Begins to Move",
+  "description": "Nami must decide whether to follow Enel for safety or trust Luffy and the crew against impossible odds.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Narrator",
+    "Enel",
+    "Luffy",
+    "Nami",
+    "Aisa",
+    "Wyper",
+    "Gan Fall",
+    "Sanji",
+    "Usopp",
+    "Zoro"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this scene centers on Narrator, Enel, Luffy, Nami, Aisa. Nami must decide whether to follow Enel for safety or trust Luffy and the crew against impossible odds.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "Skypica, Angel Island Shore"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Hey, look..."
+    },
+    {
+      "speaker": "Enel",
+      "text": "That girl..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Yeah, there's no doubt about it."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "It's the blasphemer,"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Pagaya's daughter!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Are you planning on bringing that along?"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Well..."
+    },
+    {
+      "speaker": "Enel",
+      "text": "Yes,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "But whatever... Do as you wish,"
+    },
+    {
+      "speaker": "Enel",
+      "text": "T-thank you very much."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Step..."
+    },
+    {
+      "speaker": "Enel",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Just what is this thing..."
+    },
+    {
+      "speaker": "Enel",
+      "text": "Your surprise is quite understandable..."
+    },
+    {
+      "speaker": "Enel",
+      "text": "It's powered by lightning."
+    },
+    {
+      "speaker": "Enel",
+      "text": "It can't be...! A flying ship!?"
+    }
+  ],
+  "summary": "Nami must decide whether to follow Enel for safety or trust Luffy and the crew against impossible odds.",
+  "confidence": 0.85,
+  "needs_review": false
+}

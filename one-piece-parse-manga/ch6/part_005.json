@@ -1,0 +1,121 @@
+{
+  "chapter": "6",
+  "part": 5,
+  "title": "Morgan’s Rule Turns Violent",
+  "description": "On pages 17–20, this part turns Zoro’s imprisonment into open action as Luffy forces the fight against Morgan’s Marines.",
+  "pages": [
+    17,
+    18,
+    19,
+    20
+  ],
+  "characters": [
+    "Zoro",
+    "Helmeppo",
+    "Luffy",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6"
+  ],
+  "scene": "In Shells Town, Luffy, Coby, and Zoro are drawn into the cruelty of Morgan’s rule and Helmeppo’s privilege.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm not gonna die."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "He's just too strong!!"
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "CAPTAIN MORGAN..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "He's getting pummeled!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You and YOUR Navy..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "ARE RUNNING KOBY'S DREAM!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Stop!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I said, STOP, you idiot!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "One false move and four eyes gets it!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "If you even blink, I'll shoot!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "HELIMEPO....!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Hey, Luffy!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Don't let them win because of me!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Let him kill me!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "You're a good guy, KOBY!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "HEY, IDIOT- SON-OF- THE- CAPTAIN! KOBY MEANS IT!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Hey! I told you not to move or I'd shoot!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Fine! I'll just shoot him then!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Luffy!! Behind you!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "You've assaulted an officer of the Navy!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Gum- gum..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "...Pistou!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Daddy!! Kill him!!"
+    }
+  ],
+  "summary": "The Shells Town conflict uses Zoro’s imprisonment and Morgan’s rule to test what kind of people Luffy chooses to trust. The section moves Zoro closer to becoming Luffy’s first crewmate.",
+  "confidence": 0.64,
+  "needs_review": true
+}

@@ -1,0 +1,108 @@
+{
+  "chapter": "321",
+  "part": 2,
+  "title": "Robin’s Fear Remains",
+  "description": "After the encounter with Aokiji, the Straw Hats recover from ice and the crew understands how dangerous the Grand Line has become for Robin.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Nico Robin",
+    "Chopper",
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Usopp",
+    "Aokiji"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this part follows Nico Robin, Chopper, Luffy, Nami, Zoro. After the encounter with Aokiji, the Straw Hats recover from ice and the crew understands how dangerous the Grand Line has become for Robin.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Just defrost at low tempera- tune..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Nami! Please go help thawing Nico Robin!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "OK!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That was the captain's order..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "So what? You can't just run away!!?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "You are too cruel!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Or scared!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Shut up!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "It's \"mano a mano!\""
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Try to under- stand, damn it!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Now is..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "The critical moment of our survival."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Right now..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Damn... it..."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "you're... as strange as i thought..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "WUAAAAAH!!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Day!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "inHail...!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu...."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Storm!!"
+    }
+  ],
+  "summary": "After the encounter with Aokiji, the Straw Hats recover from ice and the crew understands how dangerous the Grand Line has become for Robin.",
+  "confidence": 0.73,
+  "needs_review": false
+}

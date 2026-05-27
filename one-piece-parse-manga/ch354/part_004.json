@@ -1,0 +1,40 @@
+{
+  "chapter": "354",
+  "part": 4,
+  "title": "Tom’s Pride",
+  "description": "The flashback closes around Franky’s survival, his transformation, and the burden of Tom’s dream and the Pluton blueprints.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Tom",
+    "Franky",
+    "Iceburg",
+    "Spandam",
+    "Kokoro",
+    "Yokozuna",
+    "World Government agent"
+  ],
+  "scene": "Across pages 17, this part follows Tom, Franky, Iceburg, Spandam, Kokoro. The flashback closes around Franky’s survival, his transformation, and the burden of Tom’s dream and the Pluton blueprints.",
+  "dialogue": [
+    {
+      "speaker": "Tom",
+      "text": "When the sea train, puffing Tom,"
+    },
+    {
+      "speaker": "Franky",
+      "text": "carrying the troubled people..."
+    },
+    {
+      "speaker": "Tom",
+      "text": "(Note: ) / said:)"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "crossed the sea."
+    }
+  ],
+  "summary": "The flashback closes around Franky’s survival, his transformation, and the burden of Tom’s dream and the Pluton blueprints.",
+  "confidence": 0.88,
+  "needs_review": false
+}

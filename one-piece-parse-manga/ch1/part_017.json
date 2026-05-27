@@ -1,0 +1,57 @@
+{
+  "chapter": "1",
+  "part": 17,
+  "title": "Luffy Sets Sail with Shanks’ Promise",
+  "description": "On pages 60–60, this part follows the Romance Dawn flashback and focuses on how Luffy’s pirate dream is formed through Shanks, Higuma, and the straw hat promise.",
+  "pages": [
+    60
+  ],
+  "characters": [
+    "Luffy",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "Shanks leaves Luffy with the straw hat, turning their farewell into a promise about the future.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "HARD TO BELIEVE THAT I'M GETTING SUCKED INTO THIS GIANT WHIRL- POOL..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "MAYBE I WAS A LITTLE CARELESS..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "could use some help, but there's nobody around."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "OH WELL, CAN'T BE HELPED. DOWN I GO..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Too bad I can't swim, too."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HA! WHAT WAS THE THINKING? IN A GIANT WHIRLPOOL, IT DOESN'T REALLY MAKE A DIFFERENCE IF YOU CAN SWIM OR NOT!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'd drown Bibi I could swim!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "YIKES!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "AAA!"
+    }
+  ],
+  "summary": "Shanks entrusts Luffy with the straw hat as a promise for the future. This moment turns Luffy’s dream into the core vow that will define his journey.",
+  "confidence": 0.74,
+  "needs_review": false
+}

@@ -1,0 +1,75 @@
+{
+  "chapter": "191",
+  "part": 5,
+  "title": "The Enemy’s Trick Is Exposed",
+  "description": "On pages 17–19, this part focuses on the enemy’s trick is exposed, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    17,
+    18,
+    19
+  ],
+  "characters": [
+    "Nami",
+    "Miss Doublefinger",
+    "Usopp",
+    "Vivi"
+  ],
+  "scene": "The Enemy’s Trick Is Exposed. Nami begins turning Usopp’s flawed invention into a weapon suited to her intelligence and weather sense. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "What're you looking at so intently?"
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "WHA-"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You shouldn't be looking somewhere else until the fight's over..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Aren't you taking a life or death battle a little too lightly?"
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "Kyaaaaaa!"
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "Just kidding! 🙂"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "I used the cool balls to change the air density. Light will refract considerably when moving from across a layer of cold air to hot air."
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "Looks like this is the perfect weapon for me!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Amirage?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "At such a close range!?"
+    },
+    {
+      "speaker": "Miss Doublefinger",
+      "text": "I now under- stand the China- tact!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You better give up while you can!"
+    }
+  ],
+  "summary": "This part develops the enemy’s trick is exposed and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.77,
+  "needs_review": false
+}

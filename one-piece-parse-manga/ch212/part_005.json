@@ -1,0 +1,84 @@
+{
+  "chapter": "212",
+  "part": 5,
+  "title": "The X-Mark Promise",
+  "description": "On pages 17, 18, this part focuses on vivi speaks to her country. Vivi stands before Alabasta and chooses her duty as princess, even as her heart remains tied to the friends who saved her.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Smoker",
+    "Usopp",
+    "Sanji",
+    "Zoro",
+    "Chopper"
+  ],
+  "scene": "This scene belongs to the Vivi Speaks to Her Country sequence. The important beat is the dialogue and action around Luffy, Smoker, Usopp, Sanji, Zoro.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Alright, get yourselves onboard."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yes, sir!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "This is the marine HQ."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Is Capt. Smoker there?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Yes, that'd be me."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "concern- ing your subjuga-tion of crocodile,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Subjugation? Hold on a moment there..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "There is also-"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Were the Straw Hat pirates!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "It's pointless to object, Smoker."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That's a load of crap!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "WE defeated Crocodile...!?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "What"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Smoker!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Tell them to eat shit."
+    }
+  ],
+  "summary": "Vivi stands before Alabasta and chooses her duty as princess, even as her heart remains tied to the friends who saved her.",
+  "confidence": 0.88,
+  "needs_review": false
+}

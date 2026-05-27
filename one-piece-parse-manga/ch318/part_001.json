@@ -1,0 +1,86 @@
+{
+  "chapter": "318",
+  "part": 1,
+  "title": "The Davy Back Fight Challenge",
+  "description": "After the Davy Back Fight, the crew regroups on Long Ring Long Land and the strange calm before a new threat arrives.",
+  "pages": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Luffy",
+    "Foxy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Porche",
+    "Tonjit"
+  ],
+  "scene": "Across pages 0, 1, 2, 3, this scene focuses on Luffy, Foxy, Nami, Usopp, Zoro. After the Davy Back Fight, the crew regroups on Long Ring Long Land and the strange calm before a new threat arrives.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "End of the game"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "Boss is sent soaring in the sky!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Luffy's Game-ending Punch ---!!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Boss!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Guru"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gura"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "The point of landing is..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Outside the battlefield!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "The captain vs captain combat round,"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "The winner of this round is..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I won't let you have..."
+    },
+    {
+      "speaker": "Porche",
+      "text": "Any of my Nakama..."
+    },
+    {
+      "speaker": "Foxy",
+      "text": "even if..."
+    },
+    {
+      "speaker": "Foxy",
+      "text": "...I die!!!"
+    }
+  ],
+  "summary": "After the Davy Back Fight, the crew regroups on Long Ring Long Land and the strange calm before a new threat arrives.",
+  "confidence": 0.88,
+  "needs_review": false
+}

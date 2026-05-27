@@ -1,0 +1,40 @@
+{
+  "chapter": "208",
+  "part": 5,
+  "title": "The X-Mark Promise",
+  "description": "On pages 17, 18, this part focuses on vivi’s choice approaches. The Straw Hats make plans to depart while Vivi faces the decision of whether to remain a princess or continue sailing with her friends.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji"
+  ],
+  "scene": "This scene belongs to the Vivi’s Choice Approaches sequence. The important beat is the dialogue and action around Luffy, Vivi, Nami, Usopp, Zoro.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "The one who vanquishes,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "All enemies of the royal household."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Octopus- German"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Octopus- Fishman"
+    }
+  ],
+  "summary": "The Straw Hats make plans to depart while Vivi faces the decision of whether to remain a princess or continue sailing with her friends.",
+  "confidence": 0.89,
+  "needs_review": false
+}

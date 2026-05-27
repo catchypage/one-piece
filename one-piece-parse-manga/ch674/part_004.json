@@ -1,0 +1,100 @@
+{
+  "chapter": "674",
+  "part": 4,
+  "title": "Everyone Runs for Shelter",
+  "description": "On pages 13–16, this part follows Unknown person #1, Unknown person #2, Punk Hazard Guards, Unknown person #3, Children, Unknown person #4, Unknown person #5. The central beat is everyone runs for shelter.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Punk Hazard Guards",
+    "Unknown person #3",
+    "Children",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Unknown person #10"
+  ],
+  "scene": "The scene focuses on everyone runs for shelter, with Unknown person #1, Unknown person #2, Punk Hazard Guards, Unknown person #3, Children, Unknown person #4, Unknown person #5 shaping the Punk Hazard conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Why, you!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Gastanet!!"
+    },
+    {
+      "speaker": "Punk Hazard Guards",
+      "text": "This is Caesar..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I have successfully recovered the children...!!"
+    },
+    {
+      "speaker": "Children",
+      "text": "The candy ...!!"
+    },
+    {
+      "speaker": "Punk Hazard Guards",
+      "text": "Master !!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "...then all that remains ..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "...is to wait for Smiley's arrival."
+    },
+    {
+      "speaker": "Punk Hazard Guards",
+      "text": "Yes, Master."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Ahem. Illegal brokers far and wide!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Today ..."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "From Revolution ..."
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "...to war... to domination..."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Various islands around the new world..."
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Hencehoooh, you're a professional"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "The potential applications are many..."
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Why don't we strike ourselves a deal...?!!"
+    }
+  ],
+  "summary": "Everyone Runs for Shelter. This part advances Punk Hazard’s rescue mission, Caesar’s experiment, and the fragile pirate–Marine alliance.",
+  "confidence": 0.72,
+  "needs_review": true
+}

@@ -1,0 +1,101 @@
+{
+  "chapter": "61",
+  "part": 3,
+  "title": "Gin Turns on Sanji — Part 3",
+  "pages": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "characters": [
+    "Luffy",
+    "Sanji",
+    "Don Krieg",
+    "Gin",
+    "Zeff",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5"
+  ],
+  "scene": "On pages 8–11, the Baratie conflict focuses on Luffy, Sanji, Don Krieg, Gin, Zeff. Gin is ordered to kill Sanji, but his debt and sympathy clash with Don Krieg’s brutal command.",
+  "dialogue": [
+    {
+      "speaker": "Sanji",
+      "text": "S-Sanji... I wonder if he's alright..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "How could he be!?"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "He must've already had 5 or 6 of his ribs broken from that shield-wearing bastard earlier...!"
+    },
+    {
+      "speaker": "Gin",
+      "text": "...you're unexpectedly pretty weak, Mr. Battle Commander."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Guess the mighty krig pirates were all talk and no substance."
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "Look:"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "Ah."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "He's looking away."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Now's my chance to send him flying!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Doahuh!!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "No need to be impatient..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Flick!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Splash!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Ahhhh!"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "because I'll kill you as well within due time!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Aghh!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Spears!"
+    }
+  ],
+  "summary": "This part keeps the Baratie battle centered on willpower, debt, hunger, and pride. The dialogue shows who still stands firm after Krieg’s violence and who is ready to break away from the restaurant’s old life.",
+  "confidence": 0.73,
+  "needs_review": false
+}

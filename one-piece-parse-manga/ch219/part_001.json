@@ -1,0 +1,122 @@
+{
+  "chapter": "219",
+  "part": 1,
+  "title": "A Strange Sea Near Jaya",
+  "description": "On pages 1, 2, 3, 4, this part focuses on toward the knock up stream. The search for sky island becomes more concrete as the crew learns about unusual currents, salvage rivals, and the legends around Jaya.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Mont Blanc Cricket",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Zoro",
+    "Chopper",
+    "Nico Robin",
+    "Masira",
+    "Shojo"
+  ],
+  "scene": "This scene belongs to the Toward the Knock Up Stream sequence. The important beat is the dialogue and action around Mont Blanc Cricket, Luffy, Nami, Usopp, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "\"Sky Island.\""
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Are you kiddin' me!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "A sea!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "That makes even less sense..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Aaawesome!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Alright, mates! Turn the rubber upwards!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "up, up, up into the sky!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Minninf!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Nor have I heard of one..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "No, Ms. Navigator..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "What're those two up to now?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Investigating, they said..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Because wherever that needle points,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "There will always be an island."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Shake shake"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What's she doing, opening that coffin...?"
+    },
+    {
+      "speaker": "Masira",
+      "text": "Can you figure something out from that?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "We'll see..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You've got one macabre tastes, sister."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Whoa, you put it back together!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The holes here are artificial. Man-made, clearly."
+    },
+    {
+      "speaker": "Shojo",
+      "text": "No, these holes are from surgery... \"Trepanation.\""
+    },
+    {
+      "speaker": "Shojo",
+      "text": "Right, Doctor?"
+    }
+  ],
+  "summary": "The search for sky island becomes more concrete as the crew learns about unusual currents, salvage rivals, and the legends around Jaya.",
+  "confidence": 0.86,
+  "needs_review": false
+}

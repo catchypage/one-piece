@@ -1,0 +1,86 @@
+{
+  "chapter": "195",
+  "part": 5,
+  "title": "The City Holds Its Breath",
+  "description": "On pages 18–21, this part focuses on the city holds its breath, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    18,
+    19,
+    20,
+    21
+  ],
+  "characters": [
+    "Vivi",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Chopper",
+    "Sanji"
+  ],
+  "scene": "The City Holds Its Breath. The bomb’s location and countdown push the Alubarna battle into its final desperate stage. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "...now all that's left is to see if I truly can cut through iron or not!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You think you can take my attack with a single sword?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "One is enough."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I won't be taking any of your attacks anymore..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Confident, aren't you..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "So be it then."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "One-sword style, 1ai..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "SHISHI SONSON! (Lion's Ode)"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Atomatic"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "SPURTI"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I give you my thanks."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I can still become stronger..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "SSSAMBA! Samba! Samba!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Using Gallery Pirates, do the samba!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "X. I"
+    }
+  ],
+  "summary": "This part develops the city holds its breath and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.77,
+  "needs_review": false
+}

@@ -1,0 +1,134 @@
+{
+  "chapter": "381",
+  "part": 2,
+  "title": "The Guards Open Fire",
+  "description": "The Straw Hats and their allies force their way deeper into Enies Lobby while guards and agents scramble to stop them.",
+  "pages": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Sanji",
+    "Sogeking",
+    "Nami",
+    "Chopper",
+    "Franky",
+    "Nico Robin",
+    "Spandam",
+    "Oimo"
+  ],
+  "scene": "Across pages 4, 5, 6, 7, this part follows Luffy, Zoro, Sanji, Sogeking, Nami. The Straw Hats and their allies force their way deeper into Enies Lobby while guards and agents scramble to stop them.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Hic..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "NGA Gaga!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Could there be a drunken hostage....!!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Puffruff"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "When heat bubbles mix with cool bubbles..."
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Ah!! Nami-san, you're safe!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "This perfect CLIMA TACT is amazing!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Let's try it out on you guys..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "with the power of thun-der!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "What's that girl doing?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "THUNDER BOLT TEMPO!!!"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "GyaA quaaah aaaah!!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "It hurts both friend and foe!!"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Almost died!"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Sogeking!!!!"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Nami, why'd you hit sogeking!!!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Just call it a hunch."
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "However..."
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "That's a really powerful weapon......"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "It beat quite a few of them!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "WH... What's the deal with them?"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Hurry and apologize, soreking!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "You're the one who should apologize, idiot!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Clearly, she's one of their main fighters!!"
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "Dunno... this island isn't small..."
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "So, if we have to search..."
+    }
+  ],
+  "summary": "The Straw Hats and their allies force their way deeper into Enies Lobby while guards and agents scramble to stop them.",
+  "confidence": 0.83,
+  "needs_review": false
+}

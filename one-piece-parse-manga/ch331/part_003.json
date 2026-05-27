@@ -1,0 +1,121 @@
+{
+  "chapter": "331",
+  "part": 3,
+  "title": "Luffy Strikes Back",
+  "description": "Franky becomes the central enemy in Water Seven as his gang, the stolen money, and the ship crisis converge.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Franky",
+    "Franky Family",
+    "Chopper",
+    "Going Merry"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this part follows Luffy, Usopp, Nami, Zoro, Sanji. Franky becomes the central enemy in Water Seven as his gang, the stolen money, and the ship crisis converge.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Yet you're going to..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "leave it here to die!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Luffy!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "usopp, stop! You need to rest!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "usop..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "What would you know!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "luffy."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "There is no carpenter on this ship."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Big deal! We don't need them!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'll fix it like I always have!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Stop, usopp!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "You're not a carpenter,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "USOP!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Hey, Luffy!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We'll fix our own ship!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'll NEVER give up this ship!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Stop Bluffing, Damn Brat!!"
+    },
+    {
+      "speaker": "Franky Family",
+      "text": "I've misjudged you, Luffy!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Stop, usopp!! Luffy didn't..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Shut up, Nami!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I have made my decision!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Bull shit! I won't allow that!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Calm down!! Stop yelling at each other!!"
+    }
+  ],
+  "summary": "Franky becomes the central enemy in Water Seven as his gang, the stolen money, and the ship crisis converge.",
+  "confidence": 0.85,
+  "needs_review": false
+}

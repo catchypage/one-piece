@@ -1,0 +1,76 @@
+{
+  "chapter": "206",
+  "part": 2,
+  "title": "The Battlefield Goes Silent",
+  "description": "On pages 11, 12, 13, 14, this part focuses on alabasta learns the truth. The kingdom begins sorting through what happened, while the Straw Hats remain hidden and the World Government moves to control the official story.",
+  "pages": [
+    11,
+    12,
+    13,
+    14
+  ],
+  "characters": [
+    "Alabasta citizen",
+    "Vivi",
+    "King Cobra",
+    "Smoker",
+    "Tashigi",
+    "Nico Robin",
+    "Luffy",
+    "Nami"
+  ],
+  "scene": "This scene belongs to the Alabasta Learns the Truth sequence. The important beat is the dialogue and action around Alabasta citizen, Vivi, King Cobra, Smoker, Tashigi.",
+  "dialogue": [
+    {
+      "speaker": "Alabasta citizen",
+      "text": "tic..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "toc..."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Ribbit!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "It's almost time, Mr. 71"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Preparing to light the fuuussseeeeeeeee! Ohohoho!"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Lit!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Just what.."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Is it,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "that I don't understand...?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hmph-"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "GATLING Gun!!!"
+    }
+  ],
+  "summary": "The kingdom begins sorting through what happened, while the Straw Hats remain hidden and the World Government moves to control the official story.",
+  "confidence": 0.88,
+  "needs_review": false
+}

@@ -1,0 +1,100 @@
+{
+  "chapter": "85",
+  "part": 1,
+  "title": "Zoro’s Fever Worsens",
+  "description": "On pages 0–3, zoro’s fever worsens focuses on Zoro, Hatchan, Usopp, Nami as zoro’s injuries worsen during the fight, but he continues battling Hatchan while the others struggle around him.",
+  "pages": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Zoro",
+    "Hatchan",
+    "Usopp",
+    "Nami",
+    "Sanji",
+    "Arlong",
+    "Unknown person #1",
+    "Unknown person #2"
+  ],
+  "scene": "On pages 0–3, zoro’s fever worsens focuses on Zoro, Hatchan, Usopp, Nami as zoro’s injuries worsen during the fight, but he continues battling Hatchan while the others struggle around him.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Brother's in critical condition!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "With those wounds and that fever, he should be barely hanging onto consciousness."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "If his wounds reopen,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "He'll die for sure..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "...but now's not the time to be worrying about that."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "The only one who can cut through this crisis is brother!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "What's the matter Rormoa Zoro? You already look so exhausted."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "That's none of your concerns."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Brother, catch!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Damn it... I feel like I'm going to pass out any moment now. I thought moving around a bit might lower my fever,but it's only gotten worse...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "B-Brother! We already threw our swords!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Didn't you ask for our swords!? Catch them!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'll show you the vast gap in skill that's unsurpass- able for a human with only 2 arms!"
+    },
+    {
+      "speaker": "Hatchan",
+      "text": "The six swords style that can only be used by having 6 arms and a supple body..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "brother, watch out!!!"
+    },
+    {
+      "speaker": "Hatchan",
+      "text": "Tako- Ashi Kiken!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "(Detopus Leg Miracle Swords)"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Three swords style..."
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.78,
+  "needs_review": false
+}

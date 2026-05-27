@@ -1,0 +1,114 @@
+{
+  "chapter": "83",
+  "part": 5,
+  "title": "The Fight Spreads Across the Park",
+  "description": "On pages 17–18, the fight spreads across the park focuses on Luffy, Zoro, Nami, Usopp as the Straw Hats crash into Arlong Park, and the fight against Arlong’s fish-men begins in earnest.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Arlong",
+    "Hatchan",
+    "Kuroobi",
+    "Chew",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "On pages 17–18, the fight spreads across the park focuses on Luffy, Zoro, Nami, Usopp as the Straw Hats crash into Arlong Park, and the fight against Arlong’s fish-men begins in earnest.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Gahh haha!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Fool..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Take this!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "What"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "How futile."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ahww!?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Shaha haha!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Luffy!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "You hast-"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I'll go s..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Wait, you dumb- ass!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Don't act so rashly! Going into the sea is exactly what these guys want!"
+    },
+    {
+      "speaker": "Nojiko",
+      "text": "There's only one way to save Luffy Right Now...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You mean we have to beat these guys to a pulp on land first and then jump into the sea?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Fine by me."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Let's do this!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Yeah!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Ah, one of these games, huh."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Shaha haha!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Ughh... crap, all my energy feels like it's being sucked out..."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Aghhhhh!"
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.66,
+  "needs_review": true
+}

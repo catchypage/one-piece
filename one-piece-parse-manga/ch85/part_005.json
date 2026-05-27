@@ -1,0 +1,84 @@
+{
+  "chapter": "85",
+  "part": 5,
+  "title": "The Fight Nears Its End",
+  "description": "On pages 16–18, the fight nears its end focuses on Zoro, Hatchan, Usopp, Nami as zoro’s injuries worsen during the fight, but he continues battling Hatchan while the others struggle around him.",
+  "pages": [
+    16,
+    17,
+    18
+  ],
+  "characters": [
+    "Zoro",
+    "Hatchan",
+    "Usopp",
+    "Nami",
+    "Sanji",
+    "Arlong",
+    "Nojiko",
+    "Unknown person #1",
+    "Luffy"
+  ],
+  "scene": "On pages 16–18, the fight nears its end focuses on Zoro, Hatchan, Usopp, Nami as zoro’s injuries worsen during the fight, but he continues battling Hatchan while the others struggle around him.",
+  "dialogue": [
+    {
+      "speaker": "Zoro",
+      "text": "NYU!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Thkoyaki punch!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "How could I lose... to only 3 swords..."
+    },
+    {
+      "speaker": "Hatchan",
+      "text": "Hachi..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "It can't be..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Sorry but I couldn't care less about you."
+    },
+    {
+      "speaker": "Nojiko",
+      "text": "I have to hurry up and save luffy...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "RORDOA ZORO! HOW DARE YOU CUT DOWN HA..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You sure did punch me back pretty far."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "brother cook."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "There's actually a human in East Blue that can live after taking one of my punches?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'm sure there're more than just me."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Especially at a certain restaurant."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "It seems I'm being under- estimated."
+    }
+  ],
+  "summary": "This part pushes the Arlong Park battle forward, clarifying who is fighting, what is at stake, and why Nami’s freedom matters.",
+  "confidence": 0.88,
+  "needs_review": false
+}

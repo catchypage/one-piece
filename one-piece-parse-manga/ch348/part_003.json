@@ -1,0 +1,84 @@
+{
+  "chapter": "348",
+  "part": 3,
+  "title": "The Sea Train Project",
+  "description": "Young Franky’s recklessness and Tom’s faith in building ships reveal why the sea train and blueprints matter so much.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Franky",
+    "Luffy",
+    "Tom",
+    "Iceburg",
+    "Spandam",
+    "Kokoro",
+    "Yokozuna",
+    "World Government agent"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this part follows Franky, Luffy, Tom, Iceburg, Spandam. Young Franky’s recklessness and Tom’s faith in building ships reveal why the sea train and blueprints matter so much.",
+  "dialogue": [
+    {
+      "speaker": "Franky",
+      "text": "That's too bad."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "UGAA!!!"
+    },
+    {
+      "speaker": "Tom",
+      "text": "Luffy!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "I'm done."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "We will never meet again."
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Nico Robin!!!"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "Luffy!!! hurry up and"
+    },
+    {
+      "speaker": "Kokoro",
+      "text": "Catch Nico Robin!!!"
+    },
+    {
+      "speaker": "Tom",
+      "text": "Uwooo!!!"
+    },
+    {
+      "speaker": "Yokozuna",
+      "text": "RORONOA... you've got guts, looking away."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "ZORO!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Shigan."
+    },
+    {
+      "speaker": "Tom",
+      "text": "We don't need bullets..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "to pierce human flesh."
+    }
+  ],
+  "summary": "Young Franky’s recklessness and Tom’s faith in building ships reveal why the sea train and blueprints matter so much.",
+  "confidence": 0.83,
+  "needs_review": false
+}

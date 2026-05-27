@@ -1,0 +1,141 @@
+{
+  "chapter": "40",
+  "part": 1,
+  "title": "Luffy Declares His Dream After Defeating Kuro",
+  "description": "On pages 2–5, the Syrup Village arc settles after Kuro’s defeat, focusing on Usopp’s decision, Kaya’s gratitude, and the end of the Usopp Pirates.",
+  "pages": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "characters": [
+    "Kaya",
+    "Kuro",
+    "Unknown person #1",
+    "Luffy",
+    "Unknown person #2"
+  ],
+  "scene": "The village chooses peace and secrecy while Usopp prepares to leave, turning his old lies into the beginning of a real journey.",
+  "dialogue": [
+    {
+      "speaker": "Kaya",
+      "text": "He..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "He did it, Captain Kuro was..."
+    },
+    {
+      "speaker": "Kuro",
+      "text": "Even a ship of Marines weren't able to defeat the \"100 plans Kuro\""
+    },
+    {
+      "speaker": "Kaya",
+      "text": "He really..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "He really beat him!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Who the hell are you!!!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Monkey D. Luffy!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "There's no way I'd lose to a pirate who gives up his name and runs from the sea"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "The only time a pirate should give up his name is when he dies!!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Lu... Luffy...?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "I've never heard of him"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "You better try to remember my name..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm the one who's going to become..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The Pirate King!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Is this guy..... crazy?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Take him back!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "...and don't ever come back!!!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "AaaAA RRR ROGG GGHH!!!!!!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Huf Huf in"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "PUTA PUTA IN"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "You fought hard..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I guess even you can't stand up after being cut so many times"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Why did you get so mad earlier?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "I don't like them"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "They're wrong....!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What are you talking about...?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It's OBVI- OUSLY because they're pirates"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "I want meat"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "...you..."
+    }
+  ],
+  "summary": "This part gives Syrup Village an emotional farewell: Usopp protects the village’s peace, says goodbye to his friends, and steps toward becoming a real pirate.",
+  "confidence": 0.86,
+  "needs_review": false
+}

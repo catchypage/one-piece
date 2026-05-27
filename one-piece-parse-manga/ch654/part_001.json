@@ -1,0 +1,116 @@
+{
+  "chapter": "654",
+  "part": 1,
+  "title": "The Sunny Enters the New World",
+  "description": "On pages 1–4, this part follows Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Unknown person #7. The central beat is the sunny enters the new world.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Unknown person #10",
+    "Luffy",
+    "Unknown person #11"
+  ],
+  "scene": "The scene focuses on the sunny enters the new world, with Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Unknown person #7 shaping the conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Leaving fish-man Island behind..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Smooth sailing, not a hitch..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It's kind of unsettling."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "The new world awaits them above."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "How do you like my shower tempo?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I have been looking for a"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Chopper, stay away from the cloud, okay?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "GYAA AAAAAAAAAA AAH!!!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "That feels good!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "... without a Naviga- Tor...?"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Hurry up, USOP!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Have a little patience!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "...and eat it salted."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Sanji can make anything taste delicious !!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu Nooo"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "JET PISTOL!!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "He went for the mayonnaise one anyway!!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "GHua Aaaada Qaa!!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Capture Star!!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "All right!!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "An old guy?!"
+    }
+  ],
+  "summary": "The Sunny Enters the New World. This part moves the Straw Hats from Fish-Man Island into the New World and begins the mystery of Punk Hazard.",
+  "confidence": 0.76,
+  "needs_review": true
+}

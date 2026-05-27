@@ -1,0 +1,88 @@
+{
+  "chapter": "374",
+  "part": 5,
+  "title": "The Gate of Justice Looms",
+  "description": "The threat of Enies Lobby and the Gate of Justice becomes real as Robin and Franky are dragged deeper into World Government territory.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Spandam",
+    "Luffy",
+    "Zoro",
+    "Blueno",
+    "Nami",
+    "Sanji",
+    "Chopper",
+    "Sogeking",
+    "Franky",
+    "World Government agent"
+  ],
+  "scene": "Across pages 17, 18, this part follows Spandam, Luffy, Zoro, Blueno, Nami. The threat of Enies Lobby and the Gate of Justice becomes real as Robin and Franky are dragged deeper into World Government territory.",
+  "dialogue": [
+    {
+      "speaker": "Spandam",
+      "text": "You really... knowing all of that....!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Of course."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "How rotten Can You Get?!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "It's all for the sake of justice."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "That girl has our deepest condolences."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Don't screw with me!!!!"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Pop..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Damn it all to hell"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "..... Yes, without delay."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "We're transporting two criminals."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "So we'll be arriving soon."
+    },
+    {
+      "speaker": "Blueno",
+      "text": "How nostalgic, it's been five years..."
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "The *Nightless Island*..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "Please open the gates."
+    },
+    {
+      "speaker": "World Government agent",
+      "text": "enies lobby."
+    }
+  ],
+  "summary": "The threat of Enies Lobby and the Gate of Justice becomes real as Robin and Franky are dragged deeper into World Government territory.",
+  "confidence": 0.86,
+  "needs_review": false
+}

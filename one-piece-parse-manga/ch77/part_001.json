@@ -1,0 +1,166 @@
+{
+  "chapter": "77",
+  "part": 1,
+  "title": "Nojiko Reveals Nami’s Past",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Nami",
+    "Nojiko",
+    "Bellemere",
+    "Genzo",
+    "Arlong",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Cocoyasi villagers"
+  ],
+  "scene": "On pages 1–4, Nojiko’s account of the past reveals how Nami, Bellemere, and Cocoyasi Village were damaged by Arlong’s arrival. Nojiko starts revealing the past that shaped Nami, Bellemere, and the village.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm fine."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm not really interested in her past."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I'm taking a walk."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Take a walk? You're not going to listen?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "No, I'm cool."
+    },
+    {
+      "speaker": "Nami",
+      "text": "What's with him?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Don't mind him."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "That's just the kind of guy he is."
+    },
+    {
+      "speaker": "Nami",
+      "text": "But we'll listen to what you have to say."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Though I doubt hearing your story will change anything."
+    },
+    {
+      "speaker": "Nami",
+      "text": "...but you're sleeping."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Don't just fall asleep as soon as you say that!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Well, I, for one, will listen to understand what's going on."
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "me too."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I see..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "No wonder they're giving Nami so much trouble..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I fell asleep...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Nojiko?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Where'd she go...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Furthermore, the government is"
+    },
+    {
+      "speaker": "Nami",
+      "text": "...just a little more,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Belliemere..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Just a little more and every- thing'll be back the way it used to be."
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "Cocoyashi Village, the Orange Farm..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "as well as my dream..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Let go of me!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "It's just one book, what's the big deal!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "There's still tons more!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "You dumb brat! A bookstore's supposed to have a lot of books!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "How many times must I tell you that stealing is inexcusable!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "GENZO is years ago)"
+    },
+    {
+      "speaker": "Nami",
+      "text": "But my family's poor, I can't help it!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Cheapskate!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "NAM1 (8 years ago)"
+    }
+  ],
+  "summary": "This part deepens Nami’s backstory, showing how family, money, and survival became tied to Arlong’s control over the village.",
+  "confidence": 0.71,
+  "needs_review": false
+}

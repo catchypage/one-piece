@@ -1,0 +1,78 @@
+{
+  "chapter": "80",
+  "part": 5,
+  "title": "Nezumi Steals Nami’s Hope",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Nami",
+    "Nojiko",
+    "Arlong",
+    "Marine Captain Nezumi",
+    "Cocoyasi villagers",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "On pages 17–18, Nojiko’s account of the past reveals how Nami, Bellemere, and Cocoyasi Village were damaged by Arlong’s arrival. The truth of Nami’s long sacrifice collides with Marine corruption and Arlong’s manipulation.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Arlong!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "What's Wrong, My talented Little Cartographer?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Your face seems rather flushed."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "The Marines you've got working for you,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Just came to steal my money!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What's the meaning of this!? Didn't you say you'd rather die than break a promise involving money!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Hm? But I did keep that promise, didn't I? When did I ever break it?"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Don't play dumb with me! You ordered those marines to steal my m..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "When exactly,"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Did I ever break our promise? Please, tell me!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Shaha haha!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Curse you!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Jeez, what's with her?"
+    }
+  ],
+  "summary": "This part deepens Nami’s backstory, showing how family, money, and survival became tied to Arlong’s control over the village.",
+  "confidence": 0.66,
+  "needs_review": true
+}

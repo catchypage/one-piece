@@ -1,0 +1,105 @@
+{
+  "chapter": "1109",
+  "part": 4,
+  "title": "Nika Turns the Battle",
+  "description": "On pages 11–12, this part focuses on Sanji, Kizaru, Unknown person #10, Luffy, Unknown person #11, Vegapunk as Luffy’s Gear Fifth form re-enters the battle while the giants arrive, Vegapunk’s broadcast begins, and the Five Elders become the island’s central threat.",
+  "pages": [
+    11,
+    12
+  ],
+  "characters": [
+    "Sanji",
+    "Kizaru",
+    "Unknown person #10",
+    "Luffy",
+    "Unknown person #11",
+    "Vegapunk",
+    "Saturn"
+  ],
+  "scene": "Luffy’s Gear Fifth form re-enters the battle while the giants arrive, Vegapunk’s broadcast begins, and the Five Elders become the island’s central threat.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "What's it gonna take to keep you down?!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Kizaru- San?!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "What in the world happened?! Are you all right?!"
+    },
+    {
+      "speaker": "Kizaru",
+      "text": "admiral!!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "There's no time,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Saturn,"
+    },
+    {
+      "speaker": "Kizaru",
+      "text": "We cannot allow vegapunk to speak freely."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "WHORAA!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "That was close!!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "There it is!!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "This is our ship!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "I hope vegapunk and the others are alright..."
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "I shall perform the sum- morning."
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Very well."
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "2AP 2AP"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "What the!!!"
+    },
+    {
+      "speaker": "Kizaru",
+      "text": "Black Lightning?!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "What's going on?!!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "The hell?!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "It's just like when that Spider Geezer appeared!!"
+    }
+  ],
+  "summary": "This part advances the Nika Returns on Egghead through 20 cleaned dialogue beats, centering the emotional stakes, battle movement, and the wider consequences of Egghead.",
+  "confidence": 0.7,
+  "needs_review": true
+}

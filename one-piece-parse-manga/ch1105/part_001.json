@@ -1,0 +1,124 @@
+{
+  "chapter": "1105",
+  "part": 1,
+  "title": "Kuma Strikes Saturn",
+  "description": "On pages 1–3, this part focuses on Unknown person #1, Unknown person #2, Luffy, Kizaru, Sanji, Unknown person #3 as Kuma arrives at Egghead, Bonney confronts Saturn, Vegapunk is threatened, and the island falls into a full Buster Call-level crisis.",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Luffy",
+    "Kizaru",
+    "Sanji",
+    "Unknown person #3",
+    "Saturn",
+    "Marines",
+    "World Government"
+  ],
+  "scene": "Kuma arrives at Egghead, Bonney confronts Saturn, Vegapunk is threatened, and the island falls into a full Buster Call-level crisis.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Pumped now!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Prepare for a full-fleet bombard- ment!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Hurry!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "All Marines are to return to their vessels immediately!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "What just happened in the center of town?!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Hell if I know!! Just do as you're told!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "SAINT SATURN!!"
+    },
+    {
+      "speaker": "Kizaru",
+      "text": "Admiral Borsalino!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "PLEASE HURRY BACK TO THE SHPS!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Kizaru and I..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "...shall remain on the island."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Begin the Barrage as soon as possible!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What?! but..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Go."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Yes, sir!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "I thought you were only after my life!! Isn't that enough to end this madness?!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Why are you doing this, Saint Saturn?!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "The most cutting edge research of all the scientific fields can be found on Egghead!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Destroying it will set us back an entire century! Please call off this buster call!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "KIZARU!! I'm BEGGING YOU!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "...you might still be hiding something."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Perhaps something that could hinder the world government?"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "either way, we have no need for further advance-ment."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "But what about humanity!!!"
+    }
+  ],
+  "summary": "This part advances the Egghead Buster Call through 24 cleaned dialogue beats, centering the emotional stakes, battle movement, and the wider consequences of Egghead.",
+  "confidence": 0.69,
+  "needs_review": true
+}

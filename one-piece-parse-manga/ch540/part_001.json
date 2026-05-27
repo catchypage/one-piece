@@ -1,0 +1,130 @@
+{
+  "chapter": "540",
+  "part": 1,
+  "title": "The Depths of Impel Down",
+  "description": "In the Impel Down storyline, this section centers on Magellan, Ivankov, Unknown person #1, Unknown person #6, Unknown person #4, Luffy as the scene develops across pages 2–5.",
+  "pages": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "characters": [
+    "Magellan",
+    "Ivankov",
+    "Unknown person #1",
+    "Unknown person #6",
+    "Unknown person #4",
+    "Luffy",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #5",
+    "Unknown person #7"
+  ],
+  "scene": "This scene advances the Impel Down conflict through Magellan, Ivankov, Unknown person #1, Unknown person #6, Unknown person #4, focusing on the immediate stakes of the depths of impel down.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Move it, move it, move it !!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Don't get in my way!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "The traps didn't work!!"
+    },
+    {
+      "speaker": "Magellan",
+      "text": "The guards have been obliterated!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Have entered level 6!!!"
+    },
+    {
+      "speaker": "Ivankov",
+      "text": "ACE!! Where are you!!?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Nuu!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "ACE!!! We came to save you!!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "He's not here!!! HAA..."
+    },
+    {
+      "speaker": "Magellan",
+      "text": "There's no mistake, this is the cell!!"
+    },
+    {
+      "speaker": "Magellan",
+      "text": "no mistake!!! TH... THERE's no mistake!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "We were one step too late....!!"
+    },
+    {
+      "speaker": "Magellan",
+      "text": "Are you strawhat Luffy!!?"
+    },
+    {
+      "speaker": "Magellan",
+      "text": "!? Yeah..."
+    },
+    {
+      "speaker": "Magellan",
+      "text": "Hey... who are you, old man...?"
+    },
+    {
+      "speaker": "Magellan",
+      "text": "Go!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Dada!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That must be it!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "The lift's gate is open too!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "The wheel is locked!! It won't move!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "We can't use it!!?"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Look out!!!"
+    },
+    {
+      "speaker": "Ivankov",
+      "text": "Of course ..."
+    },
+    {
+      "speaker": "Ivankov",
+      "text": "We can't use the lift!"
+    },
+    {
+      "speaker": "Ivankov",
+      "text": "OUR HANDS ARE Tied!!"
+    }
+  ],
+  "summary": "This scene advances the Impel Down conflict through Magellan, Ivankov, Unknown person #1, Unknown person #6, Unknown person #4, focusing on the immediate stakes of the depths of impel down.",
+  "confidence": 0.72,
+  "needs_review": false
+}

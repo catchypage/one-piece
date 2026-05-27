@@ -1,0 +1,134 @@
+{
+  "chapter": "103",
+  "part": 3,
+  "title": "Laboon’s Pain",
+  "description": "On pages 10–13, laboon’s pain as inside the whale, the crew meets Crocus and begins to understand Laboon’s pain and strange living arrangements.",
+  "pages": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "characters": [
+    "Crocus",
+    "Nami",
+    "Luffy",
+    "Vivi",
+    "Sanji",
+    "Zoro",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Laboon",
+    "Miss Wednesday"
+  ],
+  "scene": "Laboon’s Pain. Inside the whale, the crew meets Crocus and begins to understand Laboon’s pain and strange living arrangements. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Crocus",
+      "text": "That old man just jumped in!"
+    },
+    {
+      "speaker": "Crocus",
+      "text": "What's he trying to do!?"
+    },
+    {
+      "speaker": "Crocus",
+      "text": "He's gonna get himself dissolved!"
+    },
+    {
+      "speaker": "Crocus",
+      "text": "He's swimming towards the exit."
+    },
+    {
+      "speaker": "Crocus",
+      "text": "We should hurry up and make our way to the exit before the whale gets anymore violent."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Aghh!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We've got no choice but to row!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "OK, Miss Wednesday. On the Count of 3-2-1 baby, I'm opening the door. So don't lose your focus!"
+    },
+    {
+      "speaker": "Crocus",
+      "text": "Roger, Mr.9. Ready when you are."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Aghhhh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "ICAN'TSTOP ICAN'TSTOP! Please stop me!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "W-Who's that, Mr.9!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I have no idea, Miss Wednesday!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Aghh- Huhh!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Aghh- hhhh!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Oh no, Miss Wednesday! Below us is a sea of stomach acid!"
+    },
+    {
+      "speaker": "Crocus",
+      "text": "Nooo-0000!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "L-Luffy...!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Guys! You're alright!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Well in any case, just help me out!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "There're two other weirdos aside from Luffy...!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "gasp"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hey! That old man's running away!"
+    },
+    {
+      "speaker": "Crocus",
+      "text": "Forget about him. Saving Luffy comes first."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Boooo Hhhh!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Stop it, Laboon."
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on laboon’s pain. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.73,
+  "needs_review": false
+}

@@ -1,0 +1,52 @@
+{
+  "chapter": "1102",
+  "part": 6,
+  "title": "A Father’s Life Is Erased",
+  "description": "On pages 17–17, this part focuses on Kuma, Unknown person #16, Bonney as Kuma’s life, Bonney’s childhood, and the cost of Saturn and the World Government’s cruelty reach their emotional center.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Kuma",
+    "Unknown person #16",
+    "Bonney"
+  ],
+  "scene": "Kuma’s life, Bonney’s childhood, and the cost of Saturn and the World Government’s cruelty reach their emotional center.",
+  "dialogue": [
+    {
+      "speaker": "Kuma",
+      "text": "Thank you for saving Bonney's life!"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "(fch) ork"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "Kweeeen"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "If you see her again..."
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "...could you..."
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "...tell her something for me?"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "Please wish her..."
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "...A happy 10th birthday."
+    }
+  ],
+  "summary": "This part advances the Kuma and Bonney Flashback through 8 cleaned dialogue beats, centering the emotional stakes, battle movement, and the wider consequences of Egghead.",
+  "confidence": 0.77,
+  "needs_review": true
+}

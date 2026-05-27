@@ -1,0 +1,98 @@
+{
+  "chapter": "245",
+  "part": 3,
+  "title": "Gan Fall Enters the Fight",
+  "description": "Luffy, Usopp, and Sanji push into the ordeal while Nami, Zoro, Robin, and Chopper face the danger around the altar.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Gan Fall",
+    "Shandia warrior",
+    "Conis",
+    "Wyper",
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Usopp",
+    "Chopper"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this scene centers on Gan Fall, Shandia warrior, Conis, Wyper, Luffy. Luffy, Usopp, and Sanji push into the ordeal while Nami, Zoro, Robin, and Chopper face the danger around the altar.",
+  "dialogue": [
+    {
+      "speaker": "Gan Fall",
+      "text": "Guah!!"
+    },
+    {
+      "speaker": "Shandia warrior",
+      "text": "There he is!"
+    },
+    {
+      "speaker": "Conis",
+      "text": "ZORO!"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Ah...he's not coming up..."
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Did he get eaten...!?"
+    },
+    {
+      "speaker": "Conis",
+      "text": "GYA----!! zoro's been eaten----!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Don't say such scary things, Robin!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Get outta my way!!!!"
+    },
+    {
+      "speaker": "Conis",
+      "text": "Hah...Hah...Damn!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "It looks like a sacrificial alter..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "There's a bunch more sky sharks!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Puka..."
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "By that damn shrimp..."
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Zoro's so strong--"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "gyuh..."
+    },
+    {
+      "speaker": "Wyper",
+      "text": "I don't know...I've never met him."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Eh!? Me? Understand!"
+    }
+  ],
+  "summary": "Luffy, Usopp, and Sanji push into the ordeal while Nami, Zoro, Robin, and Chopper face the danger around the altar.",
+  "confidence": 0.86,
+  "needs_review": false
+}

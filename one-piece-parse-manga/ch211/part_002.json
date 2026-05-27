@@ -1,0 +1,122 @@
+{
+  "chapter": "211",
+  "part": 2,
+  "title": "Vivi Faces Her Choice",
+  "description": "On pages 5, 6, 7, 8, this part focuses on the crew leaves alabasta behind. The Straw Hats move toward departure while Marines, allies, and the kingdom deal with the consequences of the battle.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Vivi",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Zoro",
+    "Karoo",
+    "Smoker",
+    "Tashigi",
+    "Alabasta citizen"
+  ],
+  "scene": "This scene belongs to the The Crew Leaves Alabasta Behind sequence. The important beat is the dialogue and action around Luffy, Vivi, Usopp, Sanji, Chopper.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Kouza!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "leader!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I will mow explain,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Everything that has occurred in this country..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Viv!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "....Everyone!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Where are you!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hey!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Walk properly!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Fine, then stay behind here."
+    },
+    {
+      "speaker": "Karoo",
+      "text": "Hey, wait!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Why my leg!?"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "That's where you are."
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Who are you people...?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "...Umm, that guy on your back."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Thanks for carrying him over here,"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "And who might you be?"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Every- one!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Papa!?"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "It's Civil"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "p-papa!? y-y-you're... VIVI'S FATHER!?"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "You the king?"
+    }
+  ],
+  "summary": "The Straw Hats move toward departure while Marines, allies, and the kingdom deal with the consequences of the battle.",
+  "confidence": 0.85,
+  "needs_review": false
+}

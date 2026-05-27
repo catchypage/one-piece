@@ -1,0 +1,139 @@
+{
+  "chapter": "214",
+  "part": 4,
+  "title": "A Strange New Crewmate",
+  "description": "On pages 13, 14, 15, 16, this part focuses on robin boards the merry. Nico Robin appears aboard the Going Merry and forces the crew to confront the fact that a former enemy now wants to travel with them.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Nico Robin",
+    "Luffy",
+    "Nami",
+    "Narrator",
+    "Usopp",
+    "Sanji",
+    "Chopper"
+  ],
+  "scene": "This scene belongs to the Robin Boards the Merry sequence. The important beat is the dialogue and action around Nico Robin, Luffy, Nami, Narrator, Usopp.",
+  "dialogue": [
+    {
+      "speaker": "Nico Robin",
+      "text": "Eastern Port"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Come with us, Vivi!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Quit it, Luffy!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We're off then."
+    },
+    {
+      "speaker": "Nami",
+      "text": "tomorrow at noon..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "at the Eastern Port..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "...If I go, you'd come too,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Wouldn't you, Carue..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "...But what do you want to do?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "I've been Waaaail- Tiling for youuuuuu all!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Flutter"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Nice to see you all again!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We're here."
+    },
+    {
+      "speaker": "Nami",
+      "text": "@UACK!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "quick"
+    },
+    {
+      "speaker": "Nami",
+      "text": "flutter"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Quick"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Run back safely now!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "See ya all!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Let's..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Let's meet again some day for sure!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Wait a second!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "What's your problem?"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Hey, move it."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Oh, sorry."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Sigh... Oh, you silly little goose."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What was that!?"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Listen up!"
+    }
+  ],
+  "summary": "Nico Robin appears aboard the Going Merry and forces the crew to confront the fact that a former enemy now wants to travel with them.",
+  "confidence": 0.86,
+  "needs_review": false
+}

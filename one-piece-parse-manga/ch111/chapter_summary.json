@@ -1,0 +1,25 @@
+{
+  "chapter": "111",
+  "title": "The Princess and the Shadow of Baroque Works",
+  "main_description": "The crew accepts Vivi’s desperate mission, and a mysterious senior agent reminds them how dangerous Baroque Works really is. The reviewed chapter file is organized into display-ready story parts with cleaned dialogue and context-based speaker names.",
+  "main_characters": [
+    "Vivi",
+    "Igaram",
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Miss All Sunday",
+    "Crocodile"
+  ],
+  "key_events": [
+    "Igaram Sails as a Decoy",
+    "A Mysterious Woman Appears",
+    "The Shadow of Crocodile",
+    "Vivi Joins the Straw Hats",
+    "The Course Toward Alabasta"
+  ],
+  "confidence": 0.78,
+  "needs_review": false
+}

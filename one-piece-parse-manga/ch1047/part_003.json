@@ -1,0 +1,75 @@
+{
+  "chapter": "1047",
+  "part": 3,
+  "title": "Wano’s Long Night Begins to Break",
+  "description": "On pages 9–11, this part focuses on Unknown person #7, Unknown person #8, Kaido, Unknown person #9 as Luffy awakens Gear Fifth and fights Kaido as Onigashima’s fall, Wano’s fire festival, and twenty years of suffering converge.",
+  "pages": [
+    9,
+    10,
+    11
+  ],
+  "characters": [
+    "Unknown person #7",
+    "Unknown person #8",
+    "Kaido",
+    "Unknown person #9"
+  ],
+  "scene": "Luffy awakens Gear Fifth and fights Kaido as Onigashima’s fall, Wano’s fire festival, and twenty years of suffering converge.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "Look at Roger, he had no fruit power..."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "...and still brought the world to heel!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Whoa!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "such hurdles can only be overcome..."
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "...with hack!!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Death Destroyer*..."
+    },
+    {
+      "speaker": "Kaido",
+      "text": "THUNDER BAGUA!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Let go!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "You've given away your position!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Dragon Twitter Demolition breath!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Seems you're still weak to slashing attacks!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Urgh!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "CleanCH!!"
+    }
+  ],
+  "summary": "This part advances the Wano / Onigashima War through 13 cleaned dialogue beats, focusing on character decisions, battlefield momentum, and the story’s larger consequences.",
+  "confidence": 0.68,
+  "needs_review": true
+}

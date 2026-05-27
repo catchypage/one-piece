@@ -1,0 +1,44 @@
+{
+  "chapter": "3",
+  "part": 8,
+  "title": "Coby Chooses His Own Path",
+  "description": "On pages 21–21, this part moves through Shells Town and the first clues about Zoro, Morgan, and Helmeppo’s abuse of power.",
+  "pages": [
+    21
+  ],
+  "characters": [
+    "Morgan",
+    "Helmeppo",
+    "Luffy"
+  ],
+  "scene": "In Shells Town, Luffy, Coby, and Zoro are drawn into the cruelty of Morgan’s rule and Helmeppo’s privilege.",
+  "dialogue": [
+    {
+      "speaker": "Morgan",
+      "text": "4. Draw two lines across the lower circle."
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "5. Draw three vertical lines along the horizontal lines."
+    },
+    {
+      "speaker": "Morgan",
+      "text": "6. Draw Bones behind the skull."
+    },
+    {
+      "speaker": "Morgan",
+      "text": "9. And if you draw a straw hat on it, you get Luffy's flag!"
+    },
+    {
+      "speaker": "Helmeppo",
+      "text": "8. And you're finished!"
+    },
+    {
+      "speaker": "Morgan",
+      "text": "7. And you're finished! What!? Wait a minute..."
+    }
+  ],
+  "summary": "The Shells Town conflict uses Zoro’s imprisonment and Morgan’s rule to test what kind of people Luffy chooses to trust. The section moves Zoro closer to becoming Luffy’s first crewmate.",
+  "confidence": 0.94,
+  "needs_review": false
+}

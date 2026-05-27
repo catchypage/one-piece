@@ -1,0 +1,33 @@
+{
+  "chapter": "42",
+  "part": 6,
+  "title": "Johnny and Yosaku Cross Paths With the Crew",
+  "description": "On pages 18–19, the Straw Hats settle into life aboard their new ship, raise their pirate flag, and meet Johnny and Yosaku on the way toward a cook.",
+  "pages": [
+    18,
+    19
+  ],
+  "characters": [
+    "Narrator",
+    "Unknown person #1",
+    "Unknown person #2"
+  ],
+  "scene": "The crew’s mood is lighter after Syrup Village, but practical problems quickly appear: they need roles, supplies, medical help, and eventually a cook.",
+  "dialogue": [
+    {
+      "speaker": "Narrator",
+      "text": "Picking up the odd duo, Yosaku and Johnny,"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "The ship changes direction slightly to the north. Their destination: restaurant on the seas."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Vice-captain"
+    }
+  ],
+  "summary": "This part acts as a bridge from Syrup Village to Baratie, giving Usopp a place on the crew and steering the story toward Sanji’s introduction.",
+  "confidence": 0.88,
+  "needs_review": false
+}

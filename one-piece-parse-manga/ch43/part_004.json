@@ -1,0 +1,170 @@
+{
+  "chapter": "43",
+  "part": 4,
+  "title": "The Crew Reaches the Floating Restaurant Baratie",
+  "description": "On pages 12–15, the crew reaches the floating restaurant Baratie, where Luffy’s impulsiveness, Fullbody’s arrogance, and Sanji’s sharp code collide.",
+  "pages": [
+    12,
+    13,
+    14,
+    15
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Luffy",
+    "Zeff",
+    "Sanji",
+    "Narrator",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Nami"
+  ],
+  "scene": "The Baratie is loud, violent, and rule-bound: cooks fight like pirates, customers cause trouble, and Sanji’s character begins to emerge through conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Are you very knowled- gentle?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "about wine, I mean."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ah, yes... but I think my tongue's a little off today for some reason..."
+    },
+    {
+      "speaker": "Zeff",
+      "text": "The hell's going on!? I specifically asked the owner to bring out that wine for me!"
+    },
+    {
+      "speaker": "Zeff",
+      "text": "Owner, are you alright!?"
+    },
+    {
+      "speaker": "Zeff",
+      "text": "You think I'm alright? anyways, enough yapping and get back to work!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "B-But Sir!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "YOUR BODY'S...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Are you trying to make me angry!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "It's a cook's duty to keep his customers well-fed."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Are you planning on ruining my restaurant, you numbskulls!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Sir! We brought the one responsible for this!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "This is the perp!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm so sorry, Mister!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "restaurant of the seas' owner and head chef, ZEF"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "gyaaaaa!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You lost your foot because of me!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Oh, so you lost that foot a long time ago..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm still injured all over my body thanks to you!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "If you got no money, then you'll have to work it off..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Sure thing."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'll make it up to you."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "You'll work odd jobs around my restaurant without pay for a full year!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Only then, I'll forgive you."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "O-One year!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Luffyy's sure taking awhile..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You don't think they'll force him to work here for like a month or something, do you?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "He should just explain that it was all the Marine's fault. That idiot's too honest for his own good..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hey, let's go in and see him! We could get some food while we're at it!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Whaddya say!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Ooh Waiter!!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I already told you I'm not a waiter."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "my, my. What a beautiful lady we have here."
+    }
+  ],
+  "summary": "This part introduces the Baratie as more than a restaurant; it is a battlefield of pride, hunger, and harsh principles that will define Sanji’s arc.",
+  "confidence": 0.74,
+  "needs_review": false
+}

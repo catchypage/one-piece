@@ -1,0 +1,79 @@
+{
+  "chapter": "655",
+  "part": 1,
+  "title": "Punk Hazard Erupts Ahead",
+  "description": "On pages 1–3, this part follows Unknown person #1, Unknown person #2, Brook, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6. The central beat is punk hazard erupts ahead.",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Brook",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Luffy",
+    "Nami",
+    "Usopp"
+  ],
+  "scene": "The scene focuses on punk hazard erupts ahead, with Unknown person #1, Unknown person #2, Brook, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6 shaping the conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Whoo OooAA AAA!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Look! That island over there just erupted!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Listen to me, Luffy, all right ?!!!"
+    },
+    {
+      "speaker": "Brook",
+      "text": "Farewell, laboon's family!! Take care!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "That doesn't make any sense!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "It's about that gigantic fish we caught."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "AAAAAGH!!!"
+    },
+    {
+      "speaker": "Brook",
+      "text": "Hm? You called !?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Puoho Ooooo Ohhhhhh! Puoho Oooooo ohhh!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Puohohohohohohohohohohohohohohohohohohohohohoh Ooooooh HhhhhH!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Puoh ohohoo Ooooo ohhh!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Hold on, Luffy!!"
+    }
+  ],
+  "summary": "Punk Hazard Erupts Ahead. This part moves the Straw Hats from Fish-Man Island into the New World and begins the mystery of Punk Hazard.",
+  "confidence": 0.76,
+  "needs_review": true
+}

@@ -1,0 +1,48 @@
+{
+  "chapter": "356",
+  "part": 5,
+  "title": "Allies Join the Rescue",
+  "description": "Luffy and the crew push toward the station as Robin’s forced departure and the storm make every minute matter.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Franky",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "CP9 agent",
+    "Kokoro",
+    "Franky Family"
+  ],
+  "scene": "Across pages 17, 18, this part follows Luffy, Franky, Nami, Zoro, Sanji. Luffy and the crew push toward the station as Robin’s forced departure and the storm make every minute matter.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "The ship isn't to blame!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "When a man's made a ship..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "2.2. Laying"
+    },
+    {
+      "speaker": "Nami",
+      "text": "ICE- BURG..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "Franky....!!"
+    }
+  ],
+  "summary": "Luffy and the crew push toward the station as Robin’s forced departure and the storm make every minute matter.",
+  "confidence": 0.82,
+  "needs_review": false
+}

@@ -1,0 +1,76 @@
+{
+  "chapter": "18",
+  "part": 6,
+  "title": "Orange Town Under Buggy’s Shadow",
+  "description": "On pages 21–22, the Orange Town conflict focuses on Unknown person #1, Unknown person #2, with Buggy’s occupation testing Luffy, Zoro, Nami, and the townspeople.",
+  "pages": [
+    21,
+    22
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2"
+  ],
+  "scene": "This part follows the pressure inside Orange Town as Buggy’s crew, the Straw Hats, and the people caught between them react to the escalating fight.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "What?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "This is thanks's hat?!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I thought it looked familiar....!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "me and that guy used to be in the same pirate ship."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "SPIT!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "to repurase that..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Crot!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "He was my comrade when we were still pirate trainees."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Shanks is a great man..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "You say that he was your comrade!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "BARA Bara Emergency Escape!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "POP!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Don't compare yourself with him!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "SPX: Crack!!"
+    }
+  ],
+  "summary": "The scene keeps the Orange Town arc moving by tying the immediate battle to the town’s fear, Nami’s motives, and Luffy’s instinct to answer cruelty directly.",
+  "confidence": 0.6,
+  "needs_review": true
+}

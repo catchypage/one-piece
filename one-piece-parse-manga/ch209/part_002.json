@@ -1,0 +1,67 @@
+{
+  "chapter": "209",
+  "part": 2,
+  "title": "Vivi Faces Her Choice",
+  "description": "On pages 7, 8, 9, 10, this part focuses on the farewell plan. Vivi and the crew try to find a way to say goodbye without exposing their bond to the Navy or putting Alabasta in danger.",
+  "pages": [
+    7,
+    8,
+    9,
+    10
+  ],
+  "characters": [
+    "Crocodile",
+    "Luffy",
+    "Vivi",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper"
+  ],
+  "scene": "This scene belongs to the The Farewell Plan sequence. The important beat is the dialogue and action around Crocodile, Luffy, Vivi, Nami, Usopp.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "Raaaaa AaaA AaaAHH!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Oo why!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Aghhh!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Mr. S and his partner were defeated?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "by whom...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "luffy? Never heard of him..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Hmm... Surely there must be some mistake."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "They're still alive!?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "those pirates are here in this town..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I will surpass you!"
+    }
+  ],
+  "summary": "Vivi and the crew try to find a way to say goodbye without exposing their bond to the Navy or putting Alabasta in danger.",
+  "confidence": 0.89,
+  "needs_review": false
+}

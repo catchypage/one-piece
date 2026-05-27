@@ -1,0 +1,84 @@
+{
+  "chapter": "317",
+  "part": 5,
+  "title": "Luffy Protects His Crew",
+  "description": "Luffy defeats Foxy and ends the game, protecting his crew from being stolen.",
+  "pages": [
+    24,
+    25
+  ],
+  "characters": [
+    "Luffy",
+    "Foxy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Tonjit",
+    "Porche"
+  ],
+  "scene": "Across pages 24, 25, this scene focuses on Luffy, Foxy, Nami, Usopp, Zoro. Luffy defeats Foxy and ends the game, protecting his crew from being stolen.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Boss----"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Waha- haha"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Saw,"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "What?"
+    },
+    {
+      "speaker": "Foxy",
+      "text": "That sounds fun!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Heh"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "(SFX) WAAAAAH!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "BUBEeh!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yeah..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The winner is... /Luffy!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "(55X) Yeah!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "All... right!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "... chap #3! <3> fan"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Wait. That's our boss flying!!"
+    }
+  ],
+  "summary": "Luffy defeats Foxy and ends the game, protecting his crew from being stolen.",
+  "confidence": 0.88,
+  "needs_review": false
+}

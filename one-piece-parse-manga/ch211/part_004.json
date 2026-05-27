@@ -1,0 +1,106 @@
+{
+  "chapter": "211",
+  "part": 4,
+  "title": "The Farewell Speech",
+  "description": "On pages 14, 15, 16, 17, this part focuses on the crew leaves alabasta behind. The Straw Hats move toward departure while Marines, allies, and the kingdom deal with the consequences of the battle.",
+  "pages": [
+    14,
+    15,
+    16,
+    17
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Narrator",
+    "Sanji",
+    "Chopper",
+    "Zoro",
+    "Karoo",
+    "Smoker",
+    "King Cobra"
+  ],
+  "scene": "This scene belongs to the The Crew Leaves Alabasta Behind sequence. The important beat is the dialogue and action around Luffy, Nami, Usopp, Narrator, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Well would you look at that..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "We've done,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Something we can never take back..."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Leader..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "To mourn it is natural..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "To find it unbearably regretful is natural..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Your Highness!"
+    },
+    {
+      "speaker": "Karoo",
+      "text": "We have lost much,"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "And gained nothing."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Your Highness!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "The king..."
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "But we have advanced forwards nonethe- less!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "No matter whom it is you fought,"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "The fight has begun and now ended!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "No man can simply forget the past!"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "live onwards,"
+    },
+    {
+      "speaker": "Unknown person #15",
+      "text": "Your Highness will"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Kingdom of Alabasta!"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "Both drew to a close."
+    }
+  ],
+  "summary": "The Straw Hats move toward departure while Marines, allies, and the kingdom deal with the consequences of the battle.",
+  "confidence": 0.82,
+  "needs_review": false
+}

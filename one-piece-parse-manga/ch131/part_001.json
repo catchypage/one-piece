@@ -1,0 +1,69 @@
+{
+  "chapter": "131",
+  "part": 1,
+  "title": "Wapol Appears at Sea",
+  "description": "On pages 1–4, wapol appears at sea as the crew encounters Wapol and his men at sea, giving the first glimpse of the cruelty tied to Drum Kingdom.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Wapol",
+    "Luffy",
+    "Sanji",
+    "Nami",
+    "Zoro"
+  ],
+  "scene": "Wapol Appears at Sea. The crew encounters Wapol and his men at sea, giving the first glimpse of the cruelty tied to Drum Kingdom. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Wapol",
+      "text": "Can a person stand on top of an ocean?"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "The heck are you asking, Zoro?"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Then..."
+    },
+    {
+      "speaker": "Wapol",
+      "text": "How do you explain that?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "What?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "splash"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Quite cold today, isn't it?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "...yeah it is pretty cold today."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Y-Yeah, for real. It's freezing today..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Is that so?"
+    }
+  ],
+  "summary": "This part centers on wapol appears at sea, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

@@ -1,0 +1,102 @@
+{
+  "chapter": "201",
+  "part": 2,
+  "title": "Robin Leads Cobra Below",
+  "description": "On pages 8, 9, 10, 11, this part focuses on luffy breaks crocodile’s scheme. The final struggle beneath Alabasta turns against Crocodile as Luffy keeps fighting and Robin forces Cobra toward the hidden history Crocodile wants.",
+  "pages": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "characters": [
+    "Crocodile",
+    "Nico Robin",
+    "King Cobra",
+    "Luffy",
+    "Vivi",
+    "Pell"
+  ],
+  "scene": "This scene belongs to the Luffy Breaks Crocodile’s Scheme sequence. The important beat is the dialogue and action around Crocodile, Nico Robin, King Cobra, Luffy, Vivi.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "Ahhh!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "I'm falling!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Whoa, talk about close!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Take this..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Water Water pistol!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Water Luffy?"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "The true power behind my sand abilities,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Is desica- tion!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "...Watch."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Trees... Rocks... And even the very soil!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "every- thing on earth returns to sand!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "The rocks..."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Even the statue's turning to sand...!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "The entire surface is... Dying!?"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Agh!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "My sandals!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Everything touched by my hand..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Will Dry Up..."
+    },
+    {
+      "speaker": "Pell",
+      "text": "ground death!"
+    }
+  ],
+  "summary": "The final struggle beneath Alabasta turns against Crocodile as Luffy keeps fighting and Robin forces Cobra toward the hidden history Crocodile wants.",
+  "confidence": 0.88,
+  "needs_review": false
+}

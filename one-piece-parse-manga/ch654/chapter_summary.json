@@ -1,0 +1,26 @@
+{
+  "chapter": "654",
+  "title": "Into the New World",
+  "main_description": "The Straw Hats leave Fish-Man Island behind and finally enter the New World, where a strange sea and new dangers await them.",
+  "main_characters": [
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Usopp",
+    "Chopper",
+    "Robin",
+    "Franky",
+    "Brook",
+    "Straw Hats"
+  ],
+  "key_events": [
+    "The Sunny Enters the New World",
+    "The Sea Turns Strange",
+    "The Crew Finds an Impossible Island",
+    "The Log Pose Fails to Explain It"
+  ],
+  "confidence": 0.84,
+  "needs_review": false,
+  "review_reasons": []
+}

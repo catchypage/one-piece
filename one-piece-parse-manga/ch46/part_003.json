@@ -1,0 +1,102 @@
+{
+  "chapter": "46",
+  "part": 3,
+  "title": "Gin’s Gratitude Reveals Sanji’s Kindness",
+  "description": "On pages 7–10, Sanji feeds Gin despite the danger, revealing that his compassion for the hungry matters more to him than restaurant rules or pirate labels.",
+  "pages": [
+    7,
+    8,
+    9,
+    10
+  ],
+  "characters": [
+    "Don Krieg",
+    "Unknown person #1",
+    "Sanji",
+    "Gin",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7"
+  ],
+  "scene": "Gin arrives broken and starving, while the Baratie cooks judge him as an enemy; Sanji alone treats hunger as something that must be answered.",
+  "dialogue": [
+    {
+      "speaker": "Don Krieg",
+      "text": "It's Don KrieG's Pirate Ship!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "A skull with two hourglasses at its side, to threaten their enemies..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "There's no doubt about it! That's KrieG's flag!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Why is he here!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Look what you did, Patty! They actually came here! So are you gonna chase them off for us, Mr. Tough guy!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I-it can't be! The fleet Admiral who commands over 5000 pirates..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Is coming all the way out here to just to avenge one of his underlings!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Well you better believe it! His ship's coming this way right now!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "This is real bad! Shouldn't we be running away!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Bro, let's set sail! We don't wanna die!"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Talk about a huge ship! Gin must've come here to repay his debt to you!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Somehow I don't think that's the case... but it is strange..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "That ship..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "It's in complete shambles...!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "to turn a gigantic gallon of that size into that sad state..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "That's no work of humans..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "They must've been caught up in some natural disaster."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Huh?"
+    }
+  ],
+  "summary": "This part reveals the core of Sanji’s morality: no matter who a person is, he cannot ignore someone starving in front of him.",
+  "confidence": 0.58,
+  "needs_review": true
+}

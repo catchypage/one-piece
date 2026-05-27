@@ -1,0 +1,81 @@
+{
+  "chapter": "1",
+  "part": 15,
+  "title": "The Straw Hat Promise",
+  "description": "On pages 51–53, this part follows the Romance Dawn flashback and focuses on how Luffy’s pirate dream is formed through Shanks, Higuma, and the straw hat promise.",
+  "pages": [
+    51,
+    52,
+    53
+  ],
+  "characters": [
+    "Luffy",
+    "Makino",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "Shanks leaves Luffy with the straw hat, turning their farewell into a promise about the future.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Luffy's adventure..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "...begins 10 years later from this very same spot."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ten years later..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "WELL, HE'S FINALLY SETTING OUT, EH, MAYOR?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I'll miss that RASCAL."
+    },
+    {
+      "speaker": "Makino",
+      "text": "BUT IF HE DOES BECOME A PIRATE, HE'LL BRING SHAME TO THE VILLAGE."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I NEVER THOUGHT HE'D REALLY DO IT!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Wow!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "It's a good day to set out to sea!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "WHOA..."
+    },
+    {
+      "speaker": "Makino",
+      "text": "OUR LOCAL SEA MONSTER!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "SORRY I HAVE TO DO THIS..."
+    },
+    {
+      "speaker": "Makino",
+      "text": "BUT HERE'S AN ATTACK I'VE BEEN PERFECTING SINCE THE LAST TIME WE MET!!"
+    },
+    {
+      "speaker": "Makino",
+      "text": "Gum- gum..."
+    }
+  ],
+  "summary": "Shanks entrusts Luffy with the straw hat as a promise for the future. This moment turns Luffy’s dream into the core vow that will define his journey.",
+  "confidence": 0.75,
+  "needs_review": false
+}

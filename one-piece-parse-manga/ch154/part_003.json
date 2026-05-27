@@ -1,0 +1,180 @@
+{
+  "chapter": "154",
+  "part": 3,
+  "title": "Blackbeard’s Name Is Heard",
+  "description": "On pages 8–10, this part focuses on blackbeard’s name is heard, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    8,
+    9,
+    10
+  ],
+  "characters": [
+    "Ace",
+    "Luffy",
+    "Dr. Kureha",
+    "Chopper",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Nami",
+    "Blackbeard"
+  ],
+  "scene": "Blackbeard’s Name Is Heard. Kureha fires Hiriluk’s final miracle into the snow, sending Chopper off beneath cherry blossoms and a new flag. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Ace",
+      "text": "Chopperr!"
+    },
+    {
+      "speaker": "Ace",
+      "text": "Hey Chopperr! How long are ya gonna sit there moping!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Come and drink with us!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Those cherry blossoms were sure pretty though."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yo Nami, look! I learned this from Yosaku!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "didn't think I'd get to see something like that in a snow country!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "You said it! And what better time than now is there for a drink?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Guys!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Would it kill you to pay some attention over here too!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What, those two look alive to me."
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Carue! What were you doing out frozen in the river!?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Quick"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Carueeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Quick quick quick... quick quick..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Maybe he slipped and fell in? Haha, clumsy lil' guy."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "You stay quiet, Mr. Bushido!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "He said he saw someone called zero disappear in the river,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "So he jumped inside to rescue him but ended up becoming frozen."
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "So this was your fault!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You can understand what Carue is saying, Tony?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Well, I was originally a normal animal so I can communicate with other animals."
+    },
+    {
+      "speaker": "Ace",
+      "text": "That's amazing, Chopper! You're not only well versed in medical skills,"
+    },
+    {
+      "speaker": "Ace",
+      "text": "But you can talk to animals too!?"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "compared in accordance in approximately"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "You seem plenty happy to me..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Wait Nami, what do you mean by \"medical skills?\""
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "What!? Chopperr, you're a doctor!?"
+    },
+    {
+      "speaker": "Ace",
+      "text": "If you didn't know that, then why on earth did you invite him onboard?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "He's a cool Reindeer that can transform into 7 different forms, duh."
+    },
+    {
+      "speaker": "Ace",
+      "text": "Emergency food supply."
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Ah-"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Oh no! I forgot to bring my surgical tools,"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Because I was too busy trying to escape!"
+    },
+    {
+      "speaker": "Ace",
+      "text": "Then what's this? It was already inside the sleigh."
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "My backpack! But how!?"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "How?"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "I thought it was you, no?"
+    }
+  ],
+  "summary": "This part highlights blackbeard’s name is heard and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.6,
+  "needs_review": true
+}

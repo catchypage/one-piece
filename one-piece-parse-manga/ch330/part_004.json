@@ -1,0 +1,92 @@
+{
+  "chapter": "330",
+  "part": 4,
+  "title": "The Captain’s Decision",
+  "description": "Luffy, Zoro, Sanji, and Chopper strike back after Usopp is beaten, turning the search for the stolen money into revenge.",
+  "pages": [
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Franky",
+    "Franky Family",
+    "Going Merry"
+  ],
+  "scene": "Across pages 14, 15, 16, this part follows Luffy, Usopp, Nami, Zoro, Sanji. Luffy, Zoro, Sanji, and Chopper strike back after Usopp is beaten, turning the search for the stolen money into revenge.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Chop them into pieces!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "They're only four people!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Koo"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Koo"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Koo"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Should we go after frankly?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Where would we go?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Damn it..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "OK! I'm done!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Come help lift him!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Hey, Luffy!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The ship..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "I've decided..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "It's time to..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Say good-bye to going Going Merry!"
+    }
+  ],
+  "summary": "Luffy, Zoro, Sanji, and Chopper strike back after Usopp is beaten, turning the search for the stolen money into revenge.",
+  "confidence": 0.83,
+  "needs_review": false
+}

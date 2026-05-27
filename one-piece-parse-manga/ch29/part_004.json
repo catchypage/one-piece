@@ -1,0 +1,109 @@
+{
+  "chapter": "29",
+  "part": 4,
+  "title": "The Black Cat Plot Tightens Around Kaya",
+  "description": "On pages 10–13, the Syrup Village story develops through Usopp, Kaya, Kuro, Jango, and the Straw Hats as the danger behind the village’s peaceful surface becomes clearer.",
+  "pages": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "characters": [
+    "Kaya",
+    "Unknown person #1",
+    "Kuro",
+    "Unknown person #2",
+    "Usopp"
+  ],
+  "scene": "This scene follows the tension around Usopp’s village: lies, loyalty, hidden plans, and the growing clash with the Black Cat Pirates.",
+  "dialogue": [
+    {
+      "speaker": "Kaya",
+      "text": "Which way is North?!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Ouch!!"
+    },
+    {
+      "speaker": "Kuro",
+      "text": "WAA- AA!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Ah!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Good! It works!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Now, for my special attack technique \"Namari- Bashi\"!! (bullet"
+    },
+    {
+      "speaker": "Kuro",
+      "text": "Ugh!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Damn it!"
+    },
+    {
+      "speaker": "Kuro",
+      "text": "Good job! Keep up the good work!"
+    },
+    {
+      "speaker": "Kuro",
+      "text": "I'm going to go rest a while!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "The Battle Isn't Over yet!"
+    },
+    {
+      "speaker": "Kuro",
+      "text": "Good job captain!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Aah!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "What now?"
+    },
+    {
+      "speaker": "Kuro",
+      "text": "There are spikes behind us too!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Baka! You threw those yourself!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "You're blocking our way!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Now die!"
+    },
+    {
+      "speaker": "Kuro",
+      "text": "Heh! Did you really think you guys could stop us?"
+    },
+    {
+      "speaker": "Kuro",
+      "text": "Let's go! Captain Kuro is waiting for us!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Heh heh!"
+    }
+  ],
+  "summary": "The part advances the Syrup Village arc by tying Usopp’s reputation and Kaya’s safety to the threat posed by Kuro and his crew.",
+  "confidence": 0.86,
+  "needs_review": false
+}

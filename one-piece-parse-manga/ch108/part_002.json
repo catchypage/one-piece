@@ -1,0 +1,113 @@
+{
+  "chapter": "108",
+  "part": 2,
+  "title": "Luffy Wakes Up Furious",
+  "description": "On pages 5–8, luffy wakes up furious as zoro cuts through the Baroque Works agents at Whiskey Peak while Luffy wakes up and misunderstands the situation.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Zoro",
+    "Baroque Works agent",
+    "Luffy",
+    "Nami",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5"
+  ],
+  "scene": "Luffy Wakes Up Furious. Zoro cuts through the Baroque Works agents at Whiskey Peak while Luffy wakes up and misunderstands the situation. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Zoro",
+      "text": "First up is..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "YUBASHIRI...!"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "Ah...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Very light!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "A fine blade indeed..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "gyaaaai"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I see him! He's over there!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Oh, I've been spotted."
+    },
+    {
+      "speaker": "Nami",
+      "text": "He's going up!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Eat this!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Whoa!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "That was close."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Hahaha, this is as far as you'll get."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Uooohhhh!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Miss Monday!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Don't worry about that and just kill him!"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "Sigh..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What a waste of such fine liquor..."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Why you...!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Hahhh!"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on luffy wakes up furious. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.7,
+  "needs_review": true
+}

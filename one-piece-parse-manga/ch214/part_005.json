@@ -1,0 +1,104 @@
+{
+  "chapter": "214",
+  "part": 5,
+  "title": "The Log Points Forward",
+  "description": "On pages 17, 18, 19, this part focuses on robin boards the merry. Nico Robin appears aboard the Going Merry and forces the crew to confront the fact that a former enemy now wants to travel with them.",
+  "pages": [
+    17,
+    18,
+    19
+  ],
+  "characters": [
+    "Nico Robin",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Zoro",
+    "Vivi",
+    "Narrator"
+  ],
+  "scene": "This scene belongs to the Robin Boards the Merry sequence. The important beat is the dialogue and action around Nico Robin, Luffy, Nami, Usopp, Sanji.",
+  "dialogue": [
+    {
+      "speaker": "Nico Robin",
+      "text": "The marimes probably would've taken it."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Why?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yeah, why!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Because my dear,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "\"We're friends."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Stooooop JOOKING AROOUND!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Stooooop JOOKING AROOUND!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Nope, this is the last one."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "ACK!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Bon- Chan!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "HELL YEAAAH!!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "...Oh jeez."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Welp, we're countin' on y'all then."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Miss Hina! We've located their ship!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Bite"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Prepare for battle."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Enter"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "First turn"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Start"
+    }
+  ],
+  "summary": "Nico Robin appears aboard the Going Merry and forces the crew to confront the fact that a former enemy now wants to travel with them.",
+  "confidence": 0.79,
+  "needs_review": false
+}

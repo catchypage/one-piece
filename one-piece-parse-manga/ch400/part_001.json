@@ -1,0 +1,142 @@
+{
+  "chapter": "400",
+  "part": 1,
+  "title": "The Tower Battles Begin",
+  "description": "Each Straw Hat faces a CP9 opponent while the rescue depends on finding the correct key before Robin reaches the Gate of Justice.",
+  "pages": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "characters": [
+    "Luffy",
+    "Fukurou",
+    "Zoro",
+    "Franky",
+    "Nami",
+    "Rob Lucci",
+    "Sanji",
+    "Chopper",
+    "Sogeking",
+    "Nico Robin"
+  ],
+  "scene": "Across pages 6, 7, 8, 9, this part follows Luffy, Fukurou, Zoro, Franky, Nami. Each Straw Hat faces a CP9 opponent while the rescue depends on finding the correct key before Robin reaches the Gate of Justice.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "00- WAAAAAA!"
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "NGAGAGagaGAGA!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "It's a fall!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Nya!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "AAAAAAAAAAH!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "It brings back memories, Tom..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "NGAGaga."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'm proud of myself with a Don..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "For helping the guy called Roger!!!"
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "Really!?"
+    },
+    {
+      "speaker": "Rob Lucci",
+      "text": "Yeah!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "that Roger... was..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Also an idiot, just like him..."
+    },
+    {
+      "speaker": "Sogeking",
+      "text": "... and you lent him a hand..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "defiantly, the entire Tom's workers..."
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "You'd probably run"
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "We'll crash--!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Have done the same, wouldn't you?"
+    },
+    {
+      "speaker": "Franky",
+      "text": "gyAA-- Aah--!!"
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "gyAAAah!!"
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "Run!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "They came."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "They came!!!"
+    },
+    {
+      "speaker": "Fukurou",
+      "text": "Damn it!! You, come with me!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "crush them in this judicial tower!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Lucc!! You come with me!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Funkfreeed!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "AOOON!!!"
+    }
+  ],
+  "summary": "Each Straw Hat faces a CP9 opponent while the rescue depends on finding the correct key before Robin reaches the Gate of Justice.",
+  "confidence": 0.82,
+  "needs_review": false
+}

@@ -1,0 +1,97 @@
+{
+  "chapter": "512",
+  "part": 3,
+  "title": "The Crew Is Scattered: Key Exchange",
+  "description": "In the Sabaody Archipelago storyline, this section centers on Pacifista, Unknown person #4, Unknown person #10, Unknown person #7, Unknown person #11, Unknown person #12 as the scene develops across pages 9–12.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Pacifista",
+    "Unknown person #4",
+    "Unknown person #10",
+    "Unknown person #7",
+    "Unknown person #11",
+    "Unknown person #12",
+    "Unknown person #13",
+    "Unknown person #5",
+    "Unknown person #9"
+  ],
+  "scene": "This scene advances the Sabaody Archipelago conflict through Pacifista, Unknown person #4, Unknown person #10, Unknown person #7, Unknown person #11, focusing on the immediate stakes of the crew is scattered: key exchange.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #11",
+      "text": "gyaa a Aahhh !!!"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Brook !!!"
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "Ogeeeeh !!"
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "That was all for Naught* ....!!"
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Stop, you shitty bastard!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Sanji!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Run, Sanji! He's aiming for you--"
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "Idiot!! Get going already!!"
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "Uwaah !!"
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "My subordi- Nates are pretty strong themselves...!!"
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "Zeeh... Zeeh..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "It doesn't look good over there....!!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "I never even used my broadaxe..."
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "\"Ashigara Dokkoi\" !!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Buhoh!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Luffy!!!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Damn it!!!"
+    }
+  ],
+  "summary": "This scene advances the Sabaody Archipelago conflict through Pacifista, Unknown person #4, Unknown person #10, Unknown person #7, Unknown person #11, focusing on the immediate stakes of the crew is scattered: key exchange.",
+  "confidence": 0.68,
+  "needs_review": false
+}

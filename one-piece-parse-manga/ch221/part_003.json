@@ -1,0 +1,138 @@
+{
+  "chapter": "221",
+  "part": 3,
+  "title": "Nami Looks for Sky Island Clues",
+  "description": "The Straw Hats enter Jaya’s rough pirate port, where rumors, salvage crews, and violent pirates make the dream of Sky Island look foolish.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Nami",
+    "Bellamy",
+    "Masira",
+    "Mock Town pirate",
+    "Luffy",
+    "Zoro",
+    "Blackbeard",
+    "Bartender",
+    "Usopp",
+    "Sanji"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this scene centers on Nami, Bellamy, Masira, Mock Town pirate, Luffy. The Straw Hats enter Jaya’s rough pirate port, where rumors, salvage crews, and violent pirates make the dream of Sky Island look foolish.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "Luffy! What's wrong!? Are you dead!?"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "whereze..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "ZORO! Sanji!"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "He means trouble...!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Thank God you're safe!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "'Cause they're both monkeys."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Like a mad gorilla!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "That'd be Masira, the salvage!"
+    },
+    {
+      "speaker": "Mock Town pirate",
+      "text": "Turtle?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What turtle?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Whoa! What the hell is that!?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "NOW you notice!?"
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "pfahh!"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "Why's it night all of a sudden?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Luffy! Help us get the sail down!"
+    },
+    {
+      "speaker": "Bartender",
+      "text": "Hold it right there!"
+    },
+    {
+      "speaker": "Bartender",
+      "text": "You low- lives!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Steal my treasures and just get away!?"
+    },
+    {
+      "speaker": "Blackbeard",
+      "text": "Treasure!? You found treasure!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hee hee! Found a whole bunch!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Draw..."
+    },
+    {
+      "speaker": "Bellamy",
+      "text": "B.... B... Boss! W-W-W... Watch out!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "GAHH..."
+    },
+    {
+      "speaker": "Bartender",
+      "text": "...Hmm?"
+    },
+    {
+      "speaker": "Bartender",
+      "text": "What?"
+    },
+    {
+      "speaker": "Bartender",
+      "text": "Agh-"
+    }
+  ],
+  "summary": "The Straw Hats enter Jaya’s rough pirate port, where rumors, salvage crews, and violent pirates make the dream of Sky Island look foolish.",
+  "confidence": 0.84,
+  "needs_review": false
+}

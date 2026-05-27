@@ -1,0 +1,67 @@
+{
+  "chapter": "410",
+  "part": 4,
+  "title": "The Keys to Robin’s Rescue: Turning Point",
+  "description": "In the Enies Lobby Climax storyline, this section centers on Spandam, CP9, Unknown person #1, Unknown person #14, Unknown person #15, Unknown person #16 as the scene develops across pages 23–24.",
+  "pages": [
+    23,
+    24
+  ],
+  "characters": [
+    "Spandam",
+    "CP9",
+    "Unknown person #1",
+    "Unknown person #14",
+    "Unknown person #15",
+    "Unknown person #16",
+    "Unknown person #17",
+    "Unknown person #18",
+    "Unknown person #19"
+  ],
+  "scene": "This scene advances the Enies Lobby Climax conflict through Spandam, CP9, Unknown person #1, Unknown person #14, Unknown person #15, focusing on the immediate stakes of the keys to robin’s rescue: turning point.",
+  "dialogue": [
+    {
+      "speaker": "Spandam",
+      "text": "What is that ....!!?"
+    },
+    {
+      "speaker": "CP9",
+      "text": "EH...?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Is she Senile by Nature !!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "O (ODA):"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Diez"
+    },
+    {
+      "speaker": "Unknown person #15",
+      "text": "Nueve"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "Ocho"
+    },
+    {
+      "speaker": "Unknown person #17",
+      "text": "Siete"
+    },
+    {
+      "speaker": "Unknown person #18",
+      "text": "Cinco"
+    },
+    {
+      "speaker": "Unknown person #19",
+      "text": "Tres"
+    }
+  ],
+  "summary": "This scene advances the Enies Lobby Climax conflict through Spandam, CP9, Unknown person #1, Unknown person #14, Unknown person #15, focusing on the immediate stakes of the keys to robin’s rescue: turning point.",
+  "confidence": 0.67,
+  "needs_review": true
+}

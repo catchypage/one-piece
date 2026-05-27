@@ -1,0 +1,131 @@
+{
+  "chapter": "50",
+  "part": 3,
+  "title": "Don Krieg Sets His Sights on the Baratie",
+  "description": "On pages 8–11, Don Krieg’s arrival turns the Baratie crisis into a pirate siege while Nami’s departure and the looming fight split the crew’s attention.",
+  "pages": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Sanji",
+    "Zoro",
+    "Don Krieg",
+    "Gin",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7"
+  ],
+  "scene": "The Baratie becomes trapped between hungry enemies, terrified cooks, Krieg’s overwhelming force, and the Straw Hats’ personal priorities.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "luffy, what about you?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Sorry but I can't."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I still haven't paid this restaurant back for what I did."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Be careful."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "The situation here is getting a little crazy."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Yeah, don't worry."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "It's him!!!"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "Don Krieg, it's him!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "The one who destroyed our fleet!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "He followed us all the way out here!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "He's come to kill all of us!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "that bast-"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I-it can't be... is that..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "The Hawk- eyed Man...!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "He's... the one who sank,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "A fleet of 50 ships...!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Then... He's the one who destroyed KrieG's ship just now!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "He looks like any normal guy..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "And it doesn't seem like he's carrying any special weapon..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "If you're looking for his weapon, then it's on his back...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "WHA...!?"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Y-you mean he cut that gigantic Galleon by swinging that!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Yes... that \"Hawk-eyed\" man is a renowned swordsman."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "more renowned than any other swordsman in this world..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "world's strongest swordsman \"HANK-EYES MTHANK\""
+    }
+  ],
+  "summary": "This part escalates the Baratie arc from character introduction to open conflict, with Krieg threatening the restaurant and Nami pulling the story toward Arlong Park.",
+  "confidence": 0.66,
+  "needs_review": false
+}

@@ -1,0 +1,84 @@
+{
+  "chapter": "205",
+  "part": 5,
+  "title": "The Straw Hats Recover in Secret",
+  "description": "On pages 18, 19, 20, 21, this part focuses on a kingdom wakes from war. Alabasta starts facing the aftermath of Crocodile’s deception while Vivi, Cobra, the rebels, and the Straw Hats recover from the civil war.",
+  "pages": [
+    18,
+    19,
+    20,
+    21
+  ],
+  "characters": [
+    "Alabasta citizen",
+    "Vivi",
+    "Luffy",
+    "King Cobra",
+    "Smoker",
+    "Tashigi",
+    "Nico Robin",
+    "Nami"
+  ],
+  "scene": "This scene belongs to the A Kingdom Wakes from War sequence. The important beat is the dialogue and action around Alabasta citizen, Vivi, Luffy, King Cobra, Smoker.",
+  "dialogue": [
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Mr. 7, listen! I know something!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "This is our final assignment!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Krribbit ribbit ribbit!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Ohohoho! Yes, I'd assess so too! Ohohoho!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Baroque Works Frontier Agent Ms. Father's Day"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Baroque Works Frontier Agent Mr. 7"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Who're those two!?"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Mr. 7!?"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "An explosion of arts! Let's go!"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Using Gallery Pirates!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "#U.#D 7.1."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "(b) a CIR"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "\"I'm not going to"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Going to me! #IRATES!"
+    }
+  ],
+  "summary": "Alabasta starts facing the aftermath of Crocodile’s deception while Vivi, Cobra, the rebels, and the Straw Hats recover from the civil war.",
+  "confidence": 0.89,
+  "needs_review": false
+}

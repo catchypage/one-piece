@@ -1,0 +1,110 @@
+{
+  "chapter": "328",
+  "part": 1,
+  "title": "First Steps in Water Seven",
+  "description": "Usopp’s attachment to the Going Merry turns the repair verdict into a personal crisis that separates him emotionally from the crew.",
+  "pages": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "characters": [
+    "Kaku",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Iceburg",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Galley-La shipwright"
+  ],
+  "scene": "Across pages 6, 7, 8, 9, this part follows Kaku, Luffy, Nami, Usopp, Iceburg. Usopp’s attachment to the Going Merry turns the repair verdict into a personal crisis that separates him emotionally from the crew.",
+  "dialogue": [
+    {
+      "speaker": "Kaku",
+      "text": "Shit..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "You don't need to Apolo- Gize..."
+    },
+    {
+      "speaker": "Kaku",
+      "text": "I hope nothing went wrong....."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Eh...!? Should I take a look?"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "I'm not ill!!"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "I'm feeling uneasy about what Aokiji said..."
+    },
+    {
+      "speaker": "Kaku",
+      "text": "What did he say?"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "He talked about Nico Robin's past and..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I hope she went back there safely..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "You can't fix going Going Merry!!!?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Why!!?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "That's..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Not the problem."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'm really impressed about that..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What do you mean?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What's Wrong With Going Going Merry?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "It's on the bottom of the ship..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Keeel"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Then the head, the tail, the spine..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The rib, the pillar..."
+    }
+  ],
+  "summary": "Usopp’s attachment to the Going Merry turns the repair verdict into a personal crisis that separates him emotionally from the crew.",
+  "confidence": 0.86,
+  "needs_review": false
+}

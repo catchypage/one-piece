@@ -1,0 +1,93 @@
+{
+  "chapter": "164",
+  "part": 5,
+  "title": "The Past Explains the Present",
+  "description": "On pages 17–18, this part focuses on the past explains the present, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Vivi",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Zoro",
+    "Chopper",
+    "Toto",
+    "Koza",
+    "Baroque Works agent",
+    "Unknown person #1"
+  ],
+  "scene": "The Past Explains the Present. Vivi’s childhood bond with Koza and the roots of the rebel movement give the civil war a personal face. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "I tried and tried... Honest to god, I tried so hard to stop them..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "But nothing I said was of any use... Those rebels just won't stop..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "But their supplies are running low and they know they can't hold out for much longer..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "That's why they're planning on settling things once and for all in their next offensive!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "They've lost their minds...!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "They're practically suicidal at this point!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Please, Vivi..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "You have to stop those fools...!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Katorea Oasis Town (Situated next to Nanohana)"
+    },
+    {
+      "speaker": "Toto",
+      "text": "Current Main Base of the Rebels"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "We capons?"
+    },
+    {
+      "speaker": "Koza",
+      "text": "It's not much but we managed to score this much at least... Where's Kouza?"
+    },
+    {
+      "speaker": "Baroque Works agent",
+      "text": "He's inside."
+    },
+    {
+      "speaker": "Nami",
+      "text": "What's the matter? You seem to be spacing out..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "This country..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Has gone mad..."
+    }
+  ],
+  "summary": "This part develops the past explains the present and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.76,
+  "needs_review": false
+}

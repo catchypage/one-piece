@@ -1,0 +1,84 @@
+{
+  "chapter": "912.5",
+  "part": 1,
+  "title": "Luffy Lands in Wano and Meets Tama",
+  "description": "On pages 0–5, this part focuses on Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4 as Luffy lands in Wano, meets Tama, and immediately collides with the poverty and cruelty of Kaido’s rule.",
+  "pages": [
+    0,
+    3,
+    4,
+    5
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "Luffy washes up in Wano, meets Tama, and discovers a country suffering under Kaido’s rule.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Hmm..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "So that's that floating restaurant, huh..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Not much to look at, is it?"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "sigh... just as I thought. Low-level dishes, the lot of them."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "To be honest, a place like this"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "shouldn't even call itself a restau- rant."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "It's an insult to the world of gourmet."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Whaaa?! the hell's with that woman?!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Wait, that is a woman, right? A human, right? She looks like a bloody sea king!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "shall we throw her out?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hm? Wait... is that..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Hey, you! Yes, you, waiter! Come here!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Waiter?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Wait, me?"
+    }
+  ],
+  "summary": "This section advances the Wano Country Arrival storyline with 15 dialogue beats. Luffy’s first steps in Wano establish Tama’s kindness, the country’s hunger, and the brutality of Kaido’s forces.",
+  "confidence": 0.64,
+  "needs_review": true
+}

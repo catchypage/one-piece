@@ -1,0 +1,169 @@
+{
+  "chapter": "40",
+  "part": 4,
+  "title": "Usopp Chooses to Leave the Village Peacefully",
+  "description": "On pages 13–16, the Syrup Village arc settles after Kuro’s defeat, focusing on Usopp’s decision, Kaya’s gratitude, and the end of the Usopp Pirates.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Kaya",
+    "Usopp Pirate",
+    "Black Cat Pirate",
+    "Usopp",
+    "Luffy",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "The village chooses peace and secrecy while Usopp prepares to leave, turning his old lies into the beginning of a real journey.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Oh, yes, you're all here"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "You guys fought bravely"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "against those KURO neko pirates!"
+    },
+    {
+      "speaker": "Usopp Pirate",
+      "text": "It was a battle worthy of the USOPP pirate group"
+    },
+    {
+      "speaker": "Black Cat Pirate",
+      "text": "I'm very proud as the captain!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "5 years ago..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "We formed the USOPPP pirate group when you guys were four"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "This was the greatest and most magnificent battle we have experienced in those 5 years"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "And now,"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "It's sudden but I have decided to go to the sea by myself"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I'm going to become a real pirate"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "What...?"
+    },
+    {
+      "speaker": "Black Cat Pirate",
+      "text": "Captain?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "After seeing them, I decided"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm going to leave this village"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "There is only one reason!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Because the pirate flag is calling me!"
+    },
+    {
+      "speaker": "Black Cat Pirate",
+      "text": "Captain, that's a lie! That's also a lie, right!?"
+    },
+    {
+      "speaker": "Black Cat Pirate",
+      "text": "That's so sudden! Besides, don't you love this village, Captain?"
+    },
+    {
+      "speaker": "Usopp Pirate",
+      "text": "What's going to happen to usopp pirate group!?!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Shanks for every- thing, guys"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "I don't plan on telling the folks in the village, say bye to them for me"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "No..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "No, I don't want to say that!!!"
+    },
+    {
+      "speaker": "Black Cat Pirate",
+      "text": "Don't go, Captain"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Do you remember- her this place?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "This is where we first met"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Hey, liar!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Who are you little brats?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "But you're famous for your lies"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Yeah, you're famous,"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "I don't wanna hear that story!"
+    },
+    {
+      "speaker": "Usopp Pirate",
+      "text": "Okay, you can call me captain usopp from now on"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "You guys are USOPP? Pirate Group!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Whaa..."
+    }
+  ],
+  "summary": "This part gives Syrup Village an emotional farewell: Usopp protects the village’s peace, says goodbye to his friends, and steps toward becoming a real pirate.",
+  "confidence": 0.86,
+  "needs_review": false
+}

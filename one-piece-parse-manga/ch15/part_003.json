@@ -1,0 +1,92 @@
+{
+  "chapter": "15",
+  "part": 3,
+  "title": "Nami Fights to Keep the Treasure",
+  "description": "On pages 8–11, Nami’s obsession with treasure collides with Luffy’s blunt honesty and Buggy’s chaos.",
+  "pages": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Nami",
+    "Buggy",
+    "Mayor Boodle",
+    "Luffy"
+  ],
+  "scene": "Nami tries to protect what she has stolen or earned, while the surrounding fight keeps pulling her deeper into the Straw Hats’ orbit.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Huh?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "The kid in the straw hat!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "HACK! KOFF! KOFF!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I'm BACK!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Told you'd clobber you!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I don't believe it!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "You two must enjoy pain..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "BUT THIS TIME YOU WON'T ESCAPE ME!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "HAVE FUN FIGHTING, BOYS..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I'm just here for the map and the treasure!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "WHATEVER..."
+    },
+    {
+      "speaker": "Buggy",
+      "text": "You young Whipper- snappers..."
+    },
+    {
+      "speaker": "Buggy",
+      "text": "you're outsiders... KOFF... not your fight!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "This is my battle!"
+    },
+    {
+      "speaker": "Mayor Boodle",
+      "text": "It's my town and I'LL protect it!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "So don't inter- FERE!!!"
+    }
+  ],
+  "summary": "The part keeps Nami morally complicated: she is selfish, clever, and frightened, but also increasingly tied to Luffy and Zoro.",
+  "confidence": 0.6,
+  "needs_review": true
+}

@@ -1,0 +1,109 @@
+{
+  "chapter": "76",
+  "part": 5,
+  "title": "Nezumi Steals Nami’s Hope",
+  "pages": [
+    17,
+    18
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Arlong",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6"
+  ],
+  "scene": "On pages 17–18, the story moves through Arlong Park and Nami’s dangerous position among the fish-men. Nami tries to cut herself off from Luffy’s crew while Zoro and the others see that something is wrong.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "It's useless."
+    },
+    {
+      "speaker": "Nami",
+      "text": "No matter what you do, you won't be able to change Arlong's rule."
+    },
+    {
+      "speaker": "Nojiko",
+      "text": "Nojiko."
+    },
+    {
+      "speaker": "Nojiko",
+      "text": "Who's she?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "She's Nami's sister."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "N-N-N-N-N-N-N-N-N-N-N-N-Nami's sister!?\\\\ well, it's no wonder why she's so beautiful then!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "What do you mean useless?"
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "Please don't involve yourselves with this village any further."
+    },
+    {
+      "speaker": "Nami",
+      "text": "I'll tell you all about how things got this way,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "So in return, I want you to just leave quietly."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "A Marine ship is docked at the shore!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It's the 16th branch!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "could they have come to investigate,"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "What happened to the 77\"# branch ship that came by earlier...?"
+    },
+    {
+      "speaker": "Marine Captain Nezumi",
+      "text": "chichichichi... I'm CPT. Nezumi of the Marines 16th branch."
+    },
+    {
+      "speaker": "Cocoyasi villagers",
+      "text": "Bring me the man named Genzo who lives here in Cocoyashi Village!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "That'd be me. What do you want, Captain?"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "You're Genzo?"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "guide me to the house,"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "belonging to the woman named Nami."
+    }
+  ],
+  "summary": "This part builds the Arlong Park conflict by showing how Nami’s choices look contradictory from outside while Arlong’s power keeps the island trapped.",
+  "confidence": 0.69,
+  "needs_review": false
+}

@@ -1,0 +1,64 @@
+{
+  "chapter": "143",
+  "part": 3,
+  "title": "Hiriluk Speaks of Miracles",
+  "description": "On pages 10–13, this part focuses on hiriluk speaks of miracles, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "characters": [
+    "Dr. Kureha",
+    "Hiriluk",
+    "Unknown person #1",
+    "Chopper"
+  ],
+  "scene": "Hiriluk Speaks of Miracles. Chopper learns what Hiriluk believes about medicine, hope, and the cherry blossom dream that can heal a country. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Dr. Kureha",
+      "text": "I would never,"
+    },
+    {
+      "speaker": "Hiriluk",
+      "text": "Ever shoot you!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Forgive me,"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Chopperr..."
+    },
+    {
+      "speaker": "Hiriluk",
+      "text": "But at the very least, I want you to witness my cherry blossoms,"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "My last and greatest work...!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Aghhhhh!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Damn, it's the same as usual!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Dammit!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "I don't have much more time left!"
+    }
+  ],
+  "summary": "This part highlights hiriluk speaks of miracles and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.76,
+  "needs_review": false
+}

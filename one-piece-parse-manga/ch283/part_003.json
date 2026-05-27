@@ -1,0 +1,90 @@
+{
+  "chapter": "283",
+  "part": 3,
+  "title": "Luffy Looks for Enel",
+  "description": "Luffy fights his way back toward Enel while Nami, Aisa, and the remaining survivors look for a way through the coming destruction.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Enel",
+    "Luffy",
+    "Nami",
+    "Aisa",
+    "Wyper",
+    "Gan Fall",
+    "Pagaya",
+    "Zoro",
+    "Sanji",
+    "Conis"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this scene focuses on Enel, Luffy, Nami, Aisa, Wyper. Luffy fights his way back toward Enel while Nami, Aisa, and the remaining survivors look for a way through the coming destruction.",
+  "dialogue": [
+    {
+      "speaker": "Enel",
+      "text": "Is it not reliant on any manpower...?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "How the hell is it flying....!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Is it really not gonna crash down?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "What the hell are we gonna do!?"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "Crawl"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "The sky is... becoming darker and darker..."
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "Set sail for the white seas!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Get on the ship!"
+    },
+    {
+      "speaker": "Pagaya",
+      "text": "We have no time left!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "What a creepy ship...!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "There's no need to wait!"
+    },
+    {
+      "speaker": "Enel",
+      "text": "But-"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The warriors are not children."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It's all over..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The following"
+    }
+  ],
+  "summary": "Luffy fights his way back toward Enel while Nami, Aisa, and the remaining survivors look for a way through the coming destruction.",
+  "confidence": 0.88,
+  "needs_review": false
+}

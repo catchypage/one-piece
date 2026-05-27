@@ -1,0 +1,110 @@
+{
+  "chapter": "217",
+  "part": 3,
+  "title": "Rumors of Sky Island",
+  "description": "On pages 13, 14, 15, 16, this part focuses on jaya’s strange sea. The Straw Hats reach waters filled with strange creatures, salvage crews, and rumors that begin pulling them toward Jaya.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Zoro",
+    "Chopper",
+    "Nico Robin",
+    "Masira",
+    "Shojo",
+    "Mont Blanc Cricket"
+  ],
+  "scene": "This scene belongs to the Jaya’s Strange Sea sequence. The important beat is the dialogue and action around Luffy, Nami, Usopp, Sanji, Zoro.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Flip"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Pell..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "You know,"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "The tears won't come out..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "I wonder why..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Pell..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Caw"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Caw"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "...So why's this camel special?"
+    },
+    {
+      "speaker": "Masira",
+      "text": "...But it's a camel."
+    },
+    {
+      "speaker": "Masira",
+      "text": "Yeah..."
+    },
+    {
+      "speaker": "Masira",
+      "text": "Who..."
+    },
+    {
+      "speaker": "Shojo",
+      "text": "Well..."
+    },
+    {
+      "speaker": "Mont Blanc Cricket",
+      "text": "Thanks for the treatment."
+    },
+    {
+      "speaker": "Jaya local",
+      "text": "When you get home,"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "...Hmm?"
+    },
+    {
+      "speaker": "Masira",
+      "text": "Hey, wait!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "You left your cap!"
+    },
+    {
+      "speaker": "Masira",
+      "text": "Alright, Carue..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "turn"
+    }
+  ],
+  "summary": "The Straw Hats reach waters filled with strange creatures, salvage crews, and rumors that begin pulling them toward Jaya.",
+  "confidence": 0.84,
+  "needs_review": false
+}

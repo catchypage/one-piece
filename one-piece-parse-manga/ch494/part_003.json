@@ -1,0 +1,131 @@
+{
+  "chapter": "494",
+  "part": 3,
+  "title": "The Road to Sabaody: Key Exchange",
+  "description": "In the Sabaody Archipelago storyline, this section centers on Duval, Whitebeard, Unknown person #1, Nami, Unknown person #3, Unknown person #2 as the scene develops across pages 9–12.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Duval",
+    "Whitebeard",
+    "Unknown person #1",
+    "Nami",
+    "Unknown person #3",
+    "Unknown person #2",
+    "Unknown person #8",
+    "Unknown person #4",
+    "Unknown person #9",
+    "Unknown person #10",
+    "Robin"
+  ],
+  "scene": "This scene advances the Sabaody Archipelago conflict through Duval, Whitebeard, Unknown person #1, Nami, Unknown person #3, focusing on the immediate stakes of the road to sabaody: key exchange.",
+  "dialogue": [
+    {
+      "speaker": "Nami",
+      "text": "Something came out!! What is that!?"
+    },
+    {
+      "speaker": "Duval",
+      "text": "You ain't mosquito or flies!!!"
+    },
+    {
+      "speaker": "Duval",
+      "text": "You're the flying fish riders!!!"
+    },
+    {
+      "speaker": "Whitebeard",
+      "text": "Dival's beloved bison Motobaro"
+    },
+    {
+      "speaker": "Duval",
+      "text": "Buoh ..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Our deepest apologies, boss!!!"
+    },
+    {
+      "speaker": "Whitebeard",
+      "text": "You all know that, don't you....!!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Of course, Boss!!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "That man who, all of a sudden,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Is He talking about us over here?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "sent me to the depths of hell!!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "... right here, right now....!!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "You,"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "pirate \"Black Leg\" Sanji!!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "This is bad!"
+    },
+    {
+      "speaker": "Duval",
+      "text": "His accent is getting heavier....!!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Me...!!?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "That guy wants to kill me...!?"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "You're getting what you deserve."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "This just happened recently!!!"
+    },
+    {
+      "speaker": "Robin",
+      "text": "Look out! Take cover!!!"
+    },
+    {
+      "speaker": "Whitebeard",
+      "text": "Harpoons !!!"
+    },
+    {
+      "speaker": "Duval",
+      "text": "Something recent!? This is getting more confusing!"
+    },
+    {
+      "speaker": "Whitebeard",
+      "text": "Shu..."
+    },
+    {
+      "speaker": "Whitebeard",
+      "text": "These Harpoons are dosed with Scorpion poison!!!"
+    }
+  ],
+  "summary": "This scene advances the Sabaody Archipelago conflict through Duval, Whitebeard, Unknown person #1, Nami, Unknown person #3, focusing on the immediate stakes of the road to sabaody: key exchange.",
+  "confidence": 0.73,
+  "needs_review": false
+}

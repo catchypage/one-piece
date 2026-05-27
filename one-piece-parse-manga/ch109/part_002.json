@@ -1,0 +1,108 @@
+{
+  "chapter": "109",
+  "part": 2,
+  "title": "Vivi’s Cover Is Blown",
+  "description": "On pages 8–11, vivi’s cover is blown as baroque Works agents reveal that Miss Wednesday is Princess Vivi of Alabasta, turning Whiskey Peak into a deadly chase.",
+  "pages": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "characters": [
+    "Vivi",
+    "Igaram",
+    "Mr. 9",
+    "Luffy",
+    "Zoro",
+    "Mr. 5",
+    "Miss Valentine",
+    "Unknown person #1"
+  ],
+  "scene": "Vivi’s Cover Is Blown. Baroque Works agents reveal that Miss Wednesday is Princess Vivi of Alabasta, turning Whiskey Peak into a deadly chase. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "@igarappah!"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "Whoa!"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "Let's go, Miss Wednes- Day!"
+    },
+    {
+      "speaker": "Mr. 9",
+      "text": "Yes, Mr. 9!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Puack!"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "Come give me a hand, Carue!"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "Not liter- ally!"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "Alright!"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "Show your famous speed that can outrun even a leopard!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Quick"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Puaa- Ack!"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "Super Spot- Billed Duck CARUE"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "Who the hell told you to sit down!?"
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "Quick."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The hell?"
+    },
+    {
+      "speaker": "Miss Valentine",
+      "text": "Hahahaha! Are you sure you should be looking somewhere else right now?"
+    },
+    {
+      "speaker": "Igaram",
+      "text": "I wonder if you can keep up with my acrobatic finesse?"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Nek- Ketsu nine..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Kon- you bat!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "(Hot-Blooded Guy Bath)"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on vivi’s cover is blown. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.7,
+  "needs_review": false
+}

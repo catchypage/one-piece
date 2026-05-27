@@ -1,0 +1,102 @@
+{
+  "chapter": "284",
+  "part": 3,
+  "title": "Luffy Looks for Enel",
+  "description": "The golden bell becomes the symbol that can connect the sky, the earth, and Mont Blanc Cricket’s dream below.",
+  "pages": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "characters": [
+    "Enel",
+    "Luffy",
+    "Nico Robin",
+    "Nami",
+    "Aisa",
+    "Wyper",
+    "Gan Fall",
+    "Conis",
+    "Pagaya",
+    "Zoro"
+  ],
+  "scene": "Across pages 10, 11, 12, 13, this scene focuses on Enel, Luffy, Nico Robin, Nami, Aisa. The golden bell becomes the symbol that can connect the sky, the earth, and Mont Blanc Cricket’s dream below.",
+  "dialogue": [
+    {
+      "speaker": "Enel",
+      "text": "USOP!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Even if you speak of escaping,"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "With me as your opponent,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It won't be easy...!"
+    },
+    {
+      "speaker": "Enel",
+      "text": "USOP! GRAB ON!"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "Grab my hand!"
+    },
+    {
+      "speaker": "Aisa",
+      "text": "USOP!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "OOF!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Ahhh!"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Go!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Sanji"
+    },
+    {
+      "speaker": "Enel",
+      "text": "Nami! Move!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It's this way, right!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What?"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "THOR!"
+    },
+    {
+      "speaker": "Gan Fall",
+      "text": "He's fine, we have to keep going!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Don't you dare let a man's sacrifice,"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Go to Waste!"
+    }
+  ],
+  "summary": "The golden bell becomes the symbol that can connect the sky, the earth, and Mont Blanc Cricket’s dream below.",
+  "confidence": 0.88,
+  "needs_review": false
+}

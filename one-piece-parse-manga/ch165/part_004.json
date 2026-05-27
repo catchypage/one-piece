@@ -1,0 +1,144 @@
+{
+  "chapter": "165",
+  "part": 4,
+  "title": "The Crew Faces the Heat",
+  "description": "On pages 11–14, this part focuses on the crew faces the heat, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    11,
+    12,
+    13,
+    14
+  ],
+  "characters": [
+    "Vivi",
+    "Crocodile",
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Zoro",
+    "Toto"
+  ],
+  "scene": "The Crew Faces the Heat. The crew reaches Yuba and sees what the drought and rebellion have done to the people who still believe in Alabasta. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "operation,"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "utopia."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "That is the name of the final plan,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "We the Baroque Works shall carry out."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "C-Maintain a"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Croco- Dile!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Ah, good..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "So you're all already familiar with the man himself."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "We've got a real big-name here now..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Of course we know him! But more importantly, why would one of the Shichibukai be..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "So we were following a pirate's orders all along!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "\"You're\" our boss...?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Any complaints?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "We're not complaining here. We're just confused why a Shichibukai,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "A pirate officially sanctioned by the World Government, would go all the way out and form a criminal organization..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "What I desire isn't money or land..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "It's military might!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Military night...?"
+    },
+    {
+      "speaker": "Toto",
+      "text": "Allow me to explain from the beginning."
+    },
+    {
+      "speaker": "Toto",
+      "text": "My true objective and the full picture behind the final operation of Baroque Works..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Jhere's really something like that here in this country!?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "QWhy, 9'm giddy as a little school- girl now!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Qtnd we're gonna be stealing it along with this entire country!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "So in short, our objective this time is to ensure the successful completion of this plan, correct...?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Correct. Everything you've ever done for Baroque Works,"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Was all to build up for this final operation."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Inside the letter in front of you are the final orders I shall leave to you."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "The time to end the Kingdom of Alabasta has come..."
+    }
+  ],
+  "summary": "This part develops the crew faces the heat and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

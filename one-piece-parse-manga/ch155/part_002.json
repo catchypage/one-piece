@@ -1,0 +1,77 @@
+{
+  "chapter": "155",
+  "part": 2,
+  "title": "Crocodile Is Praised as a Hero",
+  "description": "On pages 5–8, this part focuses on crocodile is praised as a hero, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Alabasta citizen",
+    "Crocodile",
+    "Vivi",
+    "Luffy",
+    "Unknown person #1"
+  ],
+  "scene": "Crocodile Is Praised as a Hero. The Straw Hats reach Alabasta and immediately see the public admiration for Crocodile, the Warlord behind the kingdom’s crisis. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Don't you think you're underestimating us a little too much!? Or do you really want to take on my entire crew alone!?"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "What's a \"government's dog\" who sold his soul for authority like you doing playing hero!?"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "to those who do not wish to die, duck for cover at once!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Kill'im! We're taking this town for all it's got! Ain't no one gonna stop us!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Aye-aye, Cap'n!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "GUAH HAHA!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "So this is the strength of one of 'em Shichibukai?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "We may be both pirates,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "But we're cut from different cloths, swine."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Croco- Dile!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Crocodile!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Croco- Dile!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Crocodile!"
+    }
+  ],
+  "summary": "This part highlights crocodile is praised as a hero and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.79,
+  "needs_review": false
+}

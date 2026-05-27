@@ -1,0 +1,106 @@
+{
+  "chapter": "323",
+  "part": 1,
+  "title": "First Steps in Water Seven",
+  "description": "The Straw Hats enter the water city, where canals, shipwrights, and the promise of repairs turn the damaged Merry into the crew’s central worry.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Nico Robin",
+    "Nami",
+    "Chopper",
+    "Iceburg",
+    "Kaku",
+    "Galley-La shipwright"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Luffy, Usopp, Zoro, Sanji, Nico Robin. The Straw Hats enter the water city, where canals, shipwrights, and the promise of repairs turn the damaged Merry into the crew’s central worry.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Take this."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "If we meet again,"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Really? I hope we see you again!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Let's go!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Thanks for the info, Kokoro and Chimmie!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Get ready to set sail, crew!!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Take care!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Nya"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Watch out for Marines there!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Luffy and friends leave the Shift Station..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Yahhho!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Let's go to the city of meat!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Were you listening at all...?"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Destination: The City of Water, Water Seven."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Luffy, leave the carpenter search to me."
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Stupid!!"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "Water seven"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "Oh, I see."
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "It's a completely useless sketch!!"
+    }
+  ],
+  "summary": "The Straw Hats enter the water city, where canals, shipwrights, and the promise of repairs turn the damaged Merry into the crew’s central worry.",
+  "confidence": 0.67,
+  "needs_review": true
+}

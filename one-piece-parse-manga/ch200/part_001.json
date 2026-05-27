@@ -1,0 +1,149 @@
+{
+  "chapter": "200",
+  "part": 1,
+  "title": "The Shooter Must Be Found",
+  "description": "On pages 1–4, this part focuses on the shooter must be found, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Vivi",
+    "Sanji",
+    "Zoro",
+    "Pell",
+    "Chaka",
+    "King Cobra",
+    "Crocodile",
+    "Miss All Sunday",
+    "Alabasta rebel"
+  ],
+  "scene": "The Shooter Must Be Found. The crew and Alabasta’s defenders race against time to stop the cannon before the city is destroyed. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Vivi",
+      "text": "Find the one shooting the bomb!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "But how!?"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "There's no time to think! The bomb's gonna go off in just 10 minutes, right?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "But if this bomb has a blast radius of 5km, then the shooter might be aiming from a place at least 2.5km away!"
+    },
+    {
+      "speaker": "Pell",
+      "text": "No!"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "Or at least... I don't think so... The shooter is most likely... Very close to the palace square."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "But why!? He'd only get caught up in the explo-"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "...That's just the kind of person Crocodile is."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "He doesn't care if his agents die...!?"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "Representations associated in"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Some boss he is...!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Then we should hurry up and-"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "The following schedule in"
+    },
+    {
+      "speaker": "Miss All Sunday",
+      "text": "GAHHHHH!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Found ya, princess!"
+    },
+    {
+      "speaker": "Miss All Sunday",
+      "text": "I wonder how high I'll be promoted once I kill you!"
+    },
+    {
+      "speaker": "Alabasta rebel",
+      "text": "It's the Billions!"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "10 minutes minus... How many seconds?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "We don't have time to waste by talking."
+    },
+    {
+      "speaker": "Chaka",
+      "text": "2 seconds."
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "We'll go on ahead!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "ORAA!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "gyA.A.!"
+    },
+    {
+      "speaker": "Alabasta rebel",
+      "text": "Let's split up! But first, we need to get out from this damn dust cloud!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "The differences associated with"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "10 minutes..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Good, let's get going too!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "Right!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "This is it... the very last time limit..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "For this country!"
+    }
+  ],
+  "summary": "This part develops the shooter must be found and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

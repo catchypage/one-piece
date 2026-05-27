@@ -1,0 +1,120 @@
+{
+  "chapter": "171",
+  "part": 3,
+  "title": "The Straw Hats Are Cornered",
+  "description": "On pages 9–12, this part focuses on the straw hats are cornered, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Crocodile",
+    "Vivi",
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Usopp",
+    "Sanji",
+    "Chopper",
+    "Miss All Sunday",
+    "Smoker",
+    "Tashigi",
+    "Unknown person #1"
+  ],
+  "scene": "The Straw Hats Are Cornered. The Straw Hats are trapped beneath Rain Dinners as Crocodile prepares to drown them and erase the kingdom’s last hope. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "Port Town Nanohana"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "W-what..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "What's the meaning of this, your highness...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I've come to make a sincere apology!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "It was I who stole rain from my people!"
+    },
+    {
+      "speaker": "Crocodile",
+      "text": "As such, in order to put the sordid Dance Powder Incident behind us,"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I-is this a joke, your highness...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Your highness..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "The port of Namohana shall be destroyed."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Burn down this city, which stands only as a reminder of corrupt injustice!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Yes, sir!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Over here, King!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "It's all thanks to you,"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "That my town's all dried up!"
+    },
+    {
+      "speaker": "Miss All Sunday",
+      "text": "I'll kill you for what you did to my towns- people!"
+    },
+    {
+      "speaker": "Miss All Sunday",
+      "text": "No, stop! It's too dangerous for you, little boy!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Drip"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "neigh"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Grunt"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Kouza!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Just what the hell..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Do you think you're doing..."
+    }
+  ],
+  "summary": "This part develops the straw hats are cornered and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.76,
+  "needs_review": false
+}

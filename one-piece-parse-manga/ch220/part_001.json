@@ -1,0 +1,81 @@
+{
+  "chapter": "220",
+  "part": 1,
+  "title": "A Strange Sea Near Jaya",
+  "description": "On pages 1, 2, 3, 4, this part focuses on cricket and the dream of the sky. The Straw Hats meet people connected to Mont Blanc Noland’s legend and begin chasing the impossible route to the sky.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Nami",
+    "Sanji",
+    "Zoro",
+    "Chopper",
+    "Nico Robin",
+    "Masira",
+    "Shojo"
+  ],
+  "scene": "This scene belongs to the Cricket and the Dream of the Sky sequence. The important beat is the dialogue and action around Luffy, Usopp, Nami, Sanji, Zoro.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "He's waving at us..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Yeah, I know, I know..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "\"I'm not sure what I"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Alright, boys!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "That don't mean we needta act nervous!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "A-aye, Aye, Surr...!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Pump"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Watch out for the enemy below!"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Aye, Aye, Sir!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "crumble"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Rattle"
+    },
+    {
+      "speaker": "Masira",
+      "text": "rattle"
+    },
+    {
+      "speaker": "Shojo",
+      "text": "Please see the"
+    }
+  ],
+  "summary": "The Straw Hats meet people connected to Mont Blanc Noland’s legend and begin chasing the impossible route to the sky.",
+  "confidence": 0.85,
+  "needs_review": false
+}

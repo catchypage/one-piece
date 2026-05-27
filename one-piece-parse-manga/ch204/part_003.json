@@ -1,0 +1,83 @@
+{
+  "chapter": "204",
+  "part": 3,
+  "title": "The Kingdom Counts the Cost",
+  "description": "On pages 10, 11, 13, 14, this part focuses on the rain returns to alabasta. With Crocodile defeated and the truth exposed, the battlefield finally begins to quiet as rain and exhaustion wash over the kingdom.",
+  "pages": [
+    10,
+    11,
+    13,
+    14
+  ],
+  "characters": [
+    "Alabasta citizen",
+    "Vivi",
+    "Narrator",
+    "King Cobra",
+    "Smoker",
+    "Tashigi",
+    "Nico Robin"
+  ],
+  "scene": "This scene belongs to the The Rain Returns to Alabasta sequence. The important beat is the dialogue and action around Alabasta citizen, Vivi, Narrator, King Cobra, Smoker.",
+  "dialogue": [
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Step"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Transcategories, changes,"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "If it weren't for you,"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Then Alabasta could have been in peace!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Hahaha..."
+    },
+    {
+      "speaker": "Smoker",
+      "text": "GROCO- DIII!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Wal-"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "KU... HA....!"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Slump"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "It can't be..."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "You used your board!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "HA... haha..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "KU... haHaha!"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "So be it..."
+    }
+  ],
+  "summary": "With Crocodile defeated and the truth exposed, the battlefield finally begins to quiet as rain and exhaustion wash over the kingdom.",
+  "confidence": 0.87,
+  "needs_review": false
+}

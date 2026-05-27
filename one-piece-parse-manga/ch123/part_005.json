@@ -1,0 +1,109 @@
+{
+  "chapter": "123",
+  "part": 5,
+  "title": "The Crew Pushes Back",
+  "description": "On pages 16–19, the crew pushes back as usopp, Karoo, and Luffy counterattack against Mr. 5, Miss Valentine, and Mr. 3 as the wax trap begins to fall apart.",
+  "pages": [
+    16,
+    17,
+    18,
+    19
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Mr. 3",
+    "Vivi",
+    "Nami",
+    "Miss Goldenweek",
+    "Mr. 5",
+    "Karoo",
+    "Miss Valentine"
+  ],
+  "scene": "The Crew Pushes Back. Usopp, Karoo, and Luffy counterattack against Mr. 5, Miss Valentine, and Mr. 3 as the wax trap begins to fall apart. The focus is the story beat, character decisions, and dialogue driving this part.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "GONU GONU..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Curses!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Candle wall!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hammer!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "Mr. 3!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Yeah!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "It can't be!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "You did it, Luffy! Now hurry up and destroy this candle set!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Nah."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Now's not the time for jokes! Hurry!"
+    },
+    {
+      "speaker": "Mr. 3",
+      "text": "I don't wanna."
+    },
+    {
+      "speaker": "Nami",
+      "text": "WHA..."
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "Luffy! This isn't the time for one of your idiotic antics!"
+    },
+    {
+      "speaker": "Miss Goldenweek",
+      "text": "Luffy, please!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Meh, just not in the mood to save you."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What...?"
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "(OIours)..."
+    },
+    {
+      "speaker": "Mr. 5",
+      "text": "Trap!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "I wouldn't"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "You're right!! Damn you, IGARAM!! I can't forgive you for committing such a tyrannical act in this refined manga, one piece!! With that makeup?! Hey!! I died him, okay?"
+    }
+  ],
+  "summary": "This part centers on the crew pushes back, clarifying the immediate conflict and how it moves the chapter toward its next major turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

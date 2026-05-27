@@ -1,0 +1,83 @@
+{
+  "chapter": "649",
+  "part": 2,
+  "title": "Caribou Lurks in the Shadows",
+  "description": "On pages 4–6, this part follows Unknown person #1, Unknown person #2, Unknown person #3, Fish-Man Island Citizens, Unknown person #4, Unknown person #5, King Neptune. The central beat is caribou lurks in the shadows.",
+  "pages": [
+    4,
+    5,
+    6
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Fish-Man Island Citizens",
+    "Unknown person #4",
+    "Unknown person #5",
+    "King Neptune",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Luffy"
+  ],
+  "scene": "The scene focuses on caribou lurks in the shadows, with Unknown person #1, Unknown person #2, Unknown person #3, Fish-Man Island Citizens, Unknown person #4, Unknown person #5, King Neptune shaping the conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "I wanna drink my booze!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Why would you say no, jinbe?!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "C'mon, let's go adventuring together!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Yeah, you should join the crew, boss-man!!"
+    },
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "And Luffy, you need to rest."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "I am extremely grateful for the invitation."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "The following"
+    },
+    {
+      "speaker": "King Neptune",
+      "text": "... you'd better keep that promise!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Yoho Ho!"
+    },
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "Luffy certainly likes this man a lot!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "My thanks ... and my apologies..."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "I see."
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "A banquet ?!!"
+    }
+  ],
+  "summary": "Caribou Lurks in the Shadows. This part advances the end of the Fish-Man Island conflict and the island’s attempt to move beyond inherited hatred.",
+  "confidence": 0.76,
+  "needs_review": true
+}

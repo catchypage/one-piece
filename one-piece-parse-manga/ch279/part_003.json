@@ -1,0 +1,62 @@
+{
+  "chapter": "279",
+  "part": 3,
+  "title": "Luffy Breaks Free",
+  "description": "The fight shifts toward the great golden bell, turning victory into a promise to prove that the City of Gold exists.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Enel",
+    "Eneru",
+    "Nami",
+    "Luffy",
+    "Aisa",
+    "Wyper",
+    "Gan Fall",
+    "Nico Robin",
+    "Zoro",
+    "Sanji"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this scene centers on Enel, Eneru, Nami, Luffy, Aisa. The fight shifts toward the great golden bell, turning victory into a promise to prove that the City of Gold exists.",
+  "dialogue": [
+    {
+      "speaker": "Enel",
+      "text": "Luffy!"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "Aghhhh!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Luffy..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It seems you dodged that well...!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Dodged?"
+    },
+    {
+      "speaker": "Eneru",
+      "text": "60 million Volts..."
+    },
+    {
+      "speaker": "Aisa",
+      "text": "JulungGull!"
+    },
+    {
+      "speaker": "Wyper",
+      "text": "Luffy!"
+    }
+  ],
+  "summary": "The fight shifts toward the great golden bell, turning victory into a promise to prove that the City of Gold exists.",
+  "confidence": 0.86,
+  "needs_review": false
+}

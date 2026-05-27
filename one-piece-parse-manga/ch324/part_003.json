@@ -1,0 +1,178 @@
+{
+  "chapter": "324",
+  "part": 3,
+  "title": "Galley-La Inspects the Merry",
+  "description": "The crew splits up in Water Seven, exchanging treasure and discovering the city’s craftsmen, money, and hidden dangers.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Iceburg",
+    "Nico Robin",
+    "Kaku",
+    "Galley-La shipwright"
+  ],
+  "scene": "Across pages 9, 10, 11, 12, this part follows Luffy, Nami, Usopp, Zoro, Sanji. The crew splits up in Water Seven, exchanging treasure and discovering the city’s craftsmen, money, and hidden dangers.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Woohoo! Going down......!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Nancy, I think I'm not a"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Are we at the market!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Was that a... short- cut!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Ma'am, I'll sell this cheap!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Wow! These fishes are smart!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Wow! It's so lively."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "50% OFF!!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Look! A super big bull!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "HUAAH!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Wow! That looks scary!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "It looks like it can swallow us...."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "What the heck?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Masks...?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Wow... that look so high class..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I wonder who they are."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "What?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Ah! Where are you going?"
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Hey! Where are you going, Luffy!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Welcome!! Would you like something?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "What? Are you hungry?"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Mizu Mizu"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Give me 10!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Chomp"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "SO many SOFTN'N'N'N'N'N'T"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "YUM -"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Eeh!!?? Let me try one too!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Go buy it your- self."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "NAM!! Go to the shop!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Another one...?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "If you look carefully..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "There are lots of people wearing masks..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hey!! Nami!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Aquatic elevator?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "It's probably that tower- looking structure."
+    },
+    {
+      "speaker": "Nami",
+      "text": "This way to the elevator to Zousenshima."
+    }
+  ],
+  "summary": "The crew splits up in Water Seven, exchanging treasure and discovering the city’s craftsmen, money, and hidden dangers.",
+  "confidence": 0.82,
+  "needs_review": false
+}

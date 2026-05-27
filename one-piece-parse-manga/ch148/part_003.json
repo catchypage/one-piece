@@ -1,0 +1,117 @@
+{
+  "chapter": "148",
+  "part": 3,
+  "title": "The Crew Regroups at the Castle",
+  "description": "On pages 9–12, this part focuses on the crew regroups at the castle, showing the key character choices and conflict behind this chapter beat.",
+  "pages": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "characters": [
+    "Chopper",
+    "Wapol",
+    "Dr. Kureha",
+    "Nami",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Luffy",
+    "Unknown person #3",
+    "Unknown person #4"
+  ],
+  "scene": "The Crew Regroups at the Castle. Luffy understands the meaning of Hiriluk’s flag and refuses to let Wapol treat it like a decoration. The scene description focuses on what the reader needs to understand before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Chopper",
+      "text": "Ugh-"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Ack!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "So this is a pirate..."
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "What's a pirate...?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "The seas are full of proud men called Pirates! You should venture the seas one day too!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "He's amazing..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "NGHH...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hey Reindeer!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "I'm gonna start kicking their asses right now, but..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "What'll you do?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "If you want to protect that flag so much,"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Then so be it!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "That's enough outta you, Pal...!"
+    },
+    {
+      "speaker": "Wapol",
+      "text": "Ugh!"
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Sounds like he put out his back..."
+    },
+    {
+      "speaker": "Dr. Kureha",
+      "text": "Not surprising considering how much he's running around with those injuries..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Doctor stop!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Gahh!!!!!!!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Mahahahaha! What're you hippos up to now!? Having fun beating each other up?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Your majesty, watch out...!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hmm?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Cut it out!"
+    }
+  ],
+  "summary": "This part highlights the crew regroups at the castle and moves the chapter forward through its central emotional or plot turn.",
+  "confidence": 0.64,
+  "needs_review": true
+}

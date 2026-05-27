@@ -1,0 +1,67 @@
+{
+  "chapter": "17",
+  "part": 2,
+  "title": "Orange Town Under Buggy’s Shadow",
+  "description": "On pages 5–8, the Orange Town conflict focuses on Luffy, Nami, Unknown person #1, Unknown person #2, with Buggy’s occupation testing Luffy, Zoro, Nami, and the townspeople.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Nami",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Cabaji",
+    "Buggy"
+  ],
+  "scene": "This part follows the pressure inside Orange Town as Buggy’s crew, the Straw Hats, and the people caught between them react to the escalating fight.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "But if you do get that map from buggy..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "then- and only then- will I consider teaming up with you again..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Good luck, boys! See ya!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "WOW! Shanks!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "RORDOA ZOLO!! HAVE A TASTE OF THE GREATEST OF ALL MY CIRCUS TRICKS!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "And now \"The Dance of a Hundred Kamikaze TOPS\"!!!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "CIRCUS TRICK: \"A HIKE IN THE MOUNTAINS.\""
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Circus trick: \"Fire- Works in the cool summer breeze.\""
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "WOW! He's way up there!"
+    },
+    {
+      "speaker": "Cabaji",
+      "text": "\"STING OF THE UNICYCLE\"!!"
+    }
+  ],
+  "summary": "The scene keeps the Orange Town arc moving by tying the immediate battle to the town’s fear, Nami’s motives, and Luffy’s instinct to answer cruelty directly.",
+  "confidence": 0.7,
+  "needs_review": false
+}

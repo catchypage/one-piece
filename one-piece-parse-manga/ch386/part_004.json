@@ -1,0 +1,51 @@
+{
+  "chapter": "386",
+  "part": 4,
+  "title": "Luffy Reaches Blueno — Part 4",
+  "description": "Luffy catches up to Blueno and begins a decisive clash that reveals how far he is willing to go to save Robin.",
+  "pages": [
+    13
+  ],
+  "characters": [
+    "Spandam",
+    "Luffy",
+    "Blueno",
+    "Nico Robin",
+    "CP9 agent",
+    "Enies Lobby guard"
+  ],
+  "scene": "Across pages 13, this part follows Spandam, Luffy, Blueno, Nico Robin, CP9 agent. Luffy catches up to Blueno and begins a decisive clash that reveals how far he is willing to go to save Robin.",
+  "dialogue": [
+    {
+      "speaker": "Spandam",
+      "text": "This is probably"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "That something like this has had pened!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "...!? Blueno...!?"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "What are you doing over there...?"
+    },
+    {
+      "speaker": "Blueno",
+      "text": "Uhahaha"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "What the hell's going on....?!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "What's happening on this island!!!!"
+    }
+  ],
+  "summary": "Luffy catches up to Blueno and begins a decisive clash that reveals how far he is willing to go to save Robin.",
+  "confidence": 0.85,
+  "needs_review": false
+}

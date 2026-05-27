@@ -1,0 +1,87 @@
+{
+  "chapter": "101",
+  "part": 5,
+  "title": "Luffy Saves the Ship at the Summit",
+  "description": "On pages 14–17, luffy saves the ship at the summit as the crew reaches Reverse Mountain and is dragged into the impossible currents that lead to the Grand Line.",
+  "pages": [
+    14,
+    15,
+    16,
+    17
+  ],
+  "characters": [
+    "Usopp",
+    "Luffy",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6"
+  ],
+  "scene": "Luffy Saves the Ship at the Summit. The crew reaches Reverse Mountain and is dragged into the impossible currents that lead to the Grand Line. The scene focuses on the immediate character conflict rather than background exposition.",
+  "dialogue": [
+    {
+      "speaker": "Usopp",
+      "text": "The rudder just..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "We're gonna crash!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "GOMU GOMU..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Grab"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Bauon!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "We're saved!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Luffy! Grab onto my hand!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Nghhh!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "We did it!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Yahoo!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Now all we have to do is go down!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Whoa..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "OHHA!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "I can see the Grand Line up ahead!"
+    }
+  ],
+  "summary": "This part advances the chapter by focusing on luffy saves the ship at the summit. It keeps the main tension clear while preserving the dialogue that drives the scene.",
+  "confidence": 0.73,
+  "needs_review": true
+}

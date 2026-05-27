@@ -1,0 +1,91 @@
+{
+  "chapter": "206",
+  "part": 1,
+  "title": "Rain Falls on Alabasta",
+  "description": "On pages 1, 8, 9, 10, this part focuses on alabasta learns the truth. The kingdom begins sorting through what happened, while the Straw Hats remain hidden and the World Government moves to control the official story.",
+  "pages": [
+    1,
+    8,
+    9,
+    10
+  ],
+  "characters": [
+    "Alabasta citizen",
+    "Vivi",
+    "Tashigi",
+    "Smoker",
+    "Nico Robin",
+    "Luffy",
+    "Nami"
+  ],
+  "scene": "This scene belongs to the Alabasta Learns the Truth sequence. The important beat is the dialogue and action around Alabasta citizen, Vivi, Tashigi, Smoker, Nico Robin.",
+  "dialogue": [
+    {
+      "speaker": "Alabasta citizen",
+      "text": "* *3%"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "BAROGUE WORKS!?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "We're just ordinary Alabama citizens!"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Sgt, Major Tashigi!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "What're you hesitating for!?"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "There's hardly any time before 4:30 now..."
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "Yes, sir!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "The clock!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Remibbit ribbit ribbit!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Yes, you're right, Ms. Faaather's Daaayy..."
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Maybe we'll get promoted big-time after this!"
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "Ribbit! Right! Right!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "Very, veterinary nice, Ms. Faaather's Daddyy..."
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "In any case, ohohoho!"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "I would assess,"
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "That this enormous cannon,"
+    }
+  ],
+  "summary": "The kingdom begins sorting through what happened, while the Straw Hats remain hidden and the World Government moves to control the official story.",
+  "confidence": 0.83,
+  "needs_review": false
+}

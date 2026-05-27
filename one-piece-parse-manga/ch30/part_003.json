@@ -1,0 +1,107 @@
+{
+  "chapter": "30",
+  "part": 3,
+  "title": "The Black Cat Plot Tightens Around Kaya",
+  "description": "On pages 7–10, the Syrup Village story develops through Usopp, Kaya, Kuro, Jango, and the Straw Hats as the danger behind the village’s peaceful surface becomes clearer.",
+  "pages": [
+    7,
+    8,
+    9,
+    10
+  ],
+  "characters": [
+    "Kaya",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Luffy",
+    "Unknown person #5"
+  ],
+  "scene": "This scene follows the tension around Usopp’s village: lies, loyalty, hidden plans, and the growing clash with the Black Cat Pirates.",
+  "dialogue": [
+    {
+      "speaker": "Kaya",
+      "text": "Heah!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Uh..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Uoooo- Oooooh!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "He crushed the wall..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "How did they gain so much strength!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "They have... Really been hypno- Tized!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "If just one guy can crush the wall... then that many guys..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Go..! Kill those pests!!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "You two hurry and go up the slope!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "We'll take care of this..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Hey! Luffy!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Luffy!?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "YeaaaAaaahhh!"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "You got hypnotized too?!?"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Eh!?"
+    },
+    {
+      "speaker": "Kaya",
+      "text": "He's not your average idiot..."
+    },
+    {
+      "speaker": "Kaya",
+      "text": "Got hypno- Tized so easily..."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Hey! Luffy!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "GAT- LING Gun!!!"
+    }
+  ],
+  "summary": "The part advances the Syrup Village arc by tying Usopp’s reputation and Kaya’s safety to the threat posed by Kuro and his crew.",
+  "confidence": 0.81,
+  "needs_review": false
+}

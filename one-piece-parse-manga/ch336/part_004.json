@@ -1,0 +1,126 @@
+{
+  "chapter": "336",
+  "part": 4,
+  "title": "The Captain’s Decision",
+  "description": "The duel ends with Usopp leaving the crew and the Going Merry becoming a symbol of a broken bond.",
+  "pages": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "characters": [
+    "Luffy",
+    "Iceburg",
+    "Usopp",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Franky",
+    "Franky Family",
+    "Going Merry"
+  ],
+  "scene": "Across pages 13, 14, 15, 16, this part follows Luffy, Iceburg, Usopp, Nami, Zoro. The duel ends with Usopp leaving the crew and the Going Merry becoming a symbol of a broken bond.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "Maybe their goal is that thing..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Please rest, iceberg-san..."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "I'll stay here..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Right beside you..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Watch out!!! It's going to fall!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Wu AAAH!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Aaah!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Stop it!!! Stop fighting!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Luffy ---!!!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Send that Seawater panty- wearing pery flying!!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Big bro- Their!!"
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Rock 'N' Roll!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HAA... HAA..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Heh... heh..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I'm going to..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Kick you really far away!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Wahaha hah!! Let's see you try it!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Your attacks are"
+    },
+    {
+      "speaker": "Franky",
+      "text": "COM- Pletely useless against me!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Weapon left!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Gomu Gomu..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Whip!!"
+    },
+    {
+      "speaker": "Franky Family",
+      "text": "Ouch!!!"
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Who did that!?"
+    }
+  ],
+  "summary": "The duel ends with Usopp leaving the crew and the Going Merry becoming a symbol of a broken bond.",
+  "confidence": 0.84,
+  "needs_review": false
+}

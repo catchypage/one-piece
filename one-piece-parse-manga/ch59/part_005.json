@@ -1,0 +1,67 @@
+{
+  "chapter": "59",
+  "part": 5,
+  "title": "Gin Is Torn Between Krieg and Sanji",
+  "description": "On pages 18–18, the fight against Krieg reaches a moral breaking point as Gin, Sanji, Zeff, and Luffy clash over debt, survival, and strength.",
+  "pages": [
+    18
+  ],
+  "characters": [
+    "Gin",
+    "Pearl",
+    "Unknown person #1",
+    "Don Krieg",
+    "Unknown person #2",
+    "Unknown person #3"
+  ],
+  "scene": "Krieg’s weapons and cruelty force everyone at the Baratie to reveal what they truly value: victory, loyalty, survival, or protecting someone else’s dream.",
+  "dialogue": [
+    {
+      "speaker": "Gin",
+      "text": "to put an end to our saviors with my own two hands."
+    },
+    {
+      "speaker": "Gin",
+      "text": "Hmm!?"
+    },
+    {
+      "speaker": "Pearl",
+      "text": "H-He just shattered the shield of that guy who said he could even withstand a cannonball!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "So he's not just some minor underling..."
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "there, see."
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "things worked out pretty well, didn't it?"
+    },
+    {
+      "speaker": "Don Krieg",
+      "text": "My decoy strategy worked"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Shut up, you liar!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Your strategy was to destroy this ship!"
+    },
+    {
+      "speaker": "Gin",
+      "text": "Have you lost your mind,"
+    },
+    {
+      "speaker": "Gin",
+      "text": "My pirate fleet's battle commander gin...?"
+    }
+  ],
+  "summary": "This part pushes the Baratie battle toward its climax by contrasting Krieg’s ruthless power with Luffy and Sanji’s stubborn ideals.",
+  "confidence": 0.8,
+  "needs_review": false
+}

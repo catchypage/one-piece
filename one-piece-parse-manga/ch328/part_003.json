@@ -1,0 +1,154 @@
+{
+  "chapter": "328",
+  "part": 3,
+  "title": "Galley-La Inspects the Merry",
+  "description": "Usopp’s attachment to the Going Merry turns the repair verdict into a personal crisis that separates him emotionally from the crew.",
+  "pages": [
+    14,
+    15,
+    16,
+    17
+  ],
+  "characters": [
+    "Kaku",
+    "Luffy",
+    "Iceburg",
+    "Nami",
+    "Usopp",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Nico Robin",
+    "Galley-La shipwright"
+  ],
+  "scene": "Across pages 14, 15, 16, 17, this part follows Kaku, Luffy, Iceburg, Nami, Usopp. Usopp’s attachment to the Going Merry turns the repair verdict into a personal crisis that separates him emotionally from the crew.",
+  "dialogue": [
+    {
+      "speaker": "Kaku",
+      "text": "Lil' punk,"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "You call yourself a captain?"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "think about it."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Karifa."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Yes, sir."
+    },
+    {
+      "speaker": "Kaku",
+      "text": "Please reconsider."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "Iceburg- San!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "There are customers at the front door."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Should I tell them to leave?"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "NMA... tell them I'm not here."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Excuse me."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Good"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Hold on a second, iceberg- Run."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "nfufufufufufufufufufu... I knew you would be here."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "NMA--!! Long time no see, Kougii."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "What? Are you drunk?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Don't kick me out just yet."
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Sniff sniff...Hm!?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "World government officer Kougii"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "I smell pirates..."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "I don't like you. Go away."
+    },
+    {
+      "speaker": "Iceburg",
+      "text": "You're acting childish..."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Don't be so stubborn."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I have some good news for you."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Let's go to some- where private first..."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "These guys are so annoy- ing..."
+    },
+    {
+      "speaker": "Kaku",
+      "text": "It's none of your business."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Let's beat them up!"
+    },
+    {
+      "speaker": "Galley-La shipwright",
+      "text": "What?"
+    },
+    {
+      "speaker": "Kaku",
+      "text": "It's light..."
+    },
+    {
+      "speaker": "Galley-La shipwright",
+      "text": "What?"
+    }
+  ],
+  "summary": "Usopp’s attachment to the Going Merry turns the repair verdict into a personal crisis that separates him emotionally from the crew.",
+  "confidence": 0.84,
+  "needs_review": false
+}

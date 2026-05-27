@@ -1,0 +1,96 @@
+{
+  "chapter": "432",
+  "part": 1,
+  "title": "After Enies Lobby",
+  "description": "In the Post-Enies Lobby storyline, this section centers on Unknown person #1, Whitebeard, Unknown person #6, Unknown person #2, Unknown person #3, Unknown person #4 as the scene develops across pages 0–3.",
+  "pages": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Whitebeard",
+    "Unknown person #6",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #7"
+  ],
+  "scene": "This scene advances the Post-Enies Lobby conflict through Unknown person #1, Whitebeard, Unknown person #6, Unknown person #2, Unknown person #3, focusing on the immediate stakes of after enies lobby.",
+  "dialogue": [
+    {
+      "speaker": "Whitebeard",
+      "text": "> >c marine"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Fleet Admiral (Marine top)"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Admiral (Governor General)"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Captain, Commander, Lieutenant Commander"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Lieutenant, Lieutenant Junior Grade, Ensign"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Appmentice"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "Luffy,"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "DON'T YOU ONE ME AN APOLOGY?"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Luffy! Is he really your grandpa!?"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Yup! Don't mess with him!!!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "UNIT:"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "You'll get killed ....!!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Grandpa has nearly killed me"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "On many occasions in the past."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "I pushed you over bottomless cliffs,"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "threw you into the jungle at night,"
+    },
+    {
+      "speaker": "Whitebeard",
+      "text": "Luffy's endless life force ....!!"
+    }
+  ],
+  "summary": "This scene advances the Post-Enies Lobby conflict through Unknown person #1, Whitebeard, Unknown person #6, Unknown person #2, Unknown person #3, focusing on the immediate stakes of after enies lobby.",
+  "confidence": 0.66,
+  "needs_review": true
+}

@@ -1,0 +1,103 @@
+{
+  "chapter": "513",
+  "part": 2,
+  "title": "The Crew Is Scattered: Rising Conflict",
+  "description": "In the Sabaody Archipelago storyline, this section centers on Franky, Unknown person #4, Perona, Unknown person #2, Luffy, Pacifista as the scene develops across pages 10–13.",
+  "pages": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "characters": [
+    "Franky",
+    "Unknown person #4",
+    "Perona",
+    "Unknown person #2",
+    "Luffy",
+    "Pacifista",
+    "Unknown person #3"
+  ],
+  "scene": "This scene advances the Sabaody Archipelago conflict through Franky, Unknown person #4, Perona, Unknown person #2, Luffy, focusing on the immediate stakes of the crew is scattered: rising conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #3",
+      "text": "Everyone, just get away from here!!!"
+    },
+    {
+      "speaker": "Perona",
+      "text": "But zero..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Now's not the time for that!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Let's go!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Come on!! The beam just grazed me."
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Lean on my shoulder, hurry!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Look out, the two of you!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Ah, I'm already de-"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Brook !!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Go, USOPP !!!"
+    },
+    {
+      "speaker": "Perona",
+      "text": "Don't be stupid, we're going together !!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Run, Sanji! Just run!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Damn PAW bastard !!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Puns!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Sanji!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "UWAAAAH!!! He's coming this way, help!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Hissatsu, \"Gunpowder Star\"!! \"Gunpowder Star\"!!!"
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "Zoro... brook, usopp, Sanji...!!"
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "....!! they've all dis- appeared !!!"
+    }
+  ],
+  "summary": "This scene advances the Sabaody Archipelago conflict through Franky, Unknown person #4, Perona, Unknown person #2, Luffy, focusing on the immediate stakes of the crew is scattered: rising conflict.",
+  "confidence": 0.76,
+  "needs_review": false
+}

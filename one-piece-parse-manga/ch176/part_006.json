@@ -1,0 +1,64 @@
+{
+  "chapter": "176",
+  "part": 6,
+  "title": "Crocodile’s Plan Nears Completion",
+  "description": "On pages 19–23, this part focuses on crocodile’s plan nears completion, keeping the scene centered on the conflict, choices, and stakes of the Alabasta arc.",
+  "pages": [
+    19,
+    20,
+    21,
+    23
+  ],
+  "characters": [
+    "Crocodile",
+    "Luffy",
+    "Vivi",
+    "Koza",
+    "King Cobra",
+    "Chaka",
+    "Pell",
+    "Royal Army soldier"
+  ],
+  "scene": "Crocodile’s Plan Nears Completion. The rebellion and royal army rush toward Alubarna as Vivi’s group searches for a way to stop the war before it starts. This section presents the immediate scene beat before the dialogue continues.",
+  "dialogue": [
+    {
+      "speaker": "Crocodile",
+      "text": "We've sure walked a long way! I'm not really tired at all though..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "The Current Rebel Base KATORDEAL"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Policna NanoHana"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "The Green City BIRUMALU"
+    },
+    {
+      "speaker": "Koza",
+      "text": "Follow after me!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Let us be off, my U.G. Pirates!"
+    },
+    {
+      "speaker": "Chaka",
+      "text": "100, 557-72: 4th-10z!!"
+    },
+    {
+      "speaker": "Pell",
+      "text": "I think it's"
+    },
+    {
+      "speaker": "Royal Army soldier",
+      "text": "Those Finken"
+    }
+  ],
+  "summary": "This part develops crocodile’s plan nears completion and pushes the Alabasta conflict closer to its next decisive turn.",
+  "confidence": 0.8,
+  "needs_review": false
+}

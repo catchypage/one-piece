@@ -1,0 +1,110 @@
+{
+  "chapter": "513",
+  "part": 1,
+  "title": "The Crew Is Scattered",
+  "description": "In the Sabaody Archipelago storyline, this section centers on Pacifista, Perona, Franky, Unknown person #2, Unknown person #1, Luffy as the scene develops across pages 6–9.",
+  "pages": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "characters": [
+    "Pacifista",
+    "Perona",
+    "Franky",
+    "Unknown person #2",
+    "Unknown person #1",
+    "Luffy"
+  ],
+  "scene": "This scene advances the Sabaody Archipelago conflict through Pacifista, Perona, Franky, Unknown person #2, Unknown person #1, focusing on the immediate stakes of the crew is scattered.",
+  "dialogue": [
+    {
+      "speaker": "Pacifista",
+      "text": "ZORO... disappeared ...!!!"
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "BJo- ooo- ooo !!!"
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "Chopper, don't be foolish !!!"
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "..... Chopper ...!!"
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "Uwooo !!!"
+    },
+    {
+      "speaker": "Perona",
+      "text": "ZORO!!! Where did he go!!?"
+    },
+    {
+      "speaker": "Perona",
+      "text": "I wonder... What happened to her..."
+    },
+    {
+      "speaker": "Perona",
+      "text": "Lady Perona!!?"
+    },
+    {
+      "speaker": "Perona",
+      "text": "Lady Perona dis- appeared !!!"
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "Kuma!! Why is that bastard here!?"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Where did you send zero!!?"
+    },
+    {
+      "speaker": "Perona",
+      "text": "Say some- thing!!! You bastard !!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "You show up again and..."
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "usopp, look out, behind you!!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Don't get in my way."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Eh!?"
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "That guy..."
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "Even PX-1....!!!"
+    },
+    {
+      "speaker": "Pacifista",
+      "text": "What is he doing!?"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Run!!! All three of you!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Luffy!"
+    }
+  ],
+  "summary": "This scene advances the Sabaody Archipelago conflict through Pacifista, Perona, Franky, Unknown person #2, Unknown person #1, focusing on the immediate stakes of the crew is scattered.",
+  "confidence": 0.8,
+  "needs_review": false
+}

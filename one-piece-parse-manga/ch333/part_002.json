@@ -1,0 +1,89 @@
+{
+  "chapter": "333",
+  "part": 2,
+  "title": "Usopp Is Hurt",
+  "description": "The argument over the Merry becomes a painful split between captain and crewmate, cutting deeper than any normal fight.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Franky",
+    "Franky Family",
+    "Going Merry"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this part follows Luffy, Usopp, Nami, Zoro, Sanji. The argument over the Merry becomes a painful split between captain and crewmate, cutting deeper than any normal fight.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "UWA!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Gomu Gomu..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Pistol!!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Buha!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "BA- ZOOKA..."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Shyu!!!.."
+    },
+    {
+      "speaker": "Zoro",
+      "text": "It's A \"DIAL\""
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Thanks... for your impact"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Impact!!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Impact dial....!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "UWAAA!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Take that Dammit!!!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "HAA..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "I am USOPP"
+    }
+  ],
+  "summary": "The argument over the Merry becomes a painful split between captain and crewmate, cutting deeper than any normal fight.",
+  "confidence": 0.81,
+  "needs_review": false
+}

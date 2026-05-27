@@ -1,0 +1,31 @@
+{
+  "chapter": "380",
+  "part": 5,
+  "title": "Blueno Blocks the Path",
+  "description": "The fight across Enies Lobby widens as guards, giants, CP9, Franky, and the Straw Hats collide around the courthouse.",
+  "pages": [
+    17
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Sanji",
+    "Chopper",
+    "Sogeking",
+    "Franky",
+    "Nico Robin",
+    "Blueno",
+    "Spandam"
+  ],
+  "scene": "Across pages 17, this part follows Luffy, Zoro, Nami, Sanji, Chopper. The fight across Enies Lobby widens as guards, giants, CP9, Franky, and the Straw Hats collide around the courthouse.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "06. [Pink] \"I dunno\""
+    }
+  ],
+  "summary": "The fight across Enies Lobby widens as guards, giants, CP9, Franky, and the Straw Hats collide around the courthouse.",
+  "confidence": 0.88,
+  "needs_review": false
+}

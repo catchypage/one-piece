@@ -1,0 +1,109 @@
+{
+  "chapter": "397",
+  "part": 1,
+  "title": "Robin’s Lonely Childhood",
+  "description": "Robin escapes Ohara with the burden of its history and the fear that anyone close to her will be destroyed.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Nico Robin",
+    "Spandam",
+    "Nico Olvia",
+    "Professor Clover",
+    "Jaguar D. Saul",
+    "Spandine",
+    "Ohara scholar",
+    "World Government agent",
+    "Marine soldier"
+  ],
+  "scene": "Across pages 1, 2, 3, 4, this part follows Nico Robin, Spandam, Nico Olvia, Professor Clover, Jaguar D. Saul. Robin escapes Ohara with the burden of its history and the fear that anyone close to her will be destroyed.",
+  "dialogue": [
+    {
+      "speaker": "Nico Robin",
+      "text": "oooo Ooooh!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "What's Going on!!?"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "It's Vice Admiral Jaguar D. Saul!!!"
+    },
+    {
+      "speaker": "Nico Olvia",
+      "text": "Why the hell is he here!!?"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "I have no idea, sir!!!"
+    },
+    {
+      "speaker": "Professor Clover",
+      "text": "This island isn't gonna make it!!!"
+    },
+    {
+      "speaker": "Professor Clover",
+      "text": "EVERYTHING WILL BE BURNED!!!"
+    },
+    {
+      "speaker": "Jaguar D. Saul",
+      "text": "Protect the books!!!"
+    },
+    {
+      "speaker": "Jaguar D. Saul",
+      "text": "We must pass on the history!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Kosh!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Hurry!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Dump the documents outside!!!"
+    },
+    {
+      "speaker": "Jaguar D. Saul",
+      "text": "Jaguar D. Saul!! Please, stop, or you'll die!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "As many books as we can!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Protect as many sentences as we can!!!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "Nico Robin!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "YA Ain't Gonna survive"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "If ya stay on dis island!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "Ahh!!!"
+    },
+    {
+      "speaker": "Spandam",
+      "text": "HAA..."
+    }
+  ],
+  "summary": "Robin escapes Ohara with the burden of its history and the fear that anyone close to her will be destroyed.",
+  "confidence": 0.84,
+  "needs_review": false
+}

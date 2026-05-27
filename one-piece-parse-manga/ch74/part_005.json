@@ -1,0 +1,109 @@
+{
+  "chapter": "74",
+  "part": 5,
+  "title": "Arlong’s Rule Tightens Around Nami",
+  "pages": [
+    17,
+    18,
+    19
+  ],
+  "characters": [
+    "Luffy",
+    "Zoro",
+    "Nami",
+    "Usopp",
+    "Sanji",
+    "Arlong",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5"
+  ],
+  "scene": "On pages 17–19, the story moves through Arlong Park and Nami’s dangerous position among the fish-men. Cocoyasi Village and nearby towns show the cost of Arlong’s occupation.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "As expected. You're a reasonable man, arlong."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Arlong..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "such an unpleasant woman..."
+    },
+    {
+      "speaker": "Arlong",
+      "text": "Shahahaha!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "I'd say she's turned into a fine woman!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "I must... tell Brother Zoro...! That's shes..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "A witch!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "I can see Arlong Park!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Maa!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Hey! Don't get tired now, you hippo!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "I think it might have something do with your kicks..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "Maa!"
+    },
+    {
+      "speaker": "Nami",
+      "text": "Hey! You're swimming the wrong way! Turn to the left!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "It's this building!"
+    },
+    {
+      "speaker": "Arlong",
+      "text": "We're gonna crash into the shore!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Aghhhh!"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Luffyy, YOSAKU, Sanji"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "Hmm? What's that sound...?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "have arrived."
+    },
+    {
+      "speaker": "Nami",
+      "text": "The spark ignites the gunpowder and the bullet is shot out."
+    }
+  ],
+  "summary": "This part builds the Arlong Park conflict by showing how Nami’s choices look contradictory from outside while Arlong’s power keeps the island trapped.",
+  "confidence": 0.67,
+  "needs_review": true
+}

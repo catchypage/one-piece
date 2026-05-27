@@ -1,0 +1,28 @@
+{
+  "chapter": "512",
+  "part": 6,
+  "title": "The Crew Is Scattered: Opening Beat",
+  "description": "In the Sabaody Archipelago storyline, this section centers on Pacifista, Unknown person #20 as the scene develops across pages 21–22.",
+  "pages": [
+    21,
+    22
+  ],
+  "characters": [
+    "Pacifista",
+    "Unknown person #20"
+  ],
+  "scene": "This scene advances the Sabaody Archipelago conflict through Pacifista, Unknown person #20, focusing on the immediate stakes of the crew is scattered: opening beat.",
+  "dialogue": [
+    {
+      "speaker": "Pacifista",
+      "text": "ONE PLECE significantly makes"
+    },
+    {
+      "speaker": "Unknown person #20",
+      "text": "For the"
+    }
+  ],
+  "summary": "This scene advances the Sabaody Archipelago conflict through Pacifista, Unknown person #20, focusing on the immediate stakes of the crew is scattered: opening beat.",
+  "confidence": 0.66,
+  "needs_review": false
+}

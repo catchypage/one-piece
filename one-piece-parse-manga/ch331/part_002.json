@@ -1,0 +1,90 @@
+{
+  "chapter": "331",
+  "part": 2,
+  "title": "Usopp Is Hurt",
+  "description": "Franky becomes the central enemy in Water Seven as his gang, the stolen money, and the ship crisis converge.",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "characters": [
+    "Luffy",
+    "Usopp",
+    "Nami",
+    "Zoro",
+    "Chopper",
+    "Franky",
+    "Nico Robin",
+    "Sanji",
+    "Franky Family",
+    "Going Merry"
+  ],
+  "scene": "Across pages 5, 6, 7, 8, this part follows Luffy, Usopp, Nami, Zoro, Chopper. Franky becomes the central enemy in Water Seven as his gang, the stolen money, and the ship crisis converge.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "I've decided to change ship!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "Let's talk about which ship to buy."
+    },
+    {
+      "speaker": "Usopp",
+      "text": "Hold on. Hold on."
+    },
+    {
+      "speaker": "Nami",
+      "text": "Because I lost the 200 million!?"
+    },
+    {
+      "speaker": "Nami",
+      "text": "We just don't have enough money. Right?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "No, that's not it!!"
+    },
+    {
+      "speaker": "Usopp",
+      "text": "merry is..."
+    },
+    {
+      "speaker": "Chopper",
+      "text": "Going to die!!!"
+    },
+    {
+      "speaker": "Franky",
+      "text": "I would never make that decision otherwise!"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "But this ship...."
+    },
+    {
+      "speaker": "Franky",
+      "text": "What are you talking about..."
+    },
+    {
+      "speaker": "Franky",
+      "text": "Luffy?"
+    },
+    {
+      "speaker": "Zoro",
+      "text": "I'm not kidding. It's the truth!"
+    },
+    {
+      "speaker": "Nico Robin",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Franky",
+      "text": "Be it giant waves or deadly sea-battle"
+    }
+  ],
+  "summary": "Franky becomes the central enemy in Water Seven as his gang, the stolen money, and the ship crisis converge.",
+  "confidence": 0.86,
+  "needs_review": false
+}

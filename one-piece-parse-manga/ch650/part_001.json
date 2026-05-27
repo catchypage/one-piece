@@ -1,0 +1,88 @@
+{
+  "chapter": "650",
+  "part": 1,
+  "title": "Robin Learns About Poseidon",
+  "description": "On pages 1–4, this part follows Robin, Unknown person #1, King Neptune, Fish-Man Island Citizens, Unknown person #2, Unknown person #3, Unknown person #4. The central beat is robin learns about poseidon.",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "characters": [
+    "Robin",
+    "Unknown person #1",
+    "King Neptune",
+    "Fish-Man Island Citizens",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Shirahoshi",
+    "Caribou",
+    "Luffy",
+    "Jinbe"
+  ],
+  "scene": "The scene focuses on robin learns about poseidon, with Robin, Unknown person #1, King Neptune, Fish-Man Island Citizens, Unknown person #2, Unknown person #3, Unknown person #4 shaping the conflict.",
+  "dialogue": [
+    {
+      "speaker": "Robin",
+      "text": "Three ancient weapons ..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "...Each bearing the name of a God."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "\"Plutton\" ..."
+    },
+    {
+      "speaker": "Unknown person #1",
+      "text": "\"Uranus\" ..."
+    },
+    {
+      "speaker": "Robin",
+      "text": "...and \"poseidon\"."
+    },
+    {
+      "speaker": "King Neptune",
+      "text": "I cannot deny it."
+    },
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "Including both pirates, and the government...!!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "...to the world around you..."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Sure! Hang on a minute..."
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "And I ate too much. I'm stuffed."
+    },
+    {
+      "speaker": "Sanji",
+      "text": "Sanji's recovering from a mermaid overdose."
+    },
+    {
+      "speaker": "Fish-Man Island Citizens",
+      "text": "Fishman Island is the best!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "44- huh."
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "The two were fiercely opposed."
+    }
+  ],
+  "summary": "Robin Learns About Poseidon. This part advances the end of the Fish-Man Island conflict and the island’s attempt to move beyond inherited hatred.",
+  "confidence": 0.76,
+  "needs_review": true
+}

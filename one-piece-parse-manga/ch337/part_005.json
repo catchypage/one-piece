@@ -1,0 +1,47 @@
+{
+  "chapter": "337",
+  "part": 5,
+  "title": "Water Seven Turns Hostile",
+  "description": "While the crew tries to move forward, Water Seven’s political tension around Iceburg and Robin deepens.",
+  "pages": [
+    24
+  ],
+  "characters": [
+    "Luffy",
+    "Paulie",
+    "Nico Robin",
+    "Nami",
+    "Zoro",
+    "Sanji",
+    "Chopper",
+    "Iceburg",
+    "Franky",
+    "CP9 agent"
+  ],
+  "scene": "Across pages 24, this part follows Luffy, Paulie, Nico Robin, Nami, Zoro. While the crew tries to move forward, Water Seven’s political tension around Iceburg and Robin deepens.",
+  "dialogue": [
+    {
+      "speaker": "Luffy",
+      "text": "We'll give them hell,"
+    },
+    {
+      "speaker": "Luffy",
+      "text": "All of them!!!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "The criminals are somewhere on this island!!!"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "Find them all"
+    },
+    {
+      "speaker": "Paulie",
+      "text": "And Hang them!!!"
+    }
+  ],
+  "summary": "While the crew tries to move forward, Water Seven’s political tension around Iceburg and Robin deepens.",
+  "confidence": 0.88,
+  "needs_review": false
+}

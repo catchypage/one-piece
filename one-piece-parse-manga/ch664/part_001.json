@@ -1,0 +1,88 @@
+{
+  "chapter": "664",
+  "part": 1,
+  "title": "Caesar Rules the Lab",
+  "description": "On pages 1–5, this part follows Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Unknown person #7. The central beat is caesar rules the lab.",
+  "pages": [
+    1,
+    2,
+    4,
+    5
+  ],
+  "characters": [
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Caesar Clown",
+    "Chopper",
+    "Nami"
+  ],
+  "scene": "The scene focuses on caesar rules the lab, with Unknown person #1, Unknown person #2, Unknown person #3, Unknown person #4, Unknown person #5, Unknown person #6, Unknown person #7 shaping the Punk Hazard conflict.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Kidnappingss?!"
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "May (1)"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "...but what's inside is too scary !!!"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "Ah... I don't have any glasses"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Enough stumbling over your words, Tashig!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Shut up!!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Aghhh Hhh!!!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Too scary!!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Ehhhh hahhh!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Ahhh hahuhh...!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "Yes sir, Captain- Chan!!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "...oh, forget it."
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "I'm the captain!"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "I can't leave this island just yet."
+    }
+  ],
+  "summary": "Caesar Rules the Lab. This part advances Punk Hazard’s rescue mission, Caesar’s experiment, and the fragile pirate–Marine alliance.",
+  "confidence": 0.76,
+  "needs_review": true
+}

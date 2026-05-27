@@ -1,0 +1,97 @@
+{
+  "chapter": "206",
+  "part": 5,
+  "title": "The Straw Hats Recover in Secret",
+  "description": "On pages 23, 24, 25, this part focuses on alabasta learns the truth. The kingdom begins sorting through what happened, while the Straw Hats remain hidden and the World Government moves to control the official story.",
+  "pages": [
+    23,
+    24,
+    25
+  ],
+  "characters": [
+    "Alabasta citizen",
+    "Vivi",
+    "King Cobra",
+    "Smoker",
+    "Tashigi",
+    "Luffy"
+  ],
+  "scene": "This scene belongs to the Alabasta Learns the Truth sequence. The important beat is the dialogue and action around Alabasta citizen, Vivi, King Cobra, Smoker, Tashigi.",
+  "dialogue": [
+    {
+      "speaker": "Alabasta citizen",
+      "text": "That's why I said..."
+    },
+    {
+      "speaker": "Alabasta citizen",
+      "text": "You don't understand anything..."
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Vivi..."
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "She'd be killed by you!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "It's because she's a friend,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "That I don't want her to die!"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "My crew won't stop fighting either!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "...Even if it means your deaths?"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "If I die,"
+    },
+    {
+      "speaker": "Vivi",
+      "text": "Then that's that!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Adjust! RIGHT RIGHT GUN!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "What an unexpected windfall!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Adjust! Yellow gun!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Ohohoho! Such an easy prey!"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Oh no! That's the sniper-duo!"
+    },
+    {
+      "speaker": "Tashigi",
+      "text": "What!? Me!?"
+    },
+    {
+      "speaker": "Smoker",
+      "text": "Only 7 seconds left!"
+    },
+    {
+      "speaker": "King Cobra",
+      "text": "Doaq game- thing!"
+    }
+  ],
+  "summary": "The kingdom begins sorting through what happened, while the Straw Hats remain hidden and the World Government moves to control the official story.",
+  "confidence": 0.89,
+  "needs_review": false
+}

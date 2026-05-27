@@ -1,0 +1,207 @@
+{
+  "chapter": "789",
+  "part": 1,
+  "title": "Luffy Returns to the Sky",
+  "description": "Luffy comes back for the final exchange against Doflamingo.",
+  "pages": [
+    0,
+    4,
+    5,
+    6,
+    7
+  ],
+  "characters": [
+    "Luffy",
+    "King Riku",
+    "Rebecca",
+    "Viola",
+    "Trafalgar Law",
+    "Doflamingo",
+    "Trebol",
+    "Unknown person #1",
+    "Unknown person #2",
+    "Unknown person #3",
+    "Unknown person #4",
+    "Unknown person #5",
+    "Unknown person #6",
+    "Unknown person #7",
+    "Unknown person #8",
+    "Unknown person #9",
+    "Unknown person #10",
+    "Unknown person #11"
+  ],
+  "scene": "On pages 0–7, Luffy, King Riku, Rebecca, Viola, Trafalgar Law move through the final crisis of Dressrosa as the Birdcage and Doflamingo’s rule reach their breaking point.",
+  "dialogue": [
+    {
+      "speaker": "Unknown person #1",
+      "text": "Maybe you can see the same thing you have not even have the time to come down."
+    },
+    {
+      "speaker": "Unknown person #2",
+      "text": "Don't let up! Moore!"
+    },
+    {
+      "speaker": "Unknown person #3",
+      "text": "The final minute of fate begins now! *"
+    },
+    {
+      "speaker": "Unknown person #4",
+      "text": "It stopped once, but..."
+    },
+    {
+      "speaker": "Luffy",
+      "text": "At this rate, the central district's mere inches from being made into minemeat!"
+    },
+    {
+      "speaker": "Unknown person #5",
+      "text": "Even the Royal Plateau's started getting carved up!"
+    },
+    {
+      "speaker": "Unknown person #6",
+      "text": "Hurry, tank!"
+    },
+    {
+      "speaker": "Unknown person #7",
+      "text": "Roger!"
+    },
+    {
+      "speaker": "Unknown person #8",
+      "text": "What!?"
+    },
+    {
+      "speaker": "Unknown person #9",
+      "text": "King Riku!?"
+    },
+    {
+      "speaker": "Unknown person #10",
+      "text": "And Commander tank!?"
+    },
+    {
+      "speaker": "Unknown person #11",
+      "text": "I'm in everyone's debt... for what you've done."
+    },
+    {
+      "speaker": "Unknown person #12",
+      "text": "Had you not been here, there's no telling how many thousands... how many tens of thousands of lives we'd have lost by now."
+    },
+    {
+      "speaker": "Unknown person #13",
+      "text": "Hehe!"
+    },
+    {
+      "speaker": "Unknown person #14",
+      "text": "Shove!"
+    },
+    {
+      "speaker": "Unknown person #15",
+      "text": "Put your backs into it! Are you gonna let this bird cage push you around!?"
+    },
+    {
+      "speaker": "Unknown person #16",
+      "text": "Yes sir!"
+    },
+    {
+      "speaker": "Unknown person #17",
+      "text": "More! All you've got!"
+    },
+    {
+      "speaker": "Unknown person #18",
+      "text": "Yes Sir!"
+    },
+    {
+      "speaker": "Unknown person #19",
+      "text": "Push this damn bird cage back!"
+    },
+    {
+      "speaker": "Unknown person #20",
+      "text": "RAAARG GGGHHHHHHHHHHH!"
+    },
+    {
+      "speaker": "Unknown person #21",
+      "text": "Viola- San! Please, you've done enough!"
+    },
+    {
+      "speaker": "Unknown person #22",
+      "text": "Hah!"
+    },
+    {
+      "speaker": "Unknown person #23",
+      "text": "10 years ..."
+    },
+    {
+      "speaker": "Unknown person #24",
+      "text": "Just because you spent a decade with me as part of my family,"
+    },
+    {
+      "speaker": "Unknown person #25",
+      "text": "Did you actually think I'd hesitate?"
+    },
+    {
+      "speaker": "Unknown person #26",
+      "text": "That I'd falter when given the chance to kill you!?"
+    },
+    {
+      "speaker": "Unknown person #27",
+      "text": "My sweet violet..."
+    },
+    {
+      "speaker": "Unknown person #28",
+      "text": "I do not chide my allies and underlings when they fail."
+    },
+    {
+      "speaker": "Unknown person #29",
+      "text": "Ah!"
+    },
+    {
+      "speaker": "Unknown person #30",
+      "text": "How- Ever..."
+    },
+    {
+      "speaker": "Unknown person #31",
+      "text": "I do not look kindly upon Betrayal."
+    },
+    {
+      "speaker": "Unknown person #32",
+      "text": "Uuuug Hhhh..."
+    },
+    {
+      "speaker": "Unknown person #33",
+      "text": "Viola- San..."
+    },
+    {
+      "speaker": "Unknown person #34",
+      "text": "My body... I can't..."
+    },
+    {
+      "speaker": "Unknown person #35",
+      "text": "Stop it!"
+    },
+    {
+      "speaker": "Unknown person #36",
+      "text": "Don't drag Rebecca into this!"
+    },
+    {
+      "speaker": "Unknown person #37",
+      "text": "Kill her!"
+    },
+    {
+      "speaker": "Unknown person #38",
+      "text": "No, stop! What am... I doing!?"
+    },
+    {
+      "speaker": "Unknown person #39",
+      "text": "Rebecca..."
+    },
+    {
+      "speaker": "Unknown person #40",
+      "text": "Why can't...I stop!?"
+    },
+    {
+      "speaker": "Unknown person #41",
+      "text": "Viola- San!"
+    }
+  ],
+  "summary": "This part focuses on luffy returns to the sky, keeping the final battle centered on Luffy, Law, Doflamingo, and the people trapped inside the Birdcage.",
+  "confidence": 0.54,
+  "needs_review": true
+}
